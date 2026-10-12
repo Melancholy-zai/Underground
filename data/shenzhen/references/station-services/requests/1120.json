@@ -1,0 +1,16 @@
+{
+  "code": "1120",
+  "stationID": "s_e192b907f3a9",
+  "stationName": "后亭",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1120"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1120",
+  "retrievedAt": "2026-09-28T16:14:03+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1e36a05031e505e9285732859ee89779da7020da35828c1b0b06498a159feb7e"
+}

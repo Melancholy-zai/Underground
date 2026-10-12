@@ -1,0 +1,16 @@
+{
+  "code": "1618",
+  "stationID": "s_820bf8c62509",
+  "stationName": "双龙",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1618"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1618",
+  "retrievedAt": "2026-09-28T16:16:09+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "95c853c6fb0d290d9bcc725baa7be08ed31a2451db4237ead24893f0ee81c265"
+}

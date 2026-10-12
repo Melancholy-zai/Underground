@@ -1,0 +1,16 @@
+{
+  "code": "1212",
+  "stationID": "s_ce2a4d7bee51",
+  "stationName": "同乐南",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1212"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1212",
+  "retrievedAt": "2026-09-28T16:14:21+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "99a4906fbaf1e7def7387c7b2fea19a9f712e162cbce54cbe8f8ad5d7848dda8"
+}

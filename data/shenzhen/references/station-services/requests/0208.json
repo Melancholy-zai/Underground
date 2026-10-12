@@ -1,0 +1,16 @@
+{
+  "code": "0208",
+  "stationID": "s_3ad5a7bc47ea",
+  "stationName": "登良",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0208"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0208",
+  "retrievedAt": "2026-09-28T16:08:28+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "3170a6ea5376316a3f3944ef746063fea12bf28a520aa0ff68d7bd6ef9c86de2"
+}

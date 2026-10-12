@@ -1,0 +1,16 @@
+{
+  "code": "1020",
+  "stationID": "s_cc0cc97ad3ed",
+  "stationName": "木古",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1020"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1020",
+  "retrievedAt": "2026-09-28T16:13:34+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "0a3bd1cfc6fba48b17472832b49931909a55557474b8ef7a56fdd2d9fc2b0154"
+}

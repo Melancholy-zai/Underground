@@ -1,0 +1,16 @@
+{
+  "code": "0517",
+  "stationID": "s_e92ffafa8603",
+  "stationName": "西丽",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0517"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0517",
+  "retrievedAt": "2026-09-28T16:10:36+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "d5ee97d02a7b995e862525b8dcca4adbc065e444ee6985b18ce7ef7d279041e3"
+}

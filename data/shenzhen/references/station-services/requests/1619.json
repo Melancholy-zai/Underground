@@ -1,0 +1,16 @@
+{
+  "code": "1619",
+  "stationID": "s_17e8c17176c1",
+  "stationName": "新塘围",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1619"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1619",
+  "retrievedAt": "2026-09-28T16:16:10+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "fe3b12d62cc265c8b9ec1bfe483df91fb2221985a4918aecb712c1495ad812d1"
+}

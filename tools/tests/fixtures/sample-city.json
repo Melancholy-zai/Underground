@@ -1,0 +1,709 @@
+{
+  "schemaVersion": 1,
+  "cityID": "shenzhen",
+  "cityName": "深圳",
+  "version": "0.1.0-sample",
+  "dataAsOf": null,
+  "generatedAt": "2026-09-24",
+  "isSample": true,
+  "coverageNote": "开发样本：仅展示 1、5、11 号线局部站点，不是完整深圳线网。换乘、颜色与区块尚未逐项核验，不能据此出行。",
+  "disclaimer": "示意图不代表真实距离和精确区界。出口开放情况及临时运营调整请以现场和运营方公告为准。",
+  "map": {
+    "width": 1200,
+    "height": 1000
+  },
+  "districts": [
+    {
+      "id": "baoan",
+      "name": "宝安区",
+      "color": "#E7EFDB",
+      "polygon": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 650,
+          "y": 0
+        },
+        {
+          "x": 460,
+          "y": 400
+        },
+        {
+          "x": 210,
+          "y": 570
+        },
+        {
+          "x": 0,
+          "y": 570
+        }
+      ],
+      "label": {
+        "x": 120,
+        "y": 70
+      },
+      "note": "开发示意区块，非精确区界"
+    },
+    {
+      "id": "nanshan",
+      "name": "南山区",
+      "color": "#F5E8D8",
+      "polygon": [
+        {
+          "x": 650,
+          "y": 0
+        },
+        {
+          "x": 1200,
+          "y": 0
+        },
+        {
+          "x": 1200,
+          "y": 1000
+        },
+        {
+          "x": 0,
+          "y": 1000
+        },
+        {
+          "x": 0,
+          "y": 570
+        },
+        {
+          "x": 210,
+          "y": 570
+        },
+        {
+          "x": 460,
+          "y": 400
+        }
+      ],
+      "label": {
+        "x": 720,
+        "y": 900
+      },
+      "note": "开发示意区块，非精确区界"
+    }
+  ],
+  "lines": [
+    {
+      "id": "l1",
+      "name": "1号线",
+      "shortName": "1",
+      "color": "#00A86B",
+      "stationIDs": [
+        "baoti",
+        "baoanzhongxin",
+        "xinan",
+        "qianhaiwan",
+        "liyumen",
+        "daxin",
+        "taoyuan",
+        "shenda",
+        "gaoxinyuan"
+      ],
+      "termini": [
+        "宝体",
+        "高新园"
+      ],
+      "sourceIDs": [
+        "sample"
+      ],
+      "coverageNote": "仅展示局部样本；下列端点是展示区段端点，不是全线运营终点"
+    },
+    {
+      "id": "l5",
+      "name": "5号线",
+      "shortName": "5",
+      "color": "#A05EB5",
+      "stationIDs": [
+        "fanshen",
+        "baoanzhongxin",
+        "baohua",
+        "linhai",
+        "qianhaiwan",
+        "guiwan",
+        "qianwan"
+      ],
+      "termini": [
+        "翻身",
+        "前湾"
+      ],
+      "sourceIDs": [
+        "sample"
+      ],
+      "coverageNote": "仅展示局部样本；下列端点是展示区段端点，不是全线运营终点"
+    },
+    {
+      "id": "l11",
+      "name": "11号线",
+      "shortName": "11",
+      "color": "#76232F",
+      "stationIDs": [
+        "baoan",
+        "qianhaiwan",
+        "nanshan",
+        "houhai"
+      ],
+      "termini": [
+        "宝安",
+        "后海"
+      ],
+      "sourceIDs": [
+        "sample"
+      ],
+      "coverageNote": "仅展示局部样本；下列端点是展示区段端点，不是全线运营终点"
+    }
+  ],
+  "stations": [
+    {
+      "id": "baoti",
+      "name": "宝体",
+      "aliases": [
+        "baoti"
+      ],
+      "districtIDs": [
+        "baoan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l1"
+      ],
+      "diagram": {
+        "x": 190,
+        "y": 120
+      },
+      "labelOffset": {
+        "x": 20,
+        "y": 8
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "baoanzhongxin",
+      "name": "宝安中心",
+      "aliases": [
+        "baoanzhongxin"
+      ],
+      "districtIDs": [
+        "baoan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l1",
+        "l5"
+      ],
+      "diagram": {
+        "x": 320,
+        "y": 240
+      },
+      "labelOffset": {
+        "x": 20,
+        "y": -18
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "xinan",
+      "name": "新安",
+      "aliases": [
+        "xinan"
+      ],
+      "districtIDs": [
+        "baoan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l1"
+      ],
+      "diagram": {
+        "x": 450,
+        "y": 370
+      },
+      "labelOffset": {
+        "x": 20,
+        "y": -12
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "qianhaiwan",
+      "name": "前海湾",
+      "aliases": [
+        "qianhaiwan"
+      ],
+      "districtIDs": [
+        "nanshan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l1",
+        "l5",
+        "l11"
+      ],
+      "diagram": {
+        "x": 580,
+        "y": 500
+      },
+      "labelOffset": {
+        "x": 20,
+        "y": -22
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "liyumen",
+      "name": "鲤鱼门",
+      "aliases": [
+        "liyumen"
+      ],
+      "districtIDs": [
+        "nanshan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l1"
+      ],
+      "diagram": {
+        "x": 710,
+        "y": 500
+      },
+      "labelOffset": {
+        "x": -40,
+        "y": 40
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "daxin",
+      "name": "大新",
+      "aliases": [
+        "daxin"
+      ],
+      "districtIDs": [
+        "nanshan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l1"
+      ],
+      "diagram": {
+        "x": 830,
+        "y": 500
+      },
+      "labelOffset": {
+        "x": 20,
+        "y": 26
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "taoyuan",
+      "name": "桃园",
+      "aliases": [
+        "taoyuan"
+      ],
+      "districtIDs": [
+        "nanshan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l1"
+      ],
+      "diagram": {
+        "x": 930,
+        "y": 400
+      },
+      "labelOffset": {
+        "x": 20,
+        "y": 8
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "shenda",
+      "name": "深大",
+      "aliases": [
+        "shenda"
+      ],
+      "districtIDs": [
+        "nanshan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l1"
+      ],
+      "diagram": {
+        "x": 1030,
+        "y": 300
+      },
+      "labelOffset": {
+        "x": 20,
+        "y": 8
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "gaoxinyuan",
+      "name": "高新园",
+      "aliases": [
+        "gaoxinyuan"
+      ],
+      "districtIDs": [
+        "nanshan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l1"
+      ],
+      "diagram": {
+        "x": 1100,
+        "y": 200
+      },
+      "labelOffset": {
+        "x": -100,
+        "y": -20
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "fanshen",
+      "name": "翻身",
+      "aliases": [
+        "fanshen"
+      ],
+      "districtIDs": [
+        "baoan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l5"
+      ],
+      "diagram": {
+        "x": 450,
+        "y": 110
+      },
+      "labelOffset": {
+        "x": 20,
+        "y": 8
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "baohua",
+      "name": "宝华",
+      "aliases": [
+        "baohua"
+      ],
+      "districtIDs": [
+        "baoan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l5"
+      ],
+      "diagram": {
+        "x": 240,
+        "y": 350
+      },
+      "labelOffset": {
+        "x": -30,
+        "y": -18
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "linhai",
+      "name": "临海",
+      "aliases": [
+        "linhai"
+      ],
+      "districtIDs": [
+        "baoan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l5"
+      ],
+      "diagram": {
+        "x": 340,
+        "y": 470
+      },
+      "labelOffset": {
+        "x": -30,
+        "y": 38
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "guiwan",
+      "name": "桂湾",
+      "aliases": [
+        "guiwan"
+      ],
+      "districtIDs": [
+        "nanshan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l5"
+      ],
+      "diagram": {
+        "x": 580,
+        "y": 660
+      },
+      "labelOffset": {
+        "x": 22,
+        "y": 8
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "qianwan",
+      "name": "前湾",
+      "aliases": [
+        "qianwan"
+      ],
+      "districtIDs": [
+        "nanshan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l5"
+      ],
+      "diagram": {
+        "x": 580,
+        "y": 820
+      },
+      "labelOffset": {
+        "x": 22,
+        "y": 8
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "baoan",
+      "name": "宝安",
+      "aliases": [
+        "baoan"
+      ],
+      "districtIDs": [
+        "baoan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l11"
+      ],
+      "diagram": {
+        "x": 110,
+        "y": 250
+      },
+      "labelOffset": {
+        "x": -30,
+        "y": 40
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "nanshan",
+      "name": "南山",
+      "aliases": [
+        "nanshan"
+      ],
+      "districtIDs": [
+        "nanshan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l11"
+      ],
+      "diagram": {
+        "x": 820,
+        "y": 740
+      },
+      "labelOffset": {
+        "x": -30,
+        "y": 42
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    },
+    {
+      "id": "houhai",
+      "name": "后海",
+      "aliases": [
+        "houhai"
+      ],
+      "districtIDs": [
+        "nanshan"
+      ],
+      "districtNote": "样本归属待正式核验",
+      "lineIDs": [
+        "l11"
+      ],
+      "diagram": {
+        "x": 1030,
+        "y": 740
+      },
+      "labelOffset": {
+        "x": 20,
+        "y": 8
+      },
+      "coordinate": null,
+      "coordinateSourceIDs": [],
+      "exits": [],
+      "timetables": [],
+      "sourceIDs": [
+        "sample"
+      ],
+      "updatedAt": null,
+      "note": "开发资料：仅用于验证地图与交互。出口、时刻和真实坐标尚未收录。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "sample",
+      "title": "本工程自制开发样本",
+      "url": null,
+      "accessedAt": "2026-09-24",
+      "license": "示意图由本工程生成；样本不构成运营资料授权或核实证明",
+      "note": "17 个站点与 3 条线路的局部交互样本，未完成正式资料核验。"
+    },
+    {
+      "id": "szmc-reference",
+      "title": "深圳地铁官网：线网资料核验入口",
+      "url": "https://www.szmc.net/shentieyunying/yunyingfuwu/szsgdjtyyxlwlt/",
+      "accessedAt": "2026-09-24",
+      "license": "使用条件待核实，未复制官方图件",
+      "note": "仅作为后续核验入口，不代表本站已核实全部站点、坐标或运营时刻。"
+    }
+  ]
+}

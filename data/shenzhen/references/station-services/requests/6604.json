@@ -1,0 +1,16 @@
+{
+  "code": "6604",
+  "stationID": "s_6b9641d2417b",
+  "stationName": "光明",
+  "lineID": "l6b",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "6604"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?6604",
+  "retrievedAt": "2026-09-28T16:11:38+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "003bba7bee0a9dd7d36d7f34ebfc445d3359a528b14ba0de64e0237b71f805d9"
+}

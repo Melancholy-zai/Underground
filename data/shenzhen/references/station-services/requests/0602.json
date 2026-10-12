@@ -1,0 +1,16 @@
+{
+  "code": "0602",
+  "stationID": "s_0d2aa8003f50",
+  "stationName": "通新岭",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0602"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0602",
+  "retrievedAt": "2026-09-28T16:11:03+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "b76bd964134769b11d13baec20b4e655eced08e7e4566b3012e3d92b06a66ff4"
+}

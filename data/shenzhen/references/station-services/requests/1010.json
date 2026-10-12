@@ -1,0 +1,16 @@
+{
+  "code": "1010",
+  "stationID": "s_dc481ca9b27c",
+  "stationName": "光雅园",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1010"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1010",
+  "retrievedAt": "2026-09-28T16:13:22+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "50332249574c3dc8aa1100999ba987e158c28516f501366450a48885f010724b"
+}

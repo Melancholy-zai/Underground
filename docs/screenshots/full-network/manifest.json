@@ -1,0 +1,56 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "D0324736-57EA-45B2-AE5C-3137701E7146",
+        "deviceName" : "iPhone 17",
+        "exportedFileName" : "BABE7930-DC0A-4EE1-B459-569F7CD43316.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "network-lisonglang_0_17F35263-60EF-4528-B96C-89A1F7AA1642.png",
+        "timestamp" : 1790252495.816
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "D0324736-57EA-45B2-AE5C-3137701E7146",
+        "deviceName" : "iPhone 17",
+        "exportedFileName" : "00EBDF5B-5003-4934-B7DB-9D2A8A38E0B4.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "network-gangxiabei_0_EE41CC44-5058-476A-90FB-7CB91DD626A3.png",
+        "timestamp" : 1790252483.949
+      }
+    ],
+    "testIdentifier" : "UndergroundUITests/testFullNetworkExtensionAndPolyphonicHubSearch()",
+    "testIdentifierURL" : "test://com.apple.xcode/Underground/UndergroundUITests/UndergroundUITests/testFullNetworkExtensionAndPolyphonicHubSearch"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "D0324736-57EA-45B2-AE5C-3137701E7146",
+        "deviceName" : "iPhone 17",
+        "exportedFileName" : "F339D5E2-1425-4093-A3A5-BAD5AB33B136.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "offline-map_0_8AC56E62-B2DF-4D7F-ADE4-EABC2FD72C70.png",
+        "timestamp" : 1790252517.098
+      }
+    ],
+    "testIdentifier" : "UndergroundUITests/testLineSelectionAndMapStationTap()",
+    "testIdentifierURL" : "test://com.apple.xcode/Underground/UndergroundUITests/UndergroundUITests/testLineSelectionAndMapStationTap"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "D0324736-57EA-45B2-AE5C-3137701E7146",
+        "deviceName" : "iPhone 17",
+        "exportedFileName" : "0A146146-FEA2-4678-A501-FA1F124289E2.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "manual-route_0_310A1CD9-0712-4075-92F9-4CFD81B3E059.png",
+        "timestamp" : 1790252553.952
+      }
+    ],
+    "testIdentifier" : "UndergroundUITests/testOfflineSearchDetailAndManualRoute()",
+    "testIdentifierURL" : "test://com.apple.xcode/Underground/UndergroundUITests/UndergroundUITests/testOfflineSearchDetailAndManualRoute"
+  }
+]

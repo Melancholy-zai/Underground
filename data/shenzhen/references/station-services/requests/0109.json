@@ -1,0 +1,16 @@
+{
+  "code": "0109",
+  "stationID": "s_a2c1f6afabd4",
+  "stationName": "购物公园",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0109"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0109",
+  "retrievedAt": "2026-09-28T16:07:52+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1fdf8273977ec670bbdf4f0c7675fb2115064944bb5e642869c0a06711723569"
+}

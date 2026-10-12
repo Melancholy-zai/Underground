@@ -1,0 +1,16 @@
+{
+  "code": "0617",
+  "stationID": "s_cdbd90be97b4",
+  "stationName": "光明大街",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0617"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0617",
+  "retrievedAt": "2026-09-28T16:11:21+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "98668b79c64f63e25caa107b0da7ffef86460cc68abd06385113652f24e3929f"
+}

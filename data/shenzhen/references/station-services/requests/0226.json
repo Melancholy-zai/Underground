@@ -1,0 +1,16 @@
+{
+  "code": "0226",
+  "stationID": "s_57e3b7fa8fe4",
+  "stationName": "大剧院",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0226"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0226",
+  "retrievedAt": "2026-09-28T16:21:40+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "e90c87383906309cc778403cc968f3ee8e999e01c78f60aaaf926755e96b909b"
+}

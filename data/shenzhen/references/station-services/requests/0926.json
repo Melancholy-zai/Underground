@@ -1,0 +1,16 @@
+{
+  "code": "0926",
+  "stationID": "s_eabcaa473428",
+  "stationName": "园岭",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0926"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0926",
+  "retrievedAt": "2026-09-28T16:13:02+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "7cfe660b91694e1e6a52e8bf6517a4f15e205355eea39ec9f90ba379c4185565"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1313",
+  "stationID": "s_a7e186540658",
+  "stationName": "罗租",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1313"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1313",
+  "retrievedAt": "2026-09-28T16:15:10+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "fa5892ad7b0b802fdab1b5ddb41797988900380366df992accf45059524026a2"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1231",
+  "stationID": "s_479efbd70d3d",
+  "stationName": "国展北",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1231"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1231",
+  "retrievedAt": "2026-09-28T16:14:44+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "4050e2bbc9bd22b4c7cdbcacde4f225bc6bf85eb0093e86982a1059637fa0e25"
+}

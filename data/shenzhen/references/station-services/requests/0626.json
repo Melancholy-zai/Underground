@@ -1,0 +1,16 @@
+{
+  "code": "0626",
+  "stationID": "s_9d0c6d6ca6ab",
+  "stationName": "溪头",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0626"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0626",
+  "retrievedAt": "2026-09-28T16:11:32+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "90f4224942871419e13defca708311852a38df3116a1e24bd69d33ef02751c2a"
+}

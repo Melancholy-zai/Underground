@@ -1,0 +1,16 @@
+{
+  "code": "0407",
+  "stationID": "s_977e7b664918",
+  "stationName": "上梅林",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0407"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0407",
+  "retrievedAt": "2026-09-28T16:19:11+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "c5b5a36972af4be11e9f5d937f06a20b271bd4e758413e4935bffd9d299dafbf"
+}

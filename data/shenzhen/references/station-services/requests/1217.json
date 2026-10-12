@@ -1,0 +1,16 @@
+{
+  "code": "1217",
+  "stationID": "s_4bd4f1e682cc",
+  "stationName": "宝安客运站",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1217"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1217",
+  "retrievedAt": "2026-09-28T16:14:27+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "fc3bcf42ae5f00376afd51f23bfe73d8c679480987bd57d1425d12f596277715"
+}

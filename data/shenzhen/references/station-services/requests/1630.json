@@ -1,0 +1,16 @@
+{
+  "code": "1630",
+  "stationID": "s_259596a888e1",
+  "stationName": "石井",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1630"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1630",
+  "retrievedAt": "2026-09-28T16:16:24+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "c5d8085eb41067fe07eb76c969f25b7fc2eb4089053af23d5ab47de893628c8b"
+}

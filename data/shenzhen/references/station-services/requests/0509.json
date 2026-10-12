@@ -1,0 +1,16 @@
+{
+  "code": "0509",
+  "stationID": "linhai",
+  "stationName": "临海",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0509"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0509",
+  "retrievedAt": "2026-09-28T16:19:15+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "adf995c72a7a99f86f6d3cf1602be42fedf42bde8cf30535d08a664ff376e84b"
+}

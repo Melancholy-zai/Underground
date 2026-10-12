@@ -1,0 +1,16 @@
+{
+  "code": "0406",
+  "stationID": "s_08d20715fc17",
+  "stationName": "莲花北",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0406"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0406",
+  "retrievedAt": "2026-09-28T16:09:53+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "64c02f4a591993c1ae331f128e2b266b0a54fdd35a0ba6332777037710cf78f6"
+}

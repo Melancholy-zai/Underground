@@ -1,0 +1,16 @@
+{
+  "code": "1410",
+  "stationID": "s_1d20fda9f5fc",
+  "stationName": "嶂背",
+  "lineID": "l14",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1410"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1410",
+  "retrievedAt": "2026-09-28T16:15:37+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "08fd06425add165c58899d5a5f3e80baefe4cc8963e77f0f7d4aef386d7dc2a0"
+}

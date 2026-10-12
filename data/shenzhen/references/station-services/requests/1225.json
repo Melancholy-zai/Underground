@@ -1,0 +1,16 @@
+{
+  "code": "1225",
+  "stationID": "s_c08a18d41e24",
+  "stationName": "福围",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1225"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1225",
+  "retrievedAt": "2026-09-28T16:14:37+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "2b25bc72d4fa16c462ad83d0e503e65bc75c5838ffed3be10bd157556e5d58be"
+}

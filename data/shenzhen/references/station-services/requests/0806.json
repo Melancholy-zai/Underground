@@ -1,0 +1,16 @@
+{
+  "code": "0806",
+  "stationID": "s_2ab9c3be4294",
+  "stationName": "深外高中",
+  "lineID": "l8",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0806"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0806",
+  "retrievedAt": "2026-09-28T16:12:24+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "cc9da0d4becd42b4d5e904b5a768967dd44a18dcb503badfd7bdf94a307a5f40"
+}

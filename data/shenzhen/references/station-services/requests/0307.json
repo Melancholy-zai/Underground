@@ -1,0 +1,16 @@
+{
+  "code": "0307",
+  "stationID": "s_97d0d113c395",
+  "stationName": "莲花村",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0307"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0307",
+  "retrievedAt": "2026-09-28T16:19:02+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f701b16da6591c0670f52f977e4e847ca175090785a4ec97b221ff01f469ab8d"
+}

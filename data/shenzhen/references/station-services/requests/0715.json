@@ -1,0 +1,16 @@
+{
+  "code": "0715",
+  "stationID": "s_28594c84012a",
+  "stationName": "石厦",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0715"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0715",
+  "retrievedAt": "2026-09-28T16:12:00+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "ca76a497eb6e787a65c70ddc64b826439d3587e7e1c91dd5fbaca2ec694cacf6"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0721",
+  "stationID": "s_99ca86bc1d7c",
+  "stationName": "华强北",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0721"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0721",
+  "retrievedAt": "2026-09-28T16:12:08+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1aaf58bafdb8179b762653263f86fac36c113b318bac86f52c268761629f1fe3"
+}

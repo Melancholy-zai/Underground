@@ -1,0 +1,16 @@
+{
+  "code": "0904",
+  "stationID": "s_56d77529ac71",
+  "stationName": "荔林",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0904"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0904",
+  "retrievedAt": "2026-09-28T16:12:35+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "76cdbd071f6028ef73520a436ea44f48985aaf43a42eaf67b7d5a2db76c200f6"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0209",
+  "stationID": "houhai",
+  "stationName": "后海",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0209"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0209",
+  "retrievedAt": "2026-09-28T16:08:29+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "18242d2a5773ea863285a502b2e574548ea45c9f5da926a3fc8374ae09c9f212"
+}

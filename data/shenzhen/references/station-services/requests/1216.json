@@ -1,0 +1,16 @@
+{
+  "code": "1216",
+  "stationID": "s_5e9f573361e3",
+  "stationName": "流塘",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1216"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1216",
+  "retrievedAt": "2026-09-28T16:19:45+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "e31be08dbd0a540967346e035eb29d63b0c7d6ce0431e63c2264355795a17e1d"
+}

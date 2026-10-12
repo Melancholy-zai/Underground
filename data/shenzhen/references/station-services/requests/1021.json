@@ -1,0 +1,16 @@
+{
+  "code": "1021",
+  "stationID": "s_c17cea7c5589",
+  "stationName": "华南城",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1021"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1021",
+  "retrievedAt": "2026-09-28T16:13:35+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "48ee5ad9db67b6f5270cf01ed712cb3789df441e58ee2ae7915992149450577a"
+}

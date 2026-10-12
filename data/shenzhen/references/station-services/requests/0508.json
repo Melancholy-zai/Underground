@@ -1,0 +1,16 @@
+{
+  "code": "0508",
+  "stationID": "qianhaiwan",
+  "stationName": "前海湾",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0508"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0508",
+  "retrievedAt": "2026-09-28T16:19:13+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "72b276dd4310a912a6f6fbfadeecfc5181932f4377a14789bb3cc31b72c5d0a5"
+}

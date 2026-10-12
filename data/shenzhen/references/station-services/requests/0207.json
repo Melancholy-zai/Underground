@@ -1,0 +1,16 @@
+{
+  "code": "0207",
+  "stationID": "s_7c733ad2eaa9",
+  "stationName": "海月",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0207"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0207",
+  "retrievedAt": "2026-09-28T16:08:26+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "a9f91c62a33da7593c2c256d43386a19b08cd19226400793b86ec52093c315da"
+}

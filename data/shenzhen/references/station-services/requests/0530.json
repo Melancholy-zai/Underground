@@ -1,0 +1,16 @@
+{
+  "code": "0530",
+  "stationID": "s_abb3ec6cf5f6",
+  "stationName": "百鸽笼",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0530"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0530",
+  "retrievedAt": "2026-09-28T16:10:52+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "94cef55103c8cce0eb44feaea940576f8aa3207ec86fd1d3abcf30cf1a12208b"
+}

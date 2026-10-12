@@ -1,0 +1,16 @@
+{
+  "code": "0404",
+  "stationID": "s_641566e647d2",
+  "stationName": "市民中心",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0404"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0404",
+  "retrievedAt": "2026-09-28T16:09:51+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "66b0d759f0fb76fdda7154009a4cec1ef06ba892cf4501abe781ecdad5182251"
+}

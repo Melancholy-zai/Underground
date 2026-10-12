@@ -1,0 +1,16 @@
+{
+  "code": "0525",
+  "stationID": "s_e6bf0f4fc1ac",
+  "stationName": "杨美",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0525"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0525",
+  "retrievedAt": "2026-09-28T16:10:46+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "944b506677bdb9fe1be638b2d209867d6b3f2fcefc7dc29b406555da6896963d"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1003",
+  "stationID": "s_27bae2d3c1b5",
+  "stationName": "岗厦",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1003"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1003",
+  "retrievedAt": "2026-09-28T16:13:13+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "0304a18c21fbb5c623740497d34f5a1550fed52465ce15930403a5aaa42885e4"
+}

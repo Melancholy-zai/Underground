@@ -1,0 +1,16 @@
+{
+  "code": "0106",
+  "stationID": "s_9bff19325c2c",
+  "stationName": "华强路",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0106"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0106",
+  "retrievedAt": "2026-09-28T16:07:48+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "d13194f8a5e0b1467f1ffad17aad912546dfcd5b10c6850039d3f33cebaf4130"
+}

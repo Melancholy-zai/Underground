@@ -1,0 +1,16 @@
+{
+  "code": "0325",
+  "stationID": "s_1236cf8c7a77",
+  "stationName": "荷坳",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0325"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0325",
+  "retrievedAt": "2026-09-28T16:09:30+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "03617903ad1cdd10cdc7b423e3ff620d6cee22bedaa1cbd8d29f3b151ba82c25"
+}

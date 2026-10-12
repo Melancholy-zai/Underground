@@ -1,0 +1,16 @@
+{
+  "code": "0115",
+  "stationID": "s_0c2ba844e8c2",
+  "stationName": "世界之窗",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0115"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0115",
+  "retrievedAt": "2026-09-28T16:07:59+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1fbae1c8646b3512c59593e871bd4f496123ce20037db271a53f1373f02a476b"
+}

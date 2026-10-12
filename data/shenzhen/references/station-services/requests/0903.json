@@ -1,0 +1,16 @@
+{
+  "code": "0903",
+  "stationID": "s_9bf42e249692",
+  "stationName": "怡海",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0903"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0903",
+  "retrievedAt": "2026-09-28T16:12:34+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "9b0925e7f5f9dfab5f972cc910b4317e2b17b151617a10359e4e89002556830c"
+}

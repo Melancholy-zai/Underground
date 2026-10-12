@@ -1,0 +1,16 @@
+{
+  "code": "0230",
+  "stationID": "s_b2afdab62241",
+  "stationName": "莲塘口岸",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0230"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0230",
+  "retrievedAt": "2026-09-28T16:08:54+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "84555e8fdc7a72935813a580ace250d43dd7ff8c9e87f69cd78da56ae92561f5"
+}

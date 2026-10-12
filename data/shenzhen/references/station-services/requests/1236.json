@@ -1,0 +1,16 @@
+{
+  "code": "1236",
+  "stationID": "s_01993c031d35",
+  "stationName": "沙井古墟",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1236"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1236",
+  "retrievedAt": "2026-09-28T16:14:50+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "4d0358b37945e792a3c7173b26eaaa847c13c50f1e50eca901d7d60377cc0072"
+}

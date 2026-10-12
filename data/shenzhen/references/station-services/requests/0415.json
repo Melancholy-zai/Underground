@@ -1,0 +1,16 @@
+{
+  "code": "0415",
+  "stationID": "s_8147b7507b6c",
+  "stationName": "清湖",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0415"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0415",
+  "retrievedAt": "2026-09-28T16:10:04+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "47fc843f58fcf2e8e6cda94ab87e20a1f4cc4195e7d56bee4cb60c110ccf9e06"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0532",
+  "stationID": "s_bcc68154a8d5",
+  "stationName": "太安",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0532"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0532",
+  "retrievedAt": "2026-09-28T16:10:54+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "211c856d9960236e320b0b2a1f2fe4181c03522cede5827f85ecb26c3f51c38d"
+}

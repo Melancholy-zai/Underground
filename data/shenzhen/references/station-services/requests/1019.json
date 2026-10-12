@@ -1,0 +1,16 @@
+{
+  "code": "1019",
+  "stationID": "s_b08a7bb507e7",
+  "stationName": "上李朗",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1019"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1019",
+  "retrievedAt": "2026-09-28T16:13:33+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "7fab44cf161babe1fd35bd8b04c4c0a0cc19ab38570cff916f036ffc1905e85c"
+}

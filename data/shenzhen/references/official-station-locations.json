@@ -1,0 +1,1885 @@
+{
+  "accessedAt": "2026-09-28",
+  "indexURL": "https://www.szmc.net/styles/index/zdWeb/js/xlurlList.js",
+  "note": "仅保存公开站点介绍中的站址句子用于行政区核对；不导入接口中的时刻、出入口或线路运营状态。翰岭站区名与规划部门资料冲突，暂不采用其区名。",
+  "stations": [
+    {
+      "name": "罗湖",
+      "code": "0101",
+      "url": "https://www.szmc.net/zdxx?StieCode=0101",
+      "location": "罗湖站位于罗湖口岸及火车站广场内。"
+    },
+    {
+      "name": "国贸",
+      "code": "0102",
+      "url": "https://www.szmc.net/zdxx?StieCode=0102",
+      "location": "国贸站位于深圳市商业中心人民南路与嘉宾路交叉路口处。"
+    },
+    {
+      "name": "老街",
+      "code": "0103",
+      "url": "https://www.szmc.net/zdxx?StieCode=0103",
+      "location": "老街站位于罗湖区解放路与建设路交汇处，为1、3号线换乘站。"
+    },
+    {
+      "name": "大剧院",
+      "code": "0104",
+      "url": "https://www.szmc.net/zdxx?StieCode=0104",
+      "location": "大剧院站位于解放路与深南东路交叉口处，为1、2、5号线的换乘站。"
+    },
+    {
+      "name": "华强路",
+      "code": "0106",
+      "url": "https://www.szmc.net/zdxx?StieCode=0106",
+      "location": "华强路站位于深圳市福田区华富路与华强路之间的深南中路交汇处。"
+    },
+    {
+      "name": "岗厦",
+      "code": "0107",
+      "url": "https://www.szmc.net/zdxx?StieCode=0107",
+      "location": "岗厦站位于深圳市福田区福华路与彩田路交汇处，为1、10号线的换乘站。"
+    },
+    {
+      "name": "会展中心",
+      "code": "0108",
+      "url": "https://www.szmc.net/zdxx?StieCode=0108",
+      "location": "会展中心站位于深圳市中心区福华路与中心五路交汇处，为1、4号线的换乘站。"
+    },
+    {
+      "name": "购物公园",
+      "code": "0109",
+      "url": "https://www.szmc.net/zdxx?StieCode=0109",
+      "location": "购物公园站位于福田区民田路与福华路交汇处，为1、3号线的换乘站。"
+    },
+    {
+      "name": "香蜜湖",
+      "code": "0110",
+      "url": "https://www.szmc.net/zdxx?StieCode=0110",
+      "location": "香蜜湖站位于香梅路西侧、与深南大道大致平行。"
+    },
+    {
+      "name": "车公庙",
+      "code": "0111",
+      "url": "https://www.szmc.net/zdxx?StieCode=0111",
+      "location": "车公庙站位于深南大道与香蜜湖立交桥交叉口西侧，为1、7、9、11号线换乘站。"
+    },
+    {
+      "name": "竹子林",
+      "code": "0112",
+      "url": "https://www.szmc.net/zdxx?StieCode=0112",
+      "location": "竹子林站位于深圳市福田区广深高速公路与深南大道交汇处的西侧地下。"
+    },
+    {
+      "name": "侨城东",
+      "code": "0113",
+      "url": "https://www.szmc.net/zdxx?StieCode=0113",
+      "location": "侨城东站位于侨城东路和深南大道交汇处。"
+    },
+    {
+      "name": "华侨城",
+      "code": "0114",
+      "url": "https://www.szmc.net/zdxx?StieCode=0114",
+      "location": "华侨城站位于深圳市南山区深南大道。"
+    },
+    {
+      "name": "世界之窗",
+      "code": "0115",
+      "url": "https://www.szmc.net/zdxx?StieCode=0115",
+      "location": "世界之窗站位于深南大道，为1、2号线的换乘站。"
+    },
+    {
+      "name": "白石洲",
+      "code": "0116",
+      "url": "https://www.szmc.net/zdxx?StieCode=0116",
+      "location": "白石洲站位于南山区石洲中路与深南大道交汇处。"
+    },
+    {
+      "name": "高新园",
+      "code": "0117",
+      "url": "https://www.szmc.net/zdxx?StieCode=0117",
+      "location": "高新园站位于南山区铜鼓路与科技南十路与深南大道交汇处。"
+    },
+    {
+      "name": "深大",
+      "code": "0118",
+      "url": "https://www.szmc.net/zdxx?StieCode=0118",
+      "location": "深大站位于深南大道与科苑南路交界处，为1、13号线的换乘站。"
+    },
+    {
+      "name": "桃园",
+      "code": "0119",
+      "url": "https://www.szmc.net/zdxx?StieCode=0119",
+      "location": "桃园站位于深圳市南山区南山大道与桃园路交叉路口，为1、12号线的换乘站。"
+    },
+    {
+      "name": "大新",
+      "code": "0120",
+      "url": "https://www.szmc.net/zdxx?StieCode=0120",
+      "location": "大新站位于深圳市南山区前海路与桃园路交汇处。"
+    },
+    {
+      "name": "鲤鱼门",
+      "code": "0121",
+      "url": "https://www.szmc.net/zdxx?StieCode=0121",
+      "location": "鲤鱼门站位于深圳市南山区桂湾四路与十一号路交汇处。"
+    },
+    {
+      "name": "前海湾",
+      "code": "0122",
+      "url": "https://www.szmc.net/zdxx?StieCode=0122",
+      "location": "前海湾站位于深圳市南山区听海大道与桂湾二路交界处，为1、5、11号线的换乘站。"
+    },
+    {
+      "name": "新安",
+      "code": "0123",
+      "url": "https://www.szmc.net/zdxx?StieCode=0123",
+      "location": "新安站位于深圳市宝安区新湖路与新安一路交汇处。"
+    },
+    {
+      "name": "宝安中心",
+      "code": "0124",
+      "url": "https://www.szmc.net/zdxx?StieCode=0124",
+      "location": "宝安中心站位于深圳市宝安区新湖路与创业一路交叉路口下方，为1、5号线的换乘站。"
+    },
+    {
+      "name": "宝体",
+      "code": "0125",
+      "url": "https://www.szmc.net/zdxx?StieCode=0125",
+      "location": "宝体站位于深圳市宝安区新湖路与罗田路的交汇处。"
+    },
+    {
+      "name": "坪洲",
+      "code": "0126",
+      "url": "https://www.szmc.net/zdxx?StieCode=0126",
+      "location": "坪洲站位于深圳市宝安区新湖路与海城路交汇处。"
+    },
+    {
+      "name": "西乡",
+      "code": "0127",
+      "url": "https://www.szmc.net/zdxx?StieCode=0127",
+      "location": "西乡站位于深圳市宝安区新湖路与悦和路交汇处。"
+    },
+    {
+      "name": "固戍",
+      "code": "0128",
+      "url": "https://www.szmc.net/zdxx?StieCode=0128",
+      "location": "固戍站位于深圳市宝安区宝安大道与固戍二路交汇处。"
+    },
+    {
+      "name": "后瑞",
+      "code": "0129",
+      "url": "https://www.szmc.net/zdxx?StieCode=0129",
+      "location": "后瑞站位于深圳市宝安区宝安大道与机场支一路交口以南。"
+    },
+    {
+      "name": "机场东",
+      "code": "0130",
+      "url": "https://www.szmc.net/zdxx?StieCode=0130",
+      "location": "机场东站位于深圳市宝安区航站四路与机场六道交汇处，为1、12号线的换乘站。"
+    },
+    {
+      "name": "赤湾",
+      "code": "0201",
+      "url": "https://www.szmc.net/zdxx?StieCode=0201",
+      "location": "赤湾站位于南山区赤湾六路和港航路北侧，为2、5号线的换乘站。"
+    },
+    {
+      "name": "蛇口港",
+      "code": "0202",
+      "url": "https://www.szmc.net/zdxx?StieCode=0202",
+      "location": "蛇口港站位于港湾大道与南海大道交汇处。"
+    },
+    {
+      "name": "海上世界",
+      "code": "0203",
+      "url": "https://www.szmc.net/zdxx?StieCode=0203",
+      "location": "海上世界站位于工业三路和南海大道的交叉口处、沿南海大道南北向布置，为2、12号线的换乘站。"
+    },
+    {
+      "name": "水湾",
+      "code": "0204",
+      "url": "https://www.szmc.net/zdxx?StieCode=0204",
+      "location": "水湾站位于太子路与水湾路交汇处。"
+    },
+    {
+      "name": "东角头",
+      "code": "0205",
+      "url": "https://www.szmc.net/zdxx?StieCode=0205",
+      "location": "东角头站位于蛇口新街与湾厦路十字交叉路口、蛇口新街下跨十字路口。"
+    },
+    {
+      "name": "湾厦",
+      "code": "0206",
+      "url": "https://www.szmc.net/zdxx?StieCode=0206",
+      "location": "湾厦站位于后海滨路和招商东路交接处后海滨路的下方。"
+    },
+    {
+      "name": "海月",
+      "code": "0207",
+      "url": "https://www.szmc.net/zdxx?StieCode=0207",
+      "location": "海月站位于南山区后海滨路与工业八路交汇处。"
+    },
+    {
+      "name": "登良",
+      "code": "0208",
+      "url": "https://www.szmc.net/zdxx?StieCode=0208",
+      "location": "登良站位于后海滨路与登良路的交汇处。"
+    },
+    {
+      "name": "后海",
+      "code": "0209",
+      "url": "https://www.szmc.net/zdxx?StieCode=0209",
+      "location": "后海站位于后海滨路与南山后海中心区的二层商业步道交叉路，为2&8、11、13号线的换乘站。"
+    },
+    {
+      "name": "科苑",
+      "code": "0210",
+      "url": "https://www.szmc.net/zdxx?StieCode=0210",
+      "location": "科苑站位于深圳市南山区顺高新南十道布置、自西向东与科苑南路、高新南环路、科技南路垂直相交，为2、13号线的换乘站。"
+    },
+    {
+      "name": "红树湾",
+      "code": "0211",
+      "url": "https://www.szmc.net/zdxx?StieCode=0211",
+      "location": "红树湾站位于南山区白石三道与深湾一路交汇处。"
+    },
+    {
+      "name": "侨城北",
+      "code": "0213",
+      "url": "https://www.szmc.net/zdxx?StieCode=0213",
+      "location": "侨城北站位于深圳市南山区侨香路。"
+    },
+    {
+      "name": "深康",
+      "code": "0214",
+      "url": "https://www.szmc.net/zdxx?StieCode=0214",
+      "location": "深康站位于福田区香蜜湖街道侨香二道。"
+    },
+    {
+      "name": "安托山",
+      "code": "0215",
+      "url": "https://www.szmc.net/zdxx?StieCode=0215",
+      "location": "安托山站位于侨香四道与安托山四路交叉路口，为2、7号线的换乘站。"
+    },
+    {
+      "name": "侨香",
+      "code": "0216",
+      "url": "https://www.szmc.net/zdxx?StieCode=0216",
+      "location": "侨香站位于侨香路与农园路的交叉路口。"
+    },
+    {
+      "name": "香蜜",
+      "code": "0217",
+      "url": "https://www.szmc.net/zdxx?StieCode=0217",
+      "location": "香蜜站位于深圳市福田区侨香路与香蜜湖路交叉路口的东侧。"
+    },
+    {
+      "name": "香梅北",
+      "code": "0218",
+      "url": "https://www.szmc.net/zdxx?StieCode=0218",
+      "location": "香梅北站位于香梅路与侨香路交叉路口。"
+    },
+    {
+      "name": "景田",
+      "code": "0219",
+      "url": "https://www.szmc.net/zdxx?StieCode=0219",
+      "location": "景田站位于莲花西路与景田路的交叉路口的北侧，为2、9号线换乘站。"
+    },
+    {
+      "name": "莲花西",
+      "code": "0220",
+      "url": "https://www.szmc.net/zdxx?StieCode=0220",
+      "location": "莲花西站位于新洲路与红荔路交叉路口。"
+    },
+    {
+      "name": "福田",
+      "code": "0221",
+      "url": "https://www.szmc.net/zdxx?StieCode=0221",
+      "location": "福田站位于深南大道与民田路交汇处，东侧为益田路；南侧为福华一路；西侧为鹏程一路；北侧为福中三路，为2、3、11号线的换乘站。"
+    },
+    {
+      "name": "市民中心",
+      "code": "0222",
+      "url": "https://www.szmc.net/zdxx?StieCode=0222",
+      "location": "市民中心站位于深南大道与金田路的交汇处，为2、4号线的换乘站。"
+    },
+    {
+      "name": "岗厦北",
+      "code": "0223",
+      "url": "https://www.szmc.net/zdxx?StieCode=0223",
+      "location": "岗厦北站位于深南大道与彩田路交汇处，2&8号线车站位于深南大道与彩田路交叉口，为2&8、10、11、14号线的换乘站。"
+    },
+    {
+      "name": "华强北",
+      "code": "0224",
+      "url": "https://www.szmc.net/zdxx?StieCode=0224",
+      "location": "2号线华强北站位于深圳市福田区振华路，7号线华强北站位于华强北路与振中路交汇处，为2、7号线的换乘站，换乘方式为通道换乘。"
+    },
+    {
+      "name": "燕南",
+      "code": "0225",
+      "url": "https://www.szmc.net/zdxx?StieCode=0225",
+      "location": "燕南站位于深圳市福田区、车站沿振华路布置、位于振华路与燕南路交叉路口的西侧、自西向东与燕南路垂直相交。"
+    },
+    {
+      "name": "湖贝",
+      "code": "0227",
+      "url": "https://www.szmc.net/zdxx?StieCode=0227",
+      "location": "5号线湖贝站位于深南东路与东门中路交叉口右侧处。"
+    },
+    {
+      "name": "黄贝岭",
+      "code": "0228",
+      "url": "https://www.szmc.net/zdxx?StieCode=0228",
+      "location": "黄贝岭站位于北斗路与深南东路交汇处，为2、5号线的换乘站。"
+    },
+    {
+      "name": "新秀",
+      "code": "0229",
+      "url": "https://www.szmc.net/zdxx?StieCode=0229",
+      "location": "新秀站位于罗湖区新秀路与罗芳路交汇处东侧。"
+    },
+    {
+      "name": "莲塘口岸",
+      "code": "0230",
+      "url": "https://www.szmc.net/zdxx?StieCode=0230",
+      "location": "莲塘口岸站位于深圳市罗湖区罗芳路与延芳路交叉口、车站主体呈南北走向。"
+    },
+    {
+      "name": "仙湖路",
+      "code": "0231",
+      "url": "https://www.szmc.net/zdxx?StieCode=0231",
+      "location": "仙湖路站位于罗湖区国威路与仙湖路交汇处。"
+    },
+    {
+      "name": "莲塘",
+      "code": "0232",
+      "url": "https://www.szmc.net/zdxx?StieCode=0232",
+      "location": "莲塘站位于莲塘片区国威路下。"
+    },
+    {
+      "name": "福保",
+      "code": "0301",
+      "url": "https://www.szmc.net/zdxx?StieCode=0301",
+      "location": "福保站位于福田区益田路与绒花路、红花路交叉以西口，沿绒花路、红花路呈东西向布置，北接益田站。"
+    },
+    {
+      "name": "益田",
+      "code": "0302",
+      "url": "https://www.szmc.net/zdxx?StieCode=0302",
+      "location": "益田站位于福田区福强路与石厦北二街交汇处。"
+    },
+    {
+      "name": "石厦",
+      "code": "0303",
+      "url": "https://www.szmc.net/zdxx?StieCode=0303",
+      "location": "石厦站位于福民路与石厦北二街交汇处，该站为3、7号线换乘站。"
+    },
+    {
+      "name": "少年宫",
+      "code": "0306",
+      "url": "https://www.szmc.net/zdxx?StieCode=0306",
+      "location": "少年宫站位于福田区红荔路下方，为3、4号线换乘站。"
+    },
+    {
+      "name": "莲花村",
+      "code": "0307",
+      "url": "https://www.szmc.net/zdxx?StieCode=0307",
+      "location": "莲花村站位于福田区红荔路与彩田路交叉路口处，为3、10号线换乘站。"
+    },
+    {
+      "name": "华新",
+      "code": "0308",
+      "url": "https://www.szmc.net/zdxx?StieCode=0308",
+      "location": "华新站位于福田区红荔路与华强北路交汇处，该站为3、7号线换乘站。"
+    },
+    {
+      "name": "通新岭",
+      "code": "0309",
+      "url": "https://www.szmc.net/zdxx?StieCode=0309",
+      "location": "通新岭站位于深圳市福田区上步中路与红荔路交汇处，该站为3、6号线换乘站。"
+    },
+    {
+      "name": "红岭",
+      "code": "0310",
+      "url": "https://www.szmc.net/zdxx?StieCode=0310",
+      "location": "红岭站位于福田区红岭中路与红荔路的交叉路口西侧相交汇处，为3、9号线换乘站。"
+    },
+    {
+      "name": "晒布",
+      "code": "0312",
+      "url": "https://www.szmc.net/zdxx?StieCode=0312",
+      "location": "晒布站位于东门中路与晒布路交汇处。"
+    },
+    {
+      "name": "翠竹",
+      "code": "0313",
+      "url": "https://www.szmc.net/zdxx?StieCode=0313",
+      "location": "翠竹站位于罗湖区东门北路与翠竹路、华丽路相交汇处。"
+    },
+    {
+      "name": "田贝",
+      "code": "0314",
+      "url": "https://www.szmc.net/zdxx?StieCode=0314",
+      "location": "田贝站位于翠竹路与田贝四路交汇处，该站为3、7号线换乘站。"
+    },
+    {
+      "name": "水贝",
+      "code": "0315",
+      "url": "https://www.szmc.net/zdxx?StieCode=0315",
+      "location": "水贝站位于布心片区洪湖立交与翠竹路之间的布心路上。"
+    },
+    {
+      "name": "草埔",
+      "code": "0316",
+      "url": "https://www.szmc.net/zdxx?StieCode=0316",
+      "location": "草埔站位于草埔地铁站公交总站的南侧，龙岗大道中央分隔带上，西侧为广深铁路，该站为高架站。"
+    },
+    {
+      "name": "布吉",
+      "code": "0317",
+      "url": "https://www.szmc.net/zdxx?StieCode=0317",
+      "location": "布吉站位于深圳市龙岗区布吉铁东路与龙岗大道交汇处、沿龙岗大道方向设置，为3、5、14号线换乘站。"
+    },
+    {
+      "name": "木棉湾",
+      "code": "0318",
+      "url": "https://www.szmc.net/zdxx?StieCode=0318",
+      "location": "木棉湾站位于布吉街道市政广场南侧、龙岗大道方向中央分隔带上、该站为高架站。"
+    },
+    {
+      "name": "大芬",
+      "code": "0319",
+      "url": "https://www.szmc.net/zdxx?StieCode=0319",
+      "location": "大芬站位于深圳市龙岗区布吉街道龙岗大道上方。"
+    },
+    {
+      "name": "丹竹头",
+      "code": "0320",
+      "url": "https://www.szmc.net/zdxx?StieCode=0320",
+      "location": "丹竹头站位于深圳市龙岗区南湾街道龙岗大道上方。"
+    },
+    {
+      "name": "六约",
+      "code": "0321",
+      "url": "https://www.szmc.net/zdxx?StieCode=0321",
+      "location": "六约站位于深圳市龙岗区横岗街道龙岗大道中上方。"
+    },
+    {
+      "name": "塘坑",
+      "code": "0322",
+      "url": "https://www.szmc.net/zdxx?StieCode=0322",
+      "location": "塘坑站位于龙岗大道与平盐铁路交叉口西南角。"
+    },
+    {
+      "name": "横岗",
+      "code": "0323",
+      "url": "https://www.szmc.net/zdxx?StieCode=0323",
+      "location": "横岗站属于高架站、位于龙岗大道及保康路交叉处的西南方。"
+    },
+    {
+      "name": "永湖",
+      "code": "0324",
+      "url": "https://www.szmc.net/zdxx?StieCode=0324",
+      "location": "永湖站位于龙岗大道横坪立交以南及锦利路口、该站为高架站。"
+    },
+    {
+      "name": "荷坳",
+      "code": "0325",
+      "url": "https://www.szmc.net/zdxx?StieCode=0325",
+      "location": "荷坳站位于龙岗大道及荷康路交叉处的西南方，该站为高架站。"
+    },
+    {
+      "name": "大运",
+      "code": "0326",
+      "url": "https://www.szmc.net/zdxx?StieCode=0326",
+      "location": "大运站位于深圳市龙岗区龙岗大道与龙飞大道交叉口路口南侧、沿龙岗大道转入爱南路北向布置，为3、14、16号线的换乘站。"
+    },
+    {
+      "name": "爱联",
+      "code": "0327",
+      "url": "https://www.szmc.net/zdxx?StieCode=0327",
+      "location": "爱联地铁站位于龙岗大道中与如意路交汇处，该站为高架站。"
+    },
+    {
+      "name": "吉祥",
+      "code": "0328",
+      "url": "https://www.szmc.net/zdxx?StieCode=0328",
+      "location": "吉祥站位于龙岗大道与吉祥路交汇处，该站为高架站。"
+    },
+    {
+      "name": "龙城广场",
+      "code": "0329",
+      "url": "https://www.szmc.net/zdxx?StieCode=0329",
+      "location": "龙城广场站位于龙岗大道与龙城大道交汇处，该站为高架站。"
+    },
+    {
+      "name": "南联",
+      "code": "0330",
+      "url": "https://www.szmc.net/zdxx?StieCode=0330",
+      "location": "南联站位于南联龙岗大道上，该站为高架站。"
+    },
+    {
+      "name": "双龙",
+      "code": "0331",
+      "url": "https://www.szmc.net/zdxx?StieCode=0331",
+      "location": "双龙站位于深圳市龙岗区龙岗阁龙岗大道旁，3号线管辖范围为高架站，16号线管辖范围为半地下站，该站为3，16号线换乘站。"
+    },
+    {
+      "name": "梨园",
+      "code": "0332",
+      "url": "https://www.szmc.net/zdxx?StieCode=0332",
+      "location": "梨园站位于龙岗大道与规划龙平东路交叉口。"
+    },
+    {
+      "name": "新生",
+      "code": "0333",
+      "url": "https://www.szmc.net/zdxx?StieCode=0333",
+      "location": "新生站位于龙岗大道路与新城路交叉口处。"
+    },
+    {
+      "name": "坪西",
+      "code": "0334",
+      "url": "https://www.szmc.net/zdxx?StieCode=0334",
+      "location": "坪西站位于规划坪西路与花园路交叉路口。"
+    },
+    {
+      "name": "低碳城",
+      "code": "0335",
+      "url": "https://www.szmc.net/zdxx?StieCode=0335",
+      "location": "低碳城站位于坪西路与环城西路交叉路口。"
+    },
+    {
+      "name": "白石塘",
+      "code": "0336",
+      "url": "https://www.szmc.net/zdxx?StieCode=0336",
+      "location": "白石塘站位于吉祥路与益民路交叉口。"
+    },
+    {
+      "name": "富坪",
+      "code": "0337",
+      "url": "https://www.szmc.net/zdxx?StieCode=0337",
+      "location": "富坪站位于富坪路与坪西路交叉口。"
+    },
+    {
+      "name": "坪地六联",
+      "code": "0338",
+      "url": "https://www.szmc.net/zdxx?StieCode=0338",
+      "location": "坪地六联站位于老围路呈东西走向布置。"
+    },
+    {
+      "name": "荔湾",
+      "code": "0502",
+      "url": "https://www.szmc.net/zdxx?StieCode=0502",
+      "location": "荔湾站位于南山区港前路与前海路路口下方。"
+    },
+    {
+      "name": "铁路公园",
+      "code": "0503",
+      "url": "https://www.szmc.net/zdxx?StieCode=0503",
+      "location": "铁路公园站位于南山区怡海大道与港城街路口、横跨怡海大道、该站为地下站。"
+    },
+    {
+      "name": "妈湾",
+      "code": "0504",
+      "url": "https://www.szmc.net/zdxx?StieCode=0504",
+      "location": "妈湾站位于规划五号路、横穿规划梦海大道、延至规划四号路下方。"
+    },
+    {
+      "name": "前湾公园",
+      "code": "0505",
+      "url": "https://www.szmc.net/zdxx?StieCode=0505",
+      "location": "前湾公园站位于南山区前湾三路和听海大道交汇处。"
+    },
+    {
+      "name": "前湾",
+      "code": "0506",
+      "url": "https://www.szmc.net/zdxx?StieCode=0506",
+      "location": "前湾站位于听海大道与前海大道交叉处，为5、9号线换乘站。"
+    },
+    {
+      "name": "桂湾",
+      "code": "0507",
+      "url": "https://www.szmc.net/zdxx?StieCode=0507",
+      "location": "桂湾站位于南山区听海大道与桂湾四路交叉口下方。"
+    },
+    {
+      "name": "临海",
+      "code": "0509",
+      "url": "https://www.szmc.net/zdxx?StieCode=0509",
+      "location": "临海站位于宝安中心区甲岸路和海府路、丁字路口北侧。"
+    },
+    {
+      "name": "宝华",
+      "code": "0510",
+      "url": "https://www.szmc.net/zdxx?StieCode=0510",
+      "location": "宝华站位于深圳市海秀路与宝华路的交叉口西侧上方、靠海秀路呈东西向布设。"
+    },
+    {
+      "name": "翻身",
+      "code": "0512",
+      "url": "https://www.szmc.net/zdxx?StieCode=0512",
+      "location": "翻身站位于宝安区翻身村创业一路与翻身路交叉口西侧。"
+    },
+    {
+      "name": "灵芝",
+      "code": "0513",
+      "url": "https://www.szmc.net/zdxx?StieCode=0513",
+      "location": "灵芝站是5号线与12号线的换乘站、车站位于前进一路和创业二路的交叉口路口、5号线车站沿创业二路布置、12号线车站沿前进一路布置。"
+    },
+    {
+      "name": "洪浪北",
+      "code": "0514",
+      "url": "https://www.szmc.net/zdxx?StieCode=0514",
+      "location": "洪浪北站位于创业二路和新安三路交汇处。"
+    },
+    {
+      "name": "兴东",
+      "code": "0515",
+      "url": "https://www.szmc.net/zdxx?StieCode=0515",
+      "location": "兴东站位于创业二路和留仙二路交汇处。"
+    },
+    {
+      "name": "留仙洞",
+      "code": "0516",
+      "url": "https://www.szmc.net/zdxx?StieCode=0516",
+      "location": "留仙洞站位于留仙大道与同发路及同发南路交界处。"
+    },
+    {
+      "name": "西丽",
+      "code": "0517",
+      "url": "https://www.szmc.net/zdxx?StieCode=0517",
+      "location": "西丽站位于南山区西丽镇留仙大道和沙河西路交汇处，该站为5、7号线换乘站。"
+    },
+    {
+      "name": "大学城",
+      "code": "0518",
+      "url": "https://www.szmc.net/zdxx?StieCode=0518",
+      "location": "大学城站位于南山区西丽镇留仙大道与丽山路丁字路口、留仙大道南侧主道。"
+    },
+    {
+      "name": "塘朗",
+      "code": "0519",
+      "url": "https://www.szmc.net/zdxx?StieCode=0519",
+      "location": "塘朗站位于深圳市南山区留仙大道呈东西走向布设。"
+    },
+    {
+      "name": "长岭陂",
+      "code": "0520",
+      "url": "https://www.szmc.net/zdxx?StieCode=0520",
+      "location": "长岭陂站位于深圳市南山区、延留仙大道呈东西走向布设。"
+    },
+    {
+      "name": "民治",
+      "code": "0522",
+      "url": "https://www.szmc.net/zdxx?StieCode=0522",
+      "location": "民治站位于民治大道与平南铁路交叉口东侧。"
+    },
+    {
+      "name": "五和",
+      "code": "0523",
+      "url": "https://www.szmc.net/zdxx?StieCode=0523",
+      "location": "五和站位于五和大道与布龙路交汇处，该站为5、10号线换乘站。"
+    },
+    {
+      "name": "坂田",
+      "code": "0524",
+      "url": "https://www.szmc.net/zdxx?StieCode=0524",
+      "location": "坂田站位于布龙路和坂雪岗大道交叉路口。"
+    },
+    {
+      "name": "杨美",
+      "code": "0525",
+      "url": "https://www.szmc.net/zdxx?StieCode=0525",
+      "location": "杨美站位于深圳市龙岗区布龙路与环城路交叉口、该站为地下站。"
+    },
+    {
+      "name": "上水径",
+      "code": "0526",
+      "url": "https://www.szmc.net/zdxx?StieCode=0526",
+      "location": "上水径站位于布吉吉华路、在联络道与嘉兴北路东侧。"
+    },
+    {
+      "name": "下水径",
+      "code": "0527",
+      "url": "https://www.szmc.net/zdxx?StieCode=0527",
+      "location": "下水径站位于深圳布吉镇吉华路北水径村路段地下。"
+    },
+    {
+      "name": "长龙",
+      "code": "0528",
+      "url": "https://www.szmc.net/zdxx?StieCode=0528",
+      "location": "长龙站位于吉华路路中、沿吉华路布置。"
+    },
+    {
+      "name": "百鸽笼",
+      "code": "0530",
+      "url": "https://www.szmc.net/zdxx?StieCode=0530",
+      "location": "百鸽笼站位于龙岗区企岭北路东侧、沿翔鸽路南北布置。"
+    },
+    {
+      "name": "布心",
+      "code": "0531",
+      "url": "https://www.szmc.net/zdxx?StieCode=0531",
+      "location": "布心站位于罗湖区东晓路和东湖路交叉口南侧、沿东晓路布置。"
+    },
+    {
+      "name": "太安",
+      "code": "0532",
+      "url": "https://www.szmc.net/zdxx?StieCode=0532",
+      "location": "太安站位于东晓路与布心路交汇处，为5、7号线的换乘站。"
+    },
+    {
+      "name": "怡景",
+      "code": "0533",
+      "url": "https://www.szmc.net/zdxx?StieCode=0533",
+      "location": "怡景站位于怡景路与黄贝路交汇处。"
+    },
+    {
+      "name": "东门",
+      "code": "0536",
+      "url": "https://www.szmc.net/zdxx?StieCode=0536",
+      "location": "5号线东门站位于深圳市罗湖区建设路与深南东路交叉路口，沿深南东路呈东西走向，与1/3号线老街站毗邻。"
+    },
+    {
+      "name": "体育中心",
+      "code": "0603",
+      "url": "https://www.szmc.net/zdxx?StieCode=0603",
+      "location": "体育中心站位于上步北路和笋岗路交叉口、沿上步北路呈南北向布置。"
+    },
+    {
+      "name": "八卦岭",
+      "code": "0604",
+      "url": "https://www.szmc.net/zdxx?StieCode=0604",
+      "location": "八卦岭站位于八卦三路和八卦五街交叉口，为6、7号线换乘站。"
+    },
+    {
+      "name": "银湖",
+      "code": "0605",
+      "url": "https://www.szmc.net/zdxx?StieCode=0605",
+      "location": "银湖站位于北环大道银湖汽车站南侧，为6、9号线换乘站。"
+    },
+    {
+      "name": "翰岭",
+      "code": "0606",
+      "url": "https://www.szmc.net/zdxx?StieCode=0606",
+      "location": "翰岭站位于深圳市龙华区梅观路南侧规划绿地和国有储备用地内、沿梅观路呈东西向布置；该站为地下站。"
+    },
+    {
+      "name": "梅林关",
+      "code": "0607",
+      "url": "https://www.szmc.net/zdxx?StieCode=0607",
+      "location": "梅林关站位于梅观路东侧、丰泽湖山庄西侧。"
+    },
+    {
+      "name": "上芬",
+      "code": "0610",
+      "url": "https://www.szmc.net/zdxx?StieCode=0610",
+      "location": "上芬站位于布龙路与建设路交叉口以南、沿布龙路路中呈南北向敷设。"
+    },
+    {
+      "name": "元芬",
+      "code": "0611",
+      "url": "https://www.szmc.net/zdxx?StieCode=0611",
+      "location": "元芬站位于布龙路与元芬路交叉口以北、沿布龙路路中呈南北向铺设。"
+    },
+    {
+      "name": "阳台山东",
+      "code": "0612",
+      "url": "https://www.szmc.net/zdxx?StieCode=0612",
+      "location": "阳台山东站位于布龙路与华繁路交叉以西、沿布龙路呈东西走向。"
+    },
+    {
+      "name": "官田",
+      "code": "0613",
+      "url": "https://www.szmc.net/zdxx?StieCode=0613",
+      "location": "官田站位于北环路、毗邻宝石东路、沿北环路路中呈东西向敷设。"
+    },
+    {
+      "name": "上屋",
+      "code": "0614",
+      "url": "https://www.szmc.net/zdxx?StieCode=0614",
+      "location": "上屋站位于北环路与上屋大道交叉路口以东、沿北环路路中呈东西向铺设。"
+    },
+    {
+      "name": "长圳",
+      "code": "0615",
+      "url": "https://www.szmc.net/zdxx?StieCode=0615",
+      "location": "长圳站位于光明新区科裕路与光侨路交叉口以北呈南北向铺设，该站为高架站。"
+    },
+    {
+      "name": "凤凰城",
+      "code": "0616",
+      "url": "https://www.szmc.net/zdxx?StieCode=0616",
+      "location": "凤凰城站位于光明大道和观光路交叉路口以南。"
+    },
+    {
+      "name": "光明大街",
+      "code": "0617",
+      "url": "https://www.szmc.net/zdxx?StieCode=0617",
+      "location": "光明大街站位于光明大道与光明大街交叉路口以南、沿光明大道中呈南北向布置。"
+    },
+    {
+      "name": "光明",
+      "code": "0618",
+      "url": "https://www.szmc.net/zdxx?StieCode=0618",
+      "location": "光明站位于光明新区光辉大道与光明大道北段交叉路口以北，该站为6支、6号线换乘站。"
+    },
+    {
+      "name": "科学公园",
+      "code": "0619",
+      "url": "https://www.szmc.net/zdxx?StieCode=0619",
+      "location": "科学公园站位于光明新区规划中的东楼二路与科学大道交叉路口以南、沿科学大道中呈东西向布置。"
+    },
+    {
+      "name": "楼村",
+      "code": "0620",
+      "url": "https://www.szmc.net/zdxx?StieCode=0620",
+      "location": "楼村站位于科学大道与楼明路交汇处。"
+    },
+    {
+      "name": "红花山",
+      "code": "0621",
+      "url": "https://www.szmc.net/zdxx?StieCode=0621",
+      "location": "红花山站位于光明区别墅路与兴发路与安发路交汇处。"
+    },
+    {
+      "name": "公明广场",
+      "code": "0622",
+      "url": "https://www.szmc.net/zdxx?StieCode=0622",
+      "location": "公明广场站位于光明区松白路与长春路交叉路口西侧、沿松白公路路中呈东西向敷设。"
+    },
+    {
+      "name": "合水口",
+      "code": "0623",
+      "url": "https://www.szmc.net/zdxx?StieCode=0623",
+      "location": "合水口站位于光明区松白路与马田路交叉路口东侧，该站为高架站。"
+    },
+    {
+      "name": "薯田埔",
+      "code": "0624",
+      "url": "https://www.szmc.net/zdxx?StieCode=0624",
+      "location": "薯田埔站位于光明区松白路与科达一路交叉路口以西、沿松白路路中呈东西向敷设。"
+    },
+    {
+      "name": "松岗公园",
+      "code": "0625",
+      "url": "https://www.szmc.net/zdxx?StieCode=0625",
+      "location": "松岗公园站位于宝安区沙江东路与东风路交叉路口处，该站为地下站。"
+    },
+    {
+      "name": "溪头",
+      "code": "0626",
+      "url": "https://www.szmc.net/zdxx?StieCode=0626",
+      "location": "溪头站位于宝安区沙江路与溪头路交叉口以西、沿沙江路路中（偏北）呈东西向布置，该站为地下站。"
+    },
+    {
+      "name": "松岗",
+      "code": "0627",
+      "url": "https://www.szmc.net/zdxx?StieCode=0627",
+      "location": "松岗站位于宝安大道与沙江路交汇处，为6、11、12号线换乘站。"
+    },
+    {
+      "name": "光明城",
+      "code": "6601",
+      "url": "https://www.szmc.net/zdxx?StieCode=6601",
+      "location": "光明城站位于侨凯路与茶林路交叉路口南侧，沿茶林路南北向布置。"
+    },
+    {
+      "name": "虹桥公园",
+      "code": "6602",
+      "url": "https://www.szmc.net/zdxx?StieCode=6602",
+      "location": "虹桥公园站位于光明区光侨路和华夏路交叉口，沿光侨路南北向布置。"
+    },
+    {
+      "name": "碧眼",
+      "code": "6603",
+      "url": "https://www.szmc.net/zdxx?StieCode=6603",
+      "location": "碧眼站位于光侨路与光明大街交叉路口，该站为地下站。"
+    },
+    {
+      "name": "圳美",
+      "code": "6605",
+      "url": "https://www.szmc.net/zdxx?StieCode=6605",
+      "location": "圳美站位于光侨路与圳美大道交叉口以南、沿光侨路南北布置，该站为地下站。"
+    },
+    {
+      "name": "中大",
+      "code": "6606",
+      "url": "https://www.szmc.net/zdxx?StieCode=6606",
+      "location": "中大站位于公常路和荔美北街交叉口、沿公常路东西向跨路口布置。"
+    },
+    {
+      "name": "深理工",
+      "code": "6607",
+      "url": "https://www.szmc.net/zdxx?StieCode=6607",
+      "location": "深理工站位于公常路和羌下一路交叉口东侧，沿公常路南北向跨路口布置，该站位地下站。"
+    },
+    {
+      "name": "深大丽湖",
+      "code": "0701",
+      "url": "https://www.szmc.net/zdxx?StieCode=0701",
+      "location": "深大丽湖站位于位于南山区位于幽兰路和学康路之间。"
+    },
+    {
+      "name": "北大",
+      "code": "0702",
+      "url": "https://www.szmc.net/zdxx?StieCode=0702",
+      "location": "北大站位于位于南山区春园路与丽水路交叉路口东侧处。"
+    },
+    {
+      "name": "西丽湖",
+      "code": "0703",
+      "url": "https://www.szmc.net/zdxx?StieCode=0703",
+      "location": "西丽湖站位于丽水路下。"
+    },
+    {
+      "name": "茶光",
+      "code": "0705",
+      "url": "https://www.szmc.net/zdxx?StieCode=0705",
+      "location": "茶光站位于深圳南山区09号片区、沙河西路与向南的西丽南路“丁”字交叉口南侧、沿沙河西路南北方向布站。"
+    },
+    {
+      "name": "珠光",
+      "code": "0706",
+      "url": "https://www.szmc.net/zdxx?StieCode=0706",
+      "location": "珠光站位于龙珠大道路中沿龙珠大道下。"
+    },
+    {
+      "name": "龙井",
+      "code": "0707",
+      "url": "https://www.szmc.net/zdxx?StieCode=0707",
+      "location": "龙井站位于龙珠大道与向南的龙珠四路“丁”字交叉口西北侧。"
+    },
+    {
+      "name": "桃源村",
+      "code": "0708",
+      "url": "https://www.szmc.net/zdxx?StieCode=0708",
+      "location": "桃源村站位于龙珠大道与龙珠六路及龙珠七路交汇处路段之间、车站主体位于龙珠大道路面下、沿龙珠大道布置。"
+    },
+    {
+      "name": "深云",
+      "code": "0709",
+      "url": "https://www.szmc.net/zdxx?StieCode=0709",
+      "location": "深云站位于北环大道和龙珠大道交汇处、北环大道及龙珠大道以北。"
+    },
+    {
+      "name": "农林",
+      "code": "0711",
+      "url": "https://www.szmc.net/zdxx?StieCode=0711",
+      "location": "农林站位于农林路和红荔西路交叉路口东侧。"
+    },
+    {
+      "name": "上沙",
+      "code": "0713",
+      "url": "https://www.szmc.net/zdxx?StieCode=0713",
+      "location": "上沙站位于福强路，车站沿福强路主干道中心布设、呈十字形布置。"
+    },
+    {
+      "name": "沙尾",
+      "code": "0714",
+      "url": "https://www.szmc.net/zdxx?StieCode=0714",
+      "location": "沙尾站位于沙尾路与福强路交叉口、东侧为福强路、西侧为金地一路、南侧为沙尾路、北侧为新洲三街。"
+    },
+    {
+      "name": "皇岗村",
+      "code": "0716",
+      "url": "https://www.szmc.net/zdxx?StieCode=0716",
+      "location": "皇岗村站位于水围村北侧、处在福民路与皇岗公园街交叉口、车站沿福民路东西方向布设，该站为地下站。"
+    },
+    {
+      "name": "皇岗口岸",
+      "code": "0718",
+      "url": "https://www.szmc.net/zdxx?StieCode=0718",
+      "location": "皇岗口岸站位于百合三路与同合路交叉处、沿百合三路东西方向布置。"
+    },
+    {
+      "name": "赤尾",
+      "code": "0719",
+      "url": "https://www.szmc.net/zdxx?StieCode=0719",
+      "location": "赤尾站位于滨河大道与福祥街相交口、车站沿滨河大道东北往西南方向布设。"
+    },
+    {
+      "name": "华强南",
+      "code": "0720",
+      "url": "https://www.szmc.net/zdxx?StieCode=0720",
+      "location": "华强南站位于华强南路与福华路交口南侧、沿华强南路方向布置，为7、11号线换乘站。"
+    },
+    {
+      "name": "黄木岗",
+      "code": "0723",
+      "url": "https://www.szmc.net/zdxx?StieCode=0723",
+      "location": "黄木岗站位于笋岗西路、泥岗西路、华富路交接处，为7、14号线换乘站。"
+    },
+    {
+      "name": "红岭北",
+      "code": "0725",
+      "url": "https://www.szmc.net/zdxx?StieCode=0725",
+      "location": "红岭北站位于红岭北路与八卦三路、梅园路十字路口处，为7、9号线换乘站。"
+    },
+    {
+      "name": "笋岗",
+      "code": "0726",
+      "url": "https://www.szmc.net/zdxx?StieCode=0726",
+      "location": "笋岗站位于罗湖区梅园路、处于宝安北路与宝岗路之间。"
+    },
+    {
+      "name": "洪湖",
+      "code": "0727",
+      "url": "https://www.szmc.net/zdxx?StieCode=0727",
+      "location": "洪湖站位于田贝四路与文锦北路路口处的西北侧、与田贝四路平行布置。"
+    },
+    {
+      "name": "梧桐山南",
+      "code": "0802",
+      "url": "https://www.szmc.net/zdxx?StieCode=0802",
+      "location": "梧桐山南站位于罗湖区罗沙路北侧。"
+    },
+    {
+      "name": "沙头角",
+      "code": "0803",
+      "url": "https://www.szmc.net/zdxx?StieCode=0803",
+      "location": "沙头角站位于盐田区深盐路和沙深路、园林路交叉口处。"
+    },
+    {
+      "name": "海山",
+      "code": "0804",
+      "url": "https://www.szmc.net/zdxx?StieCode=0804",
+      "location": "海山站位于深盐路与海山路交叉口西侧。"
+    },
+    {
+      "name": "盐田港西",
+      "code": "0805",
+      "url": "https://www.szmc.net/zdxx?StieCode=0805",
+      "location": "盐田港西站位于深圳市盐田区梧桐路与下梧桐路之间的深盐路下方、车站沿深盐路西南至东北方向布置。"
+    },
+    {
+      "name": "深外高中",
+      "code": "0806",
+      "url": "https://www.szmc.net/zdxx?StieCode=0806",
+      "location": "深外高中站位于中青一路和盐田路交汇处、盐排高速和梧桐山大道西侧、车站沿中青一路西南、东北走向。"
+    },
+    {
+      "name": "盐田路",
+      "code": "0807",
+      "url": "https://www.szmc.net/zdxx?StieCode=0807",
+      "location": "盐田路站位于盐田路与东海道交口处、车站沿盐田路东北-西南向布置、西南接深外高中站。"
+    },
+    {
+      "name": "鸿安围",
+      "code": "0808",
+      "url": "https://www.szmc.net/zdxx?StieCode=0808",
+      "location": "鸿安围站位于北山道与洪安路交汇处，东接盐田墟站、西接盐田路站。"
+    },
+    {
+      "name": "盐田墟",
+      "code": "0809",
+      "url": "https://www.szmc.net/zdxx?StieCode=0809",
+      "location": "盐田墟站位于北山道与盐梅路三岔路口处、车站主体沿北山道呈东西向布置。"
+    },
+    {
+      "name": "大梅沙",
+      "code": "0810",
+      "url": "https://www.szmc.net/zdxx?StieCode=0810",
+      "location": "大梅沙站位于大梅沙海景酒店南侧盐梅路下方、车站主体沿盐梅路呈东西向布置。"
+    },
+    {
+      "name": "小梅沙",
+      "code": "0811",
+      "url": "https://www.szmc.net/zdxx?StieCode=0811",
+      "location": "小梅沙站位于深圳市盐田区梅沙街道小梅沙片区盐梅路北侧、车站沿北山道呈东西方向布置。"
+    },
+    {
+      "name": "溪涌",
+      "code": "0812",
+      "url": "https://www.szmc.net/zdxx?StieCode=0812",
+      "location": "溪涌站位于深圳市大鹏新区溪涌片区溪涌立交E匝道北侧，该站为地下站。"
+    },
+    {
+      "name": "梦海",
+      "code": "0902",
+      "url": "https://www.szmc.net/zdxx?StieCode=0902",
+      "location": "梦海站位于深圳市南山区梦海大道与梦工厂街交叉处。"
+    },
+    {
+      "name": "怡海",
+      "code": "0903",
+      "url": "https://www.szmc.net/zdxx?StieCode=0903",
+      "location": "怡海站位于深圳市南山区怡海大道和月亮湾大道之间。"
+    },
+    {
+      "name": "荔林",
+      "code": "0904",
+      "url": "https://www.szmc.net/zdxx?StieCode=0904",
+      "location": "荔林站位于东滨路与南新路交汇处。"
+    },
+    {
+      "name": "南油西",
+      "code": "0905",
+      "url": "https://www.szmc.net/zdxx?StieCode=0905",
+      "location": "南油西站位于深圳市南山区东滨路与南光路交汇处。"
+    },
+    {
+      "name": "南油",
+      "code": "0906",
+      "url": "https://www.szmc.net/zdxx?StieCode=0906",
+      "location": "南油站位于深圳市南山区南海大道与登良路交叉口，为9、12号线的换乘站。"
+    },
+    {
+      "name": "南山书城",
+      "code": "0907",
+      "url": "https://www.szmc.net/zdxx?StieCode=0907",
+      "location": "南山书城站位于深圳市南山区海德二道与南海大道交叉口的东侧。"
+    },
+    {
+      "name": "深大南",
+      "code": "0908",
+      "url": "https://www.szmc.net/zdxx?StieCode=0908",
+      "location": "深大南站位于白石路与学府路交叉路口东北侧。"
+    },
+    {
+      "name": "粤海门",
+      "code": "0909",
+      "url": "https://www.szmc.net/zdxx?StieCode=0909",
+      "location": "粤海门站位于深圳市南山区科苑南路与白石路交叉路口处，为9、13号线换乘站。"
+    },
+    {
+      "name": "高新南",
+      "code": "0910",
+      "url": "https://www.szmc.net/zdxx?StieCode=0910",
+      "location": "高新南站位于白石路与科技南路交叉口东侧。"
+    },
+    {
+      "name": "红树湾南",
+      "code": "0911",
+      "url": "https://www.szmc.net/zdxx?StieCode=0911",
+      "location": "红树湾南站位于白石四道与深湾二路交界处，为9、11号线换乘站。"
+    },
+    {
+      "name": "深湾",
+      "code": "0912",
+      "url": "https://www.szmc.net/zdxx?StieCode=0912",
+      "location": "深湾站位于白石四道与深湾四路交界处。"
+    },
+    {
+      "name": "深圳湾公园",
+      "code": "0913",
+      "url": "https://www.szmc.net/zdxx?StieCode=0913",
+      "location": "深圳湾公园站位于海园二路与滨海大道交界口处。"
+    },
+    {
+      "name": "下沙",
+      "code": "0914",
+      "url": "https://www.szmc.net/zdxx?StieCode=0914",
+      "location": "下沙站位于深圳市福田区滨河大道旁。"
+    },
+    {
+      "name": "香梅",
+      "code": "0916",
+      "url": "https://www.szmc.net/zdxx?StieCode=0916",
+      "location": "香梅站位于红荔西路与香梅路交叉口处，车站平行红荔西路东西向布置。"
+    },
+    {
+      "name": "梅景",
+      "code": "0918",
+      "url": "https://www.szmc.net/zdxx?StieCode=0918",
+      "location": "梅景站位于北环大道至下梅林一街之间的梅林路。"
+    },
+    {
+      "name": "下梅林",
+      "code": "0919",
+      "url": "https://www.szmc.net/zdxx?StieCode=0919",
+      "location": "下梅林站位于梅丽路与梅林路交汇路口以东的梅林路。"
+    },
+    {
+      "name": "梅村",
+      "code": "0920",
+      "url": "https://www.szmc.net/zdxx?StieCode=0920",
+      "location": "梅村站位于梅林路与梅村路交叉处西侧。"
+    },
+    {
+      "name": "孖岭",
+      "code": "0922",
+      "url": "https://www.szmc.net/zdxx?StieCode=0922",
+      "location": "10号线孖岭站位于深圳市彩田路与梅林路交叉口、彩田路西侧。"
+    },
+    {
+      "name": "泥岗",
+      "code": "0924",
+      "url": "https://www.szmc.net/zdxx?StieCode=0924",
+      "location": "泥岗站位于金碧路上，车站沿金碧路东西向布置。"
+    },
+    {
+      "name": "园岭",
+      "code": "0926",
+      "url": "https://www.szmc.net/zdxx?StieCode=0926",
+      "location": "园岭站位于红岭北路与笋岗路交界处。"
+    },
+    {
+      "name": "红岭南",
+      "code": "0928",
+      "url": "https://www.szmc.net/zdxx?StieCode=0928",
+      "location": "红岭南站位于深南东路与红岭南路交叉路口的东南侧。"
+    },
+    {
+      "name": "鹿丹村",
+      "code": "0929",
+      "url": "https://www.szmc.net/zdxx?StieCode=0929",
+      "location": "鹿丹村站位于罗湖区滨河大道旁。"
+    },
+    {
+      "name": "人民南",
+      "code": "0930",
+      "url": "https://www.szmc.net/zdxx?StieCode=0930",
+      "location": "人民南站位于春风路与人民南路交叉路口。"
+    },
+    {
+      "name": "向西村",
+      "code": "0931",
+      "url": "https://www.szmc.net/zdxx?StieCode=0931",
+      "location": "向西村站位于春风路与东门南路交叉路口。"
+    },
+    {
+      "name": "文锦",
+      "code": "0932",
+      "url": "https://www.szmc.net/zdxx?StieCode=0932",
+      "location": "文锦站位于罗湖区春风路与文锦南路交汇处。"
+    },
+    {
+      "name": "冬瓜岭",
+      "code": "1006",
+      "url": "https://www.szmc.net/zdxx?StieCode=1006",
+      "location": "冬瓜岭站位于深圳市福田区彩田路。"
+    },
+    {
+      "name": "雅宝",
+      "code": "1008",
+      "url": "https://www.szmc.net/zdxx?StieCode=1008",
+      "location": "雅宝站位于深圳市龙岗区坂田街道雅星路。"
+    },
+    {
+      "name": "南坑",
+      "code": "1009",
+      "url": "https://www.szmc.net/zdxx?StieCode=1009",
+      "location": "南坑站位于深圳市龙岗区五和南路与民乐路与环城南路交汇处。"
+    },
+    {
+      "name": "光雅园",
+      "code": "1010",
+      "url": "https://www.szmc.net/zdxx?StieCode=1010",
+      "location": "光雅园站位于深圳市龙岗区雅园路与五和南路交汇处。"
+    },
+    {
+      "name": "坂田北",
+      "code": "1012",
+      "url": "https://www.szmc.net/zdxx?StieCode=1012",
+      "location": "坂田北站位于吉华路下方。"
+    },
+    {
+      "name": "贝尔路",
+      "code": "1013",
+      "url": "https://www.szmc.net/zdxx?StieCode=1013",
+      "location": "贝尔路站位于深圳市龙岗区坂雪岗大道和贝尔路交叉口。"
+    },
+    {
+      "name": "华为",
+      "code": "1014",
+      "url": "https://www.szmc.net/zdxx?StieCode=1014",
+      "location": "华为站位于深圳市龙岗区坂雪岗大道和稼先路交叉口。"
+    },
+    {
+      "name": "岗头",
+      "code": "1015",
+      "url": "https://www.szmc.net/zdxx?StieCode=1015",
+      "location": "岗头站位于深圳市龙岗区坂雪岗大道下方。"
+    },
+    {
+      "name": "雪象",
+      "code": "1016",
+      "url": "https://www.szmc.net/zdxx?StieCode=1016",
+      "location": "雪象站位于深圳市龙岗区中浩一路与中浩二路交汇处。"
+    },
+    {
+      "name": "甘坑",
+      "code": "1017",
+      "url": "https://www.szmc.net/zdxx?StieCode=1017",
+      "location": "甘坑站位于深圳市龙岗区秀峰路下方。"
+    },
+    {
+      "name": "凉帽山",
+      "code": "1018",
+      "url": "https://www.szmc.net/zdxx?StieCode=1018",
+      "location": "凉帽山站位于深圳市龙岗区甘李二路与甘李一路交汇处。"
+    },
+    {
+      "name": "上李朗",
+      "code": "1019",
+      "url": "https://www.szmc.net/zdxx?StieCode=1019",
+      "location": "上李朗站位于龙岗区平吉大道和金科路交汇处。"
+    },
+    {
+      "name": "木古",
+      "code": "1020",
+      "url": "https://www.szmc.net/zdxx?StieCode=1020",
+      "location": "木古站位于龙岗区平吉大道与新木路和彩姿南路交汇处。"
+    },
+    {
+      "name": "华南城",
+      "code": "1021",
+      "url": "https://www.szmc.net/zdxx?StieCode=1021",
+      "location": "华南城站位于龙岗区平吉大道与国际大道与生态园路交汇处。"
+    },
+    {
+      "name": "禾花",
+      "code": "1022",
+      "url": "https://www.szmc.net/zdxx?StieCode=1022",
+      "location": "禾花站位于龙岗区平吉大道与佳业路的交汇处。"
+    },
+    {
+      "name": "平湖",
+      "code": "1023",
+      "url": "https://www.szmc.net/zdxx?StieCode=1023",
+      "location": "平湖站位于龙岗区平龙路与规划平安大道交汇处。"
+    },
+    {
+      "name": "双拥街",
+      "code": "1024",
+      "url": "https://www.szmc.net/zdxx?StieCode=1024",
+      "location": "双拥街站位于龙岗区平湖街道双拥街下方。"
+    },
+    {
+      "name": "福星",
+      "code": "1103",
+      "url": "https://www.szmc.net/zdxx?StieCode=1103",
+      "location": "福星站位于福田区福华路与福明路交汇处。"
+    },
+    {
+      "name": "南山",
+      "code": "1109",
+      "url": "https://www.szmc.net/zdxx?StieCode=1109",
+      "location": "南山站位于南山大道与桂庙路交汇处，为11、12 号线换乘车站。"
+    },
+    {
+      "name": "宝安",
+      "code": "1111",
+      "url": "https://www.szmc.net/zdxx?StieCode=1111",
+      "location": "宝安站位于宝安创业一路与裕安一路交叉口处。"
+    },
+    {
+      "name": "碧海湾",
+      "code": "1112",
+      "url": "https://www.szmc.net/zdxx?StieCode=1112",
+      "location": "碧海湾站位于深圳市宝安区宝源路与金海路交叉处下方。"
+    },
+    {
+      "name": "机场",
+      "code": "1113",
+      "url": "https://www.szmc.net/zdxx?StieCode=1113",
+      "location": "机场站位于机场航站楼及交通中心下方。"
+    },
+    {
+      "name": "机场北",
+      "code": "1114",
+      "url": "https://www.szmc.net/zdxx?StieCode=1114",
+      "location": "机场北站位于宝安区机场九道附近，为11、20号线换乘站。"
+    },
+    {
+      "name": "福永",
+      "code": "1115",
+      "url": "https://www.szmc.net/zdxx?StieCode=1115",
+      "location": "福永站位于宝安大道与福洲大道交汇处，为11、12号线换乘站。"
+    },
+    {
+      "name": "桥头",
+      "code": "1116",
+      "url": "https://www.szmc.net/zdxx?StieCode=1116",
+      "location": "桥头站位于宝安大道与桥和路交叉口北侧、沿宝安大道路中南北向布置。"
+    },
+    {
+      "name": "塘尾",
+      "code": "1117",
+      "url": "https://www.szmc.net/zdxx?StieCode=1117",
+      "location": "塘尾站位于宝安大道与福永凤塘大道交叉口北侧、沿宝安大道路中南北向布置。"
+    },
+    {
+      "name": "马安山",
+      "code": "1118",
+      "url": "https://www.szmc.net/zdxx?StieCode=1118",
+      "location": "马安山站址位于宝安大道与沙井南环路交叉路口的北侧、沿宝安大道路中南北向布置。"
+    },
+    {
+      "name": "沙井",
+      "code": "1119",
+      "url": "https://www.szmc.net/zdxx?StieCode=1119",
+      "location": "沙井站位于宝安大道沙井街道鸿荣源禧园路段、宝安大道与新沙路交叉口北侧、沿宝安大道呈南北向布置。"
+    },
+    {
+      "name": "后亭",
+      "code": "1120",
+      "url": "https://www.szmc.net/zdxx?StieCode=1120",
+      "location": "后亭站位于宝安区宝安大道与新和大道交叉口以北、沿宝安大道呈南北向布置。"
+    },
+    {
+      "name": "碧头",
+      "code": "1122",
+      "url": "https://www.szmc.net/zdxx?StieCode=1122",
+      "location": "碧头站位于郎碧路与松福大道交界处、沿郎碧路呈南北走向。"
+    },
+    {
+      "name": "左炮台东",
+      "code": "1201",
+      "url": "https://www.szmc.net/zdxx?StieCode=1201",
+      "location": "左炮台东站位于赤湾路、车站沿赤湾路东西向布置。"
+    },
+    {
+      "name": "太子湾",
+      "code": "1202",
+      "url": "https://www.szmc.net/zdxx?StieCode=1202",
+      "location": "太子湾站车站主体位于汇海路上、位于汇海路和邮轮大道路叉口东侧、沿汇海路呈东西向布置。"
+    },
+    {
+      "name": "花果山",
+      "code": "1204",
+      "url": "https://www.szmc.net/zdxx?StieCode=1204",
+      "location": "花果山站位于位于工业六路与南海大道交叉口附近、车站沿南海大道南北向布置。"
+    },
+    {
+      "name": "四海",
+      "code": "1205",
+      "url": "https://www.szmc.net/zdxx?StieCode=1205",
+      "location": "四海站位于工业八路和南海大道交叉路口下方。"
+    },
+    {
+      "name": "南光",
+      "code": "1207",
+      "url": "https://www.szmc.net/zdxx?StieCode=1207",
+      "location": "南光站位于创业路和南光路交叉口、沿创业路向东西敷设。"
+    },
+    {
+      "name": "南头古城",
+      "code": "1210",
+      "url": "https://www.szmc.net/zdxx?StieCode=1210",
+      "location": "南头古城位于南山大道与深南大道交汇处、沿南山大道南北方向铺设。"
+    },
+    {
+      "name": "中山公园",
+      "code": "1211",
+      "url": "https://www.szmc.net/zdxx?StieCode=1211",
+      "location": "中山公园站位于南山大道与玉泉路交叉口、沿南山大道呈南北向布置。"
+    },
+    {
+      "name": "同乐南",
+      "code": "1212",
+      "url": "https://www.szmc.net/zdxx?StieCode=1212",
+      "location": "同乐南站位于南山区的前进路与南坪快速路的交叉口、沿前进路呈东西向布置。"
+    },
+    {
+      "name": "新安公园",
+      "code": "1213",
+      "url": "https://www.szmc.net/zdxx?StieCode=1213",
+      "location": "新安公园站位于前进一路和新安二路的交叉口处、沿前进一路南北向敷设。"
+    },
+    {
+      "name": "上川",
+      "code": "1215",
+      "url": "https://www.szmc.net/zdxx?StieCode=1215",
+      "location": "上川站位于宝安前进一路与同和路交叉处、沿着前进一路南北方向敷设。"
+    },
+    {
+      "name": "流塘",
+      "code": "1216",
+      "url": "https://www.szmc.net/zdxx?StieCode=1216",
+      "location": "流塘站位于前进二路与流塘路交叉口。"
+    },
+    {
+      "name": "宝安客运站",
+      "code": "1217",
+      "url": "https://www.szmc.net/zdxx?StieCode=1217",
+      "location": "宝安客运站位于前进二路和西乡大道交叉口、沿前进二路布置。"
+    },
+    {
+      "name": "宝田一路",
+      "code": "1218",
+      "url": "https://www.szmc.net/zdxx?StieCode=1218",
+      "location": "宝田一路站位于前进二路和宝田一路交叉口、沿前进二路呈南北方向建设、为地下二层车站、地下一层为站厅层、地下二层为站台层、站台形式为岛式站台。"
+    },
+    {
+      "name": "平峦山",
+      "code": "1219",
+      "url": "https://www.szmc.net/zdxx?StieCode=1219",
+      "location": "平峦山站位于前进二路和宝田三路交叉口的西北侧、沿着前进二路方向敷设、呈东西方向布置、车站设置有3个出入口、为地下站。"
+    },
+    {
+      "name": "西乡桃源",
+      "code": "1220",
+      "url": "https://www.szmc.net/zdxx?StieCode=1220",
+      "location": "西乡桃源站位于前进二路和航城大道交叉口、沿前进二路南北向布置。"
+    },
+    {
+      "name": "钟屋南",
+      "code": "1221",
+      "url": "https://www.szmc.net/zdxx?StieCode=1221",
+      "location": "钟屋南站位于洲石路和前进二路的交叉口处、沿前进二路南北向敷设。"
+    },
+    {
+      "name": "黄田",
+      "code": "1222",
+      "url": "https://www.szmc.net/zdxx?StieCode=1222",
+      "location": "黄田站位于广深公路与凯成二路交叉口、沿广深公路敷设。"
+    },
+    {
+      "name": "兴围",
+      "code": "1223",
+      "url": "https://www.szmc.net/zdxx?StieCode=1223",
+      "location": "兴围站位于兴华路与广深公路交叉路口的北侧处、车站为地下站、地下一层为站厅层、地下二层为站台层。"
+    },
+    {
+      "name": "福围",
+      "code": "1225",
+      "url": "https://www.szmc.net/zdxx?StieCode=1225",
+      "location": "福围站位于立新南路与下十围路交叉口、沿下十围路呈南北方向布置。"
+    },
+    {
+      "name": "怀德",
+      "code": "1226",
+      "url": "https://www.szmc.net/zdxx?StieCode=1226",
+      "location": "怀德站位于怀德南路与怀德北路中间处。"
+    },
+    {
+      "name": "桥头西",
+      "code": "1228",
+      "url": "https://www.szmc.net/zdxx?StieCode=1228",
+      "location": "桥头西站位于重庆路和同富路交叉口、沿同富路呈南北方向敷设。"
+    },
+    {
+      "name": "福海西",
+      "code": "1229",
+      "url": "https://www.szmc.net/zdxx?StieCode=1229",
+      "location": "福海西站位于松福大道与桥和路交叉路口、沿桥和路东西向敷设。"
+    },
+    {
+      "name": "国展",
+      "code": "1230",
+      "url": "https://www.szmc.net/zdxx?StieCode=1230",
+      "location": "国展站位于展城路，为12、20号线换乘站。"
+    },
+    {
+      "name": "国展北",
+      "code": "1231",
+      "url": "https://www.szmc.net/zdxx?StieCode=1231",
+      "location": "国展北站位于宝安区凤塘大道与展城路交叉口处，为12、20号线换乘站。"
+    },
+    {
+      "name": "海上田园南",
+      "code": "1232",
+      "url": "https://www.szmc.net/zdxx?StieCode=1232",
+      "location": "海上田园南站位于南环路和展城路的交叉口处、沿展城路南北向布置。"
+    },
+    {
+      "name": "海上田园东",
+      "code": "1233",
+      "url": "https://www.szmc.net/zdxx?StieCode=1233",
+      "location": "海上田园东站位于民主大道、沿民主民丰路敷设。"
+    },
+    {
+      "name": "蚝乡",
+      "code": "1234",
+      "url": "https://www.szmc.net/zdxx?StieCode=1234",
+      "location": "蚝乡站位于西沙路与蚝乡路交汇处，该站为地下站。"
+    },
+    {
+      "name": "沙蚝",
+      "code": "1235",
+      "url": "https://www.szmc.net/zdxx?StieCode=1235",
+      "location": "沙蚝站位于西环路与蚝乡路交汇处，该站为地下站。"
+    },
+    {
+      "name": "沙井古墟",
+      "code": "1236",
+      "url": "https://www.szmc.net/zdxx?StieCode=1236",
+      "location": "沙井古墟站位于沙井大街与帝堂路交叉路口。"
+    },
+    {
+      "name": "步涌",
+      "code": "1237",
+      "url": "https://www.szmc.net/zdxx?StieCode=1237",
+      "location": "步涌站位于新和大道与沙井路交汇处、沿沙井路敷设。"
+    },
+    {
+      "name": "朗下",
+      "code": "1238",
+      "url": "https://www.szmc.net/zdxx?StieCode=1238",
+      "location": "朗下站位于松安路与沙江西路交汇处，是地下站。"
+    },
+    {
+      "name": "罗湖北",
+      "code": "1403",
+      "url": "https://www.szmc.net/zdxx?StieCode=1403",
+      "location": "罗湖北站位于罗湖区清水河五路与清水河一路交叉口。"
+    },
+    {
+      "name": "石芽岭",
+      "code": "1405",
+      "url": "https://www.szmc.net/zdxx?StieCode=1405",
+      "location": "石芽岭站位于盛宝路和科技园路与布澜路交叉口处。"
+    },
+    {
+      "name": "六约北",
+      "code": "1406",
+      "url": "https://www.szmc.net/zdxx?StieCode=1406",
+      "location": "六约北站位于龙岗区红棉路与深峰路交叉口。"
+    },
+    {
+      "name": "四联",
+      "code": "1407",
+      "url": "https://www.szmc.net/zdxx?StieCode=1407",
+      "location": "四联站位于红棉路与横岗一号路、恒心路交叉口。"
+    },
+    {
+      "name": "坳背",
+      "code": "1408",
+      "url": "https://www.szmc.net/zdxx?StieCode=1408",
+      "location": "坳背站位于龙岗区红棉路与坳背路交叉口处。"
+    },
+    {
+      "name": "嶂背",
+      "code": "1410",
+      "url": "https://www.szmc.net/zdxx?StieCode=1410",
+      "location": "嶂背站位于龙岗区宝荷路南侧。"
+    },
+    {
+      "name": "南约",
+      "code": "1411",
+      "url": "https://www.szmc.net/zdxx?StieCode=1411",
+      "location": "南约站位于龙岗区宝荷路与碧新路交汇处。"
+    },
+    {
+      "name": "宝龙",
+      "code": "1412",
+      "url": "https://www.szmc.net/zdxx?StieCode=1412",
+      "location": "宝龙站位于龙岗区宝龙大道与宝龙四路交叉口处。"
+    },
+    {
+      "name": "锦龙",
+      "code": "1413",
+      "url": "https://www.szmc.net/zdxx?StieCode=1413",
+      "location": "锦龙站位于坪山区坪山大道与荣昌路、体育二路交叉口。"
+    },
+    {
+      "name": "坪山围",
+      "code": "1414",
+      "url": "https://www.szmc.net/zdxx?StieCode=1414",
+      "location": "坪山围站位于坪山区坪山大道与深汕路交叉口处，为14、16号线换乘站。"
+    },
+    {
+      "name": "坪山广场",
+      "code": "1415",
+      "url": "https://www.szmc.net/zdxx?StieCode=1415",
+      "location": "坪山广场站位于坪山区坪山大道与行政八路交叉口处。"
+    },
+    {
+      "name": "坪山中心",
+      "code": "1416",
+      "url": "https://www.szmc.net/zdxx?StieCode=1416",
+      "location": "坪山中心站位于坪山区坪山大道和兰竹西路交叉口处。"
+    },
+    {
+      "name": "坑梓",
+      "code": "1417",
+      "url": "https://www.szmc.net/zdxx?StieCode=1417",
+      "location": "坑梓站位于坪山区坪山大道与吉祥路交叉口处。"
+    },
+    {
+      "name": "沙田",
+      "code": "1418",
+      "url": "https://www.szmc.net/zdxx?StieCode=1418",
+      "location": "沙田站位于坪山区坪山大道和金康路交叉口。"
+    },
+    {
+      "name": "园山西坑",
+      "code": "1601",
+      "url": "https://www.szmc.net/zdxx?StieCode=1601",
+      "location": "园山西坑站位于教育路与梧桐路交叉口处北侧。"
+    },
+    {
+      "name": "安良",
+      "code": "1602",
+      "url": "https://www.szmc.net/zdxx?StieCode=1602",
+      "location": "安良站位于惠盐中路东侧。"
+    },
+    {
+      "name": "福坑",
+      "code": "1603",
+      "url": "https://www.szmc.net/zdxx?StieCode=1603",
+      "location": "福坑站位于沙荷路与安业路交叉口。"
+    },
+    {
+      "name": "大康",
+      "code": "1604",
+      "url": "https://www.szmc.net/zdxx?StieCode=1604",
+      "location": "大康站位于沙荷路与规划坪南路交叉口，沿沙荷路东西向敷设,该站为地下站。"
+    },
+    {
+      "name": "园山",
+      "code": "1605",
+      "url": "https://www.szmc.net/zdxx?StieCode=1605",
+      "location": "园山站位于公园路与山子下路交叉口， 呈南北向布置。"
+    },
+    {
+      "name": "大安",
+      "code": "1606",
+      "url": "https://www.szmc.net/zdxx?StieCode=1606",
+      "location": "大安站位于山水中路与连山二路交叉口,沿连山二路呈南北向布置,该站为地下站。"
+    },
+    {
+      "name": "吉溪",
+      "code": "1607",
+      "url": "https://www.szmc.net/zdxx?StieCode=1607",
+      "location": "吉溪站位于大福路北侧，横坪公路南侧，永福路东侧，位于聚龙居项目地块内，该站为地下站。"
+    },
+    {
+      "name": "金源",
+      "code": "1608",
+      "url": "https://www.szmc.net/zdxx?StieCode=1608",
+      "location": "金源站位于长江埔路与长金路交叉口东西侧，沿长江埔路呈东西向敷设，该站为地下站。"
+    },
+    {
+      "name": "大运中心",
+      "code": "1610",
+      "url": "https://www.szmc.net/zdxx?StieCode=1610",
+      "location": "大运中心站位于黄阁路与龙翔大道交叉口西北侧、沿黄阁路东南-西北向布置，该站为地下站。"
+    },
+    {
+      "name": "龙城公园",
+      "code": "1611",
+      "url": "https://www.szmc.net/zdxx?StieCode=1611",
+      "location": "龙城公园站位于深圳市龙岗区黄阁路与如意路交叉口处、车站主体沿黄阁路南北向布置，该站为地下站。"
+    },
+    {
+      "name": "黄阁坑",
+      "code": "1612",
+      "url": "https://www.szmc.net/zdxx?StieCode=1612",
+      "location": "黄阁坑站位于龙岗区黄阁路与清林路交叉口处、车站主体沿黄阁路呈南北走向布置，该站为地下站。"
+    },
+    {
+      "name": "愉园",
+      "code": "1613",
+      "url": "https://www.szmc.net/zdxx?StieCode=1613",
+      "location": "愉园站位于龙平西路与愉龙路交叉口、沿龙平西路呈东西向布置，该站为地下站。"
+    },
+    {
+      "name": "回龙埔",
+      "code": "1614",
+      "url": "https://www.szmc.net/zdxx?StieCode=1614",
+      "location": "回龙埔站位于龙平西路与吉祥中路交叉口西侧，沿龙平西路东西向布置，该站为地下站。"
+    },
+    {
+      "name": "尚景",
+      "code": "1615",
+      "url": "https://www.szmc.net/zdxx?StieCode=1615",
+      "location": "尚景站位于龙岗区龙平西路与长兴南路交叉口处、车站主体沿龙平西路呈东西走向布置，该站为地下站。"
+    },
+    {
+      "name": "盛平",
+      "code": "1616",
+      "url": "https://www.szmc.net/zdxx?StieCode=1616",
+      "location": "盛平站位于龙平西、东路与龙城大道交叉口、沿龙平西、东路东西向布置，该站为地下站。"
+    },
+    {
+      "name": "龙园",
+      "code": "1617",
+      "url": "https://www.szmc.net/zdxx?StieCode=1617",
+      "location": "龙园站位于龙平东路与龙园路交叉口、沿龙平东路东西向跨路口布置，该站为地下站。"
+    },
+    {
+      "name": "新塘围",
+      "code": "1619",
+      "url": "https://www.szmc.net/zdxx?StieCode=1619",
+      "location": "新塘围站位于龙岗区深汕路与兴东大街交叉口处、车站主体沿深汕路呈东西走向布置，该站为地下站。"
+    },
+    {
+      "name": "龙东",
+      "code": "1620",
+      "url": "https://www.szmc.net/zdxx?StieCode=1620",
+      "location": "龙东站位于龙岗区深汕路与爱南路交叉口处、车站主体沿深汕路呈东西走向布置，该站为地下站。"
+    },
+    {
+      "name": "宝龙同乐",
+      "code": "1621",
+      "url": "https://www.szmc.net/zdxx?StieCode=1621",
+      "location": "宝龙同乐站位于汕公路与同力路交叉口、沿深汕公路路中呈东西向跨路中布置，该站为地下站。"
+    },
+    {
+      "name": "坪山",
+      "code": "1622",
+      "url": "https://www.szmc.net/zdxx?StieCode=1622",
+      "location": "坪山站位于高铁坪山站南侧站前路下、呈东西向布置。"
+    },
+    {
+      "name": "新和",
+      "code": "1623",
+      "url": "https://www.szmc.net/zdxx?StieCode=1623",
+      "location": "新和站位于昌盛路与兰竹西路交叉口、沿昌盛路路中呈南北向布置，该站为地下站。"
+    },
+    {
+      "name": "六和",
+      "code": "1624",
+      "url": "https://www.szmc.net/zdxx?StieCode=1624",
+      "location": "六和站位于深汕公路与东纵路交叉口东北侧地块内、车站呈南北向布置，该站为地下站。"
+    },
+    {
+      "name": "坪环",
+      "code": "1626",
+      "url": "https://www.szmc.net/zdxx?StieCode=1626",
+      "location": "坪环站位于坪山区东纵路与中兴路交叉口处、车站主体沿东纵路呈东西走向布置，该站为地下站。"
+    },
+    {
+      "name": "东纵纪念馆",
+      "code": "1627",
+      "url": "https://www.szmc.net/zdxx?StieCode=1627",
+      "location": "东纵纪念馆站位于三洋湖路与东纵路交叉口、沿东纵路东西向布置，该站为地下站。"
+    },
+    {
+      "name": "沙壆",
+      "code": "1628",
+      "url": "https://www.szmc.net/zdxx?StieCode=1628",
+      "location": "沙壆站位于东纵路与沙新路交汇处、车站沿东纵路东西向布置，该站为地下站。"
+    },
+    {
+      "name": "燕子湖",
+      "code": "1629",
+      "url": "https://www.szmc.net/zdxx?StieCode=1629",
+      "location": "燕子湖站位于东纵路与荔景南路交叉口西侧，沿东纵路呈东西向布置，该站为地下站。"
+    },
+    {
+      "name": "石井",
+      "code": "1630",
+      "url": "https://www.szmc.net/zdxx?StieCode=1630",
+      "location": "石井站位于金田路与绿茵南路（规划路）交叉口西侧、车站沿金田路呈东西向布置，该站为地下站。"
+    },
+    {
+      "name": "技术大学",
+      "code": "1631",
+      "url": "https://www.szmc.net/zdxx?StieCode=1631",
+      "location": "技术大学站位于兰田路与创景路交叉口、沿兰田路东西向布置，该站为地下站。"
+    },
+    {
+      "name": "田心",
+      "code": "1632",
+      "url": "https://www.szmc.net/zdxx?StieCode=1632",
+      "location": "田心站位于坪山金田路与新田路交叉口、沿坪山金田路东北-西南向布置，该站为地下站。"
+    },
+    {
+      "name": "国展南",
+      "code": "2002",
+      "url": "https://www.szmc.net/zdxx?StieCode=2002",
+      "location": "国展南站位于重庆路。"
+    },
+    {
+      "name": "会展城",
+      "code": "2005",
+      "url": "https://www.szmc.net/zdxx?StieCode=2005",
+      "location": "会展城站位于和汇路与景从路交叉口西侧。"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0322",
+  "stationID": "s_da46a997e609",
+  "stationName": "塘坑",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0322"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0322",
+  "retrievedAt": "2026-09-28T16:09:26+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "bfc8f9e52ee61b1067e2a1640bd9c02d2b28699744f6107db3dc968f345ac8b7"
+}

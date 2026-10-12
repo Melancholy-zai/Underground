@@ -1,0 +1,16 @@
+{
+  "code": "1018",
+  "stationID": "s_c489f5ca47aa",
+  "stationName": "凉帽山",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1018"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1018",
+  "retrievedAt": "2026-09-28T16:13:32+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "dc28d2ebfa9addc7885157464573b67ea18a1c00e20517333c5aa88e25e1a19e"
+}

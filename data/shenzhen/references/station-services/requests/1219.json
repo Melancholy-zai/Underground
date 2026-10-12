@@ -1,0 +1,16 @@
+{
+  "code": "1219",
+  "stationID": "s_d780912eb75e",
+  "stationName": "平峦山",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1219"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1219",
+  "retrievedAt": "2026-09-28T16:14:29+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "4ccf668630a757cf3644c340953a9f34c324cea54806e06bbef311f00b31d34d"
+}

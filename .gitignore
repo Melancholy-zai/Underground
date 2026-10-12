@@ -1,0 +1,11 @@
+.build/
+build/
+.DS_Store
+*.xcuserstate
+xcuserdata/
+__pycache__/
+*.pyc
+.venv/
+*.xcresult/
+.swiftpm/
+/Underground-source.zip

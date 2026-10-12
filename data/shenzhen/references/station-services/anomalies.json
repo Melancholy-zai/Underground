@@ -1,0 +1,449 @@
+{
+  "schemaVersion": 1,
+  "auditDate": "2026-09-28",
+  "reviewer": "Codex source audit",
+  "purpose": "研究和人工核验输入；未解决方向冲突不生成正式时刻，公告不自动覆盖动态查询。",
+  "sources": [
+    {
+      "id": "szmc-station-0232",
+      "url": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0232",
+      "accessedAt": "2026-09-28",
+      "sourcePublishedAt": null,
+      "kind": "operator_dynamic_query",
+      "rawPath": "raw/0232.json",
+      "requestPath": "requests/0232.json",
+      "sha256": "d052a9759c9aaed1ee08fdab32c265c65cdc1bf1d1852d2f96070f380dbf2d07",
+      "retrievedAt": "2026-09-28T16:08:57+08:00"
+    },
+    {
+      "id": "szmc-station-0812",
+      "url": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0812",
+      "accessedAt": "2026-09-28",
+      "sourcePublishedAt": null,
+      "kind": "operator_dynamic_query",
+      "rawPath": "raw/0812.json",
+      "requestPath": "requests/0812.json",
+      "sha256": "d324be3a9dd6d822b2b8e3de702f412f11156da631e7f13655dcf75b37fb0053",
+      "retrievedAt": "2026-09-28T16:05:58+08:00"
+    },
+    {
+      "id": "szmc-query-script",
+      "url": "https://www.szmc.net/styles/index/zdWeb/js/base.js",
+      "accessedAt": "2026-09-28",
+      "sourcePublishedAt": null,
+      "kind": "operator_site_implementation",
+      "rawPath": "raw/base.js",
+      "sha256": "db94f6dfe7b71cbd62185bc777f5566ec7f185c5fa8c61897d010a422d9a6d95"
+    },
+    {
+      "id": "szmc-through-opening",
+      "url": "https://www.szmc.net/home/xinwenzhongxin/gongsixinwen/202512/105561.html",
+      "accessedAt": "2026-09-28",
+      "sourcePublishedAt": null,
+      "kind": "operator_announcement",
+      "note": "页面页头日期与搜索摘录不一致，发布日期留空；正文明确2025-12-28开通及2&8贯通关系，但不提供本站逐班终点和首末分钟。",
+      "publicationDateObservations": {
+        "openedPageHeader": "2025-12-25",
+        "searchExtractHeader": "2025-12-29"
+      }
+    },
+    {
+      "id": "jtys-network",
+      "url": "https://jtys.sz.gov.cn/ydmh/jtcx/dtcx_180970/dtxl/content/post_12601090.html",
+      "accessedAt": "2026-09-28",
+      "sourcePublishedAt": "2026-01-14",
+      "kind": "government_service_information",
+      "note": "页面标注发布时间；正文可能后续维护，不能当所有线路事实的生效日。"
+    },
+    {
+      "id": "szmc-line2-accessibility",
+      "url": "https://www.szmc.net/szmc_m/shentieyunying/yunyingzixun/wuzhangaichengchezhinan/line2/",
+      "accessedAt": "2026-09-28",
+      "sourcePublishedAt": null,
+      "kind": "operator_service_information"
+    },
+    {
+      "id": "szmc-line8-accessibility",
+      "url": "https://www.szmc.net/szmc_m/shentieyunying/yunyingzixun/wuzhangaichengchezhinan/Line8/",
+      "accessedAt": "2026-09-28",
+      "sourcePublishedAt": null,
+      "kind": "operator_service_information"
+    },
+    {
+      "id": "jtys-20260924",
+      "url": "https://jtys.sz.gov.cn/jtzx/wycx/dtcx/cxtx/content/post_12999802.html",
+      "accessedAt": "2026-09-28",
+      "sourcePublishedAt": "2026-09-24",
+      "kind": "government_published_notice",
+      "attributedOriginalPublisher": "深圳晚报"
+    },
+    {
+      "id": "jtys-20260601",
+      "url": "https://jtys.sz.gov.cn/jtzx/wycx/dtcx/cxtx/content/post_12816726.html",
+      "accessedAt": "2026-09-28",
+      "sourcePublishedAt": "2026-06-01",
+      "kind": "government_published_notice",
+      "attributedOriginalPublisher": "深圳特区报"
+    },
+    {
+      "id": "jtys-20260707",
+      "url": "https://jtys.sz.gov.cn/jtzx/wycx/dtcx/cxtx/content/post_12882074.html",
+      "accessedAt": "2026-09-28",
+      "sourcePublishedAt": "2026-07-07",
+      "kind": "government_published_notice",
+      "attributedOriginalPublisher": "深圳特区报"
+    },
+    {
+      "id": "jtys-notice-index",
+      "url": "https://jtys.sz.gov.cn/jtzx/wycx/dtcx/cxtx/",
+      "accessedAt": "2026-09-28",
+      "sourcePublishedAt": null,
+      "kind": "government_notice_index"
+    }
+  ],
+  "anomalies": [
+    {
+      "id": "liantang-line-direction-conflict",
+      "stationID": "s_c5e75ef87a02",
+      "stationName": "莲塘",
+      "sourceStationCode": "0232",
+      "status": "unresolved",
+      "decision": "quarantine_conflicting_timetable_rows",
+      "verifiedAt": "2026-09-28",
+      "allowedMapLineIDs": [
+        "l2"
+      ],
+      "observations": [
+        {
+          "sourcePath": "workDay[0]",
+          "original": {
+            "suoshuluxian": "2号线",
+            "xinshifangxiang": "赤湾",
+            "shoubanche": "05:57",
+            "mobanche": "23:29",
+            "xinshifangxiangxia": "莲塘",
+            "shoubanchexia": "06:16",
+            "mobanchexia": "23:57"
+          }
+        },
+        {
+          "sourcePath": "workDay[1]",
+          "original": {
+            "suoshuluxian": "8号线",
+            "xinshifangxiang": "梧桐山南",
+            "shoubanche": "05:57",
+            "mobanche": "23:29",
+            "xinshifangxiangxia": "溪涌",
+            "shoubanchexia": "06:16",
+            "mobanchexia": "23:57"
+          }
+        },
+        {
+          "sourcePath": "dayoff[0]",
+          "original": {
+            "suoshuluxian": "2号线",
+            "xinshifangxiang": "赤湾",
+            "shoubanche": "05:50",
+            "mobanche": "23:29",
+            "xinshifangxiangxia": "莲塘",
+            "shoubanchexia": "06:16",
+            "mobanchexia": "23:57"
+          }
+        },
+        {
+          "sourcePath": "dayoff[1]",
+          "original": {
+            "suoshuluxian": "8号线",
+            "xinshifangxiang": "梧桐山南",
+            "shoubanche": "05:50",
+            "mobanche": "23:29",
+            "xinshifangxiangxia": "溪涌",
+            "shoubanchexia": "06:16",
+            "mobanchexia": "23:57"
+          }
+        },
+        {
+          "sourcePath": "holidays[0]",
+          "original": {
+            "suoshuluxian": "2号线",
+            "xinshifangxiang": "赤湾",
+            "shoubanche": "05:50",
+            "mobanche": "00:29",
+            "xinshifangxiangxia": "莲塘",
+            "shoubanchexia": "06:16",
+            "mobanchexia": "00:57"
+          }
+        },
+        {
+          "sourcePath": "holidays[1]",
+          "original": {
+            "suoshuluxian": "8号线",
+            "xinshifangxiang": "梧桐山南",
+            "shoubanche": "05:50",
+            "mobanche": "00:29",
+            "xinshifangxiangxia": "溪涌",
+            "shoubanchexia": "06:16",
+            "mobanchexia": "00:57"
+          }
+        }
+      ],
+      "adjustedValue": null,
+      "sourceIDs": [
+        "szmc-station-0232",
+        "szmc-query-script",
+        "szmc-through-opening",
+        "jtys-network",
+        "szmc-line2-accessibility",
+        "szmc-line8-accessibility"
+      ],
+      "findings": [
+        "每种服务日返回2号线与8号线两行，时间完全相同，方向标签不同。",
+        "2号线东行标签为本站莲塘；8号线西行标签为梧桐山南，无法直接解释本站相反行驶方向。",
+        "官网脚本将旧0801查询重定向0232；官网目录/无障碍页仍将莲塘列入2号线、8号线由梧桐山南开始。",
+        "贯通运营证据支持运营关联，但不构成本站每条首末班实际终点的直接证据。"
+      ],
+      "recommendation": "保留原始6行。至少隔离额外8号线行及2号线指向本站方向；可单独审阅无冲突的2号线赤湾方向。为莲塘添加l8或全局替换方向均未获本次证据支持。出口可独立整理，不随时刻冲突丢弃。"
+    },
+    {
+      "id": "xichong-direction-not-proven-destination",
+      "stationID": "s_7eb754becf47",
+      "stationName": "溪涌",
+      "sourceStationCode": "0812",
+      "status": "unresolved",
+      "decision": "do_not_infer_last_destination",
+      "verifiedAt": "2026-09-28",
+      "observations": [
+        {
+          "sourcePath": "workDay[0]",
+          "original": {
+            "suoshuluxian": "8号线",
+            "xinshifangxiang": "梧桐山南",
+            "shoubanche": "05:54",
+            "mobanche": "22:56",
+            "xinshifangxiangxia": "溪涌",
+            "shoubanchexia": "--",
+            "mobanchexia": "--"
+          }
+        },
+        {
+          "sourcePath": "dayoff[0]",
+          "original": {
+            "suoshuluxian": "8号线",
+            "xinshifangxiang": "梧桐山南",
+            "shoubanche": "05:57",
+            "mobanche": "22:56",
+            "xinshifangxiangxia": "溪涌",
+            "shoubanchexia": "--",
+            "mobanchexia": "--"
+          }
+        },
+        {
+          "sourcePath": "holidays[0]",
+          "original": {
+            "suoshuluxian": "8号线",
+            "xinshifangxiang": "梧桐山南",
+            "shoubanche": "05:57",
+            "mobanche": "23:56",
+            "xinshifangxiangxia": "溪涌",
+            "shoubanchexia": "--",
+            "mobanchexia": "--"
+          }
+        }
+      ],
+      "adjustedValue": null,
+      "sourceIDs": [
+        "szmc-station-0812",
+        "szmc-through-opening",
+        "jtys-network",
+        "szmc-line2-accessibility"
+      ],
+      "findings": [
+        "三个服务日西行标签均为梧桐山南。",
+        "来源字段是行驶方向，不是明确末班终点；未找到把本站05:54/05:57或22:56/23:56逐项关联实际终到站的运营方证据。",
+        "2&8贯通运营、赤湾至溪涌的线路站序可确认，但不能据此排除短线、回库或不同首末班安排。"
+      ],
+      "recommendation": "保留原始方向及候选分钟，不把梧桐山南或赤湾写入lastDestination；如产品无法准确表达来源方向未核实，暂隔离这些时刻。不可全局替换梧桐山南。出口可独立整理。"
+    }
+  ],
+  "appliedOverrides": [],
+  "documentedAdjustments": [
+    {
+      "id": "l6-songgang-first-20260601",
+      "stationID": "s_f09e3945a15f",
+      "stationName": "松岗",
+      "lineID": "l6",
+      "direction": "科学馆",
+      "field": "first",
+      "originalValue": {
+        "clock": "06:30",
+        "dayOffset": 0
+      },
+      "adjustedValue": {
+        "clock": "06:20",
+        "dayOffset": 0
+      },
+      "validFrom": "2026-06-01",
+      "validThrough": null,
+      "serviceDays": null,
+      "sourceIDs": [
+        "jtys-20260601"
+      ],
+      "verifiedAt": "2026-09-28",
+      "status": "documented_change_not_automatically_applied",
+      "note": "原值和新值均由公告明示；尚未在本审计中核对松岗动态缓存，不能宣称已完成该站现行全表复核。"
+    },
+    {
+      "id": "l6-science-museum-first-20260601",
+      "stationID": "s_5c1c524b02aa",
+      "stationName": "科学馆",
+      "lineID": "l6",
+      "direction": "松岗",
+      "field": "first",
+      "originalValue": null,
+      "adjustedValue": {
+        "clock": "06:10",
+        "dayOffset": 0
+      },
+      "validFrom": "2026-06-01",
+      "validThrough": null,
+      "serviceDays": null,
+      "sourceIDs": [
+        "jtys-20260601"
+      ],
+      "verifiedAt": "2026-09-28",
+      "status": "documented_change_not_automatically_applied",
+      "note": "公告未给出旧首班时间或工作日分类，不补造；尚未在本审计中核对科学馆动态缓存。"
+    }
+  ],
+  "datedNotices": [
+    {
+      "id": "2026-midautumn-nationalday-extension",
+      "sourceIDs": [
+        "jtys-20260924"
+      ],
+      "applicableDates": [
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07"
+      ],
+      "validFrom": null,
+      "validThrough": null,
+      "displayAs": "dated_text_only",
+      "excludedLineIDs": [
+        "l20"
+      ],
+      "note": "适用日期不连续，不以9月24日至10月7日连续有效期替代。9月28日不在名单中。",
+      "rules": [
+        {
+          "scope": "全网（不含20号线）",
+          "text": "这7天通常延长运营1小时，4号线延长1.5小时；全程末班发车约在次日零点，另有13条线路提供半程末班。公告未给逐站精确分钟或13条线路名单。"
+        },
+        {
+          "stationID": "s_6a5347ac5f65",
+          "stationName": "机场",
+          "lineIDs": [
+            "l11"
+          ],
+          "directions": "both",
+          "applicableDates": [
+            "2026-09-24",
+            "2026-09-25",
+            "2026-09-30",
+            "2026-10-01",
+            "2026-10-05",
+            "2026-10-06",
+            "2026-10-07"
+          ],
+          "text": "11号线机场站两个方向末班发车均不早于次日01:00。"
+        },
+        {
+          "stationID": "s_a872658c8224",
+          "stationName": "深圳北站",
+          "lineIDs": [
+            "l4",
+            "l5",
+            "l6"
+          ],
+          "directions": "both",
+          "applicableDates": [
+            "2026-09-24",
+            "2026-09-25",
+            "2026-09-30",
+            "2026-10-01",
+            "2026-10-05"
+          ],
+          "text": "这些日期深圳北站4、5、6号线两个方向末班发车均不早于次日01:00。"
+        },
+        {
+          "stationID": "s_a872658c8224",
+          "stationName": "深圳北站",
+          "lineIDs": [
+            "l4",
+            "l5",
+            "l6"
+          ],
+          "directions": "both",
+          "applicableDates": [
+            "2026-10-06",
+            "2026-10-07"
+          ],
+          "text": "10月6日和7日进一步延长运营，深圳北站4、5、6号线两个方向末班发车均不早于次日02:15。"
+        }
+      ],
+      "prohibitions": [
+        "不得把不早于或约零点写为精确last.clock",
+        "不得将动态holidays数组自动关联这七天",
+        "不得按一般延长时长为每站计算新的末班分钟",
+        "不得将20号线纳入本公告范围"
+      ]
+    },
+    {
+      "id": "l3-short-service-20260601",
+      "sourceIDs": [
+        "jtys-20260601"
+      ],
+      "validFrom": "2026-06-01",
+      "validThrough": null,
+      "applicableDates": null,
+      "stationID": "s_11af5ec73183",
+      "stationName": "坪地六联",
+      "lineID": "l3",
+      "direction": "福保",
+      "shortServiceDestination": "华新",
+      "displayAs": "dated_text_only",
+      "text": "2026年6月1日起，往福保方向调整到华新的半程末班安排，发车时段23:00至23:30、间隔约10分钟；至福保全程末班仍为23:00。",
+      "exactFullRouteLast": {
+        "clock": "23:00",
+        "dayOffset": 0
+      },
+      "dynamicCrossCheck": {
+        "path": "raw/0338.json",
+        "groups": [
+          "workDay",
+          "dayoff"
+        ],
+        "result": "两组往福保末班均23:00，与公告全程末班吻合；动态数组未含这项半程服务。"
+      },
+      "note": "半程时段作为文字，不能由约10分钟推算23:10、23:20等具体班次；公告未明确节假日分类，不覆盖特定日期延时公告。"
+    }
+  ],
+  "additionalChecks": [
+    {
+      "sourceID": "jtys-20260707",
+      "result": "暑运加密公告涉及2&8间隔调整，未给出精确首末班、清晰结束日或两处争议终点；不能用于方向修正。"
+    },
+    {
+      "sourceID": "jtys-notice-index",
+      "result": "实际核对出行提醒栏目第一页及相关首末班文章；不是运营方所有渠道和历史公告的穷尽审计。"
+    }
+  ],
+  "validationLimits": [
+    "没有证明莲塘冲突标签的可靠替代值；没有证明溪涌某分钟列车的实际终点。",
+    "查询与公告访问日期不是时刻生效日期。",
+    "两篇交通局公告正文分别标注媒体来源，已如实记录，不包装成独立于媒体的第二份证据。"
+  ]
+}

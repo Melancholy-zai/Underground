@@ -1,0 +1,16 @@
+{
+  "code": "1205",
+  "stationID": "s_93b3dbded7aa",
+  "stationName": "四海",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1205"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1205",
+  "retrievedAt": "2026-09-28T16:14:12+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1ed7e930756b8eac0abcb3dd751956b975cfc69dd6e1cb6709f51b85bf1b3842"
+}

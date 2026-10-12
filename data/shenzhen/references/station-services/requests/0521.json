@@ -1,0 +1,16 @@
+{
+  "code": "0521",
+  "stationID": "s_a872658c8224",
+  "stationName": "深圳北站",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0521"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0521",
+  "retrievedAt": "2026-09-28T16:10:41+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "4089b4a1c42597127d8351ec93245cac495904493e4c243f7ccbf0933e2aae00"
+}

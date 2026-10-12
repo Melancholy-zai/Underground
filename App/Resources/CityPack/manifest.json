@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 2,
+  "cityID": "shenzhen",
+  "version": "0.4.0-station-services",
+  "files": {
+    "city.json": "e5e158ec3a8b312107c7ef3cba38bd8e5812bb730365ed28e3ac5505929f012c",
+    "map.svg": "4b92bcacaf74126a22206f671bce5932239ff46f8cc441772a96735311d28a1e"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0323",
+  "stationID": "s_e2b972b20c97",
+  "stationName": "横岗",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0323"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0323",
+  "retrievedAt": "2026-09-28T16:09:27+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "7a480acb9f1b8e149154bfff2f4ce3e163dcf7241139c848223427e63fce4438"
+}

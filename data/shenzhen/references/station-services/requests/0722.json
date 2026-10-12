@@ -1,0 +1,16 @@
+{
+  "code": "0722",
+  "stationID": "s_bc29e52523c0",
+  "stationName": "华新",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0722"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0722",
+  "retrievedAt": "2026-09-28T16:12:09+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "6f1a9bc23a460d05b0fdbae1ff9b644b0246c372914a1a0bd8dc5e32acbdcae0"
+}

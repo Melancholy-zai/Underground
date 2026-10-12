@@ -1,0 +1,16 @@
+{
+  "code": "1213",
+  "stationID": "s_11ebbb7d5d98",
+  "stationName": "新安公园",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1213"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1213",
+  "retrievedAt": "2026-09-28T16:14:22+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "65ab903b72b251dc048a7c6bcaf6b3459522f7da9bd6dfc532a27a4f146e76c1"
+}

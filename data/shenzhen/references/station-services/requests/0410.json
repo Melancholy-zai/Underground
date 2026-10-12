@@ -1,0 +1,16 @@
+{
+  "code": "0410",
+  "stationID": "s_a872658c8224",
+  "stationName": "深圳北站",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0410"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0410",
+  "retrievedAt": "2026-09-28T16:09:58+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "c5b8e296a4420a2817d894d923bfbf52ce942c1f3e0fb0224fdae1b9d9148e0c"
+}

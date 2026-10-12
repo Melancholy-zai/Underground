@@ -1,0 +1,16 @@
+{
+  "code": "1309",
+  "stationID": "s_e6b8617d1b89",
+  "stationName": "石鼓",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1309"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1309",
+  "retrievedAt": "2026-09-28T16:15:05+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "8b84722239a2e338209c750b30bbc6d80ad87680a1a3948ce8c15a2c9a485fd7"
+}

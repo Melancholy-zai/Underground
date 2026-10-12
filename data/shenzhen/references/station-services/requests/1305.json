@@ -1,0 +1,16 @@
+{
+  "code": "1305",
+  "stationID": "s_e731eb2eb04d",
+  "stationName": "粤海门",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1305"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1305",
+  "retrievedAt": "2026-09-28T16:15:00+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "ad729a0701535f21fd5c62386c0c76c9c280be8fae29552684a97d566a30d280"
+}

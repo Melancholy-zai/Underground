@@ -1,0 +1,16 @@
+{
+  "code": "1103",
+  "stationID": "s_019cb23ab781",
+  "stationName": "福星",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1103"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1103",
+  "retrievedAt": "2026-09-28T16:13:43+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "b3838be5e44354bd9d884e1d21315a6e6687df4c15466fbd0c5450bbefe1f366"
+}

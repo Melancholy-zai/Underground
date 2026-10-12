@@ -1,0 +1,16 @@
+{
+  "code": "0215",
+  "stationID": "s_0a7341da8f3f",
+  "stationName": "安托山",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0215"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0215",
+  "retrievedAt": "2026-09-28T16:08:36+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "c34457b3b3c9785de88aa41ec1ce6fa7fd126eff9ab6f9b5968c2c7006bcb9d6"
+}

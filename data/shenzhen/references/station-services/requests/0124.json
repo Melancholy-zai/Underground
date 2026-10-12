@@ -1,0 +1,16 @@
+{
+  "code": "0124",
+  "stationID": "baoanzhongxin",
+  "stationName": "宝安中心",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0124"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0124",
+  "retrievedAt": "2026-09-28T16:08:10+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "141b575cdb120705410290983ae2891257498af7e60dfe9c6e07b13c464acc27"
+}

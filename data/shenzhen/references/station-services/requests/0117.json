@@ -1,0 +1,16 @@
+{
+  "code": "0117",
+  "stationID": "gaoxinyuan",
+  "stationName": "高新园",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0117"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0117",
+  "retrievedAt": "2026-09-28T16:08:02+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "8e959e31fe24a28246b6c07825c206557f397fb2ef0b0bd1fe5ae6e89e631326"
+}

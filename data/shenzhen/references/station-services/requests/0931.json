@@ -1,0 +1,16 @@
+{
+  "code": "0931",
+  "stationID": "s_133aa13e8be6",
+  "stationName": "向西村",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0931"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0931",
+  "retrievedAt": "2026-09-28T16:19:37+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f3fa1f163a4ff8eed12de5ce26ac3f069580e7690c0fcdc0e01bc7ecfa6a6691"
+}

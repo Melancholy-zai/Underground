@@ -1,0 +1,16 @@
+{
+  "code": "0531",
+  "stationID": "s_87d93e26688f",
+  "stationName": "布心",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0531"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0531",
+  "retrievedAt": "2026-09-28T16:19:18+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "2f60cb82a63edc03cbea9410761f73d7449d236afdf3118a2587a9d4f5cda137"
+}

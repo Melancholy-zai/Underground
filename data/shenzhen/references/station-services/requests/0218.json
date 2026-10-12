@@ -1,0 +1,16 @@
+{
+  "code": "0218",
+  "stationID": "s_f4b51b9c3bf6",
+  "stationName": "香梅北",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0218"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0218",
+  "retrievedAt": "2026-09-28T16:08:40+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "98b1f27a738d39a77afa2bbdbf004b6b750009d0b8938afbad5c1cd3df650e81"
+}

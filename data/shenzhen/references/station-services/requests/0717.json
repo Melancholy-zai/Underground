@@ -1,0 +1,16 @@
+{
+  "code": "0717",
+  "stationID": "s_77a624f5c489",
+  "stationName": "福民",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0717"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0717",
+  "retrievedAt": "2026-09-28T16:21:46+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "0dcede6b3a76aa00aad1f716d82b2dcdfa7510602be543a4664d3b3879acc98b"
+}

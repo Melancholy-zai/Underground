@@ -1,0 +1,16 @@
+{
+  "code": "1601",
+  "stationID": "s_ae869d5dfd89",
+  "stationName": "园山西坑",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1601"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1601",
+  "retrievedAt": "2026-09-28T16:15:48+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "a15efdeaf0c5384edbed443bb4437c426b30ed81660bd82cca04e0932dac68d7"
+}

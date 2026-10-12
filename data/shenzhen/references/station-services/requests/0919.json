@@ -1,0 +1,16 @@
+{
+  "code": "0919",
+  "stationID": "s_36fb06950277",
+  "stationName": "下梅林",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0919"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0919",
+  "retrievedAt": "2026-09-28T16:12:53+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "38db12d4bd45c8393d9ce6ccbd739cf4de9c75a655ad6e13607c654ae2f689d9"
+}

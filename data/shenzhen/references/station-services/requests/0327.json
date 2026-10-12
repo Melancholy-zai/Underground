@@ -1,0 +1,16 @@
+{
+  "code": "0327",
+  "stationID": "s_2938e96ae2a8",
+  "stationName": "爱联",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0327"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0327",
+  "retrievedAt": "2026-09-28T16:09:32+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "858e574da50136b215aa4229dbd20f2b2e2e2110200b7c91362914756310cc13"
+}

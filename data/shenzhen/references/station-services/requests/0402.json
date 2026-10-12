@@ -1,0 +1,16 @@
+{
+  "code": "0402",
+  "stationID": "s_77a624f5c489",
+  "stationName": "福民",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0402"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0402",
+  "retrievedAt": "2026-09-28T16:09:48+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "820b8edb3b3c30c5a8c1e5c23eea52fc6d315d4c0d99cd58b6c60880f17a11ed"
+}

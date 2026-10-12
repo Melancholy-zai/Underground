@@ -1,0 +1,304 @@
+{
+  "checkedAt": "2026-09-28",
+  "scope": "目录全量对账，6个站点详情抽查；不是全网服务资料核验完成",
+  "directoryURL": "https://www.szmc.net/styles/index/zdWeb/js/xlurlList.js",
+  "directorySHA256": "3cc16e1d2c34e63460dfc63ef7dedd7c0d1165e1f777c9979c25226f7df29b27",
+  "membershipCount": 432,
+  "uniqueStationCount": 351,
+  "normalizationRules": [
+    "trim surrounding whitespace (观澜湖 has trailing tab)",
+    "explicit alias 深圳北 -> 深圳北站"
+  ],
+  "lineCoverage": [
+    {
+      "lineID": "l1",
+      "name": "1号线",
+      "matchedMemberships": 30,
+      "missing": []
+    },
+    {
+      "lineID": "l2",
+      "name": "2号线",
+      "matchedMemberships": 32,
+      "missing": []
+    },
+    {
+      "lineID": "l3",
+      "name": "3号线",
+      "matchedMemberships": 38,
+      "missing": []
+    },
+    {
+      "lineID": "l4",
+      "name": "4号线",
+      "matchedMemberships": 23,
+      "missing": []
+    },
+    {
+      "lineID": "l5",
+      "name": "5号线",
+      "matchedMemberships": 37,
+      "missing": []
+    },
+    {
+      "lineID": "l6",
+      "name": "6号线",
+      "matchedMemberships": 27,
+      "missing": []
+    },
+    {
+      "lineID": "l6b",
+      "name": "6号线支线",
+      "matchedMemberships": 7,
+      "missing": []
+    },
+    {
+      "lineID": "l7",
+      "name": "7号线",
+      "matchedMemberships": 29,
+      "missing": []
+    },
+    {
+      "lineID": "l8",
+      "name": "8号线",
+      "matchedMemberships": 11,
+      "missing": []
+    },
+    {
+      "lineID": "l9",
+      "name": "9号线",
+      "matchedMemberships": 32,
+      "missing": []
+    },
+    {
+      "lineID": "l10",
+      "name": "10号线",
+      "matchedMemberships": 24,
+      "missing": []
+    },
+    {
+      "lineID": "l11",
+      "name": "11号线",
+      "matchedMemberships": 22,
+      "missing": []
+    },
+    {
+      "lineID": "l12",
+      "name": "12号线",
+      "matchedMemberships": 39,
+      "missing": []
+    },
+    {
+      "lineID": "l13",
+      "name": "13号线",
+      "matchedMemberships": 26,
+      "missing": []
+    },
+    {
+      "lineID": "l14",
+      "name": "14号线",
+      "matchedMemberships": 18,
+      "missing": []
+    },
+    {
+      "lineID": "l16",
+      "name": "16号线",
+      "matchedMemberships": 32,
+      "missing": []
+    },
+    {
+      "lineID": "l20",
+      "name": "20号线",
+      "matchedMemberships": 5,
+      "missing": []
+    }
+  ],
+  "probes": [
+    {
+      "request": {
+        "method": "POST",
+        "url": "https://www.szmc.net/zdxx",
+        "form": {
+          "StieCode": "0101"
+        }
+      },
+      "siteName": "罗湖站",
+      "sha256": "4483f9dae727daafebbddf3b8839a3ad76cbfeace0872021e49bfff586f1a568",
+      "timeGroupCounts": {
+        "workDay": 1,
+        "dayoff": 1,
+        "holidays": 1
+      },
+      "exitCount": 8,
+      "observedTopLevelFields": [
+        "busInof",
+        "dayoff",
+        "enbusInof",
+        "enoutAndText",
+        "holidays",
+        "outAndText",
+        "siteCode",
+        "siteIntroduce",
+        "siteName",
+        "siteNameen",
+        "workDay"
+      ],
+      "reviewStatus": "response_observed_not_release_verified"
+    },
+    {
+      "request": {
+        "method": "POST",
+        "url": "https://www.szmc.net/zdxx",
+        "form": {
+          "StieCode": "0232"
+        }
+      },
+      "siteName": "莲塘站",
+      "sha256": "d052a9759c9aaed1ee08fdab32c265c65cdc1bf1d1852d2f96070f380dbf2d07",
+      "timeGroupCounts": {
+        "workDay": 2,
+        "dayoff": 2,
+        "holidays": 2
+      },
+      "exitCount": 3,
+      "observedTopLevelFields": [
+        "busInof",
+        "dayoff",
+        "enbusInof",
+        "enoutAndText",
+        "holidays",
+        "outAndText",
+        "siteCode",
+        "siteIntroduce",
+        "siteName",
+        "siteNameen",
+        "workDay"
+      ],
+      "reviewStatus": "response_observed_not_release_verified"
+    },
+    {
+      "request": {
+        "method": "POST",
+        "url": "https://www.szmc.net/zdxx",
+        "form": {
+          "StieCode": "0812"
+        }
+      },
+      "siteName": "溪涌站",
+      "sha256": "d324be3a9dd6d822b2b8e3de702f412f11156da631e7f13655dcf75b37fb0053",
+      "timeGroupCounts": {
+        "workDay": 1,
+        "dayoff": 1,
+        "holidays": 1
+      },
+      "exitCount": 4,
+      "observedTopLevelFields": [
+        "busInof",
+        "dayoff",
+        "enbusInof",
+        "enoutAndText",
+        "holidays",
+        "outAndText",
+        "siteCode",
+        "siteIntroduce",
+        "siteName",
+        "siteNameen",
+        "workDay"
+      ],
+      "reviewStatus": "response_observed_not_release_verified"
+    },
+    {
+      "request": {
+        "method": "POST",
+        "url": "https://www.szmc.net/zdxx",
+        "form": {
+          "StieCode": "0122"
+        }
+      },
+      "siteName": "前海湾站",
+      "sha256": "2aa909e185be9a4341932ad120f47c1447a3d3cd7644cdc9a693b342ace44a7a",
+      "timeGroupCounts": {
+        "workDay": 3,
+        "dayoff": 3,
+        "holidays": 3
+      },
+      "exitCount": 2,
+      "observedTopLevelFields": [
+        "busInof",
+        "dayoff",
+        "enbusInof",
+        "enoutAndText",
+        "holidays",
+        "outAndText",
+        "siteCode",
+        "siteIntroduce",
+        "siteName",
+        "siteNameen",
+        "workDay"
+      ],
+      "reviewStatus": "response_observed_not_release_verified"
+    },
+    {
+      "request": {
+        "method": "POST",
+        "url": "https://www.szmc.net/zdxx",
+        "form": {
+          "StieCode": "1326"
+        }
+      },
+      "siteName": "李松蓢站",
+      "sha256": "600444ae84ae9f22b86498b6216daa6a7b7fcab069b840f8fde5d492e0156eb0",
+      "timeGroupCounts": {
+        "workDay": 1,
+        "dayoff": 1,
+        "holidays": 1
+      },
+      "exitCount": 0,
+      "observedTopLevelFields": [
+        "busInof",
+        "dayoff",
+        "enbusInof",
+        "enoutAndText",
+        "holidays",
+        "outAndText",
+        "siteCode",
+        "siteIntroduce",
+        "siteName",
+        "siteNameen",
+        "workDay"
+      ],
+      "reviewStatus": "response_observed_not_release_verified"
+    },
+    {
+      "request": {
+        "method": "POST",
+        "url": "https://www.szmc.net/zdxx",
+        "form": {
+          "StieCode": "0338"
+        }
+      },
+      "siteName": "坪地六联站",
+      "sha256": "52dbc93b5e7974b87d9385570ca63e474d4578ca38a0690e2fb9137b9d332ff4",
+      "timeGroupCounts": {
+        "workDay": 1,
+        "dayoff": 1,
+        "holidays": 1
+      },
+      "exitCount": 4,
+      "observedTopLevelFields": [
+        "busInof",
+        "dayoff",
+        "enbusInof",
+        "enoutAndText",
+        "holidays",
+        "outAndText",
+        "siteCode",
+        "siteIntroduce",
+        "siteName",
+        "siteNameen",
+        "workDay"
+      ],
+      "reviewStatus": "response_observed_not_release_verified"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1208",
+  "stationID": "nanshan",
+  "stationName": "南山",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1208"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1208",
+  "retrievedAt": "2026-09-28T16:14:16+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "65e7c3422272f48b2f5e0c52c8d1ca0116f7315c1340b4e92f692dbc775c609e"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1306",
+  "stationID": "shenda",
+  "stationName": "深大",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1306"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1306",
+  "retrievedAt": "2026-09-28T16:19:52+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "c806be05b53a876affdc54c35970e29fe2e280dc709e4d5e52c82b82dc12d78a"
+}

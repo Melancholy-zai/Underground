@@ -1,0 +1,16 @@
+{
+  "code": "6605",
+  "stationID": "s_3b12a074d541",
+  "stationName": "圳美",
+  "lineID": "l6b",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "6605"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?6605",
+  "retrievedAt": "2026-09-28T16:11:39+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "e6922dd58fdf008555ba5a60fb6cd8c5ebf9b6b036828b69540871f51edd1522"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0502",
+  "stationID": "s_8c927caa7632",
+  "stationName": "荔湾",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0502"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0502",
+  "retrievedAt": "2026-09-28T16:10:17+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "30d8054661f4a9fdf4987e16dad139e908e04b86020a4bb359375ebdcd4eb89c"
+}

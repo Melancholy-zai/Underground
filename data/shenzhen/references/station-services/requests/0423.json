@@ -1,0 +1,16 @@
+{
+  "code": "0423",
+  "stationID": "s_848678559c73",
+  "stationName": "牛湖",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0423"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0423",
+  "retrievedAt": "2026-09-28T16:10:14+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "61635b48f0814923ea9860f2444dd813ccbe60f8cbbc50385ba1b25006789e19"
+}

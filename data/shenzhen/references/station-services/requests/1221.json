@@ -1,0 +1,16 @@
+{
+  "code": "1221",
+  "stationID": "s_d41c18a3b5ae",
+  "stationName": "钟屋南",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1221"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1221",
+  "retrievedAt": "2026-09-28T16:19:47+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "12b762888c3189302a2e6012d234cc83bd4beea596cdfed708c5e9fb22bbd466"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1308",
+  "stationID": "s_256870c143ae",
+  "stationName": "高新北",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1308"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1308",
+  "retrievedAt": "2026-09-28T16:15:04+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "6963046ec9151aa3b3bb9f8ef86f5e2de1619ee77de80af5c1404457430335c1"
+}

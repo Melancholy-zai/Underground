@@ -1,0 +1,16 @@
+{
+  "code": "0612",
+  "stationID": "s_df7d92df78fd",
+  "stationName": "阳台山东",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0612"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0612",
+  "retrievedAt": "2026-09-28T16:11:15+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "897060d2a0302aefd85e347f0dec0bfec33f41037a008a6790ab112f58cd3a31"
+}

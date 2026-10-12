@@ -1,0 +1,16 @@
+{
+  "code": "1611",
+  "stationID": "s_a5ea81f41647",
+  "stationName": "龙城公园",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1611"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1611",
+  "retrievedAt": "2026-09-28T16:16:00+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "cfe7b48bcd33f3ae8989ed8027bc6d3184423dac62582bddca484001567837aa"
+}

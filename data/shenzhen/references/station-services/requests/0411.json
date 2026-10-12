@@ -1,0 +1,16 @@
+{
+  "code": "0411",
+  "stationID": "s_b0f4af25300a",
+  "stationName": "红山",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0411"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0411",
+  "retrievedAt": "2026-09-28T16:09:59+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "aa409f8f6647fb445b5050dcbe4b54a51fa73f79f15e569fbf1be6e387e4bb69"
+}

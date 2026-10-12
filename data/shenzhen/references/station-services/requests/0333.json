@@ -1,0 +1,16 @@
+{
+  "code": "0333",
+  "stationID": "s_dc083adb4abc",
+  "stationName": "新生",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0333"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0333",
+  "retrievedAt": "2026-09-28T16:09:40+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "423fd097c40765b0c5b1136d0b9fb640dd10acbec85ced9ebc844725b89cf648"
+}

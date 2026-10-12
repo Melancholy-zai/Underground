@@ -1,0 +1,16 @@
+{
+  "code": "1102",
+  "stationID": "s_f63cd5251143",
+  "stationName": "华强南",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1102"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1102",
+  "retrievedAt": "2026-09-28T16:13:41+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "a0246d8a33228d9f6bd6889bba506d6a0f37b96a4f0ef02476cc09784db3e096"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1418",
+  "stationID": "s_cbce75285d99",
+  "stationName": "沙田",
+  "lineID": "l14",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1418"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1418",
+  "retrievedAt": "2026-09-28T16:15:47+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1740ac933263e3324858578d3020201d02ad37c4abb676e32140146842b2d9a4"
+}

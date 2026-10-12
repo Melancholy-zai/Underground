@@ -1,0 +1,16 @@
+{
+  "code": "0708",
+  "stationID": "s_464ac5ddaca2",
+  "stationName": "桃源村",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0708"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0708",
+  "retrievedAt": "2026-09-28T16:11:52+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "0c8ffd923f7f5316e1dbfc1ae5ab6800b548ac865a8e8fadd8820625f921ab63"
+}

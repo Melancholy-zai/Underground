@@ -1,0 +1,16 @@
+{
+  "code": "1411",
+  "stationID": "s_96e1598d1d6d",
+  "stationName": "南约",
+  "lineID": "l14",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1411"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1411",
+  "retrievedAt": "2026-09-28T16:15:39+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "5e60b425914027593c3760b842d0049606c9762a797667954d41a92908fb4a5f"
+}

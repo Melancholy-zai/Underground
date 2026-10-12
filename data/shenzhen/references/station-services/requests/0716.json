@@ -1,0 +1,16 @@
+{
+  "code": "0716",
+  "stationID": "s_51a57eda5890",
+  "stationName": "皇岗村",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0716"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0716",
+  "retrievedAt": "2026-09-28T16:19:26+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "18e7c5d5be142dfa16c6964ce27d4d06f8887fbf54725762c929c67a2ed732b7"
+}

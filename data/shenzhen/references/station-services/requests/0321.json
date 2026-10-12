@@ -1,0 +1,16 @@
+{
+  "code": "0321",
+  "stationID": "s_cbc1d82f7db2",
+  "stationName": "六约",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0321"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0321",
+  "retrievedAt": "2026-09-28T16:09:25+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "e994b4dba22e19b210a1be9ea7fb43b4b12b7f0c2a6fc127b94f2e2deadf9dfe"
+}

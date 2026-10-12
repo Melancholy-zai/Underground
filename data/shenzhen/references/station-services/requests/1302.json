@@ -1,0 +1,16 @@
+{
+  "code": "1302",
+  "stationID": "s_ce93eb66ac37",
+  "stationName": "人才公园",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1302"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1302",
+  "retrievedAt": "2026-09-28T16:14:56+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "c3e45feb3c2f23121516bb569f2a5bd47ca644385f06c42e8a8fe867e7e899df"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1237",
+  "stationID": "s_ce7ceebb1be4",
+  "stationName": "步涌",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1237"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1237",
+  "retrievedAt": "2026-09-28T16:14:51+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "85d406517409c717fdf2f6e1f022a801c8c512956b5ee9cf7242de450e1942c7"
+}

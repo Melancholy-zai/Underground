@@ -1,0 +1,16 @@
+{
+  "code": "0119",
+  "stationID": "taoyuan",
+  "stationName": "桃园",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0119"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0119",
+  "retrievedAt": "2026-09-28T16:08:04+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "989e8fc06f4b681d14001dca2caaa4c2c0753009080186e2ea3d9d2b02c57a59"
+}

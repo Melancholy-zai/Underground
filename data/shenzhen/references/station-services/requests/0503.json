@@ -1,0 +1,16 @@
+{
+  "code": "0503",
+  "stationID": "s_afbd0684d2cb",
+  "stationName": "铁路公园",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0503"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0503",
+  "retrievedAt": "2026-09-28T16:10:19+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f2c3432ec47c7b7b6ea0b9e10f3331b0e038a684eb1fd12c59549f40acac10fd"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1629",
+  "stationID": "s_666b1c5fe874",
+  "stationName": "燕子湖",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1629"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1629",
+  "retrievedAt": "2026-09-28T16:16:23+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "891d00301b551c6793b230e476eb9fca583321ac34f8a9dbe83563e6723ce56d"
+}

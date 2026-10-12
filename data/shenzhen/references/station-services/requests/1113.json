@@ -1,0 +1,16 @@
+{
+  "code": "1113",
+  "stationID": "s_6a5347ac5f65",
+  "stationName": "机场",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1113"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1113",
+  "retrievedAt": "2026-09-28T16:19:42+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "beae43c5dbe9c3d84716b0513ae3b61dbd68660ab82a6dbc39f994a9aee01ed3"
+}

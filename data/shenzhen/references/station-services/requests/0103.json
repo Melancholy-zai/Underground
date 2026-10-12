@@ -1,0 +1,16 @@
+{
+  "code": "0103",
+  "stationID": "s_3d9826cfde4d",
+  "stationName": "老街",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0103"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0103",
+  "retrievedAt": "2026-09-28T16:07:45+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "59bc19e7d7b0e1541a2120fdad1f69e7448fda40bb07f04ea45e17844bfa3f14"
+}

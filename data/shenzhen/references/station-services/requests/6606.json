@@ -1,0 +1,16 @@
+{
+  "code": "6606",
+  "stationID": "s_a4edf6b9362b",
+  "stationName": "中大",
+  "lineID": "l6b",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "6606"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?6606",
+  "retrievedAt": "2026-09-28T16:11:41+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "81244cd73cb5c447086a8b705fd00e0fec475749d0964be93540e83c28a1de6c"
+}

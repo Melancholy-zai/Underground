@@ -1,0 +1,16 @@
+{
+  "code": "1234",
+  "stationID": "s_47d96d43e266",
+  "stationName": "蚝乡",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1234"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1234",
+  "retrievedAt": "2026-09-28T16:14:48+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "d75206cbdedecb274c21e2e9d8e2afa4bea2715937db8aa7cf0fe0be3eae1dd6"
+}

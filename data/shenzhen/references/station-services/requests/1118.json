@@ -1,0 +1,16 @@
+{
+  "code": "1118",
+  "stationID": "s_7e9b60a78ad0",
+  "stationName": "马安山",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1118"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1118",
+  "retrievedAt": "2026-09-28T16:14:01+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "edc0e75eedae68cea33176d4736aeeb427f1dc7673abbf0cc4ca76b0f8046bf2"
+}

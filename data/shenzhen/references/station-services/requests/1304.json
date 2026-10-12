@@ -1,0 +1,16 @@
+{
+  "code": "1304",
+  "stationID": "s_85f973590435",
+  "stationName": "科苑",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1304"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1304",
+  "retrievedAt": "2026-09-28T16:14:59+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "bc69847e41a7a838bac64c6d19d7f84f49b07f5d63c565efa5be8efee24b57d9"
+}

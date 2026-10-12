@@ -1,0 +1,16 @@
+{
+  "code": "1110",
+  "stationID": "qianhaiwan",
+  "stationName": "前海湾",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1110"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1110",
+  "retrievedAt": "2026-09-28T16:13:51+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "5c84e7ab8f5a45e86d070921a04a6b16589b7f9c96b16d98a4f529e1222b739f"
+}

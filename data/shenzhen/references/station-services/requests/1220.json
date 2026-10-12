@@ -1,0 +1,16 @@
+{
+  "code": "1220",
+  "stationID": "s_1d7efc3449a0",
+  "stationName": "西乡桃源",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1220"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1220",
+  "retrievedAt": "2026-09-28T16:14:31+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "2e3093bb720a1986849fc4add5e3bf918ce1cb23427fa16cf34799b7845d6c77"
+}

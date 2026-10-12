@@ -1,0 +1,1128 @@
+{
+  "canvas": {
+    "width": 5400,
+    "height": 5200
+  },
+  "networkOffset": {
+    "x": 600,
+    "y": 820
+  },
+  "sources": [
+    {
+      "id": "geo-overview",
+      "title": "深圳市气象局：深圳市气候概况及四季特征",
+      "url": "https://weather.sz.gov.cn/qixiangfuwu/qihoufuwu/qihouguanceyupinggu/qihougaikuang/content/mpost_3573760.html",
+      "accessedAt": "2026-09-28",
+      "license": "官方公开资料；仅供本地非商业开发核对，保留来源。",
+      "note": "2026-09-03更新；北接东莞惠州、南连香港，西濒珠江口，东临大鹏湾与大亚湾。"
+    },
+    {
+      "id": "geo-shenshan",
+      "title": "深汕特别合作区党政办公室：深汕概况",
+      "url": "https://www.sz.gov.cn/szzt2010/yhyshj/zdyq/sstbhzq/content/post_12770506.html",
+      "accessedAt": "2026-09-28",
+      "license": "官方公开资料；仅供本地非商业开发核对，保留来源。",
+      "note": "2026-05-09；深汕西北邻惠东、东邻海丰、南临红海湾；单独示意，不拼接入深圳本土。"
+    },
+    {
+      "id": "geo-bays",
+      "title": "深圳政府在线：大鹏新区概况",
+      "url": "https://www.sz.gov.cn/cn/zjsz/fwts_1_3/qyfb/gqcyjs/content/post_12494144.html",
+      "accessedAt": "2026-09-28",
+      "license": "官方公开资料；仅供本地非商业开发核对，保留来源。",
+      "note": "大鹏半岛东为大亚湾，西为大鹏湾，与香港隔海相望；未将新区整体标为无地铁。"
+    },
+    {
+      "id": "network-check-202609",
+      "title": "深圳地铁：2026年9月22日运营公告",
+      "url": "https://www.szmc.net/home/xinwenzhongxin/gongsixinwen/202609/106228.html",
+      "accessedAt": "2026-09-28",
+      "license": "官方公开资料；仅供本地非商业开发核对，保留来源。",
+      "note": "17条编号线路、432线路内站次；并逐线与政府现行线路页比较。未发现6月28日后新增运营区段，不据此冒充新的明确开通日期。"
+    },
+    {
+      "id": "geo-dapeng-transit",
+      "title": "大鹏新区：溪涌站公交接驳旅游专线",
+      "url": "https://www.dpxq.gov.cn/zjdp/lyzx/content/post_12624029.html",
+      "accessedAt": "2026-09-28",
+      "license": "官方公开资料；保留来源。",
+      "note": "2026-01-29；大鹏所城、较场尾及南澳需在溪涌接驳公交。"
+    },
+    {
+      "id": "geo-west-neighbors",
+      "title": "市委港澳办：南山区介绍",
+      "url": "https://hmo.sz.gov.cn/cq/szgq/content/post_117.html",
+      "accessedAt": "2026-09-28",
+      "license": "官方公开资料；保留来源。",
+      "note": "仅引用珠海澳门隔珠江口相望的地理关系，不引用旧人口或区划称谓。"
+    },
+    {
+      "id": "geo-zhongshan",
+      "title": "深圳政府在线：深中通道地理关系",
+      "url": "https://www.sz.gov.cn/cn/xxgk/zfxxgj/gqdt/content/post_11089169.html",
+      "accessedAt": "2026-09-28",
+      "license": "官方公开资料；保留来源。",
+      "note": "深圳机场向西跨珠江口到中山；隔水关系。"
+    },
+    {
+      "id": "geo-hongkong",
+      "title": "香港政府：两湾一河地理说明",
+      "url": "https://www.info.gov.hk/gia/general/202110/06/P2021100600922.htm",
+      "accessedAt": "2026-09-28",
+      "license": "官方公开资料；保留来源。",
+      "note": "深圳湾、深圳河、大鹏湾的邻接关系；不把海湾当陆地边界。"
+    }
+  ],
+  "mapContext": {
+    "reviewedAt": "2026-09-28",
+    "note": "线路及区界均为示意，不代表真实距离和精确地理边界。",
+    "sourceIDs": [
+      "geo-overview",
+      "geo-shenshan",
+      "geo-bays",
+      "network-check-202609",
+      "geo-dapeng-transit",
+      "geo-west-neighbors",
+      "geo-zhongshan",
+      "geo-hongkong"
+    ],
+    "areas": [
+      {
+        "id": "dongguan",
+        "name": "东莞市",
+        "kind": "neighbor",
+        "polygon": [
+          {
+            "x": 680,
+            "y": 660
+          },
+          {
+            "x": 3500,
+            "y": 660
+          },
+          {
+            "x": 3500,
+            "y": 860
+          },
+          {
+            "x": 680,
+            "y": 860
+          }
+        ],
+        "label": {
+          "x": 1870,
+          "y": 765
+        },
+        "note": "位于深圳北侧；陆地接壤。",
+        "sourceIDs": [
+          "geo-overview"
+        ]
+      },
+      {
+        "id": "huizhou",
+        "name": "惠州市",
+        "kind": "neighbor",
+        "polygon": [
+          {
+            "x": 3500,
+            "y": 660
+          },
+          {
+            "x": 5180,
+            "y": 660
+          },
+          {
+            "x": 5180,
+            "y": 2770
+          },
+          {
+            "x": 4950,
+            "y": 2770
+          },
+          {
+            "x": 4950,
+            "y": 860
+          },
+          {
+            "x": 3500,
+            "y": 860
+          }
+        ],
+        "label": {
+          "x": 4250,
+          "y": 765
+        },
+        "note": "位于深圳北部及东北侧；陆地接壤。",
+        "sourceIDs": [
+          "geo-overview"
+        ]
+      },
+      {
+        "id": "hongkong",
+        "name": "香港特别行政区",
+        "kind": "neighbor",
+        "polygon": [
+          {
+            "x": 2440,
+            "y": 4243
+          },
+          {
+            "x": 2974,
+            "y": 4120
+          },
+          {
+            "x": 2974,
+            "y": 3970
+          },
+          {
+            "x": 3660,
+            "y": 3970
+          },
+          {
+            "x": 4040,
+            "y": 3730
+          },
+          {
+            "x": 4220,
+            "y": 4150
+          },
+          {
+            "x": 4210,
+            "y": 4600
+          },
+          {
+            "x": 2700,
+            "y": 4600
+          }
+        ],
+        "label": {
+          "x": 3420,
+          "y": 4370
+        },
+        "note": "深圳河一带为陆地交界；深圳湾及大鹏湾两侧另有隔海关系。",
+        "sourceIDs": [
+          "geo-overview"
+        ]
+      },
+      {
+        "id": "zhujiang",
+        "name": "珠江口",
+        "kind": "water",
+        "polygon": [
+          {
+            "x": 30,
+            "y": 660
+          },
+          {
+            "x": 680,
+            "y": 660
+          },
+          {
+            "x": 680,
+            "y": 4340
+          },
+          {
+            "x": 2020,
+            "y": 4340
+          },
+          {
+            "x": 2440,
+            "y": 4243
+          },
+          {
+            "x": 2700,
+            "y": 4600
+          },
+          {
+            "x": 30,
+            "y": 4600
+          }
+        ],
+        "label": {
+          "x": 300,
+          "y": 2680
+        },
+        "note": "中山、珠海、澳门位于珠江口另一侧，不能画作陆地接壤。",
+        "sourceIDs": [
+          "geo-overview"
+        ]
+      },
+      {
+        "id": "dapeng-bay",
+        "name": "大鹏湾",
+        "kind": "water",
+        "polygon": [
+          {
+            "x": 4040,
+            "y": 3730
+          },
+          {
+            "x": 4350,
+            "y": 3920
+          },
+          {
+            "x": 4950,
+            "y": 3920
+          },
+          {
+            "x": 5180,
+            "y": 4600
+          },
+          {
+            "x": 4210,
+            "y": 4600
+          },
+          {
+            "x": 4220,
+            "y": 4150
+          }
+        ],
+        "label": {
+          "x": 4650,
+          "y": 4270
+        },
+        "note": "位于大鹏半岛西侧，香港与大鹏隔湾相望。",
+        "sourceIDs": [
+          "geo-bays"
+        ]
+      },
+      {
+        "id": "daya-bay",
+        "name": "大亚湾",
+        "kind": "water",
+        "polygon": [
+          {
+            "x": 4950,
+            "y": 2770
+          },
+          {
+            "x": 5240,
+            "y": 2650
+          },
+          {
+            "x": 5240,
+            "y": 4600
+          },
+          {
+            "x": 5180,
+            "y": 4600
+          },
+          {
+            "x": 4950,
+            "y": 3920
+          }
+        ],
+        "label": {
+          "x": 5100,
+          "y": 3340
+        },
+        "note": "位于大鹏半岛东侧。",
+        "sourceIDs": [
+          "geo-bays"
+        ]
+      }
+    ],
+    "boundaries": [
+      {
+        "id": "sz-dg",
+        "kind": "city",
+        "points": [
+          {
+            "x": 680,
+            "y": 860
+          },
+          {
+            "x": 3500,
+            "y": 860
+          }
+        ],
+        "sides": [
+          "深圳",
+          "东莞"
+        ],
+        "label": {
+          "x": 1970,
+          "y": 838
+        },
+        "note": "独立记录的陆地市界示意，非分区外框推算。",
+        "sourceIDs": [
+          "geo-overview"
+        ]
+      },
+      {
+        "id": "sz-hz",
+        "kind": "city",
+        "points": [
+          {
+            "x": 3500,
+            "y": 860
+          },
+          {
+            "x": 4950,
+            "y": 860
+          },
+          {
+            "x": 4950,
+            "y": 2770
+          }
+        ],
+        "sides": [
+          "深圳",
+          "惠州"
+        ],
+        "label": {
+          "x": 5025,
+          "y": 1990
+        },
+        "note": "陆地市界示意；海岸段另画。",
+        "sourceIDs": [
+          "geo-overview"
+        ]
+      },
+      {
+        "id": "sz-hk",
+        "kind": "region",
+        "points": [
+          {
+            "x": 2440,
+            "y": 4243
+          },
+          {
+            "x": 2974,
+            "y": 4120
+          },
+          {
+            "x": 2974,
+            "y": 3970
+          },
+          {
+            "x": 3660,
+            "y": 3970
+          },
+          {
+            "x": 4040,
+            "y": 3730
+          }
+        ],
+        "sides": [
+          "深圳",
+          "香港"
+        ],
+        "label": {
+          "x": 3380,
+          "y": 4060
+        },
+        "note": "深港陆地界线示意，不将深圳湾与大鹏湾画作陆地边界。",
+        "sourceIDs": [
+          "geo-overview",
+          "geo-hongkong"
+        ]
+      },
+      {
+        "id": "west-coast",
+        "kind": "coast",
+        "points": [
+          {
+            "x": 680,
+            "y": 860
+          },
+          {
+            "x": 680,
+            "y": 4340
+          },
+          {
+            "x": 2020,
+            "y": 4340
+          },
+          {
+            "x": 2440,
+            "y": 4243
+          }
+        ],
+        "sides": [
+          "深圳",
+          "珠江口 / 深圳湾"
+        ],
+        "label": null,
+        "note": "海岸线示意；海岸与行政边界含义不同。",
+        "sourceIDs": [
+          "geo-overview"
+        ]
+      },
+      {
+        "id": "east-coast",
+        "kind": "coast",
+        "points": [
+          {
+            "x": 4040,
+            "y": 3730
+          },
+          {
+            "x": 4350,
+            "y": 3920
+          },
+          {
+            "x": 4950,
+            "y": 3920
+          },
+          {
+            "x": 4950,
+            "y": 2770
+          }
+        ],
+        "sides": [
+          "深圳",
+          "大鹏湾 / 大亚湾"
+        ],
+        "label": null,
+        "note": "保留东西海湾的相对位置，非实际岸线测绘。",
+        "sourceIDs": [
+          "geo-bays"
+        ]
+      }
+    ],
+    "insets": [
+      {
+        "id": "location",
+        "title": "周边位置关系",
+        "note": "东莞、惠州与深圳陆地接壤。\n西侧城市隔珠江口相望。\n香港与深圳既有陆界，也有隔湾相望关系。",
+        "frame": {
+          "x": 100,
+          "y": 180,
+          "width": 2600,
+          "height": 430
+        },
+        "areas": [
+          {
+            "id": "pearl-water",
+            "name": "珠江口",
+            "kind": "water",
+            "polygon": [
+              {
+                "x": 20,
+                "y": 170
+              },
+              {
+                "x": 1390,
+                "y": 170
+              },
+              {
+                "x": 1390,
+                "y": 880
+              },
+              {
+                "x": 20,
+                "y": 880
+              }
+            ],
+            "label": {
+              "x": 380,
+              "y": 580
+            },
+            "note": "",
+            "sourceIDs": [
+              "geo-overview"
+            ]
+          },
+          {
+            "id": "dg",
+            "name": "东莞",
+            "kind": "neighbor",
+            "polygon": [
+              {
+                "x": 250,
+                "y": 80
+              },
+              {
+                "x": 770,
+                "y": 80
+              },
+              {
+                "x": 770,
+                "y": 230
+              },
+              {
+                "x": 700,
+                "y": 300
+              },
+              {
+                "x": 440,
+                "y": 390
+              },
+              {
+                "x": 310,
+                "y": 300
+              }
+            ],
+            "label": {
+              "x": 500,
+              "y": 220
+            },
+            "note": "",
+            "sourceIDs": [
+              "geo-overview"
+            ]
+          },
+          {
+            "id": "hz",
+            "name": "惠州",
+            "kind": "neighbor",
+            "polygon": [
+              {
+                "x": 770,
+                "y": 80
+              },
+              {
+                "x": 1390,
+                "y": 80
+              },
+              {
+                "x": 1390,
+                "y": 500
+              },
+              {
+                "x": 1230,
+                "y": 540
+              },
+              {
+                "x": 1030,
+                "y": 420
+              },
+              {
+                "x": 700,
+                "y": 300
+              },
+              {
+                "x": 770,
+                "y": 230
+              }
+            ],
+            "label": {
+              "x": 1080,
+              "y": 230
+            },
+            "note": "",
+            "sourceIDs": [
+              "geo-overview"
+            ]
+          },
+          {
+            "id": "sz",
+            "name": "深圳",
+            "kind": "home",
+            "polygon": [
+              {
+                "x": 440,
+                "y": 390
+              },
+              {
+                "x": 700,
+                "y": 300
+              },
+              {
+                "x": 1030,
+                "y": 420
+              },
+              {
+                "x": 1230,
+                "y": 540
+              },
+              {
+                "x": 1190,
+                "y": 650
+              },
+              {
+                "x": 1080,
+                "y": 610
+              },
+              {
+                "x": 970,
+                "y": 550
+              },
+              {
+                "x": 830,
+                "y": 550
+              },
+              {
+                "x": 710,
+                "y": 530
+              },
+              {
+                "x": 610,
+                "y": 510
+              },
+              {
+                "x": 470,
+                "y": 560
+              },
+              {
+                "x": 400,
+                "y": 480
+              }
+            ],
+            "label": {
+              "x": 740,
+              "y": 450
+            },
+            "note": "",
+            "sourceIDs": [
+              "geo-overview"
+            ]
+          },
+          {
+            "id": "hk",
+            "name": "香港",
+            "kind": "neighbor",
+            "polygon": [
+              {
+                "x": 710,
+                "y": 530
+              },
+              {
+                "x": 830,
+                "y": 550
+              },
+              {
+                "x": 970,
+                "y": 550
+              },
+              {
+                "x": 990,
+                "y": 720
+              },
+              {
+                "x": 850,
+                "y": 830
+              },
+              {
+                "x": 620,
+                "y": 800
+              },
+              {
+                "x": 590,
+                "y": 690
+              }
+            ],
+            "label": {
+              "x": 785,
+              "y": 700
+            },
+            "note": "",
+            "sourceIDs": [
+              "geo-hongkong"
+            ]
+          },
+          {
+            "id": "zs",
+            "name": "中山",
+            "kind": "acrossWater",
+            "polygon": [
+              {
+                "x": 20,
+                "y": 250
+              },
+              {
+                "x": 220,
+                "y": 250
+              },
+              {
+                "x": 250,
+                "y": 460
+              },
+              {
+                "x": 200,
+                "y": 490
+              },
+              {
+                "x": 20,
+                "y": 480
+              }
+            ],
+            "label": {
+              "x": 115,
+              "y": 370
+            },
+            "note": "",
+            "sourceIDs": [
+              "geo-zhongshan"
+            ]
+          },
+          {
+            "id": "zh",
+            "name": "珠海",
+            "kind": "acrossWater",
+            "polygon": [
+              {
+                "x": 20,
+                "y": 510
+              },
+              {
+                "x": 190,
+                "y": 510
+              },
+              {
+                "x": 240,
+                "y": 640
+              },
+              {
+                "x": 150,
+                "y": 750
+              },
+              {
+                "x": 20,
+                "y": 750
+              }
+            ],
+            "label": {
+              "x": 110,
+              "y": 600
+            },
+            "note": "",
+            "sourceIDs": [
+              "geo-west-neighbors"
+            ]
+          },
+          {
+            "id": "mo",
+            "name": "澳门",
+            "kind": "acrossWater",
+            "polygon": [
+              {
+                "x": 225,
+                "y": 710
+              },
+              {
+                "x": 295,
+                "y": 710
+              },
+              {
+                "x": 310,
+                "y": 820
+              },
+              {
+                "x": 220,
+                "y": 820
+              }
+            ],
+            "label": {
+              "x": 280,
+              "y": 865
+            },
+            "note": "",
+            "sourceIDs": [
+              "geo-west-neighbors"
+            ]
+          }
+        ],
+        "sourceIDs": [
+          "geo-overview",
+          "geo-bays",
+          "geo-zhongshan",
+          "geo-west-neighbors",
+          "geo-hongkong"
+        ]
+      },
+      {
+        "id": "shenshan",
+        "title": "深汕特别合作区 · 独立位置图",
+        "note": "西、北邻惠东；东邻海丰；南临红海湾。\n本图运营地铁线网未覆盖。",
+        "frame": {
+          "x": 2780,
+          "y": 180,
+          "width": 2520,
+          "height": 430
+        },
+        "areas": [
+          {
+            "id": "sea",
+            "name": "红海湾",
+            "kind": "water",
+            "polygon": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 1400,
+                "y": 0
+              },
+              {
+                "x": 1400,
+                "y": 280
+              },
+              {
+                "x": 0,
+                "y": 280
+              }
+            ],
+            "label": {
+              "x": 250,
+              "y": 255
+            },
+            "note": "独立位置示意",
+            "sourceIDs": [
+              "geo-shenshan"
+            ]
+          },
+          {
+            "id": "huidong",
+            "name": "惠东",
+            "kind": "neighbor",
+            "polygon": [
+              {
+                "x": 0,
+                "y": 0
+              },
+              {
+                "x": 1400,
+                "y": 0
+              },
+              {
+                "x": 950,
+                "y": 75
+              },
+              {
+                "x": 460,
+                "y": 155
+              },
+              {
+                "x": 0,
+                "y": 155
+              }
+            ],
+            "label": {
+              "x": 230,
+              "y": 80
+            },
+            "note": "独立位置示意",
+            "sourceIDs": [
+              "geo-shenshan"
+            ]
+          },
+          {
+            "id": "haifeng",
+            "name": "海丰",
+            "kind": "neighbor",
+            "polygon": [
+              {
+                "x": 950,
+                "y": 0
+              },
+              {
+                "x": 1400,
+                "y": 0
+              },
+              {
+                "x": 1400,
+                "y": 200
+              },
+              {
+                "x": 1000,
+                "y": 200
+              },
+              {
+                "x": 930,
+                "y": 70
+              }
+            ],
+            "label": {
+              "x": 1200,
+              "y": 120
+            },
+            "note": "独立位置示意",
+            "sourceIDs": [
+              "geo-shenshan"
+            ]
+          },
+          {
+            "id": "ss",
+            "name": "深汕",
+            "kind": "home",
+            "polygon": [
+              {
+                "x": 530,
+                "y": 20
+              },
+              {
+                "x": 930,
+                "y": 50
+              },
+              {
+                "x": 1000,
+                "y": 190
+              },
+              {
+                "x": 590,
+                "y": 210
+              },
+              {
+                "x": 450,
+                "y": 110
+              }
+            ],
+            "label": {
+              "x": 735,
+              "y": 140
+            },
+            "note": "独立位置示意",
+            "sourceIDs": [
+              "geo-shenshan"
+            ]
+          }
+        ],
+        "sourceIDs": [
+          "geo-shenshan",
+          "network-check-202609"
+        ]
+      }
+    ],
+    "focusAreas": [
+      {
+        "id": "surroundings",
+        "title": "周边方位",
+        "frame": {
+          "x": 100,
+          "y": 180,
+          "width": 720,
+          "height": 430
+        }
+      },
+      {
+        "id": "legend-lines",
+        "title": "线路图例 · 横向拖动",
+        "frame": {
+          "x": 80,
+          "y": 4650,
+          "width": 1750,
+          "height": 250
+        }
+      },
+      {
+        "id": "legend-symbols",
+        "title": "符号说明 · 横向拖动",
+        "frame": {
+          "x": 80,
+          "y": 4920,
+          "width": 1750,
+          "height": 250
+        }
+      }
+    ],
+    "stationNotes": [
+      {
+        "stationID": "s_ec17d448e9ac",
+        "marker": "1",
+        "text": "南山 / 福田交界 · 待核实",
+        "sourceIDs": [
+          "official-fare",
+          "official-network",
+          "amap-subway",
+          "district-station-locations"
+        ]
+      },
+      {
+        "stationID": "s_fd446736a468",
+        "marker": "2",
+        "text": "罗湖 / 福田交界 · 待核实",
+        "sourceIDs": [
+          "official-fare",
+          "official-network",
+          "amap-subway",
+          "district-station-locations"
+        ]
+      },
+      {
+        "stationID": "s_fc18c6df1666",
+        "marker": "3",
+        "text": "区属资料冲突 · 待核实",
+        "sourceIDs": [
+          "official-fare",
+          "official-network",
+          "amap-subway",
+          "district-station-locations",
+          "district-hanling-conflict"
+        ]
+      },
+      {
+        "stationID": "s_826e8d5bf020",
+        "marker": "4",
+        "text": "福田 / 罗湖交界 · 待核实",
+        "sourceIDs": [
+          "official-fare",
+          "official-network",
+          "amap-subway",
+          "district-station-locations"
+        ]
+      },
+      {
+        "stationID": "s_3d8f4ff7d3cd",
+        "marker": "5",
+        "text": "南山 / 福田交界 · 待核实",
+        "sourceIDs": [
+          "official-fare",
+          "official-network",
+          "amap-subway",
+          "district-station-locations"
+        ]
+      },
+      {
+        "stationID": "s_eabcaa473428",
+        "marker": "6",
+        "text": "福田 / 罗湖交界 · 待核实",
+        "sourceIDs": [
+          "official-fare",
+          "official-network",
+          "amap-subway",
+          "district-station-locations"
+        ]
+      }
+    ],
+    "networkFrame": {
+      "x": 640,
+      "y": 850,
+      "width": 4400,
+      "height": 3550
+    },
+    "annotations": [
+      {
+        "id": "west-cities",
+        "text": "中山 · 珠海\n澳门\n隔珠江口相望",
+        "position": {
+          "x": 270,
+          "y": 3610
+        },
+        "fontSize": 42,
+        "sourceIDs": [
+          "geo-overview",
+          "geo-west-neighbors",
+          "geo-zhongshan"
+        ]
+      },
+      {
+        "id": "sz-bay",
+        "text": "深圳湾",
+        "position": {
+          "x": 1950,
+          "y": 4500
+        },
+        "fontSize": 56,
+        "sourceIDs": [
+          "geo-overview"
+        ]
+      },
+      {
+        "id": "uncovered-dapeng",
+        "text": "大鹏所城 / 较场尾、南澳\n本图运营地铁未直达\n溪涌站可接驳公交",
+        "position": {
+          "x": 4610,
+          "y": 3700
+        },
+        "fontSize": 31,
+        "sourceIDs": [
+          "geo-dapeng-transit",
+          "network-check-202609"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0704",
+  "stationID": "s_e92ffafa8603",
+  "stationName": "西丽",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0704"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0704",
+  "retrievedAt": "2026-09-28T16:19:25+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "c2c1005c5944ff807f4b313323daa5bdd6d4ddae538de010a08f0192b02e618e"
+}

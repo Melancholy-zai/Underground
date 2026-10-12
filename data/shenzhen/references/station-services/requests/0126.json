@@ -1,0 +1,16 @@
+{
+  "code": "0126",
+  "stationID": "s_ded62b71c66f",
+  "stationName": "坪洲",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0126"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0126",
+  "retrievedAt": "2026-09-28T16:08:13+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "6bf7ba9c8f5605671538195e8d64f55a81a61b9d191e5152120216968bd81295"
+}

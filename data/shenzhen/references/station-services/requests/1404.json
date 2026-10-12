@@ -1,0 +1,16 @@
+{
+  "code": "1404",
+  "stationID": "s_0951bf83bd2a",
+  "stationName": "布吉",
+  "lineID": "l14",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1404"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1404",
+  "retrievedAt": "2026-09-28T16:15:30+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "fd3ebceaf5923eb13d98e6a69a43436873d9d941e92dd8ef5685735d1fa3d0a0"
+}

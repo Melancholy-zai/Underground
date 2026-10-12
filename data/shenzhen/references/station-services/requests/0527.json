@@ -1,0 +1,16 @@
+{
+  "code": "0527",
+  "stationID": "s_73534b1eedd8",
+  "stationName": "下水径",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0527"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0527",
+  "retrievedAt": "2026-09-28T16:10:48+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "b539400c26eedac37a91ffae44d8b2187ff28634a0ce423269c9063843a4a303"
+}

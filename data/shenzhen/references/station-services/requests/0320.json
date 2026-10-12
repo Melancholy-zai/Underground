@@ -1,0 +1,16 @@
+{
+  "code": "0320",
+  "stationID": "s_1d72a8a4ba70",
+  "stationName": "丹竹头",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0320"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0320",
+  "retrievedAt": "2026-09-28T16:09:24+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "9efba10fad28df38879711d7c0416fdd392b38dec0d2532ca3ecd783555f4e1c"
+}

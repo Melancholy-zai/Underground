@@ -1,0 +1,16 @@
+{
+  "code": "1314",
+  "stationID": "s_799f62490fa7",
+  "stationName": "石岩",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1314"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1314",
+  "retrievedAt": "2026-09-28T16:15:11+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "98e05eaa6c10f1f5ff868a1b844b6ff250cb82645c1a7b1c9ac818b141fe5a6b"
+}

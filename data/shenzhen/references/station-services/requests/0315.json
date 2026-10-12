@@ -1,0 +1,16 @@
+{
+  "code": "0315",
+  "stationID": "s_467a06b6515d",
+  "stationName": "水贝",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0315"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0315",
+  "retrievedAt": "2026-09-28T16:09:17+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "86b69b746a8927b15ad8550eb91a10d8d5d42e95584a88480e8ed34efe1e0867"
+}

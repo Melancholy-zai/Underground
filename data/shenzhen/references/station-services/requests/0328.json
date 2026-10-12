@@ -1,0 +1,16 @@
+{
+  "code": "0328",
+  "stationID": "s_d32bb2867c16",
+  "stationName": "吉祥",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0328"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0328",
+  "retrievedAt": "2026-09-28T16:19:06+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "131233df30ad97af018a0bb2493fc1456a2d35d97a8ea5820723676e3f5ccffd"
+}

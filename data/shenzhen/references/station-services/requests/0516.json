@@ -1,0 +1,16 @@
+{
+  "code": "0516",
+  "stationID": "s_98318a129732",
+  "stationName": "留仙洞",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0516"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0516",
+  "retrievedAt": "2026-09-28T16:10:35+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1ea59ecabdec086eafde957f7b0a676d8a134f724fa566f510e8dbd99f512192"
+}

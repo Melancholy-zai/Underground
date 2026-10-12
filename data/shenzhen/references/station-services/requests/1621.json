@@ -1,0 +1,16 @@
+{
+  "code": "1621",
+  "stationID": "s_c538ca090443",
+  "stationName": "宝龙同乐",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1621"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1621",
+  "retrievedAt": "2026-09-28T16:16:13+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "5f215735601c72a9540aaa2025b6651f50cd28b0430011da8aaee06a481ba9f9"
+}

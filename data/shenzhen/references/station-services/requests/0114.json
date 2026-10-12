@@ -1,0 +1,16 @@
+{
+  "code": "0114",
+  "stationID": "s_e8e1e18860c5",
+  "stationName": "华侨城",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0114"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0114",
+  "retrievedAt": "2026-09-28T16:07:58+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "68c2caf917e1c4598a7aac909aec9e3fe2008301f5be60bcebc5d386333672dc"
+}

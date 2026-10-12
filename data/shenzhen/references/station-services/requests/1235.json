@@ -1,0 +1,16 @@
+{
+  "code": "1235",
+  "stationID": "s_0ba403469f00",
+  "stationName": "沙蚝",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1235"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1235",
+  "retrievedAt": "2026-09-28T16:14:49+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "d3588a445ec7bd77566c35b962775ea01506ae7f80f5ad15d61db5b5fe8ddfee"
+}

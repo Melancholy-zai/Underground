@@ -1,0 +1,16 @@
+{
+  "code": "0705",
+  "stationID": "s_0207348e759d",
+  "stationName": "茶光",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0705"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0705",
+  "retrievedAt": "2026-09-28T16:11:48+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "ccb6f39b2729a9d92b176e2573fb98cd3a5b78bf3ba99aeae3e92cb6440789ce"
+}

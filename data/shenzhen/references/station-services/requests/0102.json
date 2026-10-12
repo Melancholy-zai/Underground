@@ -1,0 +1,16 @@
+{
+  "code": "0102",
+  "stationID": "s_d8fff4e0ea54",
+  "stationName": "国贸",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0102"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0102",
+  "retrievedAt": "2026-09-28T16:07:43+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "9ddbd880bd66c4510c1e125204ab6534e52a0bdd2ae55475e84c99a7331775b3"
+}

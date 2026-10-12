@@ -1,0 +1,16 @@
+{
+  "code": "1108",
+  "stationID": "houhai",
+  "stationName": "后海",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1108"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1108",
+  "retrievedAt": "2026-09-28T16:13:49+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "5e4d57d0a462feb6967e837524368c6b31134fb9eea3fb680f42b2d53727b89e"
+}

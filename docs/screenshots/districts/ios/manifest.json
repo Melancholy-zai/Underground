@@ -1,0 +1,26 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "D0324736-57EA-45B2-AE5C-3137701E7146",
+        "deviceName" : "iPhone 17",
+        "exportedFileName" : "7ADC686B-3486-44EB-BE3D-4195C9BFC1D6.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "district-luohu-yantian_0_3317103B-CBC5-4A67-AE65-C458F77127EA.png",
+        "timestamp" : 1790563140.064
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "D0324736-57EA-45B2-AE5C-3137701E7146",
+        "deviceName" : "iPhone 17",
+        "exportedFileName" : "E3BE81D2-D21F-4DCA-8300-2C6AFE206602.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "district-overview_0_9F2769A8-655D-4A9A-89B4-F39B8B985D99.png",
+        "timestamp" : 1790563133.78
+      }
+    ],
+    "testIdentifier" : "UndergroundUITests/testDistrictOverviewAndStationDistrict()",
+    "testIdentifierURL" : "test://com.apple.xcode/Underground/UndergroundUITests/UndergroundUITests/testDistrictOverviewAndStationDistrict"
+  }
+]

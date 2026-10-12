@@ -1,0 +1,16 @@
+{
+  "code": "1215",
+  "stationID": "s_5d801ef74e9a",
+  "stationName": "上川",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1215"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1215",
+  "retrievedAt": "2026-09-28T16:14:24+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "60ae53a89e89d2331be0da6ac72f8120023f02dbbe52226334ee59b9d0fdb4a8"
+}

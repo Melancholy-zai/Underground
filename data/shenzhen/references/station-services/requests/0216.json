@@ -1,0 +1,16 @@
+{
+  "code": "0216",
+  "stationID": "s_893347080a92",
+  "stationName": "侨香",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0216"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0216",
+  "retrievedAt": "2026-09-28T16:18:59+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f30ab31da598aab05b03959b574083408f4ddef58d148a03ff926d7b6fb76c3f"
+}

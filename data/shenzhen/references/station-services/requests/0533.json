@@ -1,0 +1,16 @@
+{
+  "code": "0533",
+  "stationID": "s_3f0d5163de8d",
+  "stationName": "怡景",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0533"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0533",
+  "retrievedAt": "2026-09-28T16:10:55+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "2e4bdaa70ec2a5ad09486cb5c8b669fecfe4b4e34d7c9923172b62f99a4caa32"
+}

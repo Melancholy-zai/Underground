@@ -1,0 +1,16 @@
+{
+  "code": "1318",
+  "stationID": "s_6ab8a70dc7a2",
+  "stationName": "德雅路",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1318"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1318",
+  "retrievedAt": "2026-09-28T16:15:16+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "48ae1b7ce54e010cd4815c8a17d1f0e97251d59d166ee579ab0960615e584804"
+}

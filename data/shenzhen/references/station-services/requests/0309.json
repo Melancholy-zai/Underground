@@ -1,0 +1,16 @@
+{
+  "code": "0309",
+  "stationID": "s_0d2aa8003f50",
+  "stationName": "通新岭",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0309"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0309",
+  "retrievedAt": "2026-09-28T16:09:10+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "c534a0902dc1b0172069a9da9d2db383e08985cdb22f2bf945d655c2353c392f"
+}

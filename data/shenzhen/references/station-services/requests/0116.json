@@ -1,0 +1,16 @@
+{
+  "code": "0116",
+  "stationID": "s_0edd5851394e",
+  "stationName": "白石洲",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0116"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0116",
+  "retrievedAt": "2026-09-28T16:18:52+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "a85fe3bae9bdd121d60bdef19c56367c45941bd7a1637ce5346970fa614f5884"
+}

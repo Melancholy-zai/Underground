@@ -1,0 +1,16 @@
+{
+  "code": "1326",
+  "stationID": "s_af414751b3c8",
+  "stationName": "李松蓢",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1326"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1326",
+  "retrievedAt": "2026-09-28T16:05:59+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "600444ae84ae9f22b86498b6216daa6a7b7fcab069b840f8fde5d492e0156eb0"
+}

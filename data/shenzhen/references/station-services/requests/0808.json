@@ -1,0 +1,16 @@
+{
+  "code": "0808",
+  "stationID": "s_0d537ad0daa2",
+  "stationName": "鸿安围",
+  "lineID": "l8",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0808"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0808",
+  "retrievedAt": "2026-09-28T16:12:26+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "97b06c4757ee2e2029c5246e126502512f723798f0e7a7b386722b8d8433e9f4"
+}

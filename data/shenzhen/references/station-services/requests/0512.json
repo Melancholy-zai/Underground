@@ -1,0 +1,16 @@
+{
+  "code": "0512",
+  "stationID": "fanshen",
+  "stationName": "翻身",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0512"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0512",
+  "retrievedAt": "2026-09-28T16:10:30+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "30feab8a20ace8e47141027080f10cdd0e5dbfe263fba8e3b90f0f1bb02ca5d0"
+}

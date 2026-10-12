@@ -1,0 +1,16 @@
+{
+  "code": "1001",
+  "stationID": "s_bae37f20469d",
+  "stationName": "福田口岸",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1001"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1001",
+  "retrievedAt": "2026-09-28T16:19:39+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "a9e15aba88c7a56f51b5c05ed32a63f6b47ee56541615c44e225dfa24dc67c83"
+}

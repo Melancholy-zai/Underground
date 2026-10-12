@@ -1,0 +1,16 @@
+{
+  "code": "1013",
+  "stationID": "s_23549117de25",
+  "stationName": "贝尔路",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1013"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1013",
+  "retrievedAt": "2026-09-28T16:13:25+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "20787c09b292b0c0daaaa3114a411fe6448eb46afa52e99459fe6e8f741a053d"
+}

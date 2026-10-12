@@ -1,0 +1,16 @@
+{
+  "code": "0707",
+  "stationID": "s_d18b52f93d5a",
+  "stationName": "龙井",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0707"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0707",
+  "retrievedAt": "2026-09-28T16:11:50+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "16ff76366cb1020be72d0baf469bb95c78e5c48fd316991e28c09a96faf9692c"
+}

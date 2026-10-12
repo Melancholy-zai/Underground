@@ -1,0 +1,16 @@
+{
+  "code": "0308",
+  "stationID": "s_bc29e52523c0",
+  "stationName": "华新",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0308"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0308",
+  "retrievedAt": "2026-09-28T16:09:08+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "d61524d968a844a20f35305f6d21830b119db5e33487d8feadb5bea0f8732855"
+}

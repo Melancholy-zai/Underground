@@ -1,0 +1,16 @@
+{
+  "code": "1239",
+  "stationID": "s_f09e3945a15f",
+  "stationName": "松岗",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1239"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1239",
+  "retrievedAt": "2026-09-28T16:14:54+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "d9233b31862db052752f51ad887c0cfe14b737d841a28c31684378ed760982d0"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1107",
+  "stationID": "s_a816b847efad",
+  "stationName": "红树湾南",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1107"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1107",
+  "retrievedAt": "2026-09-28T16:13:48+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "ff1372d7a516bdf30fe9987bf7b77363eaec68ae4ae0e0b7f5fe5ea6cecae0aa"
+}

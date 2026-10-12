@@ -1,0 +1,16 @@
+{
+  "code": "0623",
+  "stationID": "s_bd9a47a0b4b3",
+  "stationName": "合水口",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0623"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0623",
+  "retrievedAt": "2026-09-28T16:11:28+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "fad33c8b39dc6363c65a1f5f1e1a51bb30c652f3346d806776e2532f1620f608"
+}

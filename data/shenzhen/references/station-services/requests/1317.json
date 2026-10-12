@@ -1,0 +1,16 @@
+{
+  "code": "1317",
+  "stationID": "s_eb82d5687402",
+  "stationName": "光明城",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1317"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1317",
+  "retrievedAt": "2026-09-28T16:15:15+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "34b44bf4dab20fd0e2e3749268c7ab64abc0e041a116d1bdfc2a460da19e77a8"
+}

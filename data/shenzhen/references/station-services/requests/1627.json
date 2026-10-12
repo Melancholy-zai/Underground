@@ -1,0 +1,16 @@
+{
+  "code": "1627",
+  "stationID": "s_c38f343253ab",
+  "stationName": "东纵纪念馆",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1627"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1627",
+  "retrievedAt": "2026-09-28T16:16:21+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1e4376fe4771670a83e1705347d00a0805f20996a9066ee5a4233ac3c228fd2f"
+}

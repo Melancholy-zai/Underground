@@ -1,0 +1,5404 @@
+{
+  "reviewedAt": "2026-09-28",
+  "note": "分区底图为独立绘制的示意边界；优先匹配站址归属。人工区属对应不等于所有站体/出入口地籍核验；6处存在边界或来源疑点，局部留白标问号，不作单一区属断言。",
+  "districts": [
+    {
+      "id": "baoan",
+      "name": "宝安区",
+      "color": "#F6E7CA",
+      "polygon": [
+        {
+          "x": 80,
+          "y": 40
+        },
+        {
+          "x": 740,
+          "y": 40
+        },
+        {
+          "x": 740,
+          "y": 900
+        },
+        {
+          "x": 1130,
+          "y": 900
+        },
+        {
+          "x": 1230,
+          "y": 960
+        },
+        {
+          "x": 1320,
+          "y": 1050
+        },
+        {
+          "x": 1290,
+          "y": 1150
+        },
+        {
+          "x": 1500,
+          "y": 1500
+        },
+        {
+          "x": 880,
+          "y": 1480
+        },
+        {
+          "x": 870,
+          "y": 1790
+        },
+        {
+          "x": 855,
+          "y": 1960
+        },
+        {
+          "x": 740,
+          "y": 2050
+        },
+        {
+          "x": 740,
+          "y": 2180
+        },
+        {
+          "x": 590,
+          "y": 2170
+        },
+        {
+          "x": 570,
+          "y": 2350
+        },
+        {
+          "x": 80,
+          "y": 2350
+        }
+      ],
+      "label": {
+        "x": 650,
+        "y": 1200
+      },
+      "note": "按站点位置适配的示意区界，不代表测绘边界。"
+    },
+    {
+      "id": "guangming",
+      "name": "光明区",
+      "color": "#EEE2F4",
+      "polygon": [
+        {
+          "x": 740,
+          "y": 40
+        },
+        {
+          "x": 740,
+          "y": 900
+        },
+        {
+          "x": 1130,
+          "y": 900
+        },
+        {
+          "x": 1230,
+          "y": 960
+        },
+        {
+          "x": 1320,
+          "y": 1050
+        },
+        {
+          "x": 1740,
+          "y": 950
+        },
+        {
+          "x": 1740,
+          "y": 40
+        }
+      ],
+      "label": {
+        "x": 1150,
+        "y": 180
+      },
+      "note": "按站点位置适配的示意区界，不代表测绘边界。"
+    },
+    {
+      "id": "longhua",
+      "name": "龙华区",
+      "color": "#F4E1DC",
+      "polygon": [
+        {
+          "x": 1740,
+          "y": 40
+        },
+        {
+          "x": 2350,
+          "y": 40
+        },
+        {
+          "x": 2350,
+          "y": 1020
+        },
+        {
+          "x": 2300,
+          "y": 1200
+        },
+        {
+          "x": 1920,
+          "y": 1260
+        },
+        {
+          "x": 1920,
+          "y": 1800
+        },
+        {
+          "x": 1940,
+          "y": 1920
+        },
+        {
+          "x": 2130,
+          "y": 1860
+        },
+        {
+          "x": 2250,
+          "y": 1830
+        },
+        {
+          "x": 2190,
+          "y": 1950
+        },
+        {
+          "x": 2130,
+          "y": 1900
+        },
+        {
+          "x": 2076.82,
+          "y": 1937.79
+        },
+        {
+          "x": 1930,
+          "y": 1950
+        },
+        {
+          "x": 1640,
+          "y": 1900
+        },
+        {
+          "x": 1650,
+          "y": 1740
+        },
+        {
+          "x": 1510,
+          "y": 1640
+        },
+        {
+          "x": 1500,
+          "y": 1500
+        },
+        {
+          "x": 1290,
+          "y": 1150
+        },
+        {
+          "x": 1320,
+          "y": 1050
+        },
+        {
+          "x": 1740,
+          "y": 950
+        }
+      ],
+      "label": {
+        "x": 1850,
+        "y": 650
+      },
+      "note": "按站点位置适配的示意区界，不代表测绘边界。"
+    },
+    {
+      "id": "nanshan",
+      "name": "南山区",
+      "color": "#DCECDD",
+      "polygon": [
+        {
+          "x": 80,
+          "y": 2350
+        },
+        {
+          "x": 570,
+          "y": 2350
+        },
+        {
+          "x": 590,
+          "y": 2170
+        },
+        {
+          "x": 740,
+          "y": 2180
+        },
+        {
+          "x": 740,
+          "y": 2050
+        },
+        {
+          "x": 855,
+          "y": 1960
+        },
+        {
+          "x": 870,
+          "y": 1790
+        },
+        {
+          "x": 880,
+          "y": 1480
+        },
+        {
+          "x": 1500,
+          "y": 1500
+        },
+        {
+          "x": 1510,
+          "y": 1640
+        },
+        {
+          "x": 1650,
+          "y": 1740
+        },
+        {
+          "x": 1640,
+          "y": 1900
+        },
+        {
+          "x": 1500,
+          "y": 1960
+        },
+        {
+          "x": 1480,
+          "y": 2090
+        },
+        {
+          "x": 1240,
+          "y": 2190
+        },
+        {
+          "x": 1210,
+          "y": 2270
+        },
+        {
+          "x": 1090,
+          "y": 2370
+        },
+        {
+          "x": 1090,
+          "y": 2450
+        },
+        {
+          "x": 1210,
+          "y": 2530
+        },
+        {
+          "x": 1341,
+          "y": 2613
+        },
+        {
+          "x": 1360,
+          "y": 2700
+        },
+        {
+          "x": 1392,
+          "y": 2889
+        },
+        {
+          "x": 1420,
+          "y": 3520
+        },
+        {
+          "x": 80,
+          "y": 3520
+        }
+      ],
+      "label": {
+        "x": 960,
+        "y": 3340
+      },
+      "note": "按站点位置适配的示意区界，不代表测绘边界。"
+    },
+    {
+      "id": "futian",
+      "name": "福田区",
+      "color": "#F7EDCA",
+      "polygon": [
+        {
+          "x": 1420,
+          "y": 3520
+        },
+        {
+          "x": 1392,
+          "y": 2889
+        },
+        {
+          "x": 1360,
+          "y": 2700
+        },
+        {
+          "x": 1341,
+          "y": 2613
+        },
+        {
+          "x": 1210,
+          "y": 2530
+        },
+        {
+          "x": 1090,
+          "y": 2450
+        },
+        {
+          "x": 1090,
+          "y": 2370
+        },
+        {
+          "x": 1210,
+          "y": 2270
+        },
+        {
+          "x": 1240,
+          "y": 2190
+        },
+        {
+          "x": 1480,
+          "y": 2090
+        },
+        {
+          "x": 1500,
+          "y": 1960
+        },
+        {
+          "x": 1640,
+          "y": 1900
+        },
+        {
+          "x": 1930,
+          "y": 1950
+        },
+        {
+          "x": 2076.82,
+          "y": 1937.79
+        },
+        {
+          "x": 2130,
+          "y": 1900
+        },
+        {
+          "x": 2190,
+          "y": 1950
+        },
+        {
+          "x": 2236,
+          "y": 2020
+        },
+        {
+          "x": 2375,
+          "y": 2060
+        },
+        {
+          "x": 2432,
+          "y": 2103
+        },
+        {
+          "x": 2432,
+          "y": 2207
+        },
+        {
+          "x": 2460,
+          "y": 2310
+        },
+        {
+          "x": 2390,
+          "y": 2420
+        },
+        {
+          "x": 2330,
+          "y": 2682
+        },
+        {
+          "x": 2374,
+          "y": 3150
+        },
+        {
+          "x": 2374,
+          "y": 3300
+        }
+      ],
+      "label": {
+        "x": 1810,
+        "y": 3130
+      },
+      "note": "按站点位置适配的示意区界，不代表测绘边界。"
+    },
+    {
+      "id": "luohu",
+      "name": "罗湖区",
+      "color": "#DEEAF5",
+      "polygon": [
+        {
+          "x": 2374,
+          "y": 3150
+        },
+        {
+          "x": 2330,
+          "y": 2682
+        },
+        {
+          "x": 2390,
+          "y": 2420
+        },
+        {
+          "x": 2460,
+          "y": 2310
+        },
+        {
+          "x": 2432,
+          "y": 2207
+        },
+        {
+          "x": 2432,
+          "y": 2103
+        },
+        {
+          "x": 2375,
+          "y": 2060
+        },
+        {
+          "x": 2236,
+          "y": 2020
+        },
+        {
+          "x": 2190,
+          "y": 1950
+        },
+        {
+          "x": 2250,
+          "y": 1830
+        },
+        {
+          "x": 2350,
+          "y": 1820
+        },
+        {
+          "x": 2450,
+          "y": 1800
+        },
+        {
+          "x": 2680,
+          "y": 1840
+        },
+        {
+          "x": 2790,
+          "y": 1920
+        },
+        {
+          "x": 3000,
+          "y": 1900
+        },
+        {
+          "x": 3350,
+          "y": 2110
+        },
+        {
+          "x": 3375,
+          "y": 2380
+        },
+        {
+          "x": 3375,
+          "y": 2560
+        },
+        {
+          "x": 3440,
+          "y": 2910
+        },
+        {
+          "x": 3060,
+          "y": 3150
+        }
+      ],
+      "label": {
+        "x": 2870,
+        "y": 2700
+      },
+      "note": "按站点位置适配的示意区界，不代表测绘边界。"
+    },
+    {
+      "id": "longgang",
+      "name": "龙岗区",
+      "color": "#E3E8D1",
+      "polygon": [
+        {
+          "x": 1920,
+          "y": 1800
+        },
+        {
+          "x": 1920,
+          "y": 1260
+        },
+        {
+          "x": 2300,
+          "y": 1200
+        },
+        {
+          "x": 2350,
+          "y": 1020
+        },
+        {
+          "x": 2350,
+          "y": 40
+        },
+        {
+          "x": 4350,
+          "y": 40
+        },
+        {
+          "x": 4350,
+          "y": 820
+        },
+        {
+          "x": 3930,
+          "y": 820
+        },
+        {
+          "x": 3810,
+          "y": 1010
+        },
+        {
+          "x": 3630,
+          "y": 1060
+        },
+        {
+          "x": 3610,
+          "y": 1180
+        },
+        {
+          "x": 3580,
+          "y": 1270
+        },
+        {
+          "x": 3510,
+          "y": 1430
+        },
+        {
+          "x": 3520,
+          "y": 1820
+        },
+        {
+          "x": 3490,
+          "y": 2000
+        },
+        {
+          "x": 3350,
+          "y": 2110
+        },
+        {
+          "x": 3000,
+          "y": 1900
+        },
+        {
+          "x": 2790,
+          "y": 1920
+        },
+        {
+          "x": 2680,
+          "y": 1840
+        },
+        {
+          "x": 2450,
+          "y": 1800
+        },
+        {
+          "x": 2350,
+          "y": 1820
+        },
+        {
+          "x": 2250,
+          "y": 1830
+        },
+        {
+          "x": 2130,
+          "y": 1860
+        },
+        {
+          "x": 1940,
+          "y": 1920
+        }
+      ],
+      "label": {
+        "x": 2920,
+        "y": 740
+      },
+      "note": "按站点位置适配的示意区界，不代表测绘边界。"
+    },
+    {
+      "id": "pingshan",
+      "name": "坪山区",
+      "color": "#F4E1ED",
+      "polygon": [
+        {
+          "x": 3490,
+          "y": 2000
+        },
+        {
+          "x": 3520,
+          "y": 1820
+        },
+        {
+          "x": 3510,
+          "y": 1430
+        },
+        {
+          "x": 3580,
+          "y": 1270
+        },
+        {
+          "x": 3610,
+          "y": 1180
+        },
+        {
+          "x": 3630,
+          "y": 1060
+        },
+        {
+          "x": 3810,
+          "y": 1010
+        },
+        {
+          "x": 3930,
+          "y": 820
+        },
+        {
+          "x": 4350,
+          "y": 820
+        },
+        {
+          "x": 4350,
+          "y": 1950
+        },
+        {
+          "x": 4174,
+          "y": 1950
+        }
+      ],
+      "label": {
+        "x": 3930,
+        "y": 1690
+      },
+      "note": "按站点位置适配的示意区界，不代表测绘边界。"
+    },
+    {
+      "id": "yantian",
+      "name": "盐田区",
+      "color": "#D8EEEB",
+      "polygon": [
+        {
+          "x": 3440,
+          "y": 2910
+        },
+        {
+          "x": 3375,
+          "y": 2560
+        },
+        {
+          "x": 3375,
+          "y": 2380
+        },
+        {
+          "x": 3350,
+          "y": 2110
+        },
+        {
+          "x": 3490,
+          "y": 2000
+        },
+        {
+          "x": 4174,
+          "y": 1950
+        },
+        {
+          "x": 4174,
+          "y": 2350
+        },
+        {
+          "x": 3850,
+          "y": 2740
+        },
+        {
+          "x": 3750,
+          "y": 3100
+        }
+      ],
+      "label": {
+        "x": 3650,
+        "y": 2490
+      },
+      "note": "按站点位置适配的示意区界，不代表测绘边界。"
+    },
+    {
+      "id": "dapeng",
+      "name": "大鹏新区",
+      "color": "#E6E1F5",
+      "polygon": [
+        {
+          "x": 4174,
+          "y": 1950
+        },
+        {
+          "x": 4350,
+          "y": 1950
+        },
+        {
+          "x": 4350,
+          "y": 3100
+        },
+        {
+          "x": 3750,
+          "y": 3100
+        },
+        {
+          "x": 3850,
+          "y": 2740
+        },
+        {
+          "x": 4174,
+          "y": 2350
+        }
+      ],
+      "label": {
+        "x": 4030,
+        "y": 2650
+      },
+      "note": "按站点位置适配的示意区界，不代表测绘边界。大鹏新区为功能区，单独标示管理范围，不作法定行政区代码。"
+    }
+  ],
+  "stations": [
+    {
+      "stationID": "s_b1dbfb916409",
+      "name": "罗湖",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0101"
+    },
+    {
+      "stationID": "s_d8fff4e0ea54",
+      "name": "国贸",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0102"
+    },
+    {
+      "stationID": "s_3d9826cfde4d",
+      "name": "老街",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0103"
+    },
+    {
+      "stationID": "s_57e3b7fa8fe4",
+      "name": "大剧院",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0104"
+    },
+    {
+      "stationID": "s_5c1c524b02aa",
+      "name": "科学馆",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_9bff19325c2c",
+      "name": "华强路",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0106"
+    },
+    {
+      "stationID": "s_27bae2d3c1b5",
+      "name": "岗厦",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0107"
+    },
+    {
+      "stationID": "s_4b324f83aff9",
+      "name": "会展中心",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0108"
+    },
+    {
+      "stationID": "s_a2c1f6afabd4",
+      "name": "购物公园",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0109"
+    },
+    {
+      "stationID": "s_ec350957cc65",
+      "name": "香蜜湖",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0110"
+    },
+    {
+      "stationID": "s_c2d307fafd40",
+      "name": "车公庙",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0111"
+    },
+    {
+      "stationID": "s_4c3d38420dfb",
+      "name": "竹子林",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0112"
+    },
+    {
+      "stationID": "s_ec17d448e9ac",
+      "name": "侨城东",
+      "districtIDs": [],
+      "note": "位于南山、福田交界附近；站体与各出入口的区属尚待逐项核实。",
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0113"
+    },
+    {
+      "stationID": "s_e8e1e18860c5",
+      "name": "华侨城",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0114"
+    },
+    {
+      "stationID": "s_0c2ba844e8c2",
+      "name": "世界之窗",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0115"
+    },
+    {
+      "stationID": "s_0edd5851394e",
+      "name": "白石洲",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0116"
+    },
+    {
+      "stationID": "gaoxinyuan",
+      "name": "高新园",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0117"
+    },
+    {
+      "stationID": "shenda",
+      "name": "深大",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0118"
+    },
+    {
+      "stationID": "taoyuan",
+      "name": "桃园",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0119"
+    },
+    {
+      "stationID": "daxin",
+      "name": "大新",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0120"
+    },
+    {
+      "stationID": "liyumen",
+      "name": "鲤鱼门",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0121"
+    },
+    {
+      "stationID": "qianhaiwan",
+      "name": "前海湾",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0122"
+    },
+    {
+      "stationID": "xinan",
+      "name": "新安",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0123"
+    },
+    {
+      "stationID": "baoanzhongxin",
+      "name": "宝安中心",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0124"
+    },
+    {
+      "stationID": "baoti",
+      "name": "宝体",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0125"
+    },
+    {
+      "stationID": "s_ded62b71c66f",
+      "name": "坪洲",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0126"
+    },
+    {
+      "stationID": "s_c427574dc35a",
+      "name": "西乡",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0127"
+    },
+    {
+      "stationID": "s_a73b46622ac9",
+      "name": "固戍",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0128"
+    },
+    {
+      "stationID": "s_0f9e4945edd0",
+      "name": "后瑞",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0129"
+    },
+    {
+      "stationID": "s_65539bdd45f7",
+      "name": "机场东",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0130"
+    },
+    {
+      "stationID": "s_40e31054c955",
+      "name": "赤湾",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0201"
+    },
+    {
+      "stationID": "s_226baca6f9fb",
+      "name": "蛇口港",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0202"
+    },
+    {
+      "stationID": "s_ea5188e6e9bf",
+      "name": "海上世界",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0203"
+    },
+    {
+      "stationID": "s_ea7883436eb7",
+      "name": "水湾",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0204"
+    },
+    {
+      "stationID": "s_b59236d442d6",
+      "name": "东角头",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0205"
+    },
+    {
+      "stationID": "s_4bc3b7bcbde9",
+      "name": "湾厦",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0206"
+    },
+    {
+      "stationID": "s_7c733ad2eaa9",
+      "name": "海月",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0207"
+    },
+    {
+      "stationID": "s_3ad5a7bc47ea",
+      "name": "登良",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0208"
+    },
+    {
+      "stationID": "houhai",
+      "name": "后海",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0209"
+    },
+    {
+      "stationID": "s_85f973590435",
+      "name": "科苑",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0210"
+    },
+    {
+      "stationID": "s_f533fa6bc5aa",
+      "name": "红树湾",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0211"
+    },
+    {
+      "stationID": "s_e4c2054fff8e",
+      "name": "侨城北",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0213"
+    },
+    {
+      "stationID": "s_014db5ac30b7",
+      "name": "深康",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0214"
+    },
+    {
+      "stationID": "s_0a7341da8f3f",
+      "name": "安托山",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0215"
+    },
+    {
+      "stationID": "s_893347080a92",
+      "name": "侨香",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0216"
+    },
+    {
+      "stationID": "s_917099a52cc7",
+      "name": "香蜜",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0217"
+    },
+    {
+      "stationID": "s_f4b51b9c3bf6",
+      "name": "香梅北",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0218"
+    },
+    {
+      "stationID": "s_381ddb9fa939",
+      "name": "景田",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0219"
+    },
+    {
+      "stationID": "s_dfcb9a6ea33f",
+      "name": "莲花西",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0220"
+    },
+    {
+      "stationID": "s_9e30abe46d4b",
+      "name": "福田",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0221"
+    },
+    {
+      "stationID": "s_641566e647d2",
+      "name": "市民中心",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0222"
+    },
+    {
+      "stationID": "s_56f42681a960",
+      "name": "岗厦北",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0223"
+    },
+    {
+      "stationID": "s_99ca86bc1d7c",
+      "name": "华强北",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0224"
+    },
+    {
+      "stationID": "s_63eb9e3d42a2",
+      "name": "燕南",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0225"
+    },
+    {
+      "stationID": "s_b04a236d881e",
+      "name": "湖贝",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0227"
+    },
+    {
+      "stationID": "s_b867ff8088f5",
+      "name": "黄贝岭",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0228"
+    },
+    {
+      "stationID": "s_4aaa3ec5856a",
+      "name": "新秀",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0229"
+    },
+    {
+      "stationID": "s_b2afdab62241",
+      "name": "莲塘口岸",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0230"
+    },
+    {
+      "stationID": "s_5f2610cf9ce0",
+      "name": "仙湖路",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0231"
+    },
+    {
+      "stationID": "s_c5e75ef87a02",
+      "name": "莲塘",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0232"
+    },
+    {
+      "stationID": "s_2319925d7fd6",
+      "name": "梧桐山南",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0802"
+    },
+    {
+      "stationID": "s_4edec4013a7e",
+      "name": "沙头角",
+      "districtIDs": [
+        "yantian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0803"
+    },
+    {
+      "stationID": "s_c6177ea4478c",
+      "name": "海山",
+      "districtIDs": [
+        "yantian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0804"
+    },
+    {
+      "stationID": "s_ed259ed9d22b",
+      "name": "盐田港西",
+      "districtIDs": [
+        "yantian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0805"
+    },
+    {
+      "stationID": "s_2ab9c3be4294",
+      "name": "深外高中",
+      "districtIDs": [
+        "yantian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0806"
+    },
+    {
+      "stationID": "s_7eb4fbfb6e95",
+      "name": "盐田路",
+      "districtIDs": [
+        "yantian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0807"
+    },
+    {
+      "stationID": "s_0d537ad0daa2",
+      "name": "鸿安围",
+      "districtIDs": [
+        "yantian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0808"
+    },
+    {
+      "stationID": "s_fe3c2771909b",
+      "name": "盐田墟",
+      "districtIDs": [
+        "yantian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0809"
+    },
+    {
+      "stationID": "s_5258c35b992b",
+      "name": "大梅沙",
+      "districtIDs": [
+        "yantian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0810"
+    },
+    {
+      "stationID": "s_d32cea4e31dd",
+      "name": "小梅沙",
+      "districtIDs": [
+        "yantian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0811"
+    },
+    {
+      "stationID": "s_7eb754becf47",
+      "name": "溪涌",
+      "districtIDs": [
+        "dapeng"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-dapeng"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0812"
+    },
+    {
+      "stationID": "s_b18a3a50f0a5",
+      "name": "福保",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0301"
+    },
+    {
+      "stationID": "s_cb1cfe1b4769",
+      "name": "益田",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0302"
+    },
+    {
+      "stationID": "s_28594c84012a",
+      "name": "石厦",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0303"
+    },
+    {
+      "stationID": "s_1d0b1329d388",
+      "name": "少年宫",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0306"
+    },
+    {
+      "stationID": "s_97d0d113c395",
+      "name": "莲花村",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0307"
+    },
+    {
+      "stationID": "s_bc29e52523c0",
+      "name": "华新",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0308"
+    },
+    {
+      "stationID": "s_0d2aa8003f50",
+      "name": "通新岭",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0309"
+    },
+    {
+      "stationID": "s_bd0a50415e8a",
+      "name": "红岭",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0310"
+    },
+    {
+      "stationID": "s_616478cdbd18",
+      "name": "晒布",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0312"
+    },
+    {
+      "stationID": "s_233923ef961c",
+      "name": "翠竹",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0313"
+    },
+    {
+      "stationID": "s_4f63e5edbb60",
+      "name": "田贝",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0314"
+    },
+    {
+      "stationID": "s_467a06b6515d",
+      "name": "水贝",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0315"
+    },
+    {
+      "stationID": "s_b07b1bef10e7",
+      "name": "草埔",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0316"
+    },
+    {
+      "stationID": "s_0951bf83bd2a",
+      "name": "布吉",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0317"
+    },
+    {
+      "stationID": "s_0451c5c1fa3a",
+      "name": "木棉湾",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0318"
+    },
+    {
+      "stationID": "s_ccd20297b47f",
+      "name": "大芬",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0319"
+    },
+    {
+      "stationID": "s_1d72a8a4ba70",
+      "name": "丹竹头",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0320"
+    },
+    {
+      "stationID": "s_cbc1d82f7db2",
+      "name": "六约",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0321"
+    },
+    {
+      "stationID": "s_da46a997e609",
+      "name": "塘坑",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0322"
+    },
+    {
+      "stationID": "s_e2b972b20c97",
+      "name": "横岗",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0323"
+    },
+    {
+      "stationID": "s_046d03867223",
+      "name": "永湖",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0324"
+    },
+    {
+      "stationID": "s_1236cf8c7a77",
+      "name": "荷坳",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0325"
+    },
+    {
+      "stationID": "s_b74aef610169",
+      "name": "大运",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0326"
+    },
+    {
+      "stationID": "s_2938e96ae2a8",
+      "name": "爱联",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0327"
+    },
+    {
+      "stationID": "s_d32bb2867c16",
+      "name": "吉祥",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0328"
+    },
+    {
+      "stationID": "s_cb15eeb50146",
+      "name": "龙城广场",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0329"
+    },
+    {
+      "stationID": "s_a95545b106c8",
+      "name": "南联",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0330"
+    },
+    {
+      "stationID": "s_820bf8c62509",
+      "name": "双龙",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0331"
+    },
+    {
+      "stationID": "s_43c5ca4f3dd6",
+      "name": "梨园",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0332"
+    },
+    {
+      "stationID": "s_dc083adb4abc",
+      "name": "新生",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0333"
+    },
+    {
+      "stationID": "s_89643b3c8764",
+      "name": "坪西",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0334"
+    },
+    {
+      "stationID": "s_c981ddde9e63",
+      "name": "低碳城",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0335"
+    },
+    {
+      "stationID": "s_6bdf74c853d7",
+      "name": "白石塘",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0336"
+    },
+    {
+      "stationID": "s_35e3f34cee03",
+      "name": "富坪",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0337"
+    },
+    {
+      "stationID": "s_11af5ec73183",
+      "name": "坪地六联",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0338"
+    },
+    {
+      "stationID": "s_bae37f20469d",
+      "name": "福田口岸",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_77a624f5c489",
+      "name": "福民",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_08d20715fc17",
+      "name": "莲花北",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_977e7b664918",
+      "name": "上梅林",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_6e69907949bb",
+      "name": "民乐",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_a103ebebf7e9",
+      "name": "白石龙",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_a872658c8224",
+      "name": "深圳北站",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_b0f4af25300a",
+      "name": "红山",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_52261b2d7aec",
+      "name": "上塘",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_1ccfaca282be",
+      "name": "龙胜",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_5e4b16d6e1e2",
+      "name": "龙华",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_8147b7507b6c",
+      "name": "清湖",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_cabf4cc55fb2",
+      "name": "清湖北",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_c2f050a62b4a",
+      "name": "竹村",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_b8a1fd73a4f3",
+      "name": "茜坑",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_f4912df9a015",
+      "name": "长湖",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_767ddfa1b412",
+      "name": "观澜",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_0f2137510a02",
+      "name": "松元厦",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_293aefc7be42",
+      "name": "观澜湖",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_848678559c73",
+      "name": "牛湖",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_8c927caa7632",
+      "name": "荔湾",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0502"
+    },
+    {
+      "stationID": "s_afbd0684d2cb",
+      "name": "铁路公园",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0503"
+    },
+    {
+      "stationID": "s_c2443ba97615",
+      "name": "妈湾",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0504"
+    },
+    {
+      "stationID": "s_610315170aed",
+      "name": "前湾公园",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0505"
+    },
+    {
+      "stationID": "qianwan",
+      "name": "前湾",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0506"
+    },
+    {
+      "stationID": "guiwan",
+      "name": "桂湾",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0507"
+    },
+    {
+      "stationID": "linhai",
+      "name": "临海",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0509"
+    },
+    {
+      "stationID": "baohua",
+      "name": "宝华",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0510"
+    },
+    {
+      "stationID": "fanshen",
+      "name": "翻身",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0512"
+    },
+    {
+      "stationID": "s_6f16e8d1ebe2",
+      "name": "灵芝",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0513"
+    },
+    {
+      "stationID": "s_184f6f325312",
+      "name": "洪浪北",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0514"
+    },
+    {
+      "stationID": "s_5d1c8ac10fa8",
+      "name": "兴东",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0515"
+    },
+    {
+      "stationID": "s_98318a129732",
+      "name": "留仙洞",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0516"
+    },
+    {
+      "stationID": "s_e92ffafa8603",
+      "name": "西丽",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0517"
+    },
+    {
+      "stationID": "s_265b4f2166b5",
+      "name": "大学城",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0518"
+    },
+    {
+      "stationID": "s_2aeff618f782",
+      "name": "塘朗",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0519"
+    },
+    {
+      "stationID": "s_c08cc22c7b24",
+      "name": "长岭陂",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0520"
+    },
+    {
+      "stationID": "s_73d12f38bb13",
+      "name": "民治",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0522"
+    },
+    {
+      "stationID": "s_5bc156e01945",
+      "name": "五和",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0523"
+    },
+    {
+      "stationID": "s_78a996c36326",
+      "name": "坂田",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0524"
+    },
+    {
+      "stationID": "s_e6bf0f4fc1ac",
+      "name": "杨美",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0525"
+    },
+    {
+      "stationID": "s_e93b3e23cbb2",
+      "name": "上水径",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0526"
+    },
+    {
+      "stationID": "s_73534b1eedd8",
+      "name": "下水径",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0527"
+    },
+    {
+      "stationID": "s_7443291ac1a0",
+      "name": "长龙",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0528"
+    },
+    {
+      "stationID": "s_abb3ec6cf5f6",
+      "name": "百鸽笼",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0530"
+    },
+    {
+      "stationID": "s_87d93e26688f",
+      "name": "布心",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0531"
+    },
+    {
+      "stationID": "s_bcc68154a8d5",
+      "name": "太安",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0532"
+    },
+    {
+      "stationID": "s_3f0d5163de8d",
+      "name": "怡景",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0533"
+    },
+    {
+      "stationID": "s_79f2d1650a6a",
+      "name": "东门",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0536"
+    },
+    {
+      "stationID": "s_2e3c1f463ace",
+      "name": "体育中心",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0603"
+    },
+    {
+      "stationID": "s_1540acef9aef",
+      "name": "八卦岭",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0604"
+    },
+    {
+      "stationID": "s_fd446736a468",
+      "name": "银湖",
+      "districtIDs": [],
+      "note": "位于罗湖、福田交界附近；站体与出入口区属尚待逐项核实。",
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0605"
+    },
+    {
+      "stationID": "s_fc18c6df1666",
+      "name": "翰岭",
+      "districtIDs": [],
+      "note": "运营方站点介绍写龙华区，规划部门按福田管理局发布许可；资料存在冲突，区属待核实。",
+      "sourceIDs": [
+        "district-station-locations",
+        "district-hanling-conflict"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0606"
+    },
+    {
+      "stationID": "s_94c11eb8d19c",
+      "name": "梅林关",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0607"
+    },
+    {
+      "stationID": "s_e4a4aac52792",
+      "name": "上芬",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0610"
+    },
+    {
+      "stationID": "s_19a3147486c9",
+      "name": "元芬",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0611"
+    },
+    {
+      "stationID": "s_df7d92df78fd",
+      "name": "阳台山东",
+      "districtIDs": [
+        "longhua"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0612"
+    },
+    {
+      "stationID": "s_cc4386888340",
+      "name": "官田",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0613"
+    },
+    {
+      "stationID": "s_f08eb5fadbd3",
+      "name": "上屋",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0614"
+    },
+    {
+      "stationID": "s_9782699e2ed7",
+      "name": "长圳",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0615"
+    },
+    {
+      "stationID": "s_25513d3fcc55",
+      "name": "凤凰城",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0616"
+    },
+    {
+      "stationID": "s_cdbd90be97b4",
+      "name": "光明大街",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0617"
+    },
+    {
+      "stationID": "s_6b9641d2417b",
+      "name": "光明",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0618"
+    },
+    {
+      "stationID": "s_069c2f0aa588",
+      "name": "科学公园",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0619"
+    },
+    {
+      "stationID": "s_53dbc3545ac3",
+      "name": "楼村",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0620"
+    },
+    {
+      "stationID": "s_dd02920462d3",
+      "name": "红花山",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0621"
+    },
+    {
+      "stationID": "s_f14f2b8d8e7f",
+      "name": "公明广场",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0622"
+    },
+    {
+      "stationID": "s_bd9a47a0b4b3",
+      "name": "合水口",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0623"
+    },
+    {
+      "stationID": "s_62e07a2d94d3",
+      "name": "薯田埔",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0624"
+    },
+    {
+      "stationID": "s_1cb41bedfc46",
+      "name": "松岗公园",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0625"
+    },
+    {
+      "stationID": "s_9d0c6d6ca6ab",
+      "name": "溪头",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0626"
+    },
+    {
+      "stationID": "s_f09e3945a15f",
+      "name": "松岗",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0627"
+    },
+    {
+      "stationID": "s_eb82d5687402",
+      "name": "光明城",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=6601"
+    },
+    {
+      "stationID": "s_c66f85c39a49",
+      "name": "虹桥公园",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=6602"
+    },
+    {
+      "stationID": "s_cb84fa2bf3e7",
+      "name": "碧眼",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=6603"
+    },
+    {
+      "stationID": "s_3b12a074d541",
+      "name": "圳美",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=6605"
+    },
+    {
+      "stationID": "s_a4edf6b9362b",
+      "name": "中大",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=6606"
+    },
+    {
+      "stationID": "s_c267d856c512",
+      "name": "深理工",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations",
+        "district-guangming"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=6607"
+    },
+    {
+      "stationID": "s_40e13d869403",
+      "name": "深大丽湖",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0701"
+    },
+    {
+      "stationID": "s_e310bbf0e506",
+      "name": "北大",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0702"
+    },
+    {
+      "stationID": "s_562f4edb8cd9",
+      "name": "西丽湖",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0703"
+    },
+    {
+      "stationID": "s_0207348e759d",
+      "name": "茶光",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0705"
+    },
+    {
+      "stationID": "s_3521c4fc2bd2",
+      "name": "珠光",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0706"
+    },
+    {
+      "stationID": "s_d18b52f93d5a",
+      "name": "龙井",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0707"
+    },
+    {
+      "stationID": "s_464ac5ddaca2",
+      "name": "桃源村",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0708"
+    },
+    {
+      "stationID": "s_551497907e96",
+      "name": "深云",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0709"
+    },
+    {
+      "stationID": "s_2997a1763a98",
+      "name": "农林",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0711"
+    },
+    {
+      "stationID": "s_2ada1161c83b",
+      "name": "上沙",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0713"
+    },
+    {
+      "stationID": "s_3d2939ee8399",
+      "name": "沙尾",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0714"
+    },
+    {
+      "stationID": "s_51a57eda5890",
+      "name": "皇岗村",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0716"
+    },
+    {
+      "stationID": "s_841a102c85c0",
+      "name": "皇岗口岸",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0718"
+    },
+    {
+      "stationID": "s_b319cc9b08fe",
+      "name": "赤尾",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0719"
+    },
+    {
+      "stationID": "s_f63cd5251143",
+      "name": "华强南",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0720"
+    },
+    {
+      "stationID": "s_0835ae932475",
+      "name": "黄木岗",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0723"
+    },
+    {
+      "stationID": "s_826e8d5bf020",
+      "name": "红岭北",
+      "districtIDs": [],
+      "note": "位于红岭北路区界附近；福田、罗湖两侧出入口归属尚待逐项核实。",
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0725"
+    },
+    {
+      "stationID": "s_eabe96f7058f",
+      "name": "笋岗",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0726"
+    },
+    {
+      "stationID": "s_00a5e92abc25",
+      "name": "洪湖",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0727"
+    },
+    {
+      "stationID": "s_8d09cb50406c",
+      "name": "梦海",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0902"
+    },
+    {
+      "stationID": "s_9bf42e249692",
+      "name": "怡海",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0903"
+    },
+    {
+      "stationID": "s_56d77529ac71",
+      "name": "荔林",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0904"
+    },
+    {
+      "stationID": "s_00f08cdc7be3",
+      "name": "南油西",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0905"
+    },
+    {
+      "stationID": "s_df38d4ff4084",
+      "name": "南油",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0906"
+    },
+    {
+      "stationID": "s_1c654a0642a3",
+      "name": "南山书城",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0907"
+    },
+    {
+      "stationID": "s_79cf9ac14ca4",
+      "name": "深大南",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0908"
+    },
+    {
+      "stationID": "s_e731eb2eb04d",
+      "name": "粤海门",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0909"
+    },
+    {
+      "stationID": "s_98923b576ea1",
+      "name": "高新南",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0910"
+    },
+    {
+      "stationID": "s_a816b847efad",
+      "name": "红树湾南",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0911"
+    },
+    {
+      "stationID": "s_9c09df5703a6",
+      "name": "深湾",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0912"
+    },
+    {
+      "stationID": "s_3d8f4ff7d3cd",
+      "name": "深圳湾公园",
+      "districtIDs": [],
+      "note": "位于南山、福田交界附近；站体与各出入口的区属尚待逐项核实。",
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0913"
+    },
+    {
+      "stationID": "s_69bc8dc2047b",
+      "name": "下沙",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0914"
+    },
+    {
+      "stationID": "s_df9bcba53b9f",
+      "name": "香梅",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0916"
+    },
+    {
+      "stationID": "s_1d055851722d",
+      "name": "梅景",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0918"
+    },
+    {
+      "stationID": "s_36fb06950277",
+      "name": "下梅林",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0919"
+    },
+    {
+      "stationID": "s_5358ad7bb5a4",
+      "name": "梅村",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0920"
+    },
+    {
+      "stationID": "s_c0a0564ddb47",
+      "name": "孖岭",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0922"
+    },
+    {
+      "stationID": "s_535398f40cf3",
+      "name": "泥岗",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0924"
+    },
+    {
+      "stationID": "s_eabcaa473428",
+      "name": "园岭",
+      "districtIDs": [],
+      "note": "位于红岭路区界附近；福田、罗湖两侧出入口归属尚待逐项核实。",
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0926"
+    },
+    {
+      "stationID": "s_3f6fa0fbc174",
+      "name": "红岭南",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0928"
+    },
+    {
+      "stationID": "s_9ee1e7a8b6c7",
+      "name": "鹿丹村",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0929"
+    },
+    {
+      "stationID": "s_eba212fb37ed",
+      "name": "人民南",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0930"
+    },
+    {
+      "stationID": "s_133aa13e8be6",
+      "name": "向西村",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0931"
+    },
+    {
+      "stationID": "s_11f9eb529544",
+      "name": "文锦",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=0932"
+    },
+    {
+      "stationID": "s_7fd10e492004",
+      "name": "冬瓜岭",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1006"
+    },
+    {
+      "stationID": "s_935e2995007d",
+      "name": "雅宝",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1008"
+    },
+    {
+      "stationID": "s_f4b177c62046",
+      "name": "南坑",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1009"
+    },
+    {
+      "stationID": "s_dc481ca9b27c",
+      "name": "光雅园",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1010"
+    },
+    {
+      "stationID": "s_7ad1ed6f989a",
+      "name": "坂田北",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1012"
+    },
+    {
+      "stationID": "s_23549117de25",
+      "name": "贝尔路",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1013"
+    },
+    {
+      "stationID": "s_82eaaba81d9d",
+      "name": "华为",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1014"
+    },
+    {
+      "stationID": "s_5adaf9d1eeea",
+      "name": "岗头",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1015"
+    },
+    {
+      "stationID": "s_946a74e9009b",
+      "name": "雪象",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1016"
+    },
+    {
+      "stationID": "s_f8ff626776f3",
+      "name": "甘坑",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1017"
+    },
+    {
+      "stationID": "s_c489f5ca47aa",
+      "name": "凉帽山",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1018"
+    },
+    {
+      "stationID": "s_b08a7bb507e7",
+      "name": "上李朗",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1019"
+    },
+    {
+      "stationID": "s_cc0cc97ad3ed",
+      "name": "木古",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1020"
+    },
+    {
+      "stationID": "s_c17cea7c5589",
+      "name": "华南城",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1021"
+    },
+    {
+      "stationID": "s_4864a44bda27",
+      "name": "禾花",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1022"
+    },
+    {
+      "stationID": "s_49ffee6daa1b",
+      "name": "平湖",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1023"
+    },
+    {
+      "stationID": "s_c7958c4e2d2e",
+      "name": "双拥街",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1024"
+    },
+    {
+      "stationID": "s_019cb23ab781",
+      "name": "福星",
+      "districtIDs": [
+        "futian"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1103"
+    },
+    {
+      "stationID": "nanshan",
+      "name": "南山",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1109"
+    },
+    {
+      "stationID": "baoan",
+      "name": "宝安",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1111"
+    },
+    {
+      "stationID": "s_89953636e3ce",
+      "name": "碧海湾",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1112"
+    },
+    {
+      "stationID": "s_6a5347ac5f65",
+      "name": "机场",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1113"
+    },
+    {
+      "stationID": "s_aca0d85c0fc2",
+      "name": "机场北",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1114"
+    },
+    {
+      "stationID": "s_f39da64137d0",
+      "name": "福永",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1115"
+    },
+    {
+      "stationID": "s_d028171b12f3",
+      "name": "桥头",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1116"
+    },
+    {
+      "stationID": "s_5123b8f26859",
+      "name": "塘尾",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1117"
+    },
+    {
+      "stationID": "s_7e9b60a78ad0",
+      "name": "马安山",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1118"
+    },
+    {
+      "stationID": "s_45126d234575",
+      "name": "沙井",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1119"
+    },
+    {
+      "stationID": "s_e192b907f3a9",
+      "name": "后亭",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1120"
+    },
+    {
+      "stationID": "s_8df01cc639df",
+      "name": "碧头",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1122"
+    },
+    {
+      "stationID": "s_4169b7d7e4ef",
+      "name": "左炮台东",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1201"
+    },
+    {
+      "stationID": "s_c1f5c575e828",
+      "name": "太子湾",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1202"
+    },
+    {
+      "stationID": "s_2fde01bca3bb",
+      "name": "花果山",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1204"
+    },
+    {
+      "stationID": "s_93b3dbded7aa",
+      "name": "四海",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1205"
+    },
+    {
+      "stationID": "s_dec08882288e",
+      "name": "南光",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1207"
+    },
+    {
+      "stationID": "s_5d6b2329f5ff",
+      "name": "南头古城",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1210"
+    },
+    {
+      "stationID": "s_128e87516d7b",
+      "name": "中山公园",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1211"
+    },
+    {
+      "stationID": "s_ce2a4d7bee51",
+      "name": "同乐南",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1212"
+    },
+    {
+      "stationID": "s_11ebbb7d5d98",
+      "name": "新安公园",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1213"
+    },
+    {
+      "stationID": "s_5d801ef74e9a",
+      "name": "上川",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1215"
+    },
+    {
+      "stationID": "s_5e9f573361e3",
+      "name": "流塘",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1216"
+    },
+    {
+      "stationID": "s_4bd4f1e682cc",
+      "name": "宝安客运站",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1217"
+    },
+    {
+      "stationID": "s_d69f90e0fc46",
+      "name": "宝田一路",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1218"
+    },
+    {
+      "stationID": "s_d780912eb75e",
+      "name": "平峦山",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1219"
+    },
+    {
+      "stationID": "s_1d7efc3449a0",
+      "name": "西乡桃源",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1220"
+    },
+    {
+      "stationID": "s_d41c18a3b5ae",
+      "name": "钟屋南",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1221"
+    },
+    {
+      "stationID": "s_197164769fc4",
+      "name": "黄田",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1222"
+    },
+    {
+      "stationID": "s_3769f07dda9f",
+      "name": "兴围",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1223"
+    },
+    {
+      "stationID": "s_c08a18d41e24",
+      "name": "福围",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1225"
+    },
+    {
+      "stationID": "s_053a8d558805",
+      "name": "怀德",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1226"
+    },
+    {
+      "stationID": "s_42a5821f060f",
+      "name": "桥头西",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1228"
+    },
+    {
+      "stationID": "s_9c75b17c0dda",
+      "name": "福海西",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1229"
+    },
+    {
+      "stationID": "s_a5ca2c0a09d5",
+      "name": "国展",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1230"
+    },
+    {
+      "stationID": "s_479efbd70d3d",
+      "name": "国展北",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1231"
+    },
+    {
+      "stationID": "s_f4f5c98ff7c4",
+      "name": "海上田园南",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1232"
+    },
+    {
+      "stationID": "s_66dfad6f6388",
+      "name": "海上田园东",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1233"
+    },
+    {
+      "stationID": "s_47d96d43e266",
+      "name": "蚝乡",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1234"
+    },
+    {
+      "stationID": "s_0ba403469f00",
+      "name": "沙蚝",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1235"
+    },
+    {
+      "stationID": "s_01993c031d35",
+      "name": "沙井古墟",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1236"
+    },
+    {
+      "stationID": "s_ce7ceebb1be4",
+      "name": "步涌",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1237"
+    },
+    {
+      "stationID": "s_9554d22bc5c8",
+      "name": "朗下",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1238"
+    },
+    {
+      "stationID": "s_9909f2c9f704",
+      "name": "深圳湾口岸",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_ce93eb66ac37",
+      "name": "人才公园",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_a0b836f97340",
+      "name": "高新中",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_256870c143ae",
+      "name": "高新北",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_e6b8617d1b89",
+      "name": "石鼓",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_f9bee37e1789",
+      "name": "百旺",
+      "districtIDs": [
+        "nanshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_78dba9fa8f8e",
+      "name": "应人石",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context",
+        "district-yingrenshi"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_a7e186540658",
+      "name": "罗租",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_799f62490fa7",
+      "name": "石岩",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_3a308c682027",
+      "name": "红坳公园",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context",
+        "district-guangming"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_6ab8a70dc7a2",
+      "name": "德雅路",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context",
+        "district-guangming"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_943d2a30d441",
+      "name": "月亮路",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context",
+        "district-guangming"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_db8bd850bd7e",
+      "name": "将围",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context",
+        "district-guangming"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_2fe28adf3308",
+      "name": "新庄",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context",
+        "district-guangming"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_c9b05e9ed106",
+      "name": "上村",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context",
+        "district-guangming"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_a486dec5e753",
+      "name": "下村",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context",
+        "district-guangming"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_af414751b3c8",
+      "name": "李松蓢",
+      "districtIDs": [
+        "guangming"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-government-context",
+        "district-guangming"
+      ],
+      "evidence": "以政府公开片区和线路资料人工对照；未完成站体及出入口地籍级核验。",
+      "locationURL": null
+    },
+    {
+      "stationID": "s_0147d17f2448",
+      "name": "罗湖北",
+      "districtIDs": [
+        "luohu"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1403"
+    },
+    {
+      "stationID": "s_2a21afc4d8b1",
+      "name": "石芽岭",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1405"
+    },
+    {
+      "stationID": "s_824c69cf843a",
+      "name": "六约北",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1406"
+    },
+    {
+      "stationID": "s_d1f4e7ed20b2",
+      "name": "四联",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1407"
+    },
+    {
+      "stationID": "s_a37b08d96563",
+      "name": "坳背",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1408"
+    },
+    {
+      "stationID": "s_1d20fda9f5fc",
+      "name": "嶂背",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1410"
+    },
+    {
+      "stationID": "s_96e1598d1d6d",
+      "name": "南约",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1411"
+    },
+    {
+      "stationID": "s_bc89e9f67c0d",
+      "name": "宝龙",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1412"
+    },
+    {
+      "stationID": "s_291081b45060",
+      "name": "锦龙",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1413"
+    },
+    {
+      "stationID": "s_db5d4cf47751",
+      "name": "坪山围",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1414"
+    },
+    {
+      "stationID": "s_ce87e2ba3e24",
+      "name": "坪山广场",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1415"
+    },
+    {
+      "stationID": "s_acc3251bf6fc",
+      "name": "坪山中心",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1416"
+    },
+    {
+      "stationID": "s_475c3f3f6408",
+      "name": "坑梓",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1417"
+    },
+    {
+      "stationID": "s_cbce75285d99",
+      "name": "沙田",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1418"
+    },
+    {
+      "stationID": "s_ae869d5dfd89",
+      "name": "园山西坑",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1601"
+    },
+    {
+      "stationID": "s_a4ad87305d62",
+      "name": "安良",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1602"
+    },
+    {
+      "stationID": "s_f3e341107533",
+      "name": "福坑",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1603"
+    },
+    {
+      "stationID": "s_b12f61c8265f",
+      "name": "大康",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1604"
+    },
+    {
+      "stationID": "s_a86e88da2fe0",
+      "name": "园山",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1605"
+    },
+    {
+      "stationID": "s_40117d316690",
+      "name": "大安",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1606"
+    },
+    {
+      "stationID": "s_bf76e4c1e5c8",
+      "name": "吉溪",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1607"
+    },
+    {
+      "stationID": "s_9bb3b0b539df",
+      "name": "金源",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1608"
+    },
+    {
+      "stationID": "s_11f531112fb4",
+      "name": "大运中心",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1610"
+    },
+    {
+      "stationID": "s_a5ea81f41647",
+      "name": "龙城公园",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1611"
+    },
+    {
+      "stationID": "s_b09383f08504",
+      "name": "黄阁坑",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1612"
+    },
+    {
+      "stationID": "s_ebd50ebffc97",
+      "name": "愉园",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1613"
+    },
+    {
+      "stationID": "s_aeb40226a54c",
+      "name": "回龙埔",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1614"
+    },
+    {
+      "stationID": "s_08df05c78c6a",
+      "name": "尚景",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1615"
+    },
+    {
+      "stationID": "s_04e5975be8f2",
+      "name": "盛平",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1616"
+    },
+    {
+      "stationID": "s_aecac16d8302",
+      "name": "龙园",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1617"
+    },
+    {
+      "stationID": "s_17e8c17176c1",
+      "name": "新塘围",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1619"
+    },
+    {
+      "stationID": "s_c52ad9c01fa2",
+      "name": "龙东",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1620"
+    },
+    {
+      "stationID": "s_c538ca090443",
+      "name": "宝龙同乐",
+      "districtIDs": [
+        "longgang"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1621"
+    },
+    {
+      "stationID": "s_0bd2f6a9943a",
+      "name": "坪山",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1622"
+    },
+    {
+      "stationID": "s_4a2a1901c089",
+      "name": "新和",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1623"
+    },
+    {
+      "stationID": "s_bca871460005",
+      "name": "六和",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1624"
+    },
+    {
+      "stationID": "s_b574439e1f13",
+      "name": "坪环",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "运营方站址明确写明区名。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1626"
+    },
+    {
+      "stationID": "s_c38f343253ab",
+      "name": "东纵纪念馆",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1627"
+    },
+    {
+      "stationID": "s_4d0cd59076e9",
+      "name": "沙壆",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1628"
+    },
+    {
+      "stationID": "s_666b1c5fe874",
+      "name": "燕子湖",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1629"
+    },
+    {
+      "stationID": "s_259596a888e1",
+      "name": "石井",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1630"
+    },
+    {
+      "stationID": "s_fc871ee96c80",
+      "name": "技术大学",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1631"
+    },
+    {
+      "stationID": "s_6469a3a07d5b",
+      "name": "田心",
+      "districtIDs": [
+        "pingshan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=1632"
+    },
+    {
+      "stationID": "s_876a37c04b84",
+      "name": "国展南",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=2002"
+    },
+    {
+      "stationID": "s_51934512508d",
+      "name": "会展城",
+      "districtIDs": [
+        "baoan"
+      ],
+      "note": null,
+      "sourceIDs": [
+        "district-station-locations"
+      ],
+      "evidence": "按运营方公开站址中的道路、街道或片区人工对应行政区；不是按示意坐标反推。",
+      "locationURL": "https://www.szmc.net/zdxx?StieCode=2005"
+    }
+  ],
+  "sources": [
+    {
+      "id": "district-station-locations",
+      "title": "深圳地铁：公开站点查询（站址）",
+      "url": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/",
+      "accessedAt": "2026-09-28",
+      "license": "公开站址事实；保留深圳地铁来源，仅供本地非商业核对。",
+      "note": "公开页面所用zdxx接口；逐站URL与站址摘要保存在official-station-locations.json。按站址中的区名或道路片区人工对应行政区；不采用示意坐标推断区属，不导入其他服务资料。"
+    },
+    {
+      "id": "district-government-context",
+      "title": "深圳政府在线：线路与片区资料",
+      "url": "https://www.sz.gov.cn/xxgk/sydwxxgk/jt/dt/",
+      "accessedAt": "2026-09-28",
+      "license": "政府公开信息；保留来源。",
+      "note": "4号线连接福田、龙华；13号线连接南山、宝安、光明。结合各区规划及片区资料人工对应站址；补充来源及尚待核实位置见DISTRICT_RESEARCH.md。"
+    },
+    {
+      "id": "district-dapeng",
+      "title": "规划和自然资源局：溪涌站建设工程规划许可",
+      "url": "https://pnr.sz.gov.cn/gkmlpt/content/11/11772/post_11772775.html",
+      "accessedAt": "2026-09-28",
+      "license": "政府公开信息；保留来源。",
+      "note": "建设位置明确为大鹏新区溪涌片区；大鹏新区单独以功能区标示。"
+    },
+    {
+      "id": "district-guangming",
+      "title": "光明区：13号线二期北延工程",
+      "url": "https://www.szgm.gov.cn/xxgk/xqgwhxxgkml/xwzx/tpxw/content/post_12302407.html",
+      "accessedAt": "2026-09-28",
+      "license": "政府公开信息；保留来源。",
+      "note": "13号线北延11座新站的光明段背景；结合红坳公园、下村至李松蓢规划公示人工对应。"
+    },
+    {
+      "id": "district-yingrenshi",
+      "title": "交警局：应人石站工程交通组织通告",
+      "url": "https://szjj.sz.gov.cn/ZWGK/TZGG/GGJG/content/post_8687843.html",
+      "accessedAt": "2026-09-28",
+      "license": "政府公开信息；保留来源。",
+      "note": "应人石站施工道路明确为宝安区市场路。"
+    },
+    {
+      "id": "district-hanling-conflict",
+      "title": "规划和自然资源局：福田管理局翰岭站许可目录",
+      "url": "https://pnr.sz.gov.cn/szsghhzrzyjwzgkml/szsghhzrzyjwzgkml/seztfw/zzrd/wyk/index_19.html",
+      "accessedAt": "2026-09-28",
+      "license": "政府公开信息；保留来源。",
+      "note": "许可发布部门为福田管理局，与运营方站址所写龙华区存在冲突；暂不强行归区。"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0727",
+  "stationID": "s_00a5e92abc25",
+  "stationName": "洪湖",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0727"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0727",
+  "retrievedAt": "2026-09-28T16:12:15+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "4c1a9f9678e862532d916b339550c4a8cb18d6948531d9cbe41615f5f0a52524"
+}

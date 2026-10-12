@@ -1,0 +1,16 @@
+{
+  "code": "0421",
+  "stationID": "s_0f2137510a02",
+  "stationName": "松元厦",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0421"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0421",
+  "retrievedAt": "2026-09-28T16:10:11+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "3ac6cbbdf81fb44f206a6953cabca3c3ebe9786bf2da3a3404c6568568bbd2ef"
+}

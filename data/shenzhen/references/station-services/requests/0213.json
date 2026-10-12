@@ -1,0 +1,16 @@
+{
+  "code": "0213",
+  "stationID": "s_e4c2054fff8e",
+  "stationName": "侨城北",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0213"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0213",
+  "retrievedAt": "2026-09-28T16:18:56+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "82e657f50dbb3fbda3cd62606414a6af959fb1d7d037495abcee9add12726eca"
+}

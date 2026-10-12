@@ -1,0 +1,16 @@
+{
+  "code": "0907",
+  "stationID": "s_1c654a0642a3",
+  "stationName": "南山书城",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0907"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0907",
+  "retrievedAt": "2026-09-28T16:12:39+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "fc9ae76ba09a63725d29d8610bcb7362b6c723581c93aea920e49f310cd3508f"
+}

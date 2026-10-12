@@ -1,0 +1,16 @@
+{
+  "code": "0206",
+  "stationID": "s_4bc3b7bcbde9",
+  "stationName": "湾厦",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0206"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0206",
+  "retrievedAt": "2026-09-28T16:08:25+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "aae6e40e280aae4ec7a7f1b437c0328d2ddeebe6eac30512aa28d7568b07aa7a"
+}

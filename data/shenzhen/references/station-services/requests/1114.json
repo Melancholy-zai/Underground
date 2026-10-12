@@ -1,0 +1,16 @@
+{
+  "code": "1114",
+  "stationID": "s_aca0d85c0fc2",
+  "stationName": "机场北",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1114"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1114",
+  "retrievedAt": "2026-09-28T16:13:56+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "b30bc7cf257ca5ec50c02fe62434408f2470020d5a554c9d99d7917191b3ee6a"
+}

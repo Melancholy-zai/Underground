@@ -1,0 +1,16 @@
+{
+  "code": "1023",
+  "stationID": "s_49ffee6daa1b",
+  "stationName": "平湖",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1023"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1023",
+  "retrievedAt": "2026-09-28T16:13:38+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1109fe1636512591e10666480c5c96071c74e695c5fdb66cc0db098c6e0864a3"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1211",
+  "stationID": "s_128e87516d7b",
+  "stationName": "中山公园",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1211"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1211",
+  "retrievedAt": "2026-09-28T16:14:20+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "d8fb993f4d8219583a0f7dc4a863c4f6164bc05410ff2b1976a71d9cca6699ec"
+}

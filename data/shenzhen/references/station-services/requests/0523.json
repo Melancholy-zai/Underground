@@ -1,0 +1,16 @@
+{
+  "code": "0523",
+  "stationID": "s_5bc156e01945",
+  "stationName": "五和",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0523"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0523",
+  "retrievedAt": "2026-09-28T16:19:17+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "19d5236764f2dd33efa9388871930ac6571573a402926edc8883835ef82dd453"
+}

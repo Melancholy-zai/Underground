@@ -1,0 +1,16 @@
+{
+  "code": "1228",
+  "stationID": "s_42a5821f060f",
+  "stationName": "桥头西",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1228"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1228",
+  "retrievedAt": "2026-09-28T16:19:49+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "9ad8d16aa02b86fe9f20fb20927a0020fae09a8459905135a9aef5753f84bc8f"
+}

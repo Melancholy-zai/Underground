@@ -1,0 +1,16 @@
+{
+  "code": "0506",
+  "stationID": "qianwan",
+  "stationName": "前湾",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0506"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0506",
+  "retrievedAt": "2026-09-28T16:10:22+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "5653497886ca09273b0f2c95893bf02f9696d2d6e89b5e45a52720bbbe1eaffa"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1224",
+  "stationID": "s_65539bdd45f7",
+  "stationName": "机场东",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1224"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1224",
+  "retrievedAt": "2026-09-28T16:14:35+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "a778d8a1bd19b6b15936b1ae07934c6d296f482b0855c6034331060f99a95dde"
+}

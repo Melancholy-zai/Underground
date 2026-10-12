@@ -1,0 +1,16 @@
+{
+  "code": "1403",
+  "stationID": "s_0147d17f2448",
+  "stationName": "罗湖北",
+  "lineID": "l14",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1403"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1403",
+  "retrievedAt": "2026-09-28T16:15:29+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "4c1dd70e62246e710a99fe00448f3e277f28dcf4c042f4b3531ea96e2b6393ed"
+}

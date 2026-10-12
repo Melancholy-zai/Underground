@@ -1,0 +1,16 @@
+{
+  "code": "0405",
+  "stationID": "s_1d0b1329d388",
+  "stationName": "少年宫",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0405"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0405",
+  "retrievedAt": "2026-09-28T16:19:10+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "b5ee42a4cac8d09b7690f8f9f6c655c79c5e51853a73d3740e06a4a8c9a21fe3"
+}

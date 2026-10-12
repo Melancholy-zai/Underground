@@ -1,0 +1,16 @@
+{
+  "code": "1022",
+  "stationID": "s_4864a44bda27",
+  "stationName": "禾花",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1022"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1022",
+  "retrievedAt": "2026-09-28T16:13:36+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1c20de6d165d563e092ddf2cfa88483b2d9f29bd01e0f1f613da3785a930b989"
+}

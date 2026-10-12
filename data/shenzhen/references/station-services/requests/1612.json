@@ -1,0 +1,16 @@
+{
+  "code": "1612",
+  "stationID": "s_b09383f08504",
+  "stationName": "黄阁坑",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1612"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1612",
+  "retrievedAt": "2026-09-28T16:16:02+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "aa2993f7a6402a7e63d33a686fc182e9c6a47eb2897aa7c078c156bd255abf69"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1016",
+  "stationID": "s_946a74e9009b",
+  "stationName": "雪象",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1016"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1016",
+  "retrievedAt": "2026-09-28T16:13:29+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "9a43a41fc0609a34289a98df80fa2ec61e8fdac46b45f8ca7cf5ca45d9b12a31"
+}

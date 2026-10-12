@@ -1,0 +1,16 @@
+{
+  "code": "0805",
+  "stationID": "s_ed259ed9d22b",
+  "stationName": "盐田港西",
+  "lineID": "l8",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0805"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0805",
+  "retrievedAt": "2026-09-28T16:12:23+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "57052a369423339dc0ff63e14b8f418e7f61171153ecb2ad224c8f67ef711f37"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0915",
+  "stationID": "s_c2d307fafd40",
+  "stationName": "车公庙",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0915"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0915",
+  "retrievedAt": "2026-09-28T16:12:49+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "fdfd72339bd191330aed84bfec394a46453b426ebfc9ad2828c8fde8ee0b68ea"
+}

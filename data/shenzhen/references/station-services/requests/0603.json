@@ -1,0 +1,16 @@
+{
+  "code": "0603",
+  "stationID": "s_2e3c1f463ace",
+  "stationName": "体育中心",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0603"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0603",
+  "retrievedAt": "2026-09-28T16:11:04+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "887ce7721453d2282bd98fe00667174114c4f05d8eea5206fc2e3e80676b9d12"
+}

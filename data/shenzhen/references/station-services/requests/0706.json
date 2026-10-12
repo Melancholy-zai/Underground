@@ -1,0 +1,16 @@
+{
+  "code": "0706",
+  "stationID": "s_3521c4fc2bd2",
+  "stationName": "珠光",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0706"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0706",
+  "retrievedAt": "2026-09-28T16:11:49+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "c0d04c9e73c285dc22ccdc54104616e757c59c651d6fe694f04c4509e014447f"
+}

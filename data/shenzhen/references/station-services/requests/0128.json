@@ -1,0 +1,16 @@
+{
+  "code": "0128",
+  "stationID": "s_a73b46622ac9",
+  "stationName": "固戍",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0128"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0128",
+  "retrievedAt": "2026-09-28T16:08:15+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "8d7045910b14df7472eb76e50450a5046ca2a3883b99dc86d01edf8084e48ade"
+}

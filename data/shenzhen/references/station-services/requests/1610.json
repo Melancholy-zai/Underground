@@ -1,0 +1,16 @@
+{
+  "code": "1610",
+  "stationID": "s_11f531112fb4",
+  "stationName": "大运中心",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1610"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1610",
+  "retrievedAt": "2026-09-28T16:19:58+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "bd87898852bb8fe393d42bff59d61a6056d3e2f89fce44c34db4d7e695d60bc0"
+}

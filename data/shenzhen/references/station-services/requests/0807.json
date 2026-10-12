@@ -1,0 +1,16 @@
+{
+  "code": "0807",
+  "stationID": "s_7eb4fbfb6e95",
+  "stationName": "盐田路",
+  "lineID": "l8",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0807"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0807",
+  "retrievedAt": "2026-09-28T16:12:25+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "32bba68d9fad9ba4bc409e954c498512fe6b5cb28bf0cc1b1f1dbb6aebae4f9a"
+}

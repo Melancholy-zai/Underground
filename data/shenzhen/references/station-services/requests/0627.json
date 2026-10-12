@@ -1,0 +1,16 @@
+{
+  "code": "0627",
+  "stationID": "s_f09e3945a15f",
+  "stationName": "松岗",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0627"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0627",
+  "retrievedAt": "2026-09-28T16:11:33+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "08cd5f4cdcf0febc7cc78c1cdbfd93c90a7c301699fc31020636f2b8101b3078"
+}

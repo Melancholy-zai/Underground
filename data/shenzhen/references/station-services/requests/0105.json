@@ -1,0 +1,16 @@
+{
+  "code": "0105",
+  "stationID": "s_5c1c524b02aa",
+  "stationName": "科学馆",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0105"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0105",
+  "retrievedAt": "2026-09-28T16:18:49+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f2035c6d6537b4856dd0d7fb26a9fa9401634bb837e1f71b16f2454856dad8ac"
+}

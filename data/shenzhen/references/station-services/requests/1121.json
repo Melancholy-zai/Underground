@@ -1,0 +1,16 @@
+{
+  "code": "1121",
+  "stationID": "s_f09e3945a15f",
+  "stationName": "松岗",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1121"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1121",
+  "retrievedAt": "2026-09-28T16:14:05+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "3930fcbaefc471dd565b64bb25466debc36096956569027b14981c6f62406b0e"
+}

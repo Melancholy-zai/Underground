@@ -1,0 +1,16 @@
+{
+  "code": "0608",
+  "stationID": "s_a872658c8224",
+  "stationName": "深圳北站",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0608"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0608",
+  "retrievedAt": "2026-09-28T16:11:10+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "5204b2c8beec25262a3e1aef9bda86aec42a2a5a204216c49eb337a4373a0bf7"
+}

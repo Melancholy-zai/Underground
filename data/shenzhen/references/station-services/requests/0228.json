@@ -1,0 +1,16 @@
+{
+  "code": "0228",
+  "stationID": "s_b867ff8088f5",
+  "stationName": "黄贝岭",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0228"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0228",
+  "retrievedAt": "2026-09-28T16:19:01+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "a3d1c67b535d0013eeeb53b8983e7ad3c2b3654813a824141d6c1d847e6c1f09"
+}

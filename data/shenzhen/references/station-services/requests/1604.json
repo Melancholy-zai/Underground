@@ -1,0 +1,16 @@
+{
+  "code": "1604",
+  "stationID": "s_b12f61c8265f",
+  "stationName": "大康",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1604"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1604",
+  "retrievedAt": "2026-09-28T16:21:53+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "7da6de3b680952e6d10d85b3e6d6cc21653a4d7fb22e030c738a1c22cc1562e0"
+}

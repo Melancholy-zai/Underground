@@ -1,0 +1,16 @@
+{
+  "code": "0312",
+  "stationID": "s_616478cdbd18",
+  "stationName": "晒布",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0312"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0312",
+  "retrievedAt": "2026-09-28T16:09:14+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "3ba2dff457d99a0758d6ee189752f5257f8e25a01644b26b04231609ebf39842"
+}

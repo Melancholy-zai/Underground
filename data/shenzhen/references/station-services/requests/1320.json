@@ -1,0 +1,16 @@
+{
+  "code": "1320",
+  "stationID": "s_943d2a30d441",
+  "stationName": "月亮路",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1320"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1320",
+  "retrievedAt": "2026-09-28T16:15:19+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "3b51a0806cba65bb92b51febb2d1d095fe779e9d5bf1b0053eedc6b183237ce6"
+}

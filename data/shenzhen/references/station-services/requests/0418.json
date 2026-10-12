@@ -1,0 +1,16 @@
+{
+  "code": "0418",
+  "stationID": "s_b8a1fd73a4f3",
+  "stationName": "茜坑",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0418"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0418",
+  "retrievedAt": "2026-09-28T16:10:08+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "7b9b6fa0694ca6e5359c2b4af345fee6ef437a2767424456e57a3bff26194550"
+}

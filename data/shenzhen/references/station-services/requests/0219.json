@@ -1,0 +1,16 @@
+{
+  "code": "0219",
+  "stationID": "s_381ddb9fa939",
+  "stationName": "景田",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0219"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0219",
+  "retrievedAt": "2026-09-28T16:08:41+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "08bd75d9a9f4ba107ccbc7613523ab420f1644b3a12869b98cd7b289bd8bd5bc"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0334",
+  "stationID": "s_89643b3c8764",
+  "stationName": "坪西",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0334"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0334",
+  "retrievedAt": "2026-09-28T16:09:41+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "8fb48c1f2169de020beeecca8697bdc80a9c759a40b79b987959c8d6d94f5a46"
+}

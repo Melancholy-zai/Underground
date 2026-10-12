@@ -1,0 +1,16 @@
+{
+  "code": "0923",
+  "stationID": "s_fd446736a468",
+  "stationName": "银湖",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0923"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0923",
+  "retrievedAt": "2026-09-28T16:19:36+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "3decfacc0c8c16249f568a854ef8b96c219c0b6d5857086c7365436c29660cde"
+}

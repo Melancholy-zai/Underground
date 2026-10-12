@@ -1,0 +1,16 @@
+{
+  "code": "1416",
+  "stationID": "s_acc3251bf6fc",
+  "stationName": "坪山中心",
+  "lineID": "l14",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1416"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1416",
+  "retrievedAt": "2026-09-28T16:15:45+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "859f2afa5fb740b6ee6c84a7a21b1d98656f651ceea0fbf5150fc64d51af3168"
+}

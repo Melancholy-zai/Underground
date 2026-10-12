@@ -1,0 +1,16 @@
+{
+  "code": "0618",
+  "stationID": "s_6b9641d2417b",
+  "stationName": "光明",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0618"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0618",
+  "retrievedAt": "2026-09-28T16:11:22+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "a90fca719a0829bd23852a0ba073fe8f2ecd9fc98566d1a2d0625f981ecd2323"
+}

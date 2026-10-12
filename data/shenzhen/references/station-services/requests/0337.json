@@ -1,0 +1,16 @@
+{
+  "code": "0337",
+  "stationID": "s_35e3f34cee03",
+  "stationName": "富坪",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0337"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0337",
+  "retrievedAt": "2026-09-28T16:09:45+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "df4d2b05b643953b6031fa6a6663668d1c3bd804806cc275c78cce28323d2f96"
+}

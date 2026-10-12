@@ -1,0 +1,16 @@
+{
+  "code": "1605",
+  "stationID": "s_a86e88da2fe0",
+  "stationName": "园山",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1605"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1605",
+  "retrievedAt": "2026-09-28T16:15:53+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "726de1f3e62c5871e817be8503b68dde180f2910e997237946f4e04dfd0f9b7b"
+}

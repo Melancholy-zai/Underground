@@ -1,0 +1,16 @@
+{
+  "code": "0303",
+  "stationID": "s_28594c84012a",
+  "stationName": "石厦",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0303"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0303",
+  "retrievedAt": "2026-09-28T16:09:01+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "87a08573bbb76f134458748b1ec29b38504324fc3285a86675886b36445b3e81"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0338",
+  "stationID": "s_11af5ec73183",
+  "stationName": "坪地六联",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0338"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0338",
+  "retrievedAt": "2026-09-28T16:09:46+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "52dbc93b5e7974b87d9385570ca63e474d4578ca38a0690e2fb9137b9d332ff4"
+}

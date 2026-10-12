@@ -1,0 +1,16 @@
+{
+  "code": "1214",
+  "stationID": "s_6f16e8d1ebe2",
+  "stationName": "灵芝",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1214"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1214",
+  "retrievedAt": "2026-09-28T16:14:23+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "c63101e9a8a32616605c7ee0fadcc6b4921eabcffd2a8feec987f68fb08f1cdf"
+}

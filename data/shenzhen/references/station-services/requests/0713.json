@@ -1,0 +1,16 @@
+{
+  "code": "0713",
+  "stationID": "s_2ada1161c83b",
+  "stationName": "上沙",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0713"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0713",
+  "retrievedAt": "2026-09-28T16:11:58+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "03fdffb489c9853af5eabda1e21b4d645ed975d6e098054d1322f787d9354fbd"
+}

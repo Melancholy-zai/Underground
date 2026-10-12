@@ -1,0 +1,16 @@
+{
+  "code": "0123",
+  "stationID": "xinan",
+  "stationName": "新安",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0123"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0123",
+  "retrievedAt": "2026-09-28T16:08:09+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "03b95d6f6937881a0f08466fc112c1f69a0813bf32f7b7932e7a96661d65faee"
+}

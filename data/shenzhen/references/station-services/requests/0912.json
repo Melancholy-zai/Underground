@@ -1,0 +1,16 @@
+{
+  "code": "0912",
+  "stationID": "s_9c09df5703a6",
+  "stationName": "深湾",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0912"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0912",
+  "retrievedAt": "2026-09-28T16:19:33+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "2ded5a7867a9d5d7576b084e3b40c8fa94a04f372b075b4010932b349ad9fc08"
+}

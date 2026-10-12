@@ -1,0 +1,16 @@
+{
+  "code": "0324",
+  "stationID": "s_046d03867223",
+  "stationName": "永湖",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0324"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0324",
+  "retrievedAt": "2026-09-28T16:09:29+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "56d019d2046f3eae6fb1e7d3992ee16b461eaeb389d67bb77a7a45700cc8ba45"
+}

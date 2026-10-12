@@ -1,0 +1,16 @@
+{
+  "code": "1007",
+  "stationID": "s_c0a0564ddb47",
+  "stationName": "孖岭",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1007"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1007",
+  "retrievedAt": "2026-09-28T16:13:18+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "cf309fc73a26cd16de58484772a8e60242f748c332d642dc79ccfc8b286d491e"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0420",
+  "stationID": "s_767ddfa1b412",
+  "stationName": "观澜",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0420"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0420",
+  "retrievedAt": "2026-09-28T16:10:10+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "dcdf3fe947784c616a1897c04d4af2d9cc93a7baf79a244e5961602636457abc"
+}

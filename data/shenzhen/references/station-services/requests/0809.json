@@ -1,0 +1,16 @@
+{
+  "code": "0809",
+  "stationID": "s_fe3c2771909b",
+  "stationName": "盐田墟",
+  "lineID": "l8",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0809"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0809",
+  "retrievedAt": "2026-09-28T16:12:28+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "c4bc4bf5b9fa7bfeb8a85deb4f00f676c9efa3a5743aad5bbaeedee001561b74"
+}

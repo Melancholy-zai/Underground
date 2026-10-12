@@ -1,0 +1,16 @@
+{
+  "code": "0401",
+  "stationID": "s_bae37f20469d",
+  "stationName": "福田口岸",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0401"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0401",
+  "retrievedAt": "2026-09-28T16:09:47+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f5c2e3a806742fa72247cd9f303dcb0691c5e207a48e125cded0a4c8f635aa1b"
+}

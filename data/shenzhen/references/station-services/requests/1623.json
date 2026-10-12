@@ -1,0 +1,16 @@
+{
+  "code": "1623",
+  "stationID": "s_4a2a1901c089",
+  "stationName": "新和",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1623"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1623",
+  "retrievedAt": "2026-09-28T16:20:00+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "28d010d222ab3501ae21774c810cf566c4171ba0eebbcf8aedcf0e9b17d2606f"
+}

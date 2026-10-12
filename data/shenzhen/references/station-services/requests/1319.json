@@ -1,0 +1,16 @@
+{
+  "code": "1319",
+  "stationID": "s_25513d3fcc55",
+  "stationName": "凤凰城",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1319"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1319",
+  "retrievedAt": "2026-09-28T16:15:18+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "7b9553290fa2c40847dccf4a04e58b895c9e0472361dafe7085334d161d21033"
+}

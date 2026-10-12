@@ -1,0 +1,16 @@
+{
+  "code": "0223",
+  "stationID": "s_56f42681a960",
+  "stationName": "岗厦北",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0223"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0223",
+  "retrievedAt": "2026-09-28T16:08:46+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "24aae8eb39420172aaf69de6afa3a8f80eb3721ac2e52042b069b31cab1fb187"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0332",
+  "stationID": "s_43c5ca4f3dd6",
+  "stationName": "梨园",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0332"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0332",
+  "retrievedAt": "2026-09-28T16:21:43+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "3cb78e1402a1a6525d02063b4a7c7e9e1ff4e3026c3950e3af1bb361603cd33d"
+}

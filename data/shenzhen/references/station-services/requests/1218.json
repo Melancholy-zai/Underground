@@ -1,0 +1,16 @@
+{
+  "code": "1218",
+  "stationID": "s_d69f90e0fc46",
+  "stationName": "宝田一路",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1218"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1218",
+  "retrievedAt": "2026-09-28T16:19:46+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "8b184334823da0329241fb802693343a5318529f79ced97b6b3a8c2836d14f5e"
+}

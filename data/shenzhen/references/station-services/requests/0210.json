@@ -1,0 +1,16 @@
+{
+  "code": "0210",
+  "stationID": "s_85f973590435",
+  "stationName": "科苑",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0210"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0210",
+  "retrievedAt": "2026-09-28T16:08:30+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "eff4f452ba97abb42667fe940f8feea5b33e55d3daa5597bc765dca7635add7d"
+}

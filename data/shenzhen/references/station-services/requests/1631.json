@@ -1,0 +1,16 @@
+{
+  "code": "1631",
+  "stationID": "s_fc871ee96c80",
+  "stationName": "技术大学",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1631"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1631",
+  "retrievedAt": "2026-09-28T16:16:26+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "10f6fd565fec6f33a059431313c4e02292d1cca9f0a86fb32989bffc3d4ba048"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "2003",
+  "stationID": "s_a5ca2c0a09d5",
+  "stationName": "国展",
+  "lineID": "l20",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "2003"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?2003",
+  "retrievedAt": "2026-09-28T16:16:30+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "a6493a55a4d623442c43cef8cee8739a14587de9eeb1ed520ab3ecbb27b89612"
+}

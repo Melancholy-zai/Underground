@@ -1,0 +1,16 @@
+{
+  "code": "0920",
+  "stationID": "s_5358ad7bb5a4",
+  "stationName": "梅村",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0920"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0920",
+  "retrievedAt": "2026-09-28T16:12:55+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "906eee348b02f80304b85a90edd1bc6ff8f14d8d794f80674bac4002e0d7ce4c"
+}

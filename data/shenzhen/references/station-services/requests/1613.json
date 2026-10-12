@@ -1,0 +1,16 @@
+{
+  "code": "1613",
+  "stationID": "s_ebd50ebffc97",
+  "stationName": "愉园",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1613"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1613",
+  "retrievedAt": "2026-09-28T16:16:03+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "cf830ef416ccd86076030646d578d84ff4f5d048145b16682dab7dea7c9f1ef3"
+}

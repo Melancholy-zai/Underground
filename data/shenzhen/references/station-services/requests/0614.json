@@ -1,0 +1,16 @@
+{
+  "code": "0614",
+  "stationID": "s_f08eb5fadbd3",
+  "stationName": "上屋",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0614"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0614",
+  "retrievedAt": "2026-09-28T16:11:17+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1a3b5c793cc769d909d0c71e4b1b5b5b6b94bcac3545f98e67eaf552932ca84b"
+}

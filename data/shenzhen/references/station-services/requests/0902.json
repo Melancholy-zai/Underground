@@ -1,0 +1,16 @@
+{
+  "code": "0902",
+  "stationID": "s_8d09cb50406c",
+  "stationName": "梦海",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0902"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0902",
+  "retrievedAt": "2026-09-28T16:12:33+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "d3aa951de449ffa9a1a2c3fea8c38eaf3cc1cfc7ffa9c5edd22ba0257fd1dfc8"
+}

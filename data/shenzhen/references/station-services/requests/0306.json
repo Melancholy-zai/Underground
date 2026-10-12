@@ -1,0 +1,16 @@
+{
+  "code": "0306",
+  "stationID": "s_1d0b1329d388",
+  "stationName": "少年宫",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0306"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0306",
+  "retrievedAt": "2026-09-28T16:09:05+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "14cba22b505ebc3f462aad8dfbe4ef0d30f2cab1bd0fc50818f4723fe36a9824"
+}

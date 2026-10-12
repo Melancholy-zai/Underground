@@ -1,0 +1,16 @@
+{
+  "code": "0536",
+  "stationID": "s_79f2d1650a6a",
+  "stationName": "东门",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0536"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0536",
+  "retrievedAt": "2026-09-28T16:10:59+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "13e2c64971d6ed3b51cdbc0e16569a0c0ff95e589e1a4d4ab504d78824e0ca16"
+}

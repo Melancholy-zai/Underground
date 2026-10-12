@@ -1,0 +1,16 @@
+{
+  "code": "0702",
+  "stationID": "s_e310bbf0e506",
+  "stationName": "北大",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0702"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0702",
+  "retrievedAt": "2026-09-28T16:11:44+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "6801a94f063b6a579760a6710143722c5bd957157ff4694b942304c94a49fb30"
+}

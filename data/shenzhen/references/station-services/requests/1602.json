@@ -1,0 +1,16 @@
+{
+  "code": "1602",
+  "stationID": "s_a4ad87305d62",
+  "stationName": "安良",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1602"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1602",
+  "retrievedAt": "2026-09-28T16:15:49+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "021dec18fa1a8e9f4ea3fa7fb622ffec943c40a235d8a3363ae53b2851816c56"
+}

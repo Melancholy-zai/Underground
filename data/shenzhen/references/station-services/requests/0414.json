@@ -1,0 +1,16 @@
+{
+  "code": "0414",
+  "stationID": "s_5e4b16d6e1e2",
+  "stationName": "龙华",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0414"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0414",
+  "retrievedAt": "2026-09-28T16:10:03+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "5c978c190b4203dff6f0f92d794acb2b4c3134d32a68fe4884411925e12afe82"
+}

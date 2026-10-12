@@ -1,0 +1,16 @@
+{
+  "code": "0624",
+  "stationID": "s_62e07a2d94d3",
+  "stationName": "薯田埔",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0624"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0624",
+  "retrievedAt": "2026-09-28T16:11:30+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "3eb82036d9122b1dd5bc5d6d39b194f74628a8385f4a76e2fe2d242d3e6ab477"
+}

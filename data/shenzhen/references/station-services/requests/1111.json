@@ -1,0 +1,16 @@
+{
+  "code": "1111",
+  "stationID": "baoan",
+  "stationName": "宝安",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1111"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1111",
+  "retrievedAt": "2026-09-28T16:13:52+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "07920e3214228e37044f8ab4b387835533657d7692e5c7b916da79f07a3819c2"
+}

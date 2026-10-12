@@ -1,0 +1,16 @@
+{
+  "code": "0232",
+  "stationID": "s_c5e75ef87a02",
+  "stationName": "莲塘",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0232"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0232",
+  "retrievedAt": "2026-09-28T16:08:57+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "d052a9759c9aaed1ee08fdab32c265c65cdc1bf1d1852d2f96070f380dbf2d07"
+}

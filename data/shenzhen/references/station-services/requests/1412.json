@@ -1,0 +1,16 @@
+{
+  "code": "1412",
+  "stationID": "s_bc89e9f67c0d",
+  "stationName": "宝龙",
+  "lineID": "l14",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1412"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1412",
+  "retrievedAt": "2026-09-28T16:15:40+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "94159aa7fe65b8d417ab2fc9323fb48d1d253c6ca0dec45b7d9cd13b9521764a"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0318",
+  "stationID": "s_0451c5c1fa3a",
+  "stationName": "木棉湾",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0318"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0318",
+  "retrievedAt": "2026-09-28T16:19:04+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "7006930ef0d3d71afbb95a8a142205bcdf480ea3afa8a534f62073a8de9687f1"
+}

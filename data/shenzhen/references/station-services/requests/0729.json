@@ -1,0 +1,16 @@
+{
+  "code": "0729",
+  "stationID": "s_bcc68154a8d5",
+  "stationName": "太安",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0729"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0729",
+  "retrievedAt": "2026-09-28T16:12:18+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "4a260ea8b3f3493e191776ae1d83d53946ad81f99413e9b707b29d1e7f6642b1"
+}

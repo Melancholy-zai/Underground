@@ -1,0 +1,16 @@
+{
+  "code": "0317",
+  "stationID": "s_0951bf83bd2a",
+  "stationName": "布吉",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0317"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0317",
+  "retrievedAt": "2026-09-28T16:09:20+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "789b71f7b39c7e2afa14bef24d432cb2f6739499e2cce1dba4f1bdbb23fdb425"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0535",
+  "stationID": "s_b04a236d881e",
+  "stationName": "湖贝",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0535"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0535",
+  "retrievedAt": "2026-09-28T16:10:58+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "57e1586d52a3506f1d2eefae58d2c2e2393ef6834814b16995ab296ea02eaf53"
+}

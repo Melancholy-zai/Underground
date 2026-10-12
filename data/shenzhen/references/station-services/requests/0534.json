@@ -1,0 +1,16 @@
+{
+  "code": "0534",
+  "stationID": "s_b867ff8088f5",
+  "stationName": "黄贝岭",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0534"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0534",
+  "retrievedAt": "2026-09-28T16:10:56+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1639e4055061885c24d59b131547cc33a7fea3c37ca8d2b9ceea7deb33602f00"
+}

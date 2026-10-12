@@ -1,0 +1,16 @@
+{
+  "code": "0222",
+  "stationID": "s_641566e647d2",
+  "stationName": "市民中心",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0222"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0222",
+  "retrievedAt": "2026-09-28T16:08:44+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "0595413023768a4f598fbc89e880c09e0740f05d35021607c8a9fc4322845744"
+}

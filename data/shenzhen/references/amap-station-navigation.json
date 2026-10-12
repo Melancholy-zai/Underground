@@ -1,0 +1,2815 @@
+{
+  "sourceURL": "https://map.amap.com/service/subway?srhdata=4403_drw_shenzhen.json",
+  "accessedAt": "2026-09-28",
+  "note": "从高德公开深圳地铁图按官方站名精确匹配，仅提取当前线网的351站；sl为高德地图坐标，保留GCJ02标识，不能当作WGS84。",
+  "stations": [
+    {
+      "stationID": "s_b1dbfb916409",
+      "name": "罗湖",
+      "poiID": "BV10249978",
+      "latitude": 22.532083,
+      "longitude": 114.118666,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_d8fff4e0ea54",
+      "name": "国贸",
+      "poiID": "BV10243546",
+      "latitude": 22.53968,
+      "longitude": 114.118909,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_3d9826cfde4d",
+      "name": "老街",
+      "poiID": "BV10249964",
+      "latitude": 22.544232,
+      "longitude": 114.116939,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_57e3b7fa8fe4",
+      "name": "大剧院",
+      "poiID": "BV10246013",
+      "latitude": 22.5418,
+      "longitude": 114.107811,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_5c1c524b02aa",
+      "name": "科学馆",
+      "poiID": "BV10245558",
+      "latitude": 22.540618,
+      "longitude": 114.095173,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_9bff19325c2c",
+      "name": "华强路",
+      "poiID": "BV10249909",
+      "latitude": 22.540459,
+      "longitude": 114.085133,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_27bae2d3c1b5",
+      "name": "岗厦",
+      "poiID": "BV10243519",
+      "latitude": 22.534854,
+      "longitude": 114.06819,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_4b324f83aff9",
+      "name": "会展中心",
+      "poiID": "BV10243493",
+      "latitude": 22.534769,
+      "longitude": 114.061101,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_a2c1f6afabd4",
+      "name": "购物公园",
+      "poiID": "BV10248569",
+      "latitude": 22.534655,
+      "longitude": 114.054581,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_ec350957cc65",
+      "name": "香蜜湖",
+      "poiID": "BV10243468",
+      "latitude": 22.538887,
+      "longitude": 114.038637,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c2d307fafd40",
+      "name": "车公庙",
+      "poiID": "BV10249928",
+      "latitude": 22.536247,
+      "longitude": 114.02583,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_4c3d38420dfb",
+      "name": "竹子林",
+      "poiID": "BV10243704",
+      "latitude": 22.533357,
+      "longitude": 114.013917,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_ec17d448e9ac",
+      "name": "侨城东",
+      "poiID": "BV10249977",
+      "latitude": 22.532406,
+      "longitude": 113.996651,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_e8e1e18860c5",
+      "name": "华侨城",
+      "poiID": "BV10249976",
+      "latitude": 22.533489,
+      "longitude": 113.985369,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_0c2ba844e8c2",
+      "name": "世界之窗",
+      "poiID": "BV10242356",
+      "latitude": 22.5369,
+      "longitude": 113.974216,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_0edd5851394e",
+      "name": "白石洲",
+      "poiID": "BV10244044",
+      "latitude": 22.539604,
+      "longitude": 113.967048,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "gaoxinyuan",
+      "name": "高新园",
+      "poiID": "BV10249975",
+      "latitude": 22.540236,
+      "longitude": 113.953842,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "shenda",
+      "name": "深大",
+      "poiID": "BV10249974",
+      "latitude": 22.538667,
+      "longitude": 113.944173,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "taoyuan",
+      "name": "桃园",
+      "poiID": "BV10249851",
+      "latitude": 22.531506,
+      "longitude": 113.924781,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "daxin",
+      "name": "大新",
+      "poiID": "BV10249973",
+      "latitude": 22.532232,
+      "longitude": 113.915072,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "liyumen",
+      "name": "鲤鱼门",
+      "poiID": "BV10249972",
+      "latitude": 22.532005,
+      "longitude": 113.903079,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "qianhaiwan",
+      "name": "前海湾",
+      "poiID": "BV10249931",
+      "latitude": 22.537121,
+      "longitude": 113.897932,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "xinan",
+      "name": "新安",
+      "poiID": "BV10249971",
+      "latitude": 22.547468,
+      "longitude": 113.894625,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "baoanzhongxin",
+      "name": "宝安中心",
+      "poiID": "BV10249947",
+      "latitude": 22.554575,
+      "longitude": 113.887233,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "baoti",
+      "name": "宝体",
+      "poiID": "BV10249970",
+      "latitude": 22.560741,
+      "longitude": 113.880641,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_ded62b71c66f",
+      "name": "坪洲",
+      "poiID": "BV10249969",
+      "latitude": 22.568908,
+      "longitude": 113.870711,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c427574dc35a",
+      "name": "西乡",
+      "poiID": "BV10249968",
+      "latitude": 22.575149,
+      "longitude": 113.863048,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_a73b46622ac9",
+      "name": "固戍",
+      "poiID": "BV10242458",
+      "latitude": 22.601363,
+      "longitude": 113.846792,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_0f9e4945edd0",
+      "name": "后瑞",
+      "poiID": "BV10244581",
+      "latitude": 22.628835,
+      "longitude": 113.835449,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_65539bdd45f7",
+      "name": "机场东",
+      "poiID": "BV10249071",
+      "latitude": 22.647001,
+      "longitude": 113.822634,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_40e31054c955",
+      "name": "赤湾",
+      "poiID": "BV10249984",
+      "latitude": 22.479227,
+      "longitude": 113.897525,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_226baca6f9fb",
+      "name": "蛇口港",
+      "poiID": "BV10249985",
+      "latitude": 22.476626,
+      "longitude": 113.912331,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_ea5188e6e9bf",
+      "name": "海上世界",
+      "poiID": "BV10244034",
+      "latitude": 22.485101,
+      "longitude": 113.915111,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_ea7883436eb7",
+      "name": "水湾",
+      "poiID": "BV10249986",
+      "latitude": 22.488389,
+      "longitude": 113.919686,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_b59236d442d6",
+      "name": "东角头",
+      "poiID": "BV10244079",
+      "latitude": 22.486325,
+      "longitude": 113.931149,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_4bc3b7bcbde9",
+      "name": "湾厦",
+      "poiID": "BV10249987",
+      "latitude": 22.493353,
+      "longitude": 113.938604,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_7c733ad2eaa9",
+      "name": "海月",
+      "poiID": "BV10249988",
+      "latitude": 22.500409,
+      "longitude": 113.937715,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_3ad5a7bc47ea",
+      "name": "登良",
+      "poiID": "BV10249989",
+      "latitude": 22.509146,
+      "longitude": 113.937602,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "houhai",
+      "name": "后海",
+      "poiID": "BV10249990",
+      "latitude": 22.518172,
+      "longitude": 113.943503,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_85f973590435",
+      "name": "科苑",
+      "poiID": "BV10249991",
+      "latitude": 22.527019,
+      "longitude": 113.946195,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_f533fa6bc5aa",
+      "name": "红树湾",
+      "poiID": "BV10249992",
+      "latitude": 22.525142,
+      "longitude": 113.968432,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_e4c2054fff8e",
+      "name": "侨城北",
+      "poiID": "BV10249993",
+      "latitude": 22.543992,
+      "longitude": 113.989148,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_014db5ac30b7",
+      "name": "深康",
+      "poiID": "BV10249994",
+      "latitude": 22.546456,
+      "longitude": 113.998846,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_0a7341da8f3f",
+      "name": "安托山",
+      "poiID": "BV10249904",
+      "latitude": 22.548785,
+      "longitude": 114.006236,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_893347080a92",
+      "name": "侨香",
+      "poiID": "BV10249995",
+      "latitude": 22.549784,
+      "longitude": 114.014378,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_917099a52cc7",
+      "name": "香蜜",
+      "poiID": "BV10249996",
+      "latitude": 22.552772,
+      "longitude": 114.023851,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_f4b51b9c3bf6",
+      "name": "香梅北",
+      "poiID": "BV10243787",
+      "latitude": 22.55386,
+      "longitude": 114.032716,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_381ddb9fa939",
+      "name": "景田",
+      "poiID": "BV10249926",
+      "latitude": 22.553419,
+      "longitude": 114.043343,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_dfcb9a6ea33f",
+      "name": "莲花西",
+      "poiID": "BV10249997",
+      "latitude": 22.546668,
+      "longitude": 114.050034,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_9e30abe46d4b",
+      "name": "福田",
+      "poiID": "BV10249929",
+      "latitude": 22.540087,
+      "longitude": 114.052879,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_641566e647d2",
+      "name": "市民中心",
+      "poiID": "BV10243488",
+      "latitude": 22.541834,
+      "longitude": 114.06097,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_56f42681a960",
+      "name": "岗厦北",
+      "poiID": "BV10249998",
+      "latitude": 22.53832,
+      "longitude": 114.067964,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_99ca86bc1d7c",
+      "name": "华强北",
+      "poiID": "BV10243650",
+      "latitude": 22.544441,
+      "longitude": 114.085413,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_63eb9e3d42a2",
+      "name": "燕南",
+      "poiID": "BV10249999",
+      "latitude": 22.544541,
+      "longitude": 114.092561,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_b04a236d881e",
+      "name": "湖贝",
+      "poiID": "BV10250000",
+      "latitude": 22.544286,
+      "longitude": 114.125439,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_b867ff8088f5",
+      "name": "黄贝岭",
+      "poiID": "BV10243876",
+      "latitude": 22.546095,
+      "longitude": 114.136332,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_4aaa3ec5856a",
+      "name": "新秀",
+      "poiID": "BV10249914",
+      "latitude": 22.547688,
+      "longitude": 114.148765,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_b2afdab62241",
+      "name": "莲塘口岸",
+      "poiID": "BV10677095",
+      "latitude": 22.553524,
+      "longitude": 114.155585,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_5f2610cf9ce0",
+      "name": "仙湖路",
+      "poiID": "BV10677096",
+      "latitude": 22.564065,
+      "longitude": 114.166405,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c5e75ef87a02",
+      "name": "莲塘",
+      "poiID": "BV10242475",
+      "latitude": 22.564118,
+      "longitude": 114.174291,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_2319925d7fd6",
+      "name": "梧桐山南",
+      "poiID": "BV10684317",
+      "latitude": 22.55785,
+      "longitude": 114.183207,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_4edec4013a7e",
+      "name": "沙头角",
+      "poiID": "BV10249915",
+      "latitude": 22.554232,
+      "longitude": 114.223195,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c6177ea4478c",
+      "name": "海山",
+      "poiID": "BV10244749",
+      "latitude": 22.555537,
+      "longitude": 114.237711,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_ed259ed9d22b",
+      "name": "盐田港西",
+      "poiID": "BV10249916",
+      "latitude": 22.562536,
+      "longitude": 114.246899,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_2ab9c3be4294",
+      "name": "深外高中",
+      "poiID": "BV10684318",
+      "latitude": 22.584031,
+      "longitude": 114.244559,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_7eb4fbfb6e95",
+      "name": "盐田路",
+      "poiID": "BV10684315",
+      "latitude": 22.589721,
+      "longitude": 114.256321,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_0d537ad0daa2",
+      "name": "鸿安围",
+      "poiID": "BV09183185",
+      "latitude": 22.590544,
+      "longitude": 114.264225,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_fe3c2771909b",
+      "name": "盐田墟",
+      "poiID": "BV09154679",
+      "latitude": 22.587321,
+      "longitude": 114.276373,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_5258c35b992b",
+      "name": "大梅沙",
+      "poiID": "BV11422053",
+      "latitude": 22.594095,
+      "longitude": 114.307825,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_d32cea4e31dd",
+      "name": "小梅沙",
+      "poiID": "BV10804214",
+      "latitude": 22.602226,
+      "longitude": 114.326501,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_7eb754becf47",
+      "name": "溪涌",
+      "poiID": "BV10804220",
+      "latitude": 22.61211,
+      "longitude": 114.360255,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_b18a3a50f0a5",
+      "name": "福保",
+      "poiID": "BV10793836",
+      "latitude": 22.507884,
+      "longitude": 114.055586,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_cb1cfe1b4769",
+      "name": "益田",
+      "poiID": "BV10249967",
+      "latitude": 22.516287,
+      "longitude": 114.050987,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_28594c84012a",
+      "name": "石厦",
+      "poiID": "BV10243850",
+      "latitude": 22.523708,
+      "longitude": 114.053616,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_1d0b1329d388",
+      "name": "少年宫",
+      "poiID": "BV10243648",
+      "latitude": 22.548627,
+      "longitude": 114.06017,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_97d0d113c395",
+      "name": "莲花村",
+      "poiID": "BV10249966",
+      "latitude": 22.548646,
+      "longitude": 114.067829,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_bc29e52523c0",
+      "name": "华新",
+      "poiID": "BV10249910",
+      "latitude": 22.548981,
+      "longitude": 114.086654,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_0d2aa8003f50",
+      "name": "通新岭",
+      "poiID": "BV10249965",
+      "latitude": 22.549126,
+      "longitude": 114.096273,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_bd0a50415e8a",
+      "name": "红岭",
+      "poiID": "BV10249921",
+      "latitude": 22.54838,
+      "longitude": 114.104584,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_616478cdbd18",
+      "name": "晒布",
+      "poiID": "BV10249963",
+      "latitude": 22.549238,
+      "longitude": 114.122664,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_233923ef961c",
+      "name": "翠竹",
+      "poiID": "BV10249962",
+      "latitude": 22.556188,
+      "longitude": 114.129883,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_4f63e5edbb60",
+      "name": "田贝",
+      "poiID": "BV10246144",
+      "latitude": 22.56728,
+      "longitude": 114.130052,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_467a06b6515d",
+      "name": "水贝",
+      "poiID": "BV10246345",
+      "latitude": 22.573988,
+      "longitude": 114.124974,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_b07b1bef10e7",
+      "name": "草埔",
+      "poiID": "BV10243477",
+      "latitude": 22.584447,
+      "longitude": 114.1165,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_0951bf83bd2a",
+      "name": "布吉",
+      "poiID": "BV10249935",
+      "latitude": 22.60233,
+      "longitude": 114.121159,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_0451c5c1fa3a",
+      "name": "木棉湾",
+      "poiID": "BV10249961",
+      "latitude": 22.606997,
+      "longitude": 114.130293,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_ccd20297b47f",
+      "name": "大芬",
+      "poiID": "BV10249960",
+      "latitude": 22.614191,
+      "longitude": 114.138364,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_1d72a8a4ba70",
+      "name": "丹竹头",
+      "poiID": "BV10249959",
+      "latitude": 22.619752,
+      "longitude": 114.148054,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_cbc1d82f7db2",
+      "name": "六约",
+      "poiID": "BV10249958",
+      "latitude": 22.634322,
+      "longitude": 114.180646,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_da46a997e609",
+      "name": "塘坑",
+      "poiID": "BV10249957",
+      "latitude": 22.639179,
+      "longitude": 114.192725,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_e2b972b20c97",
+      "name": "横岗",
+      "poiID": "BV10249956",
+      "latitude": 22.648442,
+      "longitude": 114.208994,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_046d03867223",
+      "name": "永湖",
+      "poiID": "BV10249955",
+      "latitude": 22.658995,
+      "longitude": 114.218042,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_1236cf8c7a77",
+      "name": "荷坳",
+      "poiID": "BV10249954",
+      "latitude": 22.673079,
+      "longitude": 114.22431,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_b74aef610169",
+      "name": "大运",
+      "poiID": "BV10249953",
+      "latitude": 22.68572,
+      "longitude": 114.228163,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_2938e96ae2a8",
+      "name": "爱联",
+      "poiID": "BV10249952",
+      "latitude": 22.697495,
+      "longitude": 114.234423,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_d32bb2867c16",
+      "name": "吉祥",
+      "poiID": "BV10249951",
+      "latitude": 22.709488,
+      "longitude": 114.244318,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_cb15eeb50146",
+      "name": "龙城广场",
+      "poiID": "BV10243745",
+      "latitude": 22.716915,
+      "longitude": 114.254592,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_a95545b106c8",
+      "name": "南联",
+      "poiID": "BV10249950",
+      "latitude": 22.721967,
+      "longitude": 114.265531,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_820bf8c62509",
+      "name": "双龙",
+      "poiID": "BV10249875",
+      "latitude": 22.728806,
+      "longitude": 114.277422,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_43c5ca4f3dd6",
+      "name": "梨园",
+      "poiID": "BV10793842",
+      "latitude": 22.734833,
+      "longitude": 114.281737,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_dc083adb4abc",
+      "name": "新生",
+      "poiID": "BV11443531",
+      "latitude": 22.747988,
+      "longitude": 114.283024,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_89643b3c8764",
+      "name": "坪西",
+      "poiID": "BV10793839",
+      "latitude": 22.763426,
+      "longitude": 114.28224,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c981ddde9e63",
+      "name": "低碳城",
+      "poiID": "BV10793835",
+      "latitude": 22.77101,
+      "longitude": 114.289355,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_6bdf74c853d7",
+      "name": "白石塘",
+      "poiID": "BV11411856",
+      "latitude": 22.775124,
+      "longitude": 114.302868,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_35e3f34cee03",
+      "name": "富坪",
+      "poiID": "BV10793838",
+      "latitude": 22.780155,
+      "longitude": 114.310908,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_11af5ec73183",
+      "name": "坪地六联",
+      "poiID": "BV10793840",
+      "latitude": 22.786983,
+      "longitude": 114.322059,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_bae37f20469d",
+      "name": "福田口岸",
+      "poiID": "BV10243512",
+      "latitude": 22.515176,
+      "longitude": 114.067731,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_77a624f5c489",
+      "name": "福民",
+      "poiID": "BV10249907",
+      "latitude": 22.523226,
+      "longitude": 114.065915,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_08d20715fc17",
+      "name": "莲花北",
+      "poiID": "BV10245550",
+      "latitude": 22.560538,
+      "longitude": 114.059402,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_977e7b664918",
+      "name": "上梅林",
+      "poiID": "BV10243815",
+      "latitude": 22.570459,
+      "longitude": 114.059415,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_6e69907949bb",
+      "name": "民乐",
+      "poiID": "BV10249983",
+      "latitude": 22.594144,
+      "longitude": 114.048809,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_a103ebebf7e9",
+      "name": "白石龙",
+      "poiID": "BV10249982",
+      "latitude": 22.601505,
+      "longitude": 114.042431,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_a872658c8224",
+      "name": "深圳北站",
+      "poiID": "BV10244305",
+      "latitude": 22.610815,
+      "longitude": 114.030865,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_b0f4af25300a",
+      "name": "红山",
+      "poiID": "BV10249884",
+      "latitude": 22.621707,
+      "longitude": 114.0234,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_52261b2d7aec",
+      "name": "上塘",
+      "poiID": "BV10249885",
+      "latitude": 22.637056,
+      "longitude": 114.012838,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_1ccfaca282be",
+      "name": "龙胜",
+      "poiID": "BV10249981",
+      "latitude": 22.644739,
+      "longitude": 114.01201,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_5e4b16d6e1e2",
+      "name": "龙华",
+      "poiID": "BV10249980",
+      "latitude": 22.651629,
+      "longitude": 114.022419,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_8147b7507b6c",
+      "name": "清湖",
+      "poiID": "BV10249979",
+      "latitude": 22.664085,
+      "longitude": 114.036538,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_cabf4cc55fb2",
+      "name": "清湖北",
+      "poiID": "BV10877299",
+      "latitude": 22.672087,
+      "longitude": 114.040417,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c2f050a62b4a",
+      "name": "竹村",
+      "poiID": "BV10877294",
+      "latitude": 22.686728,
+      "longitude": 114.040309,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_b8a1fd73a4f3",
+      "name": "茜坑",
+      "poiID": "BV10877293",
+      "latitude": 22.697256,
+      "longitude": 114.041087,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_f4912df9a015",
+      "name": "长湖",
+      "poiID": "BV10877296",
+      "latitude": 22.710764,
+      "longitude": 114.044796,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_767ddfa1b412",
+      "name": "观澜",
+      "poiID": "BV10877297",
+      "latitude": 22.715172,
+      "longitude": 114.054771,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_0f2137510a02",
+      "name": "松元厦",
+      "poiID": "BV10877295",
+      "latitude": 22.721153,
+      "longitude": 114.064767,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_293aefc7be42",
+      "name": "观澜湖",
+      "poiID": "BV10877300",
+      "latitude": 22.721616,
+      "longitude": 114.076271,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_848678559c73",
+      "name": "牛湖",
+      "poiID": "BV10877298",
+      "latitude": 22.724608,
+      "longitude": 114.089254,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_8c927caa7632",
+      "name": "荔湾",
+      "poiID": "BV10868017",
+      "latitude": 22.497821,
+      "longitude": 113.893485,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_afbd0684d2cb",
+      "name": "铁路公园",
+      "poiID": "BV10868018",
+      "latitude": 22.502908,
+      "longitude": 113.889969,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c2443ba97615",
+      "name": "妈湾",
+      "poiID": "BV10868015",
+      "latitude": 22.507904,
+      "longitude": 113.885929,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_610315170aed",
+      "name": "前湾公园",
+      "poiID": "BV10868014",
+      "latitude": 22.516108,
+      "longitude": 113.889552,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "qianwan",
+      "name": "前湾",
+      "poiID": "BV10724147",
+      "latitude": 22.52182,
+      "longitude": 113.895455,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "guiwan",
+      "name": "桂湾",
+      "poiID": "BV10868016",
+      "latitude": 22.532358,
+      "longitude": 113.897944,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "linhai",
+      "name": "临海",
+      "poiID": "BV10249949",
+      "latitude": 22.54416,
+      "longitude": 113.889323,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "baohua",
+      "name": "宝华",
+      "poiID": "BV10249948",
+      "latitude": 22.549635,
+      "longitude": 113.88509,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "fanshen",
+      "name": "翻身",
+      "poiID": "BV10249946",
+      "latitude": 22.55969,
+      "longitude": 113.893232,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_6f16e8d1ebe2",
+      "name": "灵芝",
+      "poiID": "BV10249853",
+      "latitude": 22.568964,
+      "longitude": 113.904158,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_184f6f325312",
+      "name": "洪浪北",
+      "poiID": "BV10249945",
+      "latitude": 22.574543,
+      "longitude": 113.910585,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_5d1c8ac10fa8",
+      "name": "兴东",
+      "poiID": "BV10249944",
+      "latitude": 22.581822,
+      "longitude": 113.919013,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_98318a129732",
+      "name": "留仙洞",
+      "poiID": "BV10243933",
+      "latitude": 22.580534,
+      "longitude": 113.943543,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_e92ffafa8603",
+      "name": "西丽",
+      "poiID": "BV10249901",
+      "latitude": 22.580677,
+      "longitude": 113.954396,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_265b4f2166b5",
+      "name": "大学城",
+      "poiID": "BV10249943",
+      "latitude": 22.581946,
+      "longitude": 113.965307,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_2aeff618f782",
+      "name": "塘朗",
+      "poiID": "BV10249942",
+      "latitude": 22.590097,
+      "longitude": 113.999666,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c08cc22c7b24",
+      "name": "长岭陂",
+      "poiID": "BV10249941",
+      "latitude": 22.599395,
+      "longitude": 114.010275,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_73d12f38bb13",
+      "name": "民治",
+      "poiID": "BV10249940",
+      "latitude": 22.617545,
+      "longitude": 114.04085,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_5bc156e01945",
+      "name": "五和",
+      "poiID": "BV10249939",
+      "latitude": 22.626833,
+      "longitude": 114.060681,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_78a996c36326",
+      "name": "坂田",
+      "poiID": "BV10249938",
+      "latitude": 22.627483,
+      "longitude": 114.070852,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_e6bf0f4fc1ac",
+      "name": "杨美",
+      "poiID": "BV10249937",
+      "latitude": 22.626777,
+      "longitude": 114.079975,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_e93b3e23cbb2",
+      "name": "上水径",
+      "poiID": "BV10244202",
+      "latitude": 22.622046,
+      "longitude": 114.105337,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_73534b1eedd8",
+      "name": "下水径",
+      "poiID": "BV10244199",
+      "latitude": 22.614833,
+      "longitude": 114.110662,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_7443291ac1a0",
+      "name": "长龙",
+      "poiID": "BV10249936",
+      "latitude": 22.608053,
+      "longitude": 114.113825,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_abb3ec6cf5f6",
+      "name": "百鸽笼",
+      "poiID": "BV10247063",
+      "latitude": 22.595442,
+      "longitude": 114.13038,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_87d93e26688f",
+      "name": "布心",
+      "poiID": "BV10249934",
+      "latitude": 22.580986,
+      "longitude": 114.138045,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_bcc68154a8d5",
+      "name": "太安",
+      "poiID": "BV10249913",
+      "latitude": 22.573466,
+      "longitude": 114.137119,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_3f0d5163de8d",
+      "name": "怡景",
+      "poiID": "BV10249933",
+      "latitude": 22.555856,
+      "longitude": 114.140115,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_79f2d1650a6a",
+      "name": "东门",
+      "poiID": "BV09154680",
+      "latitude": 22.542946,
+      "longitude": 114.117079,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_2e3c1f463ace",
+      "name": "体育中心",
+      "poiID": "BV10879919",
+      "latitude": 22.554673,
+      "longitude": 114.096104,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_1540acef9aef",
+      "name": "八卦岭",
+      "poiID": "BV10245836",
+      "latitude": 22.561941,
+      "longitude": 114.094649,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_fd446736a468",
+      "name": "银湖",
+      "poiID": "BV10249923",
+      "latitude": 22.568308,
+      "longitude": 114.089851,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_fc18c6df1666",
+      "name": "翰岭",
+      "poiID": "BV10793829",
+      "latitude": 22.574179,
+      "longitude": 114.068894,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_94c11eb8d19c",
+      "name": "梅林关",
+      "poiID": "BV10793830",
+      "latitude": 22.593666,
+      "longitude": 114.05374,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_e4a4aac52792",
+      "name": "上芬",
+      "poiID": "BV10527875",
+      "latitude": 22.640394,
+      "longitude": 114.016637,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_19a3147486c9",
+      "name": "元芬",
+      "poiID": "BV10527874",
+      "latitude": 22.656327,
+      "longitude": 114.005138,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_df7d92df78fd",
+      "name": "阳台山东",
+      "poiID": "BV10527881",
+      "latitude": 22.667894,
+      "longitude": 113.9916,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_cc4386888340",
+      "name": "官田",
+      "poiID": "BV10527867",
+      "latitude": 22.683253,
+      "longitude": 113.949663,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_f08eb5fadbd3",
+      "name": "上屋",
+      "poiID": "BV10527880",
+      "latitude": 22.688855,
+      "longitude": 113.939795,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_9782699e2ed7",
+      "name": "长圳",
+      "poiID": "BV10527877",
+      "latitude": 22.726332,
+      "longitude": 113.930926,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_25513d3fcc55",
+      "name": "凤凰城",
+      "poiID": "BV10527878",
+      "latitude": 22.747433,
+      "longitude": 113.932831,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_cdbd90be97b4",
+      "name": "光明大街",
+      "poiID": "BV10895876",
+      "latitude": 22.761965,
+      "longitude": 113.942714,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_6b9641d2417b",
+      "name": "光明",
+      "poiID": "BV10527871",
+      "latitude": 22.771707,
+      "longitude": 113.945241,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_069c2f0aa588",
+      "name": "科学公园",
+      "poiID": "BV10527873",
+      "latitude": 22.777469,
+      "longitude": 113.934115,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_53dbc3545ac3",
+      "name": "楼村",
+      "poiID": "BV10527868",
+      "latitude": 22.77591,
+      "longitude": 113.923407,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_dd02920462d3",
+      "name": "红花山",
+      "poiID": "BV10527872",
+      "latitude": 22.777684,
+      "longitude": 113.907292,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_f14f2b8d8e7f",
+      "name": "公明广场",
+      "poiID": "BV10249894",
+      "latitude": 22.777428,
+      "longitude": 113.891407,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_bd9a47a0b4b3",
+      "name": "合水口",
+      "poiID": "BV10527869",
+      "latitude": 22.78161,
+      "longitude": 113.880928,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_62e07a2d94d3",
+      "name": "薯田埔",
+      "poiID": "BV10527879",
+      "latitude": 22.780928,
+      "longitude": 113.867694,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_1cb41bedfc46",
+      "name": "松岗公园",
+      "poiID": "BV10249897",
+      "latitude": 22.77792,
+      "longitude": 113.84831,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_9d0c6d6ca6ab",
+      "name": "溪头",
+      "poiID": "BV10527870",
+      "latitude": 22.774648,
+      "longitude": 113.83765,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_f09e3945a15f",
+      "name": "松岗",
+      "poiID": "BV10242465",
+      "latitude": 22.771739,
+      "longitude": 113.827693,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_eb82d5687402",
+      "name": "光明城",
+      "poiID": "BV11496173",
+      "latitude": 22.733024,
+      "longitude": 113.953569,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c66f85c39a49",
+      "name": "虹桥公园",
+      "poiID": "BV11601406",
+      "latitude": 22.749968,
+      "longitude": 113.950166,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_cb84fa2bf3e7",
+      "name": "碧眼",
+      "poiID": "BV09270692",
+      "latitude": 22.757988,
+      "longitude": 113.951071,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_3b12a074d541",
+      "name": "圳美",
+      "poiID": "BV11029716",
+      "latitude": 22.787814,
+      "longitude": 113.949275,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_a4edf6b9362b",
+      "name": "中大",
+      "poiID": "BV11029714",
+      "latitude": 22.796818,
+      "longitude": 113.953546,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c267d856c512",
+      "name": "深理工",
+      "poiID": "BV11029715",
+      "latitude": 22.806378,
+      "longitude": 113.968595,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_40e13d869403",
+      "name": "深大丽湖",
+      "poiID": "BV09298382",
+      "latitude": 22.592903,
+      "longitude": 113.988381,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_e310bbf0e506",
+      "name": "北大",
+      "poiID": "BV11589044",
+      "latitude": 22.593998,
+      "longitude": 113.978313,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_562f4edb8cd9",
+      "name": "西丽湖",
+      "poiID": "BV10602481",
+      "latitude": 22.593567,
+      "longitude": 113.965648,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_0207348e759d",
+      "name": "茶光",
+      "poiID": "BV10602479",
+      "latitude": 22.574138,
+      "longitude": 113.954311,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_3521c4fc2bd2",
+      "name": "珠光",
+      "poiID": "BV10249902",
+      "latitude": 22.56827,
+      "longitude": 113.960559,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_d18b52f93d5a",
+      "name": "龙井",
+      "poiID": "BV10249903",
+      "latitude": 22.56401,
+      "longitude": 113.974687,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_464ac5ddaca2",
+      "name": "桃源村",
+      "poiID": "BV10243793",
+      "latitude": 22.5599,
+      "longitude": 113.981962,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_551497907e96",
+      "name": "深云",
+      "poiID": "BV10602474",
+      "latitude": 22.556537,
+      "longitude": 113.993727,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_2997a1763a98",
+      "name": "农林",
+      "poiID": "BV10602478",
+      "latitude": 22.540411,
+      "longitude": 114.018135,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_2ada1161c83b",
+      "name": "上沙",
+      "poiID": "BV10243496",
+      "latitude": 22.524612,
+      "longitude": 114.035504,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_3d2939ee8399",
+      "name": "沙尾",
+      "poiID": "BV10585815",
+      "latitude": 22.520798,
+      "longitude": 114.042579,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_51a57eda5890",
+      "name": "皇岗村",
+      "poiID": "BV10602483",
+      "latitude": 22.523138,
+      "longitude": 114.059823,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_841a102c85c0",
+      "name": "皇岗口岸",
+      "poiID": "BV10243619",
+      "latitude": 22.521799,
+      "longitude": 114.073972,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_b319cc9b08fe",
+      "name": "赤尾",
+      "poiID": "BV10249908",
+      "latitude": 22.531374,
+      "longitude": 114.083598,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_f63cd5251143",
+      "name": "华强南",
+      "poiID": "BV10602476",
+      "latitude": 22.537214,
+      "longitude": 114.086825,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_0835ae932475",
+      "name": "黄木岗",
+      "poiID": "BV10602475",
+      "latitude": 22.555699,
+      "longitude": 114.087234,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_826e8d5bf020",
+      "name": "红岭北",
+      "poiID": "BV10447622",
+      "latitude": 22.56203,
+      "longitude": 114.104315,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_eabe96f7058f",
+      "name": "笋岗",
+      "poiID": "BV10602482",
+      "latitude": 22.563406,
+      "longitude": 114.111295,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_00a5e92abc25",
+      "name": "洪湖",
+      "poiID": "BV10602477",
+      "latitude": 22.566056,
+      "longitude": 114.122465,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_8d09cb50406c",
+      "name": "梦海",
+      "poiID": "BV11291532",
+      "latitude": 22.518925,
+      "longitude": 113.898806,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_9bf42e249692",
+      "name": "怡海",
+      "poiID": "BV11291531",
+      "latitude": 22.514933,
+      "longitude": 113.903758,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_56d77529ac71",
+      "name": "荔林",
+      "poiID": "BV11291533",
+      "latitude": 22.511903,
+      "longitude": 113.913128,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_00f08cdc7be3",
+      "name": "南油西",
+      "poiID": "BV11291529",
+      "latitude": 22.509074,
+      "longitude": 113.918402,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_df38d4ff4084",
+      "name": "南油",
+      "poiID": "BV10724148",
+      "latitude": 22.510238,
+      "longitude": 113.925766,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_1c654a0642a3",
+      "name": "南山书城",
+      "poiID": "BV11291534",
+      "latitude": 22.519355,
+      "longitude": 113.928657,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_79cf9ac14ca4",
+      "name": "深大南",
+      "poiID": "BV11291530",
+      "latitude": 22.526016,
+      "longitude": 113.935675,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_e731eb2eb04d",
+      "name": "粤海门",
+      "poiID": "BV10724144",
+      "latitude": 22.532695,
+      "longitude": 113.945531,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_98923b576ea1",
+      "name": "高新南",
+      "poiID": "BV11291528",
+      "latitude": 22.532797,
+      "longitude": 113.950079,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_a816b847efad",
+      "name": "红树湾南",
+      "poiID": "BV10729670",
+      "latitude": 22.523023,
+      "longitude": 113.971433,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_9c09df5703a6",
+      "name": "深湾",
+      "poiID": "BV10447621",
+      "latitude": 22.523078,
+      "longitude": 113.97862,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_3d8f4ff7d3cd",
+      "name": "深圳湾公园",
+      "poiID": "BV10447620",
+      "latitude": 22.521591,
+      "longitude": 113.993114,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_69bc8dc2047b",
+      "name": "下沙",
+      "poiID": "BV10447625",
+      "latitude": 22.5289,
+      "longitude": 114.024334,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_df9bcba53b9f",
+      "name": "香梅",
+      "poiID": "BV10249927",
+      "latitude": 22.545356,
+      "longitude": 114.039683,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_1d055851722d",
+      "name": "梅景",
+      "poiID": "BV10447619",
+      "latitude": 22.561028,
+      "longitude": 114.037934,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_36fb06950277",
+      "name": "下梅林",
+      "poiID": "BV10447624",
+      "latitude": 22.565672,
+      "longitude": 114.041768,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_5358ad7bb5a4",
+      "name": "梅村",
+      "poiID": "BV10447616",
+      "latitude": 22.568443,
+      "longitude": 114.052423,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c0a0564ddb47",
+      "name": "孖岭",
+      "poiID": "BV10447623",
+      "latitude": 22.568458,
+      "longitude": 114.067778,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_535398f40cf3",
+      "name": "泥岗",
+      "poiID": "BV10447617",
+      "latitude": 22.567804,
+      "longitude": 114.097634,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_eabcaa473428",
+      "name": "园岭",
+      "poiID": "BV10249922",
+      "latitude": 22.556288,
+      "longitude": 114.104497,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_3f6fa0fbc174",
+      "name": "红岭南",
+      "poiID": "BV10738554",
+      "latitude": 22.53849,
+      "longitude": 114.106261,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_9ee1e7a8b6c7",
+      "name": "鹿丹村",
+      "poiID": "BV10243878",
+      "latitude": 22.535708,
+      "longitude": 114.108625,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_eba212fb37ed",
+      "name": "人民南",
+      "poiID": "BV10447615",
+      "latitude": 22.535514,
+      "longitude": 114.118154,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_133aa13e8be6",
+      "name": "向西村",
+      "poiID": "BV10447618",
+      "latitude": 22.539792,
+      "longitude": 114.125767,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_11f9eb529544",
+      "name": "文锦",
+      "poiID": "BV10447626",
+      "latitude": 22.542259,
+      "longitude": 114.130962,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_7fd10e492004",
+      "name": "冬瓜岭",
+      "poiID": "BV10672438",
+      "latitude": 22.560437,
+      "longitude": 114.067592,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_935e2995007d",
+      "name": "雅宝",
+      "poiID": "BV10672445",
+      "latitude": 22.604541,
+      "longitude": 114.060309,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_f4b177c62046",
+      "name": "南坑",
+      "poiID": "BV10700463",
+      "latitude": 22.610894,
+      "longitude": 114.060546,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_dc481ca9b27c",
+      "name": "光雅园",
+      "poiID": "BV10672441",
+      "latitude": 22.616397,
+      "longitude": 114.060892,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_7ad1ed6f989a",
+      "name": "坂田北",
+      "poiID": "BV10672436",
+      "latitude": 22.634919,
+      "longitude": 114.063369,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_23549117de25",
+      "name": "贝尔路",
+      "poiID": "BV10672439",
+      "latitude": 22.641719,
+      "longitude": 114.066366,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_82eaaba81d9d",
+      "name": "华为",
+      "poiID": "BV10672431",
+      "latitude": 22.650445,
+      "longitude": 114.067171,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_5adaf9d1eeea",
+      "name": "岗头",
+      "poiID": "BV10672435",
+      "latitude": 22.657067,
+      "longitude": 114.071895,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_946a74e9009b",
+      "name": "雪象",
+      "poiID": "BV10672442",
+      "latitude": 22.656909,
+      "longitude": 114.078964,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_f8ff626776f3",
+      "name": "甘坑",
+      "poiID": "BV10672437",
+      "latitude": 22.647828,
+      "longitude": 114.105826,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c489f5ca47aa",
+      "name": "凉帽山",
+      "poiID": "BV10672446",
+      "latitude": 22.646323,
+      "longitude": 114.118964,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_b08a7bb507e7",
+      "name": "上李朗",
+      "poiID": "BV10895880",
+      "latitude": 22.654048,
+      "longitude": 114.127071,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_cc0cc97ad3ed",
+      "name": "木古",
+      "poiID": "BV10672432",
+      "latitude": 22.669328,
+      "longitude": 114.122502,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c17cea7c5589",
+      "name": "华南城",
+      "poiID": "BV10672443",
+      "latitude": 22.675974,
+      "longitude": 114.12225,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_4864a44bda27",
+      "name": "禾花",
+      "poiID": "BV10672440",
+      "latitude": 22.686028,
+      "longitude": 114.121064,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_49ffee6daa1b",
+      "name": "平湖",
+      "poiID": "BV10672444",
+      "latitude": 22.69367,
+      "longitude": 114.125805,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c7958c4e2d2e",
+      "name": "双拥街",
+      "poiID": "BV10672433",
+      "latitude": 22.698648,
+      "longitude": 114.132978,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_019cb23ab781",
+      "name": "福星",
+      "poiID": "BV09340733",
+      "latitude": 22.537388,
+      "longitude": 114.081538,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "nanshan",
+      "name": "南山",
+      "poiID": "BV10244676",
+      "latitude": 22.524037,
+      "longitude": 113.923483,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "baoan",
+      "name": "宝安",
+      "poiID": "BV10527865",
+      "latitude": 22.55459,
+      "longitude": 113.880396,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_89953636e3ce",
+      "name": "碧海湾",
+      "poiID": "BV10527859",
+      "latitude": 22.575073,
+      "longitude": 113.856093,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_6a5347ac5f65",
+      "name": "机场",
+      "poiID": "BV10527864",
+      "latitude": 22.624026,
+      "longitude": 113.813663,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_aca0d85c0fc2",
+      "name": "机场北",
+      "poiID": "BV10680166",
+      "latitude": 22.651128,
+      "longitude": 113.798179,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_f39da64137d0",
+      "name": "福永",
+      "poiID": "BV10249452",
+      "latitude": 22.673562,
+      "longitude": 113.806076,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_d028171b12f3",
+      "name": "桥头",
+      "poiID": "BV10527858",
+      "latitude": 22.688133,
+      "longitude": 113.811001,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_5123b8f26859",
+      "name": "塘尾",
+      "poiID": "BV10527860",
+      "latitude": 22.702075,
+      "longitude": 113.817878,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_7e9b60a78ad0",
+      "name": "马安山",
+      "poiID": "BV10729454",
+      "latitude": 22.716998,
+      "longitude": 113.817005,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_45126d234575",
+      "name": "沙井",
+      "poiID": "BV10527866",
+      "latitude": 22.730849,
+      "longitude": 113.824434,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_e192b907f3a9",
+      "name": "后亭",
+      "poiID": "BV10527863",
+      "latitude": 22.752625,
+      "longitude": 113.826874,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_8df01cc639df",
+      "name": "碧头",
+      "poiID": "BV10527861",
+      "latitude": 22.784044,
+      "longitude": 113.819958,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_4169b7d7e4ef",
+      "name": "左炮台东",
+      "poiID": "BV10996661",
+      "latitude": 22.469514,
+      "longitude": 113.897893,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c1f5c575e828",
+      "name": "太子湾",
+      "poiID": "BV10996655",
+      "latitude": 22.472806,
+      "longitude": 113.911117,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_2fde01bca3bb",
+      "name": "花果山",
+      "poiID": "BV10996660",
+      "latitude": 22.494352,
+      "longitude": 113.919046,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_93b3dbded7aa",
+      "name": "四海",
+      "poiID": "BV10996665",
+      "latitude": 22.500338,
+      "longitude": 113.921978,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_dec08882288e",
+      "name": "南光",
+      "poiID": "BV10996658",
+      "latitude": 22.516714,
+      "longitude": 113.924322,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_5d6b2329f5ff",
+      "name": "南头古城",
+      "poiID": "BV10996671",
+      "latitude": 22.538465,
+      "longitude": 113.924145,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_128e87516d7b",
+      "name": "中山公园",
+      "poiID": "BV10996672",
+      "latitude": 22.547021,
+      "longitude": 113.923225,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_ce2a4d7bee51",
+      "name": "同乐南",
+      "poiID": "BV10996652",
+      "latitude": 22.556361,
+      "longitude": 113.918738,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_11ebbb7d5d98",
+      "name": "新安公园",
+      "poiID": "BV10996670",
+      "latitude": 22.562303,
+      "longitude": 113.910883,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_5d801ef74e9a",
+      "name": "上川",
+      "poiID": "BV10996654",
+      "latitude": 22.577838,
+      "longitude": 113.895129,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_5e9f573361e3",
+      "name": "流塘",
+      "poiID": "BV10996673",
+      "latitude": 22.583729,
+      "longitude": 113.889292,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_4bd4f1e682cc",
+      "name": "宝安客运站",
+      "poiID": "BV10996668",
+      "latitude": 22.589332,
+      "longitude": 113.883674,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_d69f90e0fc46",
+      "name": "宝田一路",
+      "poiID": "BV10996650",
+      "latitude": 22.594523,
+      "longitude": 113.878477,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_d780912eb75e",
+      "name": "平峦山",
+      "poiID": "BV10996651",
+      "latitude": 22.603183,
+      "longitude": 113.869771,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_1d7efc3449a0",
+      "name": "西乡桃源",
+      "poiID": "BV10996664",
+      "latitude": 22.611019,
+      "longitude": 113.862348,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_d41c18a3b5ae",
+      "name": "钟屋南",
+      "poiID": "BV10996653",
+      "latitude": 22.618542,
+      "longitude": 113.859227,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_197164769fc4",
+      "name": "黄田",
+      "poiID": "BV10996667",
+      "latitude": 22.630205,
+      "longitude": 113.845683,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_3769f07dda9f",
+      "name": "兴围",
+      "poiID": "BV10996662",
+      "latitude": 22.642865,
+      "longitude": 113.834486,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c08a18d41e24",
+      "name": "福围",
+      "poiID": "BV10996649",
+      "latitude": 22.65684,
+      "longitude": 113.82118,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_053a8d558805",
+      "name": "怀德",
+      "poiID": "BV10996648",
+      "latitude": 22.666657,
+      "longitude": 113.818894,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_42a5821f060f",
+      "name": "桥头西",
+      "poiID": "BV10996666",
+      "latitude": 22.683097,
+      "longitude": 113.797429,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_9c75b17c0dda",
+      "name": "福海西",
+      "poiID": "BV10996656",
+      "latitude": 22.688385,
+      "longitude": 113.789475,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_a5ca2c0a09d5",
+      "name": "国展",
+      "poiID": "BV10996669",
+      "latitude": 22.695959,
+      "longitude": 113.777957,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_479efbd70d3d",
+      "name": "国展北",
+      "poiID": "BV10996657",
+      "latitude": 22.703129,
+      "longitude": 113.776899,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_f4f5c98ff7c4",
+      "name": "海上田园南",
+      "poiID": "BV10996663",
+      "latitude": 22.718275,
+      "longitude": 113.774406,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_66dfad6f6388",
+      "name": "海上田园东",
+      "poiID": "BV10996659",
+      "latitude": 22.731193,
+      "longitude": 113.781235,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_47d96d43e266",
+      "name": "蚝乡",
+      "poiID": "BV11552467",
+      "latitude": 22.740545,
+      "longitude": 113.790149,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_0ba403469f00",
+      "name": "沙蚝",
+      "poiID": "BV09340714",
+      "latitude": 22.739607,
+      "longitude": 113.801591,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_01993c031d35",
+      "name": "沙井古墟",
+      "poiID": "BV09340713",
+      "latitude": 22.744104,
+      "longitude": 113.808554,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_ce7ceebb1be4",
+      "name": "步涌",
+      "poiID": "BV11552463",
+      "latitude": 22.757325,
+      "longitude": 113.812181,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_9554d22bc5c8",
+      "name": "朗下",
+      "poiID": "BV09339396",
+      "latitude": 22.767913,
+      "longitude": 113.818115,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_9909f2c9f704",
+      "name": "深圳湾口岸",
+      "poiID": "BV10996639",
+      "latitude": 22.502977,
+      "longitude": 113.950252,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_ce93eb66ac37",
+      "name": "人才公园",
+      "poiID": "BV10996631",
+      "latitude": 22.512078,
+      "longitude": 113.943126,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_a0b836f97340",
+      "name": "高新中",
+      "poiID": "BV10996630",
+      "latitude": 22.547012,
+      "longitude": 113.945319,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_256870c143ae",
+      "name": "高新北",
+      "poiID": "BV10996633",
+      "latitude": 22.556822,
+      "longitude": 113.945497,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_e6b8617d1b89",
+      "name": "石鼓",
+      "poiID": "BV10996634",
+      "latitude": 22.574429,
+      "longitude": 113.944008,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_f9bee37e1789",
+      "name": "百旺",
+      "poiID": "BV09468327",
+      "latitude": 22.622073,
+      "longitude": 113.939193,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_78dba9fa8f8e",
+      "name": "应人石",
+      "poiID": "BV10996638",
+      "latitude": 22.644471,
+      "longitude": 113.926469,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_a7e186540658",
+      "name": "罗租",
+      "poiID": "BV10996632",
+      "latitude": 22.668178,
+      "longitude": 113.933819,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_799f62490fa7",
+      "name": "石岩",
+      "poiID": "BV10996636",
+      "latitude": 22.680142,
+      "longitude": 113.938218,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_3a308c682027",
+      "name": "红坳公园",
+      "poiID": "BV09340727",
+      "latitude": 22.723624,
+      "longitude": 113.946356,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_6ab8a70dc7a2",
+      "name": "德雅路",
+      "poiID": "BV09267647",
+      "latitude": 22.738842,
+      "longitude": 113.947474,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_943d2a30d441",
+      "name": "月亮路",
+      "poiID": "BV11496166",
+      "latitude": 22.746247,
+      "longitude": 113.91106,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_db8bd850bd7e",
+      "name": "将围",
+      "poiID": "BV09268869",
+      "latitude": 22.75797,
+      "longitude": 113.905434,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_2fe28adf3308",
+      "name": "新庄",
+      "poiID": "BV09268870",
+      "latitude": 22.765852,
+      "longitude": 113.90263,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c9b05e9ed106",
+      "name": "上村",
+      "poiID": "BV09268871",
+      "latitude": 22.784695,
+      "longitude": 113.894399,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_a486dec5e753",
+      "name": "下村",
+      "poiID": "BV11496172",
+      "latitude": 22.793677,
+      "longitude": 113.894454,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_af414751b3c8",
+      "name": "李松蓢",
+      "poiID": "BV09268868",
+      "latitude": 22.805111,
+      "longitude": 113.894265,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_0147d17f2448",
+      "name": "罗湖北",
+      "poiID": "BV10997903",
+      "latitude": 22.58075,
+      "longitude": 114.113016,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_2a21afc4d8b1",
+      "name": "石芽岭",
+      "poiID": "BV10997912",
+      "latitude": 22.628448,
+      "longitude": 114.138014,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_824c69cf843a",
+      "name": "六约北",
+      "poiID": "BV10997904",
+      "latitude": 22.642536,
+      "longitude": 114.175728,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_d1f4e7ed20b2",
+      "name": "四联",
+      "poiID": "BV10997905",
+      "latitude": 22.648424,
+      "longitude": 114.192858,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_a37b08d96563",
+      "name": "坳背",
+      "poiID": "BV10997908",
+      "latitude": 22.668713,
+      "longitude": 114.213518,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_1d20fda9f5fc",
+      "name": "嶂背",
+      "poiID": "BV11380330",
+      "latitude": 22.692296,
+      "longitude": 114.249547,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_96e1598d1d6d",
+      "name": "南约",
+      "poiID": "BV10997907",
+      "latitude": 22.688107,
+      "longitude": 114.278075,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_bc89e9f67c0d",
+      "name": "宝龙",
+      "poiID": "BV10997906",
+      "latitude": 22.688325,
+      "longitude": 114.297826,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_291081b45060",
+      "name": "锦龙",
+      "poiID": "BV10997911",
+      "latitude": 22.680183,
+      "longitude": 114.333847,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_db5d4cf47751",
+      "name": "坪山围",
+      "poiID": "BV10997909",
+      "latitude": 22.691398,
+      "longitude": 114.34366,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_ce87e2ba3e24",
+      "name": "坪山广场",
+      "poiID": "BV10997914",
+      "latitude": 22.700587,
+      "longitude": 114.348763,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_acc3251bf6fc",
+      "name": "坪山中心",
+      "poiID": "BV10997910",
+      "latitude": 22.706898,
+      "longitude": 114.351613,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_475c3f3f6408",
+      "name": "坑梓",
+      "poiID": "BV10997902",
+      "latitude": 22.745384,
+      "longitude": 114.370956,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_cbce75285d99",
+      "name": "沙田",
+      "poiID": "BV10997913",
+      "latitude": 22.75615,
+      "longitude": 114.400589,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_ae869d5dfd89",
+      "name": "园山西坑",
+      "poiID": "BV09340734",
+      "latitude": 22.616749,
+      "longitude": 114.224433,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_a4ad87305d62",
+      "name": "安良",
+      "poiID": "BV11564240",
+      "latitude": 22.627282,
+      "longitude": 114.219711,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_f3e341107533",
+      "name": "福坑",
+      "poiID": "BV11564246",
+      "latitude": 22.635664,
+      "longitude": 114.222133,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_b12f61c8265f",
+      "name": "大康",
+      "poiID": "BV09271719",
+      "latitude": 22.638878,
+      "longitude": 114.228856,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_a86e88da2fe0",
+      "name": "园山",
+      "poiID": "BV11564242",
+      "latitude": 22.645162,
+      "longitude": 114.238076,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_40117d316690",
+      "name": "大安",
+      "poiID": "BV09271716",
+      "latitude": 22.654644,
+      "longitude": 114.235939,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_bf76e4c1e5c8",
+      "name": "吉溪",
+      "poiID": "BV09271717",
+      "latitude": 22.660231,
+      "longitude": 114.232812,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_9bb3b0b539df",
+      "name": "金源",
+      "poiID": "BV09271718",
+      "latitude": 22.674019,
+      "longitude": 114.230389,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_11f531112fb4",
+      "name": "大运中心",
+      "poiID": "BV10998865",
+      "latitude": 22.695241,
+      "longitude": 114.220797,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_a5ea81f41647",
+      "name": "龙城公园",
+      "poiID": "BV11498085",
+      "latitude": 22.704475,
+      "longitude": 114.218373,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_b09383f08504",
+      "name": "黄阁坑",
+      "poiID": "BV10998853",
+      "latitude": 22.719078,
+      "longitude": 114.218135,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_ebd50ebffc97",
+      "name": "愉园",
+      "poiID": "BV11676995",
+      "latitude": 22.728275,
+      "longitude": 114.223374,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_aeb40226a54c",
+      "name": "回龙埔",
+      "poiID": "BV11673024",
+      "latitude": 22.729192,
+      "longitude": 114.235861,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_08df05c78c6a",
+      "name": "尚景",
+      "poiID": "BV10998866",
+      "latitude": 22.729359,
+      "longitude": 114.243587,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_04e5975be8f2",
+      "name": "盛平",
+      "poiID": "BV10998860",
+      "latitude": 22.731624,
+      "longitude": 114.252682,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_aecac16d8302",
+      "name": "龙园",
+      "poiID": "BV10998869",
+      "latitude": 22.731005,
+      "longitude": 114.266336,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_17e8c17176c1",
+      "name": "新塘围",
+      "poiID": "BV11490961",
+      "latitude": 22.725432,
+      "longitude": 114.286428,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c52ad9c01fa2",
+      "name": "龙东",
+      "poiID": "BV10998859",
+      "latitude": 22.72152,
+      "longitude": 114.296398,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c538ca090443",
+      "name": "宝龙同乐",
+      "poiID": "BV10998868",
+      "latitude": 22.709196,
+      "longitude": 114.312277,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_0bd2f6a9943a",
+      "name": "坪山",
+      "poiID": "BV10998862",
+      "latitude": 22.705715,
+      "longitude": 114.327432,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_4a2a1901c089",
+      "name": "新和",
+      "poiID": "BV11393407",
+      "latitude": 22.703141,
+      "longitude": 114.335478,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_bca871460005",
+      "name": "六和",
+      "poiID": "BV11393405",
+      "latitude": 22.696013,
+      "longitude": 114.337737,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_b574439e1f13",
+      "name": "坪环",
+      "poiID": "BV10998864",
+      "latitude": 22.685346,
+      "longitude": 114.346631,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_c38f343253ab",
+      "name": "东纵纪念馆",
+      "poiID": "BV10998855",
+      "latitude": 22.685981,
+      "longitude": 114.355129,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_4d0cd59076e9",
+      "name": "沙壆",
+      "poiID": "BV10998863",
+      "latitude": 22.686481,
+      "longitude": 114.36493,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_666b1c5fe874",
+      "name": "燕子湖",
+      "poiID": "BV10998854",
+      "latitude": 22.688473,
+      "longitude": 114.375337,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_259596a888e1",
+      "name": "石井",
+      "poiID": "BV10998861",
+      "latitude": 22.691854,
+      "longitude": 114.383047,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_fc871ee96c80",
+      "name": "技术大学",
+      "poiID": "BV10998857",
+      "latitude": 22.698379,
+      "longitude": 114.401168,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_6469a3a07d5b",
+      "name": "田心",
+      "poiID": "BV10998858",
+      "latitude": 22.69374,
+      "longitude": 114.414221,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_876a37c04b84",
+      "name": "国展南",
+      "poiID": "BV10861135",
+      "latitude": 22.683755,
+      "longitude": 113.778426,
+      "system": "gcj02"
+    },
+    {
+      "stationID": "s_51934512508d",
+      "name": "会展城",
+      "poiID": "BV10861136",
+      "latitude": 22.712135,
+      "longitude": 113.769777,
+      "system": "gcj02"
+    }
+  ]
+}

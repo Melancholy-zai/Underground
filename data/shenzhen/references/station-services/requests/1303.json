@@ -1,0 +1,16 @@
+{
+  "code": "1303",
+  "stationID": "houhai",
+  "stationName": "后海",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1303"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1303",
+  "retrievedAt": "2026-09-28T16:14:58+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "a33f807d017d1c35f773842d58d699173819ae3b7494905d573ad38234155ea1"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "6602",
+  "stationID": "s_c66f85c39a49",
+  "stationName": "虹桥公园",
+  "lineID": "l6b",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "6602"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?6602",
+  "retrievedAt": "2026-09-28T16:11:36+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1f3b3b7a0067c3950b9f92ec880c48d7fb6e4e3945504a886689561f7e56d82d"
+}

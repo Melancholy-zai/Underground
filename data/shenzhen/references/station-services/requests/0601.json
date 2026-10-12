@@ -1,0 +1,16 @@
+{
+  "code": "0601",
+  "stationID": "s_5c1c524b02aa",
+  "stationName": "科学馆",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0601"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0601",
+  "retrievedAt": "2026-09-28T16:11:01+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "acbbb0f4098faa8a62ae84cbdbcd28956ea1b867ac9b9c6e3af900216b1f5b64"
+}

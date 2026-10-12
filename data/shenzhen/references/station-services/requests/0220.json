@@ -1,0 +1,16 @@
+{
+  "code": "0220",
+  "stationID": "s_dfcb9a6ea33f",
+  "stationName": "莲花西",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0220"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0220",
+  "retrievedAt": "2026-09-28T16:08:42+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "60dc8d100152eb99a5d596647b521384d8f013d7755ee3d00efc2d727881ae11"
+}

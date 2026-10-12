@@ -1,0 +1,16 @@
+{
+  "code": "0720",
+  "stationID": "s_f63cd5251143",
+  "stationName": "华强南",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0720"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0720",
+  "retrievedAt": "2026-09-28T16:19:29+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "941d4031e68a5a68ee66703a5fc50c5a9515e34cb98a33c01b24ee78ac583299"
+}

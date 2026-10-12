@@ -1,0 +1,16 @@
+{
+  "code": "0615",
+  "stationID": "s_9782699e2ed7",
+  "stationName": "长圳",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0615"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0615",
+  "retrievedAt": "2026-09-28T16:11:19+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "efe988d70b30524b4e25887e8382d56c7c71f9ef1310cea7837d53ec2b2490d8"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0701",
+  "stationID": "s_40e13d869403",
+  "stationName": "深大丽湖",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0701"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0701",
+  "retrievedAt": "2026-09-28T16:11:43+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "62a412be29258613af1bb860b895b315e29f2d5771e90343b2bf6129d0b53246"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "D0324736-57EA-45B2-AE5C-3137701E7146",
+        "deviceName" : "iPhone 17",
+        "exportedFileName" : "2AC4236D-663E-43B6-A47A-D748BB9DF5ED.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "legend-2-selected_0_81B88756-B0E3-47E1-BB3C-C21FB3B717C1.png",
+        "timestamp" : 1790581000.136
+      }
+    ],
+    "testIdentifier" : "UndergroundUITests/testLegendSelectionToggleSwitchAndViewport()",
+    "testIdentifierURL" : "test://com.apple.xcode/Underground/UndergroundUITests/UndergroundUITests/testLegendSelectionToggleSwitchAndViewport"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "D0324736-57EA-45B2-AE5C-3137701E7146",
+        "deviceName" : "iPhone 17",
+        "exportedFileName" : "68417AAB-D698-4418-AF10-0245D7B081D2.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "offline-map_0_316B8EF4-EDA4-4330-B8F2-F16D69365B3E.png",
+        "timestamp" : 1790581020.466
+      }
+    ],
+    "testIdentifier" : "UndergroundUITests/testLineSelectionAndFocusedStationTap()",
+    "testIdentifierURL" : "test://com.apple.xcode/Underground/UndergroundUITests/UndergroundUITests/testLineSelectionAndFocusedStationTap"
+  }
+]

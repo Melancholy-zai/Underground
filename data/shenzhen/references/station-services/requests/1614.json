@@ -1,0 +1,16 @@
+{
+  "code": "1614",
+  "stationID": "s_aeb40226a54c",
+  "stationName": "回龙埔",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1614"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1614",
+  "retrievedAt": "2026-09-28T16:16:04+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "53999c13bf760c8fdf9c726d168fc20df23c34408dcb04af08c9db5267b31130"
+}

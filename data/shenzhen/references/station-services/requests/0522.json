@@ -1,0 +1,16 @@
+{
+  "code": "0522",
+  "stationID": "s_73d12f38bb13",
+  "stationName": "民治",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0522"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0522",
+  "retrievedAt": "2026-09-28T16:19:16+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "a345133fabb15ccf87c7ccba0d4cb9bf4f694814a5b5e892fe2eb73d5357f691"
+}

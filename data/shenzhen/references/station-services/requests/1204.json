@@ -1,0 +1,16 @@
+{
+  "code": "1204",
+  "stationID": "s_2fde01bca3bb",
+  "stationName": "花果山",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1204"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1204",
+  "retrievedAt": "2026-09-28T16:14:11+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "5194533a2caa387cbfd426286d9e31353c7e420a3c363657ab0d2e6620fd7d87"
+}

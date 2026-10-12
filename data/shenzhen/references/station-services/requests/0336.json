@@ -1,0 +1,16 @@
+{
+  "code": "0336",
+  "stationID": "s_6bdf74c853d7",
+  "stationName": "白石塘",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0336"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0336",
+  "retrievedAt": "2026-09-28T16:09:43+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "43781970ed5dcaccde4104c45ed153041032b85ebf99134fa27832301d665426"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1316",
+  "stationID": "s_3a308c682027",
+  "stationName": "红坳公园",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1316"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1316",
+  "retrievedAt": "2026-09-28T16:15:14+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "aa58db11751c9a6d03e493ab4282d010e54d546c33ae2748c654242efdc6b8d9"
+}

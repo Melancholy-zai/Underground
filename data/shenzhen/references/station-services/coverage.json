@@ -1,0 +1,164 @@
+{
+  "stations": 351,
+  "memberships": 432,
+  "timetables": 2595,
+  "exits": 1699,
+  "stationsWithTimetables": 351,
+  "stationsWithExits": 351,
+  "conflictStations": 7,
+  "lines": {
+    "l1": {
+      "memberships": 30,
+      "withTimetables": 30,
+      "timetables": 174,
+      "withExits": 30,
+      "conflictMembers": 0,
+      "partialMembers": 30,
+      "withoutTimetables": 0
+    },
+    "l2": {
+      "memberships": 32,
+      "withTimetables": 32,
+      "timetables": 186,
+      "withExits": 32,
+      "conflictMembers": 1,
+      "partialMembers": 31,
+      "withoutTimetables": 0
+    },
+    "l8": {
+      "memberships": 11,
+      "withTimetables": 11,
+      "timetables": 60,
+      "withExits": 11,
+      "conflictMembers": 2,
+      "partialMembers": 9,
+      "withoutTimetables": 0
+    },
+    "l3": {
+      "memberships": 38,
+      "withTimetables": 38,
+      "timetables": 222,
+      "withExits": 38,
+      "conflictMembers": 0,
+      "partialMembers": 38,
+      "withoutTimetables": 0
+    },
+    "l4": {
+      "memberships": 23,
+      "withTimetables": 23,
+      "timetables": 190,
+      "withExits": 23,
+      "conflictMembers": 3,
+      "partialMembers": 20,
+      "withoutTimetables": 0
+    },
+    "l5": {
+      "memberships": 37,
+      "withTimetables": 37,
+      "timetables": 216,
+      "withExits": 37,
+      "conflictMembers": 0,
+      "partialMembers": 37,
+      "withoutTimetables": 0
+    },
+    "l6": {
+      "memberships": 27,
+      "withTimetables": 26,
+      "timetables": 153,
+      "withExits": 27,
+      "conflictMembers": 1,
+      "partialMembers": 26,
+      "withoutTimetables": 1
+    },
+    "l6b": {
+      "memberships": 7,
+      "withTimetables": 7,
+      "timetables": 36,
+      "withExits": 7,
+      "conflictMembers": 0,
+      "partialMembers": 7,
+      "withoutTimetables": 0
+    },
+    "l7": {
+      "memberships": 29,
+      "withTimetables": 29,
+      "timetables": 168,
+      "withExits": 29,
+      "conflictMembers": 0,
+      "partialMembers": 29,
+      "withoutTimetables": 0
+    },
+    "l9": {
+      "memberships": 32,
+      "withTimetables": 32,
+      "timetables": 186,
+      "withExits": 32,
+      "conflictMembers": 0,
+      "partialMembers": 32,
+      "withoutTimetables": 0
+    },
+    "l10": {
+      "memberships": 24,
+      "withTimetables": 24,
+      "timetables": 138,
+      "withExits": 24,
+      "conflictMembers": 0,
+      "partialMembers": 24,
+      "withoutTimetables": 0
+    },
+    "l11": {
+      "memberships": 22,
+      "withTimetables": 22,
+      "timetables": 126,
+      "withExits": 22,
+      "conflictMembers": 0,
+      "partialMembers": 22,
+      "withoutTimetables": 0
+    },
+    "l12": {
+      "memberships": 39,
+      "withTimetables": 39,
+      "timetables": 228,
+      "withExits": 39,
+      "conflictMembers": 0,
+      "partialMembers": 39,
+      "withoutTimetables": 0
+    },
+    "l13": {
+      "memberships": 26,
+      "withTimetables": 26,
+      "timetables": 200,
+      "withExits": 26,
+      "conflictMembers": 0,
+      "partialMembers": 26,
+      "withoutTimetables": 0
+    },
+    "l14": {
+      "memberships": 18,
+      "withTimetables": 18,
+      "timetables": 102,
+      "withExits": 18,
+      "conflictMembers": 0,
+      "partialMembers": 18,
+      "withoutTimetables": 0
+    },
+    "l16": {
+      "memberships": 32,
+      "withTimetables": 32,
+      "timetables": 186,
+      "withExits": 32,
+      "conflictMembers": 0,
+      "partialMembers": 32,
+      "withoutTimetables": 0
+    },
+    "l20": {
+      "memberships": 5,
+      "withTimetables": 5,
+      "timetables": 24,
+      "withExits": 5,
+      "conflictMembers": 0,
+      "partialMembers": 5,
+      "withoutTimetables": 0
+    }
+  }
+}

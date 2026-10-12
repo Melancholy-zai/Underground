@@ -1,0 +1,16 @@
+{
+  "code": "0417",
+  "stationID": "s_c2f050a62b4a",
+  "stationName": "竹村",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0417"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0417",
+  "retrievedAt": "2026-09-28T16:19:12+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "4af6677a232d87223aa26e9c9f1e1313f5e13165161a03cfa923b7790ed6af47"
+}

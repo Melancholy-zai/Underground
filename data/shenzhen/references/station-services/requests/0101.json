@@ -1,0 +1,16 @@
+{
+  "code": "0101",
+  "stationID": "s_b1dbfb916409",
+  "stationName": "罗湖",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0101"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0101",
+  "retrievedAt": "2026-09-28T16:05:53+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "4483f9dae727daafebbddf3b8839a3ad76cbfeace0872021e49bfff586f1a568"
+}

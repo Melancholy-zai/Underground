@@ -1,0 +1,16 @@
+{
+  "code": "1608",
+  "stationID": "s_9bb3b0b539df",
+  "stationName": "金源",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1608"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1608",
+  "retrievedAt": "2026-09-28T16:15:57+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "054d34906f21c1e49e3b4499b33a9f5a56c01fc1a732ac0e6416e235b34ce5d8"
+}

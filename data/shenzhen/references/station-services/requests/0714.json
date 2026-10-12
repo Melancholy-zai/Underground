@@ -1,0 +1,16 @@
+{
+  "code": "0714",
+  "stationID": "s_3d2939ee8399",
+  "stationName": "沙尾",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0714"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0714",
+  "retrievedAt": "2026-09-28T16:11:59+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1965ced7bb812458726a205782ff91d6dffb00065b0aa8abdf09c600bfe92e01"
+}

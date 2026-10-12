@@ -1,0 +1,16 @@
+{
+  "code": "0924",
+  "stationID": "s_535398f40cf3",
+  "stationName": "泥岗",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0924"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0924",
+  "retrievedAt": "2026-09-28T16:12:59+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "26510313b11d273222db9b232a54d2dceb73e6e3a301231d935c2e72f89ac18f"
+}

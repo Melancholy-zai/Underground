@@ -1,0 +1,16 @@
+{
+  "code": "0728",
+  "stationID": "s_4f63e5edbb60",
+  "stationName": "田贝",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0728"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0728",
+  "retrievedAt": "2026-09-28T16:12:16+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "37bb7f5f77648e3fa1bb80b283e7b66905547f22fbca457221baea33f938ef0c"
+}

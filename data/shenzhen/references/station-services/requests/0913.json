@@ -1,0 +1,16 @@
+{
+  "code": "0913",
+  "stationID": "s_3d8f4ff7d3cd",
+  "stationName": "深圳湾公园",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0913"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0913",
+  "retrievedAt": "2026-09-28T16:12:46+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "3cb8a5c3a90794d7bc2f6881f6abb090deb1a3ab30d1c8740c38b3b4b52352c8"
+}

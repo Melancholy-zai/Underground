@@ -1,0 +1,16 @@
+{
+  "code": "0422",
+  "stationID": "s_293aefc7be42",
+  "stationName": "观澜湖",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0422"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0422",
+  "retrievedAt": "2026-09-28T16:10:13+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "47d6de416ebf83d6e7f358b4a63cbf805f9dbf238a16e169123d00e8e62c85ff"
+}

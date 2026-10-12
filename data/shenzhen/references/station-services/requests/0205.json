@@ -1,0 +1,16 @@
+{
+  "code": "0205",
+  "stationID": "s_b59236d442d6",
+  "stationName": "东角头",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0205"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0205",
+  "retrievedAt": "2026-09-28T16:18:55+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "6253bc210297b1c45457e1fd90f9c7a937e5a2302631a70c149181f4b83c4629"
+}

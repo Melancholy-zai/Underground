@@ -1,0 +1,16 @@
+{
+  "code": "0611",
+  "stationID": "s_19a3147486c9",
+  "stationName": "元芬",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0611"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0611",
+  "retrievedAt": "2026-09-28T16:19:22+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f866f48081657f4cc8620f2cbe4767225e7f7fa3bd8c76406264e11413bd5033"
+}

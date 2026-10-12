@@ -1,0 +1,16 @@
+{
+  "code": "1607",
+  "stationID": "s_bf76e4c1e5c8",
+  "stationName": "吉溪",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1607"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1607",
+  "retrievedAt": "2026-09-28T16:19:57+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "39a8c73893cee5aa9c4f08f5eb81778f5a5736d30946a00daa4ebdc942648292"
+}

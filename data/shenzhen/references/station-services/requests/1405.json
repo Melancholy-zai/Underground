@@ -1,0 +1,16 @@
+{
+  "code": "1405",
+  "stationID": "s_2a21afc4d8b1",
+  "stationName": "石芽岭",
+  "lineID": "l14",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1405"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1405",
+  "retrievedAt": "2026-09-28T16:15:31+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "27f6bc6bcb8531f935d48d7cfb5e0d2dcb5dd6314f25a28782f3a78706f670d5"
+}

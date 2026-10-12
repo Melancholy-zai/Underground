@@ -1,0 +1,16 @@
+{
+  "code": "1310",
+  "stationID": "s_98318a129732",
+  "stationName": "留仙洞",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1310"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1310",
+  "retrievedAt": "2026-09-28T16:15:06+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "5c81917aa4ddf658fc8a86ddeeec8fddfaccd467e12d266faed6c845e9e26d20"
+}

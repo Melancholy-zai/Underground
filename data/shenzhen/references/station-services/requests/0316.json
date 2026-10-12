@@ -1,0 +1,16 @@
+{
+  "code": "0316",
+  "stationID": "s_b07b1bef10e7",
+  "stationName": "草埔",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0316"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0316",
+  "retrievedAt": "2026-09-28T16:09:19+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "2ff7b27cbcda5c63f2f4744c3eab66e2eb0794bdddebb49b6057cf1e65b2dad1"
+}

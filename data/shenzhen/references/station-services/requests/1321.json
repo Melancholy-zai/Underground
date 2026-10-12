@@ -1,0 +1,16 @@
+{
+  "code": "1321",
+  "stationID": "s_db8bd850bd7e",
+  "stationName": "将围",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1321"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1321",
+  "retrievedAt": "2026-09-28T16:15:20+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "06935b7af0765ebdcb4fec9e9d517e92a5a938761453b27a20b8171c10c21095"
+}

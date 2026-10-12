@@ -1,0 +1,16 @@
+{
+  "code": "1015",
+  "stationID": "s_5adaf9d1eeea",
+  "stationName": "岗头",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1015"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1015",
+  "retrievedAt": "2026-09-28T16:13:28+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "6579c12107b97c5ab5518bd7a30cd82f5815e78457debe73fc7dc3adb2ae981e"
+}

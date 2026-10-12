@@ -1,0 +1,16 @@
+{
+  "code": "1620",
+  "stationID": "s_c52ad9c01fa2",
+  "stationName": "龙东",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1620"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1620",
+  "retrievedAt": "2026-09-28T16:16:12+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "c38b73df4ea96a0a4448fd3a37d6cdc6ea7aef0f1ae85701312b4f961990a763"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1624",
+  "stationID": "s_bca871460005",
+  "stationName": "六和",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1624"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1624",
+  "retrievedAt": "2026-09-28T16:16:17+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "0b6826e6bb86c8e92cbaf5f38c0d46a03c4c62148cfc0f9969c537d904b1af7a"
+}

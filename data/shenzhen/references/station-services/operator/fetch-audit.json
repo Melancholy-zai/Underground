@@ -1,0 +1,1080 @@
+{
+  "raw/directory-l4.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/page?channelIdStr=7590&pageSize=100&orderBy=0",
+    "retrievedAt": "2026-09-28T16:05:51.762575+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "270803f00f9d1fbee603242cd9396dc81231b2510cfb4a2b3fe6b586115c062d"
+  },
+  "raw/directory-l13.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/page?channelIdStr=7591&pageSize=100&orderBy=0",
+    "retrievedAt": "2026-09-28T16:05:52.647391+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "6b6d501668eed59b7709a30921a349e67a64fcfe3872ee97dcf2f2680fb9ea40"
+  },
+  "raw/detail-9684.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9684",
+    "retrievedAt": "2026-09-28T16:05:53.715706+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "8abd66a0f4734d82127ef13be4b74fb859ffe7151276228811c689d299a4d47b"
+  },
+  "images/9684-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005943610376187907.jpg",
+    "retrievedAt": "2026-09-28T16:05:55.153346+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "6384d2d57c043ea75c2fda1f5507eb85d58bd7bcca6907bc11bae519c799cca7"
+  },
+  "images/9684-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005943659025920002.jpg",
+    "retrievedAt": "2026-09-28T16:05:56.310059+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "0bdf5a9728e80325850d6dd61e3aa0c2febf7ea7ce507607835a6df599683273"
+  },
+  "raw/detail-9685.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9685",
+    "retrievedAt": "2026-09-28T16:05:57.412350+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "129f7b6eb0ca0baea01c55c5bd456f88752b69d2ba371364459afae89d2af071"
+  },
+  "images/9685-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005943833257308162.jpg",
+    "retrievedAt": "2026-09-28T16:05:59.096720+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "f39b33c324a9a9a3a9cd5f87dc94d2e3881ba7dc3bde2928c71a0962aad3fab9"
+  },
+  "images/9685-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005943874151772162.jpg",
+    "retrievedAt": "2026-09-28T16:06:01.620953+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "39b926cc978cec241b809cbbdf912bfb3dc14db0256fd584e5b42bdaa69747fc"
+  },
+  "raw/detail-9301.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9301",
+    "retrievedAt": "2026-09-28T16:06:02.782125+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "4b010301cc8645f1e0603a3c8a8f5bc480070696c03ff119dd12ac194f430f5e"
+  },
+  "images/9301-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005944031224262658.jpg",
+    "retrievedAt": "2026-09-28T16:06:04.799256+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "a9fd947e5ef20c96db5e2060c8eb5ba92f4c3893a644d6c6aab4621c80cc1dda"
+  },
+  "images/9301-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005944072957587459.jpg",
+    "retrievedAt": "2026-09-28T16:06:06.250888+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "62e7c26fa1619c8491719cb71a62f7b4fae2f6b69f80f73907d7d89ddf3aa208"
+  },
+  "raw/detail-9680.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9680",
+    "retrievedAt": "2026-09-28T16:06:07.359376+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "c41718d3399052637e9be833f8fa293fa9d9b76f4595ae45f5cc05bceac56194"
+  },
+  "images/9680-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005944235302318083.jpg",
+    "retrievedAt": "2026-09-28T16:06:09.014768+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "f781c135e31f175f0d38afa3c2edb7b065ac697b89c7d995c25b21aea17a951f"
+  },
+  "images/9680-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005944286997114882.jpg",
+    "retrievedAt": "2026-09-28T16:06:10.286796+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "c485e6bd9d56947da80b98563b6bb597776e8acd50ca6100ab24c9e15a62ea25"
+  },
+  "raw/detail-9681.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9681",
+    "retrievedAt": "2026-09-28T16:06:11.418250+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "3eb57dcebf71c7464574b0721cdd71c750a7254e2660c024caa91c688832f81e"
+  },
+  "images/9681-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005944444128325635.jpg",
+    "retrievedAt": "2026-09-28T16:06:13.246578+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "d78d4d95613e4f5fea6355b6373a009f18ae726045b61c1890e3cf94c2faed23"
+  },
+  "images/9681-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005944483827412994.jpg",
+    "retrievedAt": "2026-09-28T16:06:14.684550+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "185f18870b3bb9fd6e6757fe45f09329a1bd38f37bd7cd76ff8720625a370c65"
+  },
+  "raw/detail-9682.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9682",
+    "retrievedAt": "2026-09-28T16:06:15.724134+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "7103cd3c8711699cff4a870783e8772260e3a29e8d62370cd9862d18980f551b"
+  },
+  "images/9682-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005944662739644417.jpg",
+    "retrievedAt": "2026-09-28T16:06:17.463257+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "944e83a8c456f576a8f99b8eee6183e8f2e43a4e45156179d38a4a2df3b0b36c"
+  },
+  "images/9682-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005958689423355906.jpg",
+    "retrievedAt": "2026-09-28T16:06:18.938846+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "8e50f5b958e1d93ec978cb39a1da48fc7b1d37b69d30f77aafc171cae1370902"
+  },
+  "raw/detail-9683.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9683",
+    "retrievedAt": "2026-09-28T16:06:19.969766+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "fa649d9bb76d6c7c0a8eca57cb8a24bc0248f54ad94b533a34c9ca9ea9fb1807"
+  },
+  "images/9683-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005944924971724803.jpg",
+    "retrievedAt": "2026-09-28T16:06:21.575945+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "ba50ab3d3987bc07ab8af29fcd57c4300eb46de5bca738e4c61f99133bc7b1d4"
+  },
+  "images/9683-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005944970261819395.jpg",
+    "retrievedAt": "2026-09-28T16:06:22.941555+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "27b5c4d982183b1356a51bfd0fbef0ae5c109955871a9a5d1e12828d94321736"
+  },
+  "raw/detail-9686.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9686",
+    "retrievedAt": "2026-09-28T16:06:23.976841+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "de5738b57314818ce385a5d1630889c414043d9df932780956ee9a03dd722988"
+  },
+  "images/9686-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005945116026466306.jpg",
+    "retrievedAt": "2026-09-28T16:06:25.606229+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "40ca7530b591b804a1329d329ed07645d9ca438b8d2f4366f0f90d117af2aef4"
+  },
+  "images/9686-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005945165921906690.jpg",
+    "retrievedAt": "2026-09-28T16:06:26.915185+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "af1180a9ff79bd10a04a7888f5c328c2d9279e423b84df0427400f36717ac895"
+  },
+  "raw/detail-9687.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9687",
+    "retrievedAt": "2026-09-28T16:06:28.059163+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "07f29ada0a229133b20206d5b061ae90ef41fb3537fca7f60374bb9cebeb0a16"
+  },
+  "images/9687-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005945341038292994.jpg",
+    "retrievedAt": "2026-09-28T16:06:29.531971+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "d0723c77eeeae4362677a33ea6a893969151f87431ba05bd36d827c87359e4f4"
+  },
+  "images/9687-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005945382222163970.jpg",
+    "retrievedAt": "2026-09-28T16:06:30.947143+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "40f93924e0b72b7db024cecdd8b69364f0f0ab0b79da7b1c9a74007675ca5ee9"
+  },
+  "raw/detail-9688.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9688",
+    "retrievedAt": "2026-09-28T16:06:32.156081+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "5b006bee019c02b02d359be76421b03bd5d7c286d95de674865fd38d0d868dce"
+  },
+  "images/9688-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005945558789779458.jpg",
+    "retrievedAt": "2026-09-28T16:06:33.964759+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "a942057ab2a6c81abb75734cf7875c5fc6d3c1ef47fa8b0d8a03668f4b3c708a"
+  },
+  "images/9688-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005945622308319234.jpg",
+    "retrievedAt": "2026-09-28T16:06:35.268761+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "abfa41b184d01b82acf2e66169f09829d44246ad670c3183fafd4e2e9b053179"
+  },
+  "raw/detail-9689.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9689",
+    "retrievedAt": "2026-09-28T16:06:36.386558+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "c964246e4b2da5c0865956091d3d49a3c29a9d3d4214b67247b141e8a3df40e3"
+  },
+  "images/9689-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005945768878272514.jpg",
+    "retrievedAt": "2026-09-28T16:06:38.189454+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "446660c349fb218c79528033e4e3a2c616311e5c36677972e5e7da7aea487cdc"
+  },
+  "images/9689-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005945807264542722.jpg",
+    "retrievedAt": "2026-09-28T16:06:41.704740+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "4c7ae0443e8d5f8ef8389f81a07c9ce5b506ab2e6b925fd30bd15b7f0a8ccfa8"
+  },
+  "raw/detail-9690.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9690",
+    "retrievedAt": "2026-09-28T16:06:42.912684+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "2a2cb0338106d68d816acc34ee1a7cf11dccd866ab9aee3f9abde5e7f95f2fd0"
+  },
+  "images/9690-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005958918042284035.jpg",
+    "retrievedAt": "2026-09-28T16:06:44.814614+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "848db94b3a9ac2f6959f69f2b4dd2cec58158dcb328df27b07985f04fa5f9abe"
+  },
+  "images/9690-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005958990121398275.jpg",
+    "retrievedAt": "2026-09-28T16:06:46.191491+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "6b1bd66854a40369fc91dfa8df90fa186b28bfc98e300450b973405e10daf0e0"
+  },
+  "raw/detail-9691.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9691",
+    "retrievedAt": "2026-09-28T16:06:47.266670+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "453f3e709bd4faa60f1743aff5bd685363da9ce4817d27bf28221e1971d8cba8"
+  },
+  "images/9691-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005959168836497409.jpg",
+    "retrievedAt": "2026-09-28T16:06:48.866041+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "eeb77c2d7b52d9f9f3919f32987c73b1f772959026439eb6f62addef0f06775d"
+  },
+  "images/9691-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005959221051387906.jpg",
+    "retrievedAt": "2026-09-28T16:06:50.270004+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "5036c8f52e053fd5a4bc6c4095b914372096a6cd759556b780a1cf3152a13a02"
+  },
+  "raw/detail-9692.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9692",
+    "retrievedAt": "2026-09-28T16:06:51.392954+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "884546cd87e6b3f6f7f0160302d7a731f4faaf3a107c68147339567a976d0e92"
+  },
+  "images/9692-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005959413595107330.jpg",
+    "retrievedAt": "2026-09-28T16:06:53.100451+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "820dda334e0ef9b478158e5c34ff0449fb6c84f1dfdbb4f84a2d34df76faa7f5"
+  },
+  "images/9692-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005959458574823426.jpg",
+    "retrievedAt": "2026-09-28T16:06:54.243161+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "28426634b0ad8f2e85b1276424c20792b7d743df6ff481e3c486d5597ac9e329"
+  },
+  "raw/detail-9693.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9693",
+    "retrievedAt": "2026-09-28T16:06:55.244117+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "227a11764dc88b91b6fef8ef7c0dc347db73e2efc185d3452b120101769530ee"
+  },
+  "images/9693-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005959678578651138.jpg",
+    "retrievedAt": "2026-09-28T16:06:56.772949+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "48c5d523c2c1402fe387c00bc83707a27c6e50d29c4b6c87d391ce15ce28cede"
+  },
+  "images/9693-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005959735935758338.jpg",
+    "retrievedAt": "2026-09-28T16:06:58.033752+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "b2f800dac2976421233bf7cc6b9c7c9cb05228310937a4b3c2591cba6ac02fb7"
+  },
+  "raw/detail-9694.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9694",
+    "retrievedAt": "2026-09-28T16:06:59.045609+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "2a9e9fcdcb6a5dfd4c770888c2fac7ffbcedcb47ce05fc4a2864066d6be955ff"
+  },
+  "images/9694-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005959923412758531.jpg",
+    "retrievedAt": "2026-09-28T16:07:00.519588+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "7f748b174fedbd41d08a219db3c0065a692cf3f1792cd944ea274fe5b58614ad"
+  },
+  "images/9694-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005959965888475138.jpg",
+    "retrievedAt": "2026-09-28T16:07:01.634890+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "8c09299304f22e991b58fba603d6cb3772b05868b658e686b73314176e02fe5e"
+  },
+  "raw/detail-9695.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9695",
+    "retrievedAt": "2026-09-28T16:07:02.597460+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "a665e0d901eb833417e05225a2340ad0420ec09f6654f04ba0be89fdcfdb3af9"
+  },
+  "images/9695-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005960127348207619.jpg",
+    "retrievedAt": "2026-09-28T16:07:04.025870+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "e45e15f11d9da79fba018cb61932ef603856adc9c510e651dcaa893f30a70ba4"
+  },
+  "images/9695-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005960216737214466.jpg",
+    "retrievedAt": "2026-09-28T16:07:05.268313+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "e317891947e9cdefc3a3c4542502dae62891abc0d5c6c7b5cd6a895e801ea429"
+  },
+  "raw/detail-9696.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9696",
+    "retrievedAt": "2026-09-28T16:07:06.358257+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "dfe8d9967f4a15bd720a35c283cc2c57a833b41e9f60f6aba3a39bada67ab301"
+  },
+  "images/9696-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005960441493188611.jpg",
+    "retrievedAt": "2026-09-28T16:07:07.464673+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "bb12c5b0bdbe5e07ddbf79de2e736c5772ece0b37818b3f2751b03f9062634f0"
+  },
+  "images/9696-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005960488918183938.jpg",
+    "retrievedAt": "2026-09-28T16:07:08.908836+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "19f0fd901eb063d9a0b30c89f5f02d261ef574b666ef8c2e5a97d0a93d977460"
+  },
+  "raw/detail-9697.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9697",
+    "retrievedAt": "2026-09-28T16:07:09.879756+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "ab07e39b6d2f42280619a5ffa4c56f5e8cf42de4aef222acc769877080017993"
+  },
+  "images/9697-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005960662394597379.jpg",
+    "retrievedAt": "2026-09-28T16:07:11.444276+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "8e1e6022f0dbad66924d0af675e4c317eea65ba29b97f27f8e0b6c31a294a513"
+  },
+  "images/9697-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005960702945128451.jpg",
+    "retrievedAt": "2026-09-28T16:07:12.706104+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "de419d1cc1f636eb24ea71480d3f59d9b4d1324cf2254a6ccab95532d85c8e6e"
+  },
+  "raw/detail-9698.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9698",
+    "retrievedAt": "2026-09-28T16:07:13.697369+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "8424dea6684749763f408a3c87037f924002ed1fb446cd3ecfe8ed7c25d4cbdf"
+  },
+  "images/9698-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005960887163154435.jpg",
+    "retrievedAt": "2026-09-28T16:07:15.198069+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "e7f0be35ee32c53c20c03a09b34b5c1bab67815b2c3ea6b991522203f88dd068"
+  },
+  "images/9698-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005960936903405569.jpg",
+    "retrievedAt": "2026-09-28T16:07:16.379337+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "c07a700618dd6329c26e3260b2136a2b5bf79466b1eebdaecd5af2ac79b3f3e3"
+  },
+  "raw/detail-9699.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9699",
+    "retrievedAt": "2026-09-28T16:07:17.399540+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "6dbf47c04ba2ad2dd1b081272a642cdb8fad6b0ee1fbb9a988f639dd1439bdcf"
+  },
+  "images/9699-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005961092176539650.jpg",
+    "retrievedAt": "2026-09-28T16:07:18.840861+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "5601bdb8184004b9e7ca2864a0c375a075d7594a1225f4639be31ae408631a77"
+  },
+  "images/9699-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005961134480289793.jpg",
+    "retrievedAt": "2026-09-28T16:07:20.013830+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "0a49add9168ba5e5778c683fa1f0cba4bf9f05fc80b8905ff25251e6a14c88a8"
+  },
+  "raw/detail-9700.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9700",
+    "retrievedAt": "2026-09-28T16:07:21.056567+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "3bcc2640211def8f18bc33e27f4836a00040ed4152fbeb9958bc967117c347bb"
+  },
+  "images/9700-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005961284661538818.jpg",
+    "retrievedAt": "2026-09-28T16:07:22.643236+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "ed22b25bd3f80bb175f3a00fdff6c6e6773782e87f937d140fba43ef932c9574"
+  },
+  "images/9700-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005961321441390595.jpg",
+    "retrievedAt": "2026-09-28T16:07:23.817287+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "3d0a98b0b81e565d55bc5d1d739906e1a6e034f94098e3301b84c94bfab46985"
+  },
+  "raw/detail-9701.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9701",
+    "retrievedAt": "2026-09-28T16:07:24.989923+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "cda41b3850569c7eee232151eb0b2795ef28385530b529453614d66d72f73527"
+  },
+  "images/9701-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/07/03/2072842062661611522.jpg",
+    "retrievedAt": "2026-09-28T16:07:26.639787+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "535dabe2d1e6ac7c68ec8755c767841e1c899aed2194ba5c21f56f8b980b76ac"
+  },
+  "images/9701-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/30/2005961628690935811.jpg",
+    "retrievedAt": "2026-09-28T16:07:27.792224+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "e6f46c7fac498b14a72f27646d4312f83315dcbea5841f515eff006ae53061b5"
+  },
+  "raw/detail-12001.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=12001",
+    "retrievedAt": "2026-09-28T16:07:28.791126+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "96089eba51bb2df007a2d8d2960eebea0b3e5a0f43e6f767aeeffb06861f9f90"
+  },
+  "images/12001-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003081613057978370.jpg",
+    "retrievedAt": "2026-09-28T16:07:30.561213+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "d872745c2b48c8d9be71000b8a36f82c1dab4aaedb415a7d55034aec2101e2da"
+  },
+  "images/12001-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003081670226341890.jpg",
+    "retrievedAt": "2026-09-28T16:07:31.702545+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "beaa359a9327aade162e94fa66a848a1a8f0819731b9d9c03d1b63a139d4c8b6"
+  },
+  "raw/detail-12002.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=12002",
+    "retrievedAt": "2026-09-28T16:07:32.751776+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "63a23b78744fc0b53965ad25206704b205e8029adbb46f2c52ac7362e8fb4939"
+  },
+  "images/12002-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003098282304204802.jpg",
+    "retrievedAt": "2026-09-28T16:07:35.435069+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "b577d5ce26ffff526a5df1ca13b9275dbf4100b021dfc74ec3fe2a0baab0d3a1"
+  },
+  "images/12002-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003098337111175171.jpg",
+    "retrievedAt": "2026-09-28T16:07:36.615552+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "bc50472c4bb2e6d91f82f720bc5b77fb9e76b74db90745c171c3f7780db5bd4c"
+  },
+  "raw/detail-12003.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=12003",
+    "retrievedAt": "2026-09-28T16:07:37.638421+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "415f741057f789b1168746662b1f5f2e85a9e0ce968487ac7eb320c66ad2f137"
+  },
+  "images/12003-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003098737369411587.jpg",
+    "retrievedAt": "2026-09-28T16:07:39.239704+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "117f76b12cf013cc608a1b1a04c1684df0da86373c8feaf0f656a8c9fb16b338"
+  },
+  "images/12003-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003098792482566147.jpg",
+    "retrievedAt": "2026-09-28T16:07:40.503874+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "b5e74b667972a012b2b3236e8915254663aad5fbbb7640c3d4741a9a1a97239a"
+  },
+  "raw/detail-12004.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=12004",
+    "retrievedAt": "2026-09-28T16:07:41.574237+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "78851dcf46c46d706ec37f07913e2de0be8260a5037775b774369ad0248bac4f"
+  },
+  "images/12004-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003099221228515331.jpg",
+    "retrievedAt": "2026-09-28T16:07:43.203938+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "ed07e55aa45172322c96f24f2d5e862e63f0595d536563d892eab7988bd83c61"
+  },
+  "images/12004-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003099285376200706.jpg",
+    "retrievedAt": "2026-09-28T16:07:44.389247+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "2f55986c1833a990b24735a8e3adbc2d1c6fd1cbf2223a26fae7ba5fdb372604"
+  },
+  "raw/detail-12005.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=12005",
+    "retrievedAt": "2026-09-28T16:07:45.350441+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "d9a147108b5fabdc9197ba10f699cb9772b6f57a83b07a5dd301fc8f7899412e"
+  },
+  "images/12005-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003099695730126851.jpg",
+    "retrievedAt": "2026-09-28T16:07:46.946871+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "16fabad6f0cdb8457709dba443993f2ce569278e7d167de72572b51f9f2edeaf"
+  },
+  "images/12005-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003099736825917443.jpg",
+    "retrievedAt": "2026-09-28T16:07:48.201194+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "85ea420a57912149a6d3dc082b33ab48511af06512528591fae87823d363ffd1"
+  },
+  "raw/detail-12006.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=12006",
+    "retrievedAt": "2026-09-28T16:07:49.167421+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "9591d1a4286f974e4fb41e577bf5f85a8b242028fda91da0cf09ef3a05dcb376"
+  },
+  "images/12006-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003100025528250371.jpg",
+    "retrievedAt": "2026-09-28T16:07:50.737261+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "e3dbfc5f51ae07fee18e41736399a962aed8059e75e8c0e9ad5e70376f901cfb"
+  },
+  "images/12006-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003100080578490370.jpg",
+    "retrievedAt": "2026-09-28T16:07:51.945016+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "4d51b29baba80a2595b7bf64d59612bb726fef9f974e813ab5437f0b971d1211"
+  },
+  "raw/detail-12007.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=12007",
+    "retrievedAt": "2026-09-28T16:07:52.980018+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "f98e85bd68c7c6d30efe6f084367c755ae470852d17d7dd8dcbd07c304d967ef"
+  },
+  "images/12007-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003100452189630466.jpg",
+    "retrievedAt": "2026-09-28T16:07:54.569900+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "70389a29101c7ff32786276a5357ddd98e870343f478dfccc3a92ac1975de178"
+  },
+  "images/12007-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003100506438758402.jpg",
+    "retrievedAt": "2026-09-28T16:07:55.787251+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "26a372e66a0700604c5f373a65ef913203c14a88a69ed9f5def9a3619d4ee7c1"
+  },
+  "raw/detail-13123.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13123",
+    "retrievedAt": "2026-09-28T16:07:56.828834+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "6e08b2e0fd11f07cf1d548694a449f6445e3551ef108de8ec2a9da01d8bed666"
+  },
+  "images/13123-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003100862107348994.jpg",
+    "retrievedAt": "2026-09-28T16:07:58.520884+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "b9595a05d713f542ca6b4d5322330fe49e583703933e7048b6377b40e00a6421"
+  },
+  "images/13123-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003100910874521601.jpg",
+    "retrievedAt": "2026-09-28T16:07:59.768795+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "22689edff0a64fcb32350ad98b0ad634bc0a6d1799022cf8b77fd5c762c61d9f"
+  },
+  "raw/detail-13124.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13124",
+    "retrievedAt": "2026-09-28T16:08:00.846703+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "42ace77f3bc212228fdc9a165b0f01c33bbf6db577db92077b5fe4d9602dd0b0"
+  },
+  "images/13124-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003101240941080578.jpg",
+    "retrievedAt": "2026-09-28T16:08:02.358237+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "2d934f742a38e243fc8b13ff0eda62ffe46dbfd0d1cbd2db31a835a8c649c193"
+  },
+  "images/13124-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003101304673529858.jpg",
+    "retrievedAt": "2026-09-28T16:08:03.647071+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "78f9d7055b0fa154d3900a505292f26cdf1a5eada59744215e98d1f439d614d0"
+  },
+  "raw/detail-13125.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13125",
+    "retrievedAt": "2026-09-28T16:08:04.651607+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "937b65f3396fc0b384561294392e0260f8cc8e13186b235ca1eeacb66b2949ea"
+  },
+  "images/13125-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003101618801733635.jpg",
+    "retrievedAt": "2026-09-28T16:08:06.195229+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "aaffb83b6b92832dc7c6e1d4c0ce6f99ff931dce8314cfadb0a7213ef64f29b4"
+  },
+  "images/13125-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003101673096998915.jpg",
+    "retrievedAt": "2026-09-28T16:08:07.438805+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "07678d11f383bf6073ef5c8f24f673b479c9df4e381cc68e829f6e1e2959ab69"
+  },
+  "raw/detail-13126.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13126",
+    "retrievedAt": "2026-09-28T16:08:08.465710+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "f2d8e03f341010a458dda54de9c1833afbfce646901abf5081ddb4a63708d078"
+  },
+  "images/13126-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003101987678187522.jpg",
+    "retrievedAt": "2026-09-28T16:08:10.286285+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "7038147e8fc3216390ab6b99ee8c7827111869d69d229eb5934d608c4b09724c"
+  },
+  "images/13126-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003102045274370051.jpg",
+    "retrievedAt": "2026-09-28T16:08:11.602510+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "db878d59e2566b19f946f7044dc3faa79e677aca429914511d86858b4b39a09a"
+  },
+  "raw/detail-13127.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13127",
+    "retrievedAt": "2026-09-28T16:08:12.714011+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "5967e374f580dd1500607e1a58d92b653306610477135e5184052a8845917ea5"
+  },
+  "images/13127-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003102346496700419.jpg",
+    "retrievedAt": "2026-09-28T16:08:14.639434+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "cfd1ecc07b020944e9b80cbad8482857b56a09ec1e7118ee7edd144affad80b8"
+  },
+  "images/13127-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003102410724077570.jpg",
+    "retrievedAt": "2026-09-28T16:08:15.812753+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "c91546f9fc0bc63ebc9db1d667930d1d9a828e599108b1d7fa9d19ccf7a2136d"
+  },
+  "raw/detail-13128.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13128",
+    "retrievedAt": "2026-09-28T16:08:16.884073+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "a925c3c75b5d836d2ae80fd757b5e98da4d9b4f1d9b92ccae349a7faa169d158"
+  },
+  "images/13128-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003102926342451202.jpg",
+    "retrievedAt": "2026-09-28T16:08:18.487443+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "5e8a293124510a83915f12c0aea13edce8d7c4ac36e54aa1c08bb9507503115f"
+  },
+  "images/13128-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003102965903126531.jpg",
+    "retrievedAt": "2026-09-28T16:08:19.630617+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "61f85ba190014f10cfe4a6cf23456a7c994457be800b45fa901d9eb65a6c5329"
+  },
+  "raw/detail-13129.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13129",
+    "retrievedAt": "2026-09-28T16:08:20.672184+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "c54e1cdfec4f3cae202d5be0b91a946ed499650ad06c745e9e9226f3c271a710"
+  },
+  "images/13129-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003103318765727746.jpg",
+    "retrievedAt": "2026-09-28T16:08:22.244432+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "761f2bf85f42b9b31361abb2d60d9a114f77ecec14e179517b22dd8861c0c0e8"
+  },
+  "images/13129-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003103363565088771.jpg",
+    "retrievedAt": "2026-09-28T16:08:23.395629+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "9efbfbdd92f7e154cf3517b09267d282d4ba7ad4d513808e7541e98222169afd"
+  },
+  "images/13129-2.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003103412541976579.jpg",
+    "retrievedAt": "2026-09-28T16:08:24.451716+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "413144f9cad06acc5323981d74868ab9d56597803a7cf41173339978bc259ec5"
+  },
+  "raw/detail-13130.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13130",
+    "retrievedAt": "2026-09-28T16:08:25.470486+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "c30513b50b703b11d4001d1c741a79e74450b743580fa75f9e19bc226ba2c2ec"
+  },
+  "images/13130-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003103732286353410.jpg",
+    "retrievedAt": "2026-09-28T16:08:27.058704+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "0a3759a6ad91ce13d9f5a02e913ae1ea076fcb1adc12bb0df854be4f23d396fa"
+  },
+  "images/13130-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2025/12/22/2003103782601224195.jpg",
+    "retrievedAt": "2026-09-28T16:08:28.330698+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "2879bfdf2352a2fdc296835061ad142df09e94a8f9079a3035ab8cb1bcc24ad3"
+  },
+  "raw/detail-13508.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13508",
+    "retrievedAt": "2026-09-28T16:08:29.392154+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "8ed4968dc2ed56eba73121aa3a41f8ee967a8fd42e15d175449ea960bfb03136"
+  },
+  "images/13508-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070099121429999619.jpg",
+    "retrievedAt": "2026-09-28T16:08:31.000288+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "068dabd1562c750d0106974fc705867a3da6153040e04fc19ea49d3900fda92e"
+  },
+  "images/13508-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070099317140418561.jpg",
+    "retrievedAt": "2026-09-28T16:08:31.982679+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "d2320f7df13d7a116986273cf4ebca7714c72183d9f022aa0049402b7af8664b"
+  },
+  "raw/detail-13509.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13509",
+    "retrievedAt": "2026-09-28T16:08:33.014038+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "d9bc674764dcacb5db5449962c8940768dc251206ac9d7ecb93764fd13b210b3"
+  },
+  "images/13509-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/30/2071851218622148610.jpg",
+    "retrievedAt": "2026-09-28T16:08:34.883083+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "e16aa64a84e09a017f411be232af92241259ce5194c88d6e97987394a69c7ecb"
+  },
+  "images/13509-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070109799419146241.jpg",
+    "retrievedAt": "2026-09-28T16:08:35.943624+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "ee4b594a7ddb9e482ace92948308278b95cd00c411413539b0e205d82bd356ea"
+  },
+  "raw/detail-13510.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13510",
+    "retrievedAt": "2026-09-28T16:08:36.947165+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "64064b6c5ef1db599420de6e7514a704f2bd16e5abc61622d3236535495c05cd"
+  },
+  "images/13510-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/30/2071851360473509889.jpg",
+    "retrievedAt": "2026-09-28T16:08:38.631021+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "b1dc719a532e09fa671dfa94d995b8c8fe2150a9a924ecb138890a1ecc651556"
+  },
+  "images/13510-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070110825706614787.jpg",
+    "retrievedAt": "2026-09-28T16:08:39.699610+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "7bfb9b0e9486d6049573c3637ba64a56b1a4fdf78e7f5595fb4fa5c02a60d0e1"
+  },
+  "raw/detail-13511.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13511",
+    "retrievedAt": "2026-09-28T16:08:40.699189+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "a4e51bdc17e143f9d1293d1c96a81669eca41839e4397a51dfe0a290c7efbd1c"
+  },
+  "images/13511-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070111513564082178.jpg",
+    "retrievedAt": "2026-09-28T16:08:42.469259+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "5578f36e27cecafb2d801c361d135889a3e0bdf55ea5e65638600b0e8fe8ca76"
+  },
+  "images/13511-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070111590999322625.jpg",
+    "retrievedAt": "2026-09-28T16:08:43.578743+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "27293e47156df8ae93674c41567912c27747a52cc978a13e5f49a4bef031a824"
+  },
+  "raw/detail-13512.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13512",
+    "retrievedAt": "2026-09-28T16:08:44.659726+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "453e569ab30cd586add250b405ebbd0b9f9e7955fd4346bb83f2fa127a009ec7"
+  },
+  "images/13512-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070111906884939778.jpg",
+    "retrievedAt": "2026-09-28T16:08:46.264003+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "4d339a61b63fa06e1e2b228edeaa3e7bc4fadc81cbff072d1f0a2787bcf056b1"
+  },
+  "images/13512-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070111951424253955.jpg",
+    "retrievedAt": "2026-09-28T16:08:47.236167+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "1cc89272e1d7f6ce67926d584daa3092a52848ba4ec28cef2dcf1cfbf4e6e1b1"
+  },
+  "raw/detail-13513.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13513",
+    "retrievedAt": "2026-09-28T16:08:48.243245+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "c4d6f244169680c881a73f498f3c07f871d29529fd8046c5e94f1649fc83e919"
+  },
+  "images/13513-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070112498709622786.jpg",
+    "retrievedAt": "2026-09-28T16:08:50.020976+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "25aca4e09f7e788dac42557982eeae88c286a02491ac977a8fb6c8ffbb980299"
+  },
+  "images/13513-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070112561603211266.jpg",
+    "retrievedAt": "2026-09-28T16:08:51.067063+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "f3c2553155a940e2371267fed3e3c3e2cfa800df7a8a8b64c03dbce72a791e16"
+  },
+  "raw/detail-13514.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13514",
+    "retrievedAt": "2026-09-28T16:08:52.080998+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "4ba68c34bbbad2360f0ec18907f72483fa43c4b88622be6d7b1d3f6cacd5b2c1"
+  },
+  "images/13514-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070112988340088834.jpg",
+    "retrievedAt": "2026-09-28T16:08:53.749998+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "8f03ebb808f68a0d6099928d276ccd7a5c288ed533b03086e0b88adf2f5c26c5"
+  },
+  "images/13514-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070113034884280321.jpg",
+    "retrievedAt": "2026-09-28T16:08:54.824689+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "85ab44093f8b5d23c768b25f2f84fe89ba36e1e122961b6197ed56bc035f374d"
+  },
+  "raw/detail-13515.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13515",
+    "retrievedAt": "2026-09-28T16:08:55.832653+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "c22b1a1d376182e91e8f08103bdb2e2f475a423faae9f05046ea06d36b37c4ea"
+  },
+  "images/13515-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070113387285508099.jpg",
+    "retrievedAt": "2026-09-28T16:08:57.482537+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "7c271f9e1a3d731c72dc22f705bf3bf77ec73fcc0cbce6056e8193150dc1553a"
+  },
+  "images/13515-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/07/03/2072860684985495555.jpg",
+    "retrievedAt": "2026-09-28T16:08:58.520015+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "6a5ba0ba88320b4769d88c0acbd078bb77b232e079e6ca047adfc95ea97fa944"
+  },
+  "raw/detail-13516.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13516",
+    "retrievedAt": "2026-09-28T16:08:59.716434+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "e5e994d37f3268d3b6f028310fe9baa0e9cc6bf3f8fbbdce4437686f8b926802"
+  },
+  "images/13516-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070113879831015426.jpg",
+    "retrievedAt": "2026-09-28T16:09:02.373802+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "e52677a941ca278fdeb4d24d5c4f426c4b2cf70592a343f125fb63e5b7e233ee"
+  },
+  "images/13516-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070114131589918722.jpg",
+    "retrievedAt": "2026-09-28T16:09:03.402668+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "6677cd92a29fd82c215436224b56e90749ac8405c640f6c8c1442fcf43dc13a0"
+  },
+  "raw/detail-13517.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13517",
+    "retrievedAt": "2026-09-28T16:09:04.420998+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "eb1f99a4dbf24a5966249883432d95268467b130b606495ff1e46316ca130f7f"
+  },
+  "images/13517-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/30/2071851555303124995.jpg",
+    "retrievedAt": "2026-09-28T16:09:06.013172+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "19fe82cc1cde3566ec667b949470f61d073029bc636b9c4347c2d4fed56daf01"
+  },
+  "images/13517-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/09/23/2102677673625923586.jpg",
+    "retrievedAt": "2026-09-28T16:09:07.601617+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "e498aec776ff23aaf498be58a1dd37df7fd36b2cbf33fa8de8fbed8148e103b3"
+  },
+  "raw/detail-13518.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=13518",
+    "retrievedAt": "2026-09-28T16:09:08.786455+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "2c298f72b9385f34a89cecf03281cf87421cbbde4c8baf263ccf55ba481b84ce"
+  },
+  "images/13518-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070114743123636226.jpg",
+    "retrievedAt": "2026-09-28T16:09:10.665268+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "e5e05dcf456f66cfdeffa1e6b602b8268a0298e80af62a03b2034d242a96cffd"
+  },
+  "images/13518-1.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/25/2070114792255713282.jpg",
+    "retrievedAt": "2026-09-28T16:09:11.737547+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "2e36e1bc4282dbb7dd377cebfa7cb8928f64cd713ef19555da1c9358536a7f3e"
+  },
+  "raw/detail-9115.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9115",
+    "retrievedAt": "2026-09-28T16:09:12.785244+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "a10c4c4ec46e2bbbc56baddf87e5d55e1846025316a4daab58074fe4ffb3cd5a"
+  },
+  "images/9115-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/02/05/2019355009911611395.jpg",
+    "retrievedAt": "2026-09-28T16:09:13.787108+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "ded2252c8666f6ad750c0ca8daac3614e261339edf2c0fd3be0f5cd46222caf9"
+  },
+  "raw/detail-9116.json": {
+    "url": "https://www.mtrsz.com.cn/server-front/front/content/detail?id=9116",
+    "retrievedAt": "2026-09-28T16:09:14.821466+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "8996fda7bbc21038f18d7a3529ce8c6a51fbc5a820931ed466353081e866cb98"
+  },
+  "images/9116-0.jpg": {
+    "url": "https://www.mtrsz.com.cn/u/cms/www/2026/06/26/2070468680607526913.jpg",
+    "retrievedAt": "2026-09-28T16:09:15.835847+08:00",
+    "status": "ok",
+    "error": null,
+    "sha256": "95115749249a1a1861b2a6ebaec3ae81c6a39128536c03cc4786dd64aa330249"
+  }
+}

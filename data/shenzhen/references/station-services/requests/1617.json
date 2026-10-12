@@ -1,0 +1,16 @@
+{
+  "code": "1617",
+  "stationID": "s_aecac16d8302",
+  "stationName": "龙园",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1617"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1617",
+  "retrievedAt": "2026-09-28T16:16:08+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "434f568b48701f69369ae121c9ef0bc238e7f859673f5913371bb9a80c057a7d"
+}

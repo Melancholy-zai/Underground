@@ -1,0 +1,16 @@
+{
+  "code": "6607",
+  "stationID": "s_c267d856c512",
+  "stationName": "深理工",
+  "lineID": "l6b",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "6607"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?6607",
+  "retrievedAt": "2026-09-28T16:11:42+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "8f871928cc6120059217cf60b39a06cc531a0502b4150a73688d972b742add58"
+}

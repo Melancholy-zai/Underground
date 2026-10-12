@@ -1,0 +1,16 @@
+{
+  "code": "1628",
+  "stationID": "s_4d0cd59076e9",
+  "stationName": "沙壆",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1628"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1628",
+  "retrievedAt": "2026-09-28T16:16:22+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "2b75651da08bccd575405c83cacba94b4c00413f208cde4541bf1937c4dacfd0"
+}

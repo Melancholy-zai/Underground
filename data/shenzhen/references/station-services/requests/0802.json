@@ -1,0 +1,16 @@
+{
+  "code": "0802",
+  "stationID": "s_2319925d7fd6",
+  "stationName": "梧桐山南",
+  "lineID": "l8",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0802"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0802",
+  "retrievedAt": "2026-09-28T16:12:19+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "8d00eb09395a6fcaa5506b51abb3990503e034d6da7fde68d8ec8c9480fe9da2"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0127",
+  "stationID": "s_c427574dc35a",
+  "stationName": "西乡",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0127"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0127",
+  "retrievedAt": "2026-09-28T16:08:14+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "680a21354c6cd99e46ff1a5245efd2b04d5bb3571696918759ae847172566328"
+}

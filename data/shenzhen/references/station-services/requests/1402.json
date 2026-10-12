@@ -1,0 +1,16 @@
+{
+  "code": "1402",
+  "stationID": "s_0835ae932475",
+  "stationName": "黄木岗",
+  "lineID": "l14",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1402"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1402",
+  "retrievedAt": "2026-09-28T16:15:27+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "671a3da1ed8e8ebc759ae9e45ebd76891689966ef131bdb0b0c183eb943d1205"
+}

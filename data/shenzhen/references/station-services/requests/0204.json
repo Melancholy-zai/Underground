@@ -1,0 +1,16 @@
+{
+  "code": "0204",
+  "stationID": "s_ea7883436eb7",
+  "stationName": "水湾",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0204"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0204",
+  "retrievedAt": "2026-09-28T16:08:23+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "132a2650d24457630bc28d2007fb8d0052db3ecb11c323fa41f35f6dcdd74462"
+}

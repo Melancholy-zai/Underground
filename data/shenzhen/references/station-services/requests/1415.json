@@ -1,0 +1,16 @@
+{
+  "code": "1415",
+  "stationID": "s_ce87e2ba3e24",
+  "stationName": "坪山广场",
+  "lineID": "l14",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1415"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1415",
+  "retrievedAt": "2026-09-28T16:15:43+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f5aa0e16d10424d4a759eac6465bba18e41e17cafd1b0d731e114ded568201e1"
+}

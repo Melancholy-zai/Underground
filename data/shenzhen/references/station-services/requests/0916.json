@@ -1,0 +1,16 @@
+{
+  "code": "0916",
+  "stationID": "s_df9bcba53b9f",
+  "stationName": "香梅",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0916"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0916",
+  "retrievedAt": "2026-09-28T16:12:50+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1595da10579d34e82bf1ef86e17a18c67eaaac05b2fbd71e62b972518975efed"
+}

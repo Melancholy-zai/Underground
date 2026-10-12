@@ -1,0 +1,16 @@
+{
+  "code": "1101",
+  "stationID": "s_3f6fa0fbc174",
+  "stationName": "红岭南",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1101"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1101",
+  "retrievedAt": "2026-09-28T16:13:40+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "eca28e97903b0c0e1ff918eeab1d6594eb5afda6acaebfb629476f0ac239067f"
+}

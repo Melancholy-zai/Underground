@@ -1,0 +1,16 @@
+{
+  "code": "0610",
+  "stationID": "s_e4a4aac52792",
+  "stationName": "上芬",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0610"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0610",
+  "retrievedAt": "2026-09-28T16:11:12+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "14ad199a7c58bcf983992202325bc5b653b557a88e0631b5c5b631f4c01a4f71"
+}

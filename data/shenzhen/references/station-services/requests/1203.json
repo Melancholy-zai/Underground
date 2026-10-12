@@ -1,0 +1,16 @@
+{
+  "code": "1203",
+  "stationID": "s_ea5188e6e9bf",
+  "stationName": "海上世界",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1203"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1203",
+  "retrievedAt": "2026-09-28T16:14:10+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "18e63bda910dcfd09a4a200fc4c5bccdcba6e0362ecfd18b39c64c02d6872808"
+}

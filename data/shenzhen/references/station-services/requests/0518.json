@@ -1,0 +1,16 @@
+{
+  "code": "0518",
+  "stationID": "s_265b4f2166b5",
+  "stationName": "大学城",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0518"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0518",
+  "retrievedAt": "2026-09-28T16:10:37+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "a38bd42272ad8b81213d62c5d4c74e10e0788df31acd39e4bcbaca84482d7ee7"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "1209",
+  "stationID": "taoyuan",
+  "stationName": "桃园",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1209"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1209",
+  "retrievedAt": "2026-09-28T16:14:17+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "4eee38b3220b7006d264376dd9211a8d0ecce0ee59a1b7312688c848dc5c760f"
+}

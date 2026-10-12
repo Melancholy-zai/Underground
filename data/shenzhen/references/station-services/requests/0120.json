@@ -1,0 +1,16 @@
+{
+  "code": "0120",
+  "stationID": "daxin",
+  "stationName": "大新",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0120"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0120",
+  "retrievedAt": "2026-09-28T16:18:54+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f199551807951c0ed5c152e1351a2dd6a11dc4916d8381b504f116ea30a26512"
+}

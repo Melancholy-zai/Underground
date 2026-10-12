@@ -1,0 +1,16 @@
+{
+  "code": "0613",
+  "stationID": "s_cc4386888340",
+  "stationName": "官田",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0613"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0613",
+  "retrievedAt": "2026-09-28T16:11:16+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "bebe8bbfbc631b80b04ec1fb98be99f3a21d0c16ea98f7ba01fb8d355d752f67"
+}

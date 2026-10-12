@@ -1,0 +1,16 @@
+{
+  "code": "1227",
+  "stationID": "s_f39da64137d0",
+  "stationName": "福永",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1227"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1227",
+  "retrievedAt": "2026-09-28T16:14:39+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "20ce73f85b1b8e568f52d4fe4478f1be069eb80ebdb511edb36b29b02b3c045d"
+}

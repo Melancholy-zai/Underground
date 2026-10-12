@@ -1,0 +1,16 @@
+{
+  "code": "0901",
+  "stationID": "qianwan",
+  "stationName": "前湾",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0901"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0901",
+  "retrievedAt": "2026-09-28T16:12:31+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "34f6777ed8f0ef00085a95a0ca89e614f1cf2dacc98f701471004eb06016aaff"
+}

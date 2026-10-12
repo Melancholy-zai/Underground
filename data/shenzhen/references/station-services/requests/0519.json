@@ -1,0 +1,16 @@
+{
+  "code": "0519",
+  "stationID": "s_2aeff618f782",
+  "stationName": "塘朗",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0519"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0519",
+  "retrievedAt": "2026-09-28T16:10:38+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "28208447d87dd5fb67a26785f25029e38ff8c31d639859c83a270aa818d1f52b"
+}

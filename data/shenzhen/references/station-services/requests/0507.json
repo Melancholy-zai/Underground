@@ -1,0 +1,16 @@
+{
+  "code": "0507",
+  "stationID": "guiwan",
+  "stationName": "桂湾",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0507"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0507",
+  "retrievedAt": "2026-09-28T16:10:24+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "3c30a0b19904c702d9397ba46c361d63d0e4b00aca2b35123f9dab6d4f4b6fc9"
+}

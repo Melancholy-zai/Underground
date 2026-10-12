@@ -1,0 +1,16 @@
+{
+  "code": "0524",
+  "stationID": "s_78a996c36326",
+  "stationName": "坂田",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0524"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0524",
+  "retrievedAt": "2026-09-28T16:10:44+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "ec97b5625bbc81300bcd491f32081970211292b73aae963020e80288ad5079a3"
+}

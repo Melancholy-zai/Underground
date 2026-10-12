@@ -1,0 +1,16 @@
+{
+  "code": "0511",
+  "stationID": "baoanzhongxin",
+  "stationName": "宝安中心",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0511"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0511",
+  "retrievedAt": "2026-09-28T16:10:28+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "5a0cd77d5e452667dbb67a72d57f001e377c7ec61a0402d72dce06edef8a68ba"
+}

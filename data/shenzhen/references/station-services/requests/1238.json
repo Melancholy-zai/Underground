@@ -1,0 +1,16 @@
+{
+  "code": "1238",
+  "stationID": "s_9554d22bc5c8",
+  "stationName": "朗下",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1238"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1238",
+  "retrievedAt": "2026-09-28T16:14:53+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "95457e2569221b55c95a827334b5acf866ed4153ff7faf6f6c3790f243463715"
+}

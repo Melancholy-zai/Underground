@@ -1,0 +1,16 @@
+{
+  "code": "0619",
+  "stationID": "s_069c2f0aa588",
+  "stationName": "科学公园",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0619"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0619",
+  "retrievedAt": "2026-09-28T16:11:24+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "8ab9ec71395461245dc03ffaee3aa4d86ed49b42eccc0c0afbb756bc9b6c2c15"
+}

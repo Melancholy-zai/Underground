@@ -1,0 +1,16 @@
+{
+  "code": "1112",
+  "stationID": "s_89953636e3ce",
+  "stationName": "碧海湾",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1112"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1112",
+  "retrievedAt": "2026-09-28T16:13:54+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "6c97cf5906b6aa6538cf58d76942e95ac6e1a65e579bc630c39a7a2f6a991720"
+}

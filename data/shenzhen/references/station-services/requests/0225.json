@@ -1,0 +1,16 @@
+{
+  "code": "0225",
+  "stationID": "s_63eb9e3d42a2",
+  "stationName": "燕南",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0225"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0225",
+  "retrievedAt": "2026-09-28T16:08:48+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "047ed6922fe557c6d9643079bd88b09cb952c524657ecc5f89a60532afe046f1"
+}

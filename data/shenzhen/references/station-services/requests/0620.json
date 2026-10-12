@@ -1,0 +1,16 @@
+{
+  "code": "0620",
+  "stationID": "s_53dbc3545ac3",
+  "stationName": "楼村",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0620"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0620",
+  "retrievedAt": "2026-09-28T16:11:25+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "9d1f6c4e6a546a71e7c5e8cd8027ee4b37e243891438da1a0aa2bc28eea2b8c0"
+}

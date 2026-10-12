@@ -1,0 +1,16 @@
+{
+  "code": "0201",
+  "stationID": "s_40e31054c955",
+  "stationName": "赤湾",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0201"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0201",
+  "retrievedAt": "2026-09-28T16:08:19+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "632d27aa301d7c9a2425aec22807b1411caad022e1bd7379a52fb8fc06448f84"
+}

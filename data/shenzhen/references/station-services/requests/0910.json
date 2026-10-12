@@ -1,0 +1,16 @@
+{
+  "code": "0910",
+  "stationID": "s_98923b576ea1",
+  "stationName": "高新南",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0910"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0910",
+  "retrievedAt": "2026-09-28T16:12:42+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f5ee8ac479b1faacd326f4719b176d41125786439757903449892b7277feb547"
+}

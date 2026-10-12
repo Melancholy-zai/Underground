@@ -1,0 +1,16 @@
+{
+  "code": "0412",
+  "stationID": "s_52261b2d7aec",
+  "stationName": "上塘",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0412"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0412",
+  "retrievedAt": "2026-09-28T16:10:00+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "d615a044c4b431f93dd50152078f2c8dedb7c75151b050fad28b0b8790bdfc60"
+}

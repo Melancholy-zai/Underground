@@ -1,0 +1,16 @@
+{
+  "code": "0724",
+  "stationID": "s_1540acef9aef",
+  "stationName": "八卦岭",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0724"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0724",
+  "retrievedAt": "2026-09-28T16:12:12+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "50b12ae9827d244449851f3068c2711a53508ceaaef3f908a90a7c5f971e354a"
+}

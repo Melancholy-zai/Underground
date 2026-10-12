@@ -1,0 +1,16 @@
+{
+  "code": "0513",
+  "stationID": "s_6f16e8d1ebe2",
+  "stationName": "灵芝",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0513"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0513",
+  "retrievedAt": "2026-09-28T16:10:31+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "0f2c7391f19b2caca006c0820f116c506fb9cf9cf3990c9a1a29f99abe0a95cd"
+}

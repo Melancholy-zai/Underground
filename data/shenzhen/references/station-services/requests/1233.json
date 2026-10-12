@@ -1,0 +1,16 @@
+{
+  "code": "1233",
+  "stationID": "s_66dfad6f6388",
+  "stationName": "海上田园东",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1233"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1233",
+  "retrievedAt": "2026-09-28T16:14:46+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "3a57a4c3bbcfe45534c4dcda3b731db7f6112c4ffbdc5357d51fba5fa4075bb9"
+}

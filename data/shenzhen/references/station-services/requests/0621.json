@@ -1,0 +1,16 @@
+{
+  "code": "0621",
+  "stationID": "s_dd02920462d3",
+  "stationName": "红花山",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0621"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0621",
+  "retrievedAt": "2026-09-28T16:11:26+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "36213858faf92e026f35ce82dcf2230c9197c28ab66e8c105a810f5f5d7dedcb"
+}

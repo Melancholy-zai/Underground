@@ -1,0 +1,16 @@
+{
+  "code": "0709",
+  "stationID": "s_551497907e96",
+  "stationName": "深云",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0709"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0709",
+  "retrievedAt": "2026-09-28T16:11:53+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "81d25d94dcf4d31acda19f383d263cb7189d91884121c7b18055255a9a0b0a0b"
+}

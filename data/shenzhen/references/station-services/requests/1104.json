@@ -1,0 +1,16 @@
+{
+  "code": "1104",
+  "stationID": "s_56f42681a960",
+  "stationName": "岗厦北",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1104"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1104",
+  "retrievedAt": "2026-09-28T16:13:44+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "42933198db261dc90af08a19c362050e9b8781c11bd712c4fadb31d6daf4ad18"
+}

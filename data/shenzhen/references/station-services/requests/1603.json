@@ -1,0 +1,16 @@
+{
+  "code": "1603",
+  "stationID": "s_f3e341107533",
+  "stationName": "福坑",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1603"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1603",
+  "retrievedAt": "2026-09-28T16:15:51+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "57c9c51c74534ca8c4fc1c1c4b039c159e4fa080eb2a89f3ef5fda6c3c091753"
+}

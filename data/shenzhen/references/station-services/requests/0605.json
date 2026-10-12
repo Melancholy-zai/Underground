@@ -1,0 +1,16 @@
+{
+  "code": "0605",
+  "stationID": "s_fd446736a468",
+  "stationName": "银湖",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0605"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0605",
+  "retrievedAt": "2026-09-28T16:19:21+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "d6b16de413eaa8859be8bdcf82ea11d48e52ca5c89c735d30ea701cb36a0c50a"
+}

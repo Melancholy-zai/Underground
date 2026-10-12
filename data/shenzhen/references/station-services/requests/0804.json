@@ -1,0 +1,16 @@
+{
+  "code": "0804",
+  "stationID": "s_c6177ea4478c",
+  "stationName": "海山",
+  "lineID": "l8",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0804"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0804",
+  "retrievedAt": "2026-09-28T16:12:22+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f3d83fa08138d8f1a01eb3c7b7e09ea8b501a0fcd6047c28b5a060ada9d80d8d"
+}

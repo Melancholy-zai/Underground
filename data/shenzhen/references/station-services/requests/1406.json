@@ -1,0 +1,16 @@
+{
+  "code": "1406",
+  "stationID": "s_824c69cf843a",
+  "stationName": "六约北",
+  "lineID": "l14",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1406"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1406",
+  "retrievedAt": "2026-09-28T16:15:32+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "cda7c066f65c486dba64dda8db9888d0ce7f67ced50aae14580e816a54da334a"
+}

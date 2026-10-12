@@ -1,0 +1,16 @@
+{
+  "code": "0710",
+  "stationID": "s_0a7341da8f3f",
+  "stationName": "安托山",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0710"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0710",
+  "retrievedAt": "2026-09-28T16:11:54+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "5c2ef53cc04265d18800d13ae20c9984cf74ff3ff08075dfbb800a82246a0627"
+}

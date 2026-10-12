@@ -1,0 +1,16 @@
+{
+  "code": "0304",
+  "stationID": "s_a2c1f6afabd4",
+  "stationName": "购物公园",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0304"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0304",
+  "retrievedAt": "2026-09-28T16:09:02+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "0aabd44d2b71ac620aeea3e1ee45498b50a1a03593a9c07997ed30c97c8267d4"
+}

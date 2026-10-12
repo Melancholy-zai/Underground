@@ -1,0 +1,16 @@
+{
+  "code": "0409",
+  "stationID": "s_a103ebebf7e9",
+  "stationName": "白石龙",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0409"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0409",
+  "retrievedAt": "2026-09-28T16:09:57+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "84680b6e1a23e3d3d8ad9f05e2949e83d16b127997e956819c89d1daa23e1d71"
+}

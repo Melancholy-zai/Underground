@@ -1,0 +1,16 @@
+{
+  "code": "1222",
+  "stationID": "s_197164769fc4",
+  "stationName": "黄田",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1222"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1222",
+  "retrievedAt": "2026-09-28T16:14:33+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "92d98588b7a324eef26deacf5f1182809741d9dacf250c2ceac5a2acef992a46"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0229",
+  "stationID": "s_4aaa3ec5856a",
+  "stationName": "新秀",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0229"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0229",
+  "retrievedAt": "2026-09-28T16:08:53+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "ead5c106ac217d599ce79e2e854e6e4d45a76b947978c5114548b5a04400df47"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0217",
+  "stationID": "s_917099a52cc7",
+  "stationName": "香蜜",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0217"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0217",
+  "retrievedAt": "2026-09-28T16:08:38+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f27235778e46c2c3f2538e56a6ab829d6d2c9076c994284e2b4fa8491d89ffcc"
+}

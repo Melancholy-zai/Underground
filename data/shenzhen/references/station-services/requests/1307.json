@@ -1,0 +1,16 @@
+{
+  "code": "1307",
+  "stationID": "s_a0b836f97340",
+  "stationName": "高新中",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1307"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1307",
+  "retrievedAt": "2026-09-28T16:19:53+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "ff25c229f8c19ef1fa81547aaaae9af68562a41528e7c70f9a1736f85fdad9bd"
+}

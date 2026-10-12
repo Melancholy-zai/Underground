@@ -1,0 +1,16 @@
+{
+  "code": "0329",
+  "stationID": "s_cb15eeb50146",
+  "stationName": "龙城广场",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0329"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0329",
+  "retrievedAt": "2026-09-28T16:09:35+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "ff3cbc3252601667c15ed93d2be81892228a0ad9285c62b323e69055f7e28ab1"
+}

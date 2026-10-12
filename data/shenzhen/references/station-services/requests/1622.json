@@ -1,0 +1,16 @@
+{
+  "code": "1622",
+  "stationID": "s_0bd2f6a9943a",
+  "stationName": "坪山",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1622"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1622",
+  "retrievedAt": "2026-09-28T16:16:14+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "85fd5002968c95c29984803400af2550be608b9f27975aaa0c592994e9600104"
+}

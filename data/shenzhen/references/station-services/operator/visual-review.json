@@ -1,0 +1,512 @@
+{
+  "verifiedAt": "2026-09-28",
+  "reviewer": "Codex agent visual inspection using view_image; no OCR promotion",
+  "reviewScope": "49 timetable station rows; all 49 station index images (plus Shiyan separate bus index), selected landmark transcriptions; all 49 station maps/floor plans reviewed for entrance numbers.",
+  "mapExitNumbers": {
+    "13518": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "9698": [
+      "A",
+      "A2",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "9700": [
+      "A",
+      "B",
+      "C1",
+      "C2",
+      "D",
+      "E"
+    ],
+    "9684": [
+      "A",
+      "B",
+      "C",
+      "D1",
+      "D2",
+      "E"
+    ],
+    "9685": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "J1",
+      "J2",
+      "J3",
+      "K"
+    ],
+    "9301": [
+      "A1",
+      "A2",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "9680": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "9681": [
+      "A1",
+      "A2",
+      "B",
+      "C1",
+      "C2",
+      "D",
+      "E",
+      "F1",
+      "F2"
+    ],
+    "9682": [
+      "A1",
+      "A2",
+      "B"
+    ],
+    "9683": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "G",
+      "H",
+      "J1",
+      "J2",
+      "K",
+      "L"
+    ],
+    "9686": [
+      "A",
+      "B",
+      "C"
+    ],
+    "9687": [
+      "A",
+      "B1",
+      "B2",
+      "C1",
+      "C2",
+      "D"
+    ],
+    "9688": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "9689": [
+      "A1",
+      "A2",
+      "B",
+      "C",
+      "D1",
+      "D2"
+    ],
+    "9690": [
+      "A1",
+      "A2",
+      "B",
+      "C",
+      "D1",
+      "D2"
+    ],
+    "9691": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2",
+      "D1",
+      "D2"
+    ],
+    "9692": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "9693": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2",
+      "D"
+    ],
+    "9694": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "9695": [
+      "A",
+      "B1",
+      "B2",
+      "C",
+      "D"
+    ],
+    "9696": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "9697": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E1",
+      "E2"
+    ],
+    "9699": [
+      "A1",
+      "A2",
+      "B",
+      "D1",
+      "D2",
+      "E1",
+      "E2"
+    ],
+    "9701": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "12001": [
+      "A",
+      "B",
+      "C"
+    ],
+    "12002": [
+      "A",
+      "B1",
+      "B2",
+      "C",
+      "D"
+    ],
+    "12003": [
+      "A1",
+      "A2",
+      "A3",
+      "D1",
+      "D2",
+      "E",
+      "E2",
+      "F",
+      "H",
+      "J",
+      "K1",
+      "K2",
+      "L",
+      "M",
+      "N"
+    ],
+    "12004": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E1",
+      "E2",
+      "F"
+    ],
+    "12005": [
+      "A",
+      "C",
+      "D1",
+      "D2",
+      "E",
+      "F1",
+      "F2",
+      "G"
+    ],
+    "12006": [
+      "A2",
+      "A3",
+      "A4",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G2",
+      "H1",
+      "H2",
+      "J",
+      "K",
+      "L"
+    ],
+    "12007": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "13123": [
+      "A1",
+      "A2",
+      "C",
+      "D",
+      "E"
+    ],
+    "13124": [
+      "A1",
+      "A2",
+      "B",
+      "C",
+      "D1",
+      "D2"
+    ],
+    "13125": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "13126": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "13127": [
+      "A",
+      "C",
+      "D"
+    ],
+    "13128": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "13129": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "13130": [
+      "B",
+      "C1",
+      "C2",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+    ],
+    "13508": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "13509": [
+      "A",
+      "B",
+      "C"
+    ],
+    "13510": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "13511": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H"
+    ],
+    "13512": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "13513": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "13514": [
+      "A",
+      "B1",
+      "B2",
+      "C1",
+      "C2",
+      "D",
+      "E1",
+      "E2"
+    ],
+    "13515": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+    ],
+    "13516": [
+      "A",
+      "B",
+      "C"
+    ],
+    "13517": [
+      "A1",
+      "B",
+      "C"
+    ]
+  },
+  "reviewedImageSHA256": {
+    "images/9684-1.jpg": "0bdf5a9728e80325850d6dd61e3aa0c2febf7ea7ce507607835a6df599683273",
+    "images/9685-1.jpg": "39b926cc978cec241b809cbbdf912bfb3dc14db0256fd584e5b42bdaa69747fc",
+    "images/9301-1.jpg": "62e7c26fa1619c8491719cb71a62f7b4fae2f6b69f80f73907d7d89ddf3aa208",
+    "images/9680-1.jpg": "c485e6bd9d56947da80b98563b6bb597776e8acd50ca6100ab24c9e15a62ea25",
+    "images/9681-1.jpg": "185f18870b3bb9fd6e6757fe45f09329a1bd38f37bd7cd76ff8720625a370c65",
+    "images/9682-1.jpg": "8e50f5b958e1d93ec978cb39a1da48fc7b1d37b69d30f77aafc171cae1370902",
+    "images/9683-1.jpg": "27b5c4d982183b1356a51bfd0fbef0ae5c109955871a9a5d1e12828d94321736",
+    "images/9686-1.jpg": "af1180a9ff79bd10a04a7888f5c328c2d9279e423b84df0427400f36717ac895",
+    "images/9687-1.jpg": "40f93924e0b72b7db024cecdd8b69364f0f0ab0b79da7b1c9a74007675ca5ee9",
+    "images/9688-1.jpg": "abfa41b184d01b82acf2e66169f09829d44246ad670c3183fafd4e2e9b053179",
+    "images/9689-1.jpg": "4c7ae0443e8d5f8ef8389f81a07c9ce5b506ab2e6b925fd30bd15b7f0a8ccfa8",
+    "images/9690-1.jpg": "6b1bd66854a40369fc91dfa8df90fa186b28bfc98e300450b973405e10daf0e0",
+    "images/9691-1.jpg": "5036c8f52e053fd5a4bc6c4095b914372096a6cd759556b780a1cf3152a13a02",
+    "images/9692-1.jpg": "28426634b0ad8f2e85b1276424c20792b7d743df6ff481e3c486d5597ac9e329",
+    "images/9693-1.jpg": "b2f800dac2976421233bf7cc6b9c7c9cb05228310937a4b3c2591cba6ac02fb7",
+    "images/9694-1.jpg": "8c09299304f22e991b58fba603d6cb3772b05868b658e686b73314176e02fe5e",
+    "images/9695-1.jpg": "e317891947e9cdefc3a3c4542502dae62891abc0d5c6c7b5cd6a895e801ea429",
+    "images/9696-1.jpg": "19f0fd901eb063d9a0b30c89f5f02d261ef574b666ef8c2e5a97d0a93d977460",
+    "images/9697-1.jpg": "de419d1cc1f636eb24ea71480d3f59d9b4d1324cf2254a6ccab95532d85c8e6e",
+    "images/9698-0.jpg": "e7f0be35ee32c53c20c03a09b34b5c1bab67815b2c3ea6b991522203f88dd068",
+    "images/9698-1.jpg": "c07a700618dd6329c26e3260b2136a2b5bf79466b1eebdaecd5af2ac79b3f3e3",
+    "images/9699-1.jpg": "0a49add9168ba5e5778c683fa1f0cba4bf9f05fc80b8905ff25251e6a14c88a8",
+    "images/9700-0.jpg": "ed22b25bd3f80bb175f3a00fdff6c6e6773782e87f937d140fba43ef932c9574",
+    "images/9700-1.jpg": "3d0a98b0b81e565d55bc5d1d739906e1a6e034f94098e3301b84c94bfab46985",
+    "images/9701-1.jpg": "e6f46c7fac498b14a72f27646d4312f83315dcbea5841f515eff006ae53061b5",
+    "images/12001-1.jpg": "beaa359a9327aade162e94fa66a848a1a8f0819731b9d9c03d1b63a139d4c8b6",
+    "images/12002-1.jpg": "bc50472c4bb2e6d91f82f720bc5b77fb9e76b74db90745c171c3f7780db5bd4c",
+    "images/12003-1.jpg": "b5e74b667972a012b2b3236e8915254663aad5fbbb7640c3d4741a9a1a97239a",
+    "images/12004-1.jpg": "2f55986c1833a990b24735a8e3adbc2d1c6fd1cbf2223a26fae7ba5fdb372604",
+    "images/12005-1.jpg": "85ea420a57912149a6d3dc082b33ab48511af06512528591fae87823d363ffd1",
+    "images/12006-1.jpg": "4d51b29baba80a2595b7bf64d59612bb726fef9f974e813ab5437f0b971d1211",
+    "images/12007-1.jpg": "26a372e66a0700604c5f373a65ef913203c14a88a69ed9f5def9a3619d4ee7c1",
+    "images/13123-1.jpg": "22689edff0a64fcb32350ad98b0ad634bc0a6d1799022cf8b77fd5c762c61d9f",
+    "images/13124-1.jpg": "78f9d7055b0fa154d3900a505292f26cdf1a5eada59744215e98d1f439d614d0",
+    "images/13125-1.jpg": "07678d11f383bf6073ef5c8f24f673b479c9df4e381cc68e829f6e1e2959ab69",
+    "images/13126-1.jpg": "db878d59e2566b19f946f7044dc3faa79e677aca429914511d86858b4b39a09a",
+    "images/13127-1.jpg": "c91546f9fc0bc63ebc9db1d667930d1d9a828e599108b1d7fa9d19ccf7a2136d",
+    "images/13128-1.jpg": "61f85ba190014f10cfe4a6cf23456a7c994457be800b45fa901d9eb65a6c5329",
+    "images/13129-1.jpg": "9efbfbdd92f7e154cf3517b09267d282d4ba7ad4d513808e7541e98222169afd",
+    "images/13129-2.jpg": "413144f9cad06acc5323981d74868ab9d56597803a7cf41173339978bc259ec5",
+    "images/13130-1.jpg": "2879bfdf2352a2fdc296835061ad142df09e94a8f9079a3035ab8cb1bcc24ad3",
+    "images/13508-1.jpg": "d2320f7df13d7a116986273cf4ebca7714c72183d9f022aa0049402b7af8664b",
+    "images/13509-1.jpg": "ee4b594a7ddb9e482ace92948308278b95cd00c411413539b0e205d82bd356ea",
+    "images/13510-1.jpg": "7bfb9b0e9486d6049573c3637ba64a56b1a4fdf78e7f5595fb4fa5c02a60d0e1",
+    "images/13511-1.jpg": "27293e47156df8ae93674c41567912c27747a52cc978a13e5f49a4bef031a824",
+    "images/13512-1.jpg": "1cc89272e1d7f6ce67926d584daa3092a52848ba4ec28cef2dcf1cfbf4e6e1b1",
+    "images/13513-1.jpg": "f3c2553155a940e2371267fed3e3c3e2cfa800df7a8a8b64c03dbce72a791e16",
+    "images/13514-1.jpg": "85ab44093f8b5d23c768b25f2f84fe89ba36e1e122961b6197ed56bc035f374d",
+    "images/13515-1.jpg": "6a5ba0ba88320b4769d88c0acbd078bb77b232e079e6ca047adfc95ea97fa944",
+    "images/13516-1.jpg": "6677cd92a29fd82c215436224b56e90749ac8405c640f6c8c1442fcf43dc13a0",
+    "images/13517-1.jpg": "e498aec776ff23aaf498be58a1dd37df7fd36b2cbf33fa8de8fbed8148e103b3",
+    "images/13518-0.jpg": "e5e05dcf456f66cfdeffa1e6b602b8268a0298e80af62a03b2034d242a96cffd",
+    "images/13518-1.jpg": "2e36e1bc4282dbb7dd377cebfa7cb8928f64cd713ef19555da1c9358536a7f3e",
+    "images/9115-0.jpg": "ded2252c8666f6ad750c0ca8daac3614e261339edf2c0fd3be0f5cd46222caf9",
+    "images/9116-0.jpg": "95115749249a1a1861b2a6ebaec3ae81c6a39128536c03cc4786dd64aa330249",
+    "images/9684-0.jpg": "6384d2d57c043ea75c2fda1f5507eb85d58bd7bcca6907bc11bae519c799cca7",
+    "images/9685-0.jpg": "f39b33c324a9a9a3a9cd5f87dc94d2e3881ba7dc3bde2928c71a0962aad3fab9",
+    "images/9301-0.jpg": "a9fd947e5ef20c96db5e2060c8eb5ba92f4c3893a644d6c6aab4621c80cc1dda",
+    "images/9680-0.jpg": "f781c135e31f175f0d38afa3c2edb7b065ac697b89c7d995c25b21aea17a951f",
+    "images/9681-0.jpg": "d78d4d95613e4f5fea6355b6373a009f18ae726045b61c1890e3cf94c2faed23",
+    "images/9682-0.jpg": "944e83a8c456f576a8f99b8eee6183e8f2e43a4e45156179d38a4a2df3b0b36c",
+    "images/9683-0.jpg": "ba50ab3d3987bc07ab8af29fcd57c4300eb46de5bca738e4c61f99133bc7b1d4",
+    "images/9686-0.jpg": "40ca7530b591b804a1329d329ed07645d9ca438b8d2f4366f0f90d117af2aef4",
+    "images/9687-0.jpg": "d0723c77eeeae4362677a33ea6a893969151f87431ba05bd36d827c87359e4f4",
+    "images/9688-0.jpg": "a942057ab2a6c81abb75734cf7875c5fc6d3c1ef47fa8b0d8a03668f4b3c708a",
+    "images/9689-0.jpg": "446660c349fb218c79528033e4e3a2c616311e5c36677972e5e7da7aea487cdc",
+    "images/9690-0.jpg": "848db94b3a9ac2f6959f69f2b4dd2cec58158dcb328df27b07985f04fa5f9abe",
+    "images/9691-0.jpg": "eeb77c2d7b52d9f9f3919f32987c73b1f772959026439eb6f62addef0f06775d",
+    "images/9692-0.jpg": "820dda334e0ef9b478158e5c34ff0449fb6c84f1dfdbb4f84a2d34df76faa7f5",
+    "images/9693-0.jpg": "48c5d523c2c1402fe387c00bc83707a27c6e50d29c4b6c87d391ce15ce28cede",
+    "images/9694-0.jpg": "7f748b174fedbd41d08a219db3c0065a692cf3f1792cd944ea274fe5b58614ad",
+    "images/9695-0.jpg": "e45e15f11d9da79fba018cb61932ef603856adc9c510e651dcaa893f30a70ba4",
+    "images/9696-0.jpg": "bb12c5b0bdbe5e07ddbf79de2e736c5772ece0b37818b3f2751b03f9062634f0",
+    "images/9697-0.jpg": "8e1e6022f0dbad66924d0af675e4c317eea65ba29b97f27f8e0b6c31a294a513",
+    "images/9699-0.jpg": "5601bdb8184004b9e7ca2864a0c375a075d7594a1225f4639be31ae408631a77",
+    "images/9701-0.jpg": "535dabe2d1e6ac7c68ec8755c767841e1c899aed2194ba5c21f56f8b980b76ac",
+    "images/12001-0.jpg": "d872745c2b48c8d9be71000b8a36f82c1dab4aaedb415a7d55034aec2101e2da",
+    "images/12002-0.jpg": "b577d5ce26ffff526a5df1ca13b9275dbf4100b021dfc74ec3fe2a0baab0d3a1",
+    "images/12003-0.jpg": "117f76b12cf013cc608a1b1a04c1684df0da86373c8feaf0f656a8c9fb16b338",
+    "images/12004-0.jpg": "ed07e55aa45172322c96f24f2d5e862e63f0595d536563d892eab7988bd83c61",
+    "images/12005-0.jpg": "16fabad6f0cdb8457709dba443993f2ce569278e7d167de72572b51f9f2edeaf",
+    "images/12006-0.jpg": "e3dbfc5f51ae07fee18e41736399a962aed8059e75e8c0e9ad5e70376f901cfb",
+    "images/12007-0.jpg": "70389a29101c7ff32786276a5357ddd98e870343f478dfccc3a92ac1975de178",
+    "images/13123-0.jpg": "b9595a05d713f542ca6b4d5322330fe49e583703933e7048b6377b40e00a6421",
+    "images/13124-0.jpg": "2d934f742a38e243fc8b13ff0eda62ffe46dbfd0d1cbd2db31a835a8c649c193",
+    "images/13125-0.jpg": "aaffb83b6b92832dc7c6e1d4c0ce6f99ff931dce8314cfadb0a7213ef64f29b4",
+    "images/13126-0.jpg": "7038147e8fc3216390ab6b99ee8c7827111869d69d229eb5934d608c4b09724c",
+    "images/13127-0.jpg": "cfd1ecc07b020944e9b80cbad8482857b56a09ec1e7118ee7edd144affad80b8",
+    "images/13128-0.jpg": "5e8a293124510a83915f12c0aea13edce8d7c4ac36e54aa1c08bb9507503115f",
+    "images/13129-0.jpg": "761f2bf85f42b9b31361abb2d60d9a114f77ecec14e179517b22dd8861c0c0e8",
+    "images/13130-0.jpg": "0a3759a6ad91ce13d9f5a02e913ae1ea076fcb1adc12bb0df854be4f23d396fa",
+    "images/13508-0.jpg": "068dabd1562c750d0106974fc705867a3da6153040e04fc19ea49d3900fda92e",
+    "images/13509-0.jpg": "e16aa64a84e09a017f411be232af92241259ce5194c88d6e97987394a69c7ecb",
+    "images/13510-0.jpg": "b1dc719a532e09fa671dfa94d995b8c8fe2150a9a924ecb138890a1ecc651556",
+    "images/13511-0.jpg": "5578f36e27cecafb2d801c361d135889a3e0bdf55ea5e65638600b0e8fe8ca76",
+    "images/13512-0.jpg": "4d339a61b63fa06e1e2b228edeaa3e7bc4fadc81cbff072d1f0a2787bcf056b1",
+    "images/13513-0.jpg": "25aca4e09f7e788dac42557982eeae88c286a02491ac977a8fb6c8ffbb980299",
+    "images/13514-0.jpg": "8f03ebb808f68a0d6099928d276ccd7a5c288ed533b03086e0b88adf2f5c26c5",
+    "images/13515-0.jpg": "7c271f9e1a3d731c72dc22f705bf3bf77ec73fcc0cbce6056e8193150dc1553a",
+    "images/13516-0.jpg": "e52677a941ca278fdeb4d24d5c4f426c4b2cf70592a343f125fb63e5b7e233ee",
+    "images/13517-0.jpg": "19fe82cc1cde3566ec667b949470f61d073029bc636b9c4347c2d4fed56daf01"
+  },
+  "mapImageTypeOverrides": {
+    "9696": "车站立体示意图"
+  },
+  "mapExitAnnotations": {
+    "12002": {
+      "A": "暂未开通",
+      "B2": "暂未开通"
+    },
+    "13512": {
+      "B": "暂未开通"
+    }
+  }
+}

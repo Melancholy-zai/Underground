@@ -1,0 +1,16 @@
+{
+  "code": "0719",
+  "stationID": "s_b319cc9b08fe",
+  "stationName": "赤尾",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0719"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0719",
+  "retrievedAt": "2026-09-28T16:12:05+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "6469595f15d0eaee00c8cc0d0fd6a3e5e0877f21515d045be835e4572d12731e"
+}

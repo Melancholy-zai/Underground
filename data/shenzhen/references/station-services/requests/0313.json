@@ -1,0 +1,16 @@
+{
+  "code": "0313",
+  "stationID": "s_233923ef961c",
+  "stationName": "翠竹",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0313"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0313",
+  "retrievedAt": "2026-09-28T16:09:15+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "c2241bdbb2e87fc2c27052de9656708a70e8f5316392e33da042008bb54e7309"
+}

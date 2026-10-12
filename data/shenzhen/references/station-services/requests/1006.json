@@ -1,0 +1,16 @@
+{
+  "code": "1006",
+  "stationID": "s_7fd10e492004",
+  "stationName": "冬瓜岭",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1006"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1006",
+  "retrievedAt": "2026-09-28T16:13:17+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "8b0a15a862a37ac485db3ebd4b84c0f8e35d7946b30847cb5c2d53a563ebfc54"
+}

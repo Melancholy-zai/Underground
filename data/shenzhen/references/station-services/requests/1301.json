@@ -1,0 +1,16 @@
+{
+  "code": "1301",
+  "stationID": "s_9909f2c9f704",
+  "stationName": "深圳湾口岸",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1301"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1301",
+  "retrievedAt": "2026-09-28T16:14:55+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "c1324a21124331b0bbb7471e43d7689a9751878f3e058134c1668d83d89ade2c"
+}

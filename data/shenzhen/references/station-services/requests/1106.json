@@ -1,0 +1,16 @@
+{
+  "code": "1106",
+  "stationID": "s_c2d307fafd40",
+  "stationName": "车公庙",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1106"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1106",
+  "retrievedAt": "2026-09-28T16:13:46+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f5b96a16dca3b59830e3e12f0079e75fb3b1e53c0b5eab3fc3fe7d87f8657250"
+}

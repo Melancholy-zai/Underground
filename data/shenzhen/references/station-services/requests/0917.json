@@ -1,0 +1,16 @@
+{
+  "code": "0917",
+  "stationID": "s_381ddb9fa939",
+  "stationName": "景田",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0917"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0917",
+  "retrievedAt": "2026-09-28T16:12:51+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "df077cd50decf18bf3d92d2c6d146a93777c6cc0086e99d1ab89afa7765a690a"
+}

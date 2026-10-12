@@ -1,0 +1,16 @@
+{
+  "code": "1122",
+  "stationID": "s_8df01cc639df",
+  "stationName": "碧头",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1122"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1122",
+  "retrievedAt": "2026-09-28T16:14:06+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "cf743896bd6c67dbfda9a72f6be53da4b712784cb4d72a4de4295ccaa01b4018"
+}

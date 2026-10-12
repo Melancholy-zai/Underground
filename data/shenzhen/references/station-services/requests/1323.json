@@ -1,0 +1,16 @@
+{
+  "code": "1323",
+  "stationID": "s_f14f2b8d8e7f",
+  "stationName": "公明广场",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1323"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1323",
+  "retrievedAt": "2026-09-28T16:15:22+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f8d5fb16729251de17f196e23ddd9ee56f876ba3fa24660f66b4bda1bad6ee5e"
+}

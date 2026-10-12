@@ -1,0 +1,16 @@
+{
+  "code": "0712",
+  "stationID": "s_c2d307fafd40",
+  "stationName": "车公庙",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0712"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0712",
+  "retrievedAt": "2026-09-28T16:11:57+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "05ab7f1a7d3b2ac8dc4236569ed72b491599e217ef3fb180703783c2be8c2a03"
+}

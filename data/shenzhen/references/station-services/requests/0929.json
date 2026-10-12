@@ -1,0 +1,16 @@
+{
+  "code": "0929",
+  "stationID": "s_9ee1e7a8b6c7",
+  "stationName": "鹿丹村",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0929"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0929",
+  "retrievedAt": "2026-09-28T16:13:06+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "26c3901b73fd8c3d62c8ef7c3ff0333db7d62b3ae9b011c39e620cb210c95e21"
+}

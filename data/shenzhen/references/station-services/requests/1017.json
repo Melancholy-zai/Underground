@@ -1,0 +1,16 @@
+{
+  "code": "1017",
+  "stationID": "s_f8ff626776f3",
+  "stationName": "甘坑",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1017"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1017",
+  "retrievedAt": "2026-09-28T16:13:30+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "d48fe8e471fd1d1e4a0c5d5f505a54afb661cb856a57b88ad9e7cd23f2d35b49"
+}

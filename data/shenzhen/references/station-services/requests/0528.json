@@ -1,0 +1,16 @@
+{
+  "code": "0528",
+  "stationID": "s_7443291ac1a0",
+  "stationName": "长龙",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0528"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0528",
+  "retrievedAt": "2026-09-28T16:10:49+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "6289394b6cd77504b8a8f63b784a5102710767aaf6f9b5145bf5389dae8067f5"
+}

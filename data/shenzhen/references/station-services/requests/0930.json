@@ -1,0 +1,16 @@
+{
+  "code": "0930",
+  "stationID": "s_eba212fb37ed",
+  "stationName": "人民南",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0930"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0930",
+  "retrievedAt": "2026-09-28T16:13:07+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "0720bffb73e38b16d3c08458eee118c79854c028255aed1ca11c844083579d8e"
+}

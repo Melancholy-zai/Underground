@@ -1,0 +1,16 @@
+{
+  "code": "1322",
+  "stationID": "s_2fe28adf3308",
+  "stationName": "新庄",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1322"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1322",
+  "retrievedAt": "2026-09-28T16:15:21+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "dae8df23f36a8aeaa361fbd1a8413e7d3368fca17d3436ce6219c47634a87497"
+}

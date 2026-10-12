@@ -1,0 +1,16 @@
+{
+  "code": "0726",
+  "stationID": "s_eabe96f7058f",
+  "stationName": "笋岗",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0726"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0726",
+  "retrievedAt": "2026-09-28T16:12:14+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "158e0b2c0ba6f84fb25747a8a551e052c93d95f8cb487273f359c60e858b0886"
+}

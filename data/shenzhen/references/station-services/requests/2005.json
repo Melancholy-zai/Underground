@@ -1,0 +1,16 @@
+{
+  "code": "2005",
+  "stationID": "s_51934512508d",
+  "stationName": "会展城",
+  "lineID": "l20",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "2005"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?2005",
+  "retrievedAt": "2026-09-28T16:16:33+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "43082d267f5dec32d1379a67775ce50005b6ec81324ff3e76a61c68274a46bd7"
+}

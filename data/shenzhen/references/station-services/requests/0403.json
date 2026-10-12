@@ -1,0 +1,16 @@
+{
+  "code": "0403",
+  "stationID": "s_4b324f83aff9",
+  "stationName": "会展中心",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0403"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0403",
+  "retrievedAt": "2026-09-28T16:19:08+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "6baf80c10a34fe8de3ac906f8fc059078c1c7fa08e799733597bdac09d6a2c53"
+}

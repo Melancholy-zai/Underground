@@ -1,0 +1,16 @@
+{
+  "code": "1202",
+  "stationID": "s_c1f5c575e828",
+  "stationName": "太子湾",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1202"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1202",
+  "retrievedAt": "2026-09-28T16:14:08+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "a1f34f3b8b9dd040605464b9a867d46d7f37728fe90eecfc7eb2c24a7f9af2a8"
+}

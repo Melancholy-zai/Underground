@@ -1,0 +1,16 @@
+{
+  "code": "1024",
+  "stationID": "s_c7958c4e2d2e",
+  "stationName": "双拥街",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1024"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1024",
+  "retrievedAt": "2026-09-28T16:13:39+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "6d2896f1dba23f474d6dc0d177cbba7b02506739291a3eeac1165fc4cb1cb6f2"
+}

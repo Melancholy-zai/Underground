@@ -1,0 +1,16 @@
+{
+  "code": "0927",
+  "stationID": "s_bd0a50415e8a",
+  "stationName": "红岭",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0927"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0927",
+  "retrievedAt": "2026-09-28T16:13:03+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f1be4fe361113c7630adbc4cee761906ecab8ba7f5f0e731713717040d141431"
+}

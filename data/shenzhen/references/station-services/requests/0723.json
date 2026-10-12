@@ -1,0 +1,16 @@
+{
+  "code": "0723",
+  "stationID": "s_0835ae932475",
+  "stationName": "黄木岗",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0723"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0723",
+  "retrievedAt": "2026-09-28T16:12:10+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "7535730b608f77a0cc3b0d4f6434c31d7b2254f5617f6793daed545593340ba6"
+}

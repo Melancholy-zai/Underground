@@ -1,0 +1,16 @@
+{
+  "code": "1401",
+  "stationID": "s_56f42681a960",
+  "stationName": "岗厦北",
+  "lineID": "l14",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1401"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1401",
+  "retrievedAt": "2026-09-28T16:15:26+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "7319e8478d7b010a6ef15640c2b293dfe7d4d163bb26139b521c140ab1e75051"
+}

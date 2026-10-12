@@ -1,0 +1,16 @@
+{
+  "code": "0909",
+  "stationID": "s_e731eb2eb04d",
+  "stationName": "粤海门",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0909"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0909",
+  "retrievedAt": "2026-09-28T16:12:41+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "866ebf541be8c65c149b81271fd0e4cf4cdfedc29c4bf4f88d9c6f04f63597ed"
+}

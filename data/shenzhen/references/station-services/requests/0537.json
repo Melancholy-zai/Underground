@@ -1,0 +1,16 @@
+{
+  "code": "0537",
+  "stationID": "s_57e3b7fa8fe4",
+  "stationName": "大剧院",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0537"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0537",
+  "retrievedAt": "2026-09-28T16:19:20+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "d973c06076b94f9c22b5f9421c8dfd95444710898c2411903c1a42a167f8d049"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0803",
+  "stationID": "s_4edec4013a7e",
+  "stationName": "沙头角",
+  "lineID": "l8",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0803"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0803",
+  "retrievedAt": "2026-09-28T16:12:20+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "db59aeb6450aaf9ca487a5c5727f45c3bfb0b5a85e09097b9c07a01826c53dd5"
+}

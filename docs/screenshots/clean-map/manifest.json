@@ -1,0 +1,59 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "D0324736-57EA-45B2-AE5C-3137701E7146",
+        "deviceName" : "iPhone 17",
+        "exportedFileName" : "0FA9AB69-2797-463B-91A6-C1C0F5162EA5.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "clean-boundary-station_0_ACE89E54-DCFB-4ADE-93FE-E08A58B1EAC6.png",
+        "timestamp" : 1790578519.709
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "D0324736-57EA-45B2-AE5C-3137701E7146",
+        "deviceName" : "iPhone 17",
+        "exportedFileName" : "506260A8-B62F-43C4-8339-652EF9292648.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "uncertainty-detail_0_D73F9E02-E2A6-432C-96CF-808671764557.png",
+        "timestamp" : 1790578518.143
+      }
+    ],
+    "testIdentifier" : "UndergroundUITests/testCleanMapKeepsUncertaintyInDetailsAndDatesInAbout()",
+    "testIdentifierURL" : "test://com.apple.xcode/Underground/UndergroundUITests/UndergroundUITests/testCleanMapKeepsUncertaintyInDetailsAndDatesInAbout"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "D0324736-57EA-45B2-AE5C-3137701E7146",
+        "deviceName" : "iPhone 17",
+        "exportedFileName" : "D025B963-B6EB-4D1E-BDBE-39037AB22A67.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "legend-symbols_0_9104A373-BB4C-4207-BC95-1956166206C7.png",
+        "timestamp" : 1790578541.967
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "D0324736-57EA-45B2-AE5C-3137701E7146",
+        "deviceName" : "iPhone 17",
+        "exportedFileName" : "934A4177-D9E7-4DF1-A6B3-25E36F706A9A.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "legend-lines_0_B6FAB3B3-E288-4DE5-8710-5FDA5204DE86.png",
+        "timestamp" : 1790578536.967
+      },
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "D0324736-57EA-45B2-AE5C-3137701E7146",
+        "deviceName" : "iPhone 17",
+        "exportedFileName" : "8B7F6E22-851F-4AD8-8EF8-96C72C3825F0.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "surroundings-focus_0_6B49423B-6F79-41E1-9430-16475A0FA08A.png",
+        "timestamp" : 1790578531.885
+      }
+    ],
+    "testIdentifier" : "UndergroundUITests/testSurroundingsLegendsResetAndSearch()",
+    "testIdentifierURL" : "test://com.apple.xcode/Underground/UndergroundUITests/UndergroundUITests/testSurroundingsLegendsResetAndSearch"
+  }
+]

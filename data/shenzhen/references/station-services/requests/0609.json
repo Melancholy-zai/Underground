@@ -1,0 +1,16 @@
+{
+  "code": "0609",
+  "stationID": "s_b0f4af25300a",
+  "stationName": "红山",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0609"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0609",
+  "retrievedAt": "2026-09-28T16:11:11+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "3d8329c385973a798e8033c46e10d569f460d71416639ff745db79f25a17f2d9"
+}

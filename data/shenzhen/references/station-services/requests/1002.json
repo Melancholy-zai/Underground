@@ -1,0 +1,16 @@
+{
+  "code": "1002",
+  "stationID": "s_77a624f5c489",
+  "stationName": "福民",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1002"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1002",
+  "retrievedAt": "2026-09-28T16:13:12+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "21ea2f042325ddf331b04ee958450db7fa6d55de993c0d6d9910e27bb3ea29fe"
+}

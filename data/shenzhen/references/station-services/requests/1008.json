@@ -1,0 +1,16 @@
+{
+  "code": "1008",
+  "stationID": "s_935e2995007d",
+  "stationName": "雅宝",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1008"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1008",
+  "retrievedAt": "2026-09-28T16:13:19+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "063f1141d42c703a7b984e49d3b7e8bd61beb4e6472f527c39c352d4a71442bd"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0121",
+  "stationID": "liyumen",
+  "stationName": "鲤鱼门",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0121"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0121",
+  "retrievedAt": "2026-09-28T16:08:06+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "4d6bf7b181932eca091156451116e9e6d67e059677e668eca48657b5fa8a2e53"
+}

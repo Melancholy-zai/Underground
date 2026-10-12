@@ -1,0 +1,16 @@
+{
+  "code": "1117",
+  "stationID": "s_5123b8f26859",
+  "stationName": "塘尾",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1117"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1117",
+  "retrievedAt": "2026-09-28T16:14:00+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "08cba3a5b21a95b4483162787ca4bcab6f22f49ede6f1ea030254713457067f0"
+}

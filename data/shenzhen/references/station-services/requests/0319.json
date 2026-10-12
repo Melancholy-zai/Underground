@@ -1,0 +1,16 @@
+{
+  "code": "0319",
+  "stationID": "s_ccd20297b47f",
+  "stationName": "大芬",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0319"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0319",
+  "retrievedAt": "2026-09-28T16:19:05+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "cbc176f6c6187a0408fa15f128be19568cfc974f982e9b29d5eb67f485756b65"
+}

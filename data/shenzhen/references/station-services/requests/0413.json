@@ -1,0 +1,16 @@
+{
+  "code": "0413",
+  "stationID": "s_1ccfaca282be",
+  "stationName": "龙胜",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0413"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0413",
+  "retrievedAt": "2026-09-28T16:10:02+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "0050fa3a0e26ada5935fb5c0bc86b622291cc1a3046461b548c309866174f060"
+}

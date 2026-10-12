@@ -1,0 +1,16 @@
+{
+  "code": "1014",
+  "stationID": "s_82eaaba81d9d",
+  "stationName": "华为",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1014"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1014",
+  "retrievedAt": "2026-09-28T16:13:27+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1d7ba7916d6f0c852f1a85386d33f574db96d19d4325779064ed47d290311867"
+}

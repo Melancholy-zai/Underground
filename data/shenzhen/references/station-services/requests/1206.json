@@ -1,0 +1,16 @@
+{
+  "code": "1206",
+  "stationID": "s_df38d4ff4084",
+  "stationName": "南油",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1206"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1206",
+  "retrievedAt": "2026-09-28T16:14:13+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f8e150e0f95b3df351af8512ae798fd65dddc9b1da97fa94660d56c33d2a2f1f"
+}

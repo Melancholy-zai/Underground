@@ -1,0 +1,16 @@
+{
+  "code": "1105",
+  "stationID": "s_9e30abe46d4b",
+  "stationName": "福田",
+  "lineID": "l11",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1105"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1105",
+  "retrievedAt": "2026-09-28T16:13:45+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "4f919f3dde33c7c3ca669f5d6f0aad6606b2a6b902e0c521984ef4d5bb4dea8e"
+}

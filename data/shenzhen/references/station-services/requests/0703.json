@@ -1,0 +1,16 @@
+{
+  "code": "0703",
+  "stationID": "s_562f4edb8cd9",
+  "stationName": "西丽湖",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0703"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0703",
+  "retrievedAt": "2026-09-28T16:11:46+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f81ed1fde6ef698221794d727ff62b913e6dbffe33add1b3eb70b1a315572487"
+}

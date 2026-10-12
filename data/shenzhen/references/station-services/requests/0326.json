@@ -1,0 +1,16 @@
+{
+  "code": "0326",
+  "stationID": "s_b74aef610169",
+  "stationName": "大运",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0326"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0326",
+  "retrievedAt": "2026-09-28T16:09:31+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "eaf9fa0c422df4565c5ac289b906e50c180649fc5486b73c6958138f9350e537"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0911",
+  "stationID": "s_a816b847efad",
+  "stationName": "红树湾南",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0911"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0911",
+  "retrievedAt": "2026-09-28T16:12:44+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "d3901ce41f64b91add518d756a72a784fc0175cff326f71c873afd08f1c185b9"
+}

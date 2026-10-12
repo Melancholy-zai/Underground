@@ -1,0 +1,16 @@
+{
+  "code": "0311",
+  "stationID": "s_3d9826cfde4d",
+  "stationName": "老街",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0311"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0311",
+  "retrievedAt": "2026-09-28T16:09:13+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "656501a116677d67f0304ee2987709964b44bc2fe0f453f1cf25a9e84f1c9e0d"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0914",
+  "stationID": "s_69bc8dc2047b",
+  "stationName": "下沙",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0914"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0914",
+  "retrievedAt": "2026-09-28T16:12:47+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f660e4fe8f371831ef7c6c7a571216afbe2bd3eca7238f4e1e6a8ed8c1a3f546"
+}

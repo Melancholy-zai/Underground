@@ -1,0 +1,16 @@
+{
+  "code": "0606",
+  "stationID": "s_fc18c6df1666",
+  "stationName": "翰岭",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0606"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0606",
+  "retrievedAt": "2026-09-28T16:11:08+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "cc6d667138902e2a4314d9b83d1a53352366a37c9bed6d7b7a435b219569fc49"
+}

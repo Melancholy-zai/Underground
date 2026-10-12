@@ -1,0 +1,16 @@
+{
+  "code": "0211",
+  "stationID": "s_f533fa6bc5aa",
+  "stationName": "红树湾",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0211"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0211",
+  "retrievedAt": "2026-09-28T16:08:31+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "81f9333cf2f3ca3d7637d8292ad721b0412a8c0299263a47bf7a3408976fc73c"
+}

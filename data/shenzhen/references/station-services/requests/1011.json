@@ -1,0 +1,16 @@
+{
+  "code": "1011",
+  "stationID": "s_5bc156e01945",
+  "stationName": "五和",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1011"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1011",
+  "retrievedAt": "2026-09-28T16:13:23+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "9151c04658010248e46faa2373e21b9e31a089e7622d800c917c4ab9c21846df"
+}

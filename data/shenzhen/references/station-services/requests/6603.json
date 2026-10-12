@@ -1,0 +1,16 @@
+{
+  "code": "6603",
+  "stationID": "s_cb84fa2bf3e7",
+  "stationName": "碧眼",
+  "lineID": "l6b",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "6603"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?6603",
+  "retrievedAt": "2026-09-28T16:11:37+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "fbe6f196e8115159315e054e45c69ad0d2d6973f06d65eab765de00c6becef43"
+}

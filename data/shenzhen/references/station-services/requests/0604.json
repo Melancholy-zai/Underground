@@ -1,0 +1,16 @@
+{
+  "code": "0604",
+  "stationID": "s_1540acef9aef",
+  "stationName": "八卦岭",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0604"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0604",
+  "retrievedAt": "2026-09-28T16:11:05+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "3befb61089b0ca520f2d76dc01bc8dea406f73dcac0cf881a1b8d9c902ffc1cd"
+}

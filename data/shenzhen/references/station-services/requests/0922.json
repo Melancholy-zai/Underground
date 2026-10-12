@@ -1,0 +1,16 @@
+{
+  "code": "0922",
+  "stationID": "s_c0a0564ddb47",
+  "stationName": "孖岭",
+  "lineID": "l9",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0922"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0922",
+  "retrievedAt": "2026-09-28T16:12:57+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "50d2666130bd531eb266aa1929d8e8d4c1267e7b2a9362861d0c3ad94e2b6292"
+}

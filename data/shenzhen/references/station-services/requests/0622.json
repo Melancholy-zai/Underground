@@ -1,0 +1,16 @@
+{
+  "code": "0622",
+  "stationID": "s_f14f2b8d8e7f",
+  "stationName": "公明广场",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0622"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0622",
+  "retrievedAt": "2026-09-28T16:11:27+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "d2711e65ce10afff5a50c4f6ee121193370391cf3b054cb4f433c04b8acb20ed"
+}

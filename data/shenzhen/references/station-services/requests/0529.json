@@ -1,0 +1,16 @@
+{
+  "code": "0529",
+  "stationID": "s_0951bf83bd2a",
+  "stationName": "布吉",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0529"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0529",
+  "retrievedAt": "2026-09-28T16:10:50+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1b39f5f5cdd454b4c4643b630a25ad6a9e85e894c706385a41e07b9ed241a1dc"
+}

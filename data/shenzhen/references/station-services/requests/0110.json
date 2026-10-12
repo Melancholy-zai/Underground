@@ -1,0 +1,16 @@
+{
+  "code": "0110",
+  "stationID": "s_ec350957cc65",
+  "stationName": "香蜜湖",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0110"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0110",
+  "retrievedAt": "2026-09-28T16:18:50+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "b891c5b9f246e68eb598d1c28cb8ee616e35ef689e4e70319521a40cd0966092"
+}

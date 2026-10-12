@@ -1,0 +1,16 @@
+{
+  "code": "1012",
+  "stationID": "s_7ad1ed6f989a",
+  "stationName": "坂田北",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1012"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1012",
+  "retrievedAt": "2026-09-28T16:19:41+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "14b8a620a9fd289eb9f4a56734370091c7a293722635e69321ffe1f684137da5"
+}

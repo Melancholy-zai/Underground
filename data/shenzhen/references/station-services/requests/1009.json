@@ -1,0 +1,16 @@
+{
+  "code": "1009",
+  "stationID": "s_f4b177c62046",
+  "stationName": "南坑",
+  "lineID": "l10",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1009"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1009",
+  "retrievedAt": "2026-09-28T16:13:20+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "3c706b6e2f7e34541c1c6f5b9e722df1836488a6d97f7113dedb315a4eaa8833"
+}

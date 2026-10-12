@@ -1,0 +1,16 @@
+{
+  "code": "0419",
+  "stationID": "s_f4912df9a015",
+  "stationName": "长湖",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0419"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0419",
+  "retrievedAt": "2026-09-28T16:10:09+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "44de0a95fe4aa49dc1cfbccd4ccb3d1565ef94e04717f30793abb02ee06ecc7a"
+}

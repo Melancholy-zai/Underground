@@ -1,0 +1,16 @@
+{
+  "code": "0711",
+  "stationID": "s_2997a1763a98",
+  "stationName": "农林",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0711"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0711",
+  "retrievedAt": "2026-09-28T16:11:55+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "5861b2d479d854d0c3263aab43b5192b34616f2f07e197f41ea2c1ff838ed21e"
+}

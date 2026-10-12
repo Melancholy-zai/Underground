@@ -1,0 +1,16 @@
+{
+  "code": "0505",
+  "stationID": "s_610315170aed",
+  "stationName": "前湾公园",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0505"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0505",
+  "retrievedAt": "2026-09-28T16:10:21+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "2a4abcad74a1268ab201876e8e8784b1fd4cf903bdc1d5686718a6141885e111"
+}

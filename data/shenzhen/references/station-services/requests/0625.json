@@ -1,0 +1,16 @@
+{
+  "code": "0625",
+  "stationID": "s_1cb41bedfc46",
+  "stationName": "松岗公园",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0625"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0625",
+  "retrievedAt": "2026-09-28T16:11:31+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "2f448dd966cbfddb0f7263460e740c52dd58d529895906c0752698817f3c9804"
+}

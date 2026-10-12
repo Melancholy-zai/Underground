@@ -1,0 +1,16 @@
+{
+  "code": "0214",
+  "stationID": "s_014db5ac30b7",
+  "stationName": "深康",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0214"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0214",
+  "retrievedAt": "2026-09-28T16:18:57+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "f5ce4754b4d0352b3f760c0a581c8bd357f149aa25a423a1ea658a59f6d5a98a"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0718",
+  "stationID": "s_841a102c85c0",
+  "stationName": "皇岗口岸",
+  "lineID": "l7",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0718"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0718",
+  "retrievedAt": "2026-09-28T16:21:50+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "b5571e459f0d4b3b3797c6e39c3957ad5e41a908bca8769fe6c62561e3569093"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0515",
+  "stationID": "s_5d1c8ac10fa8",
+  "stationName": "兴东",
+  "lineID": "l5",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0515"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0515",
+  "retrievedAt": "2026-09-28T16:10:33+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "b39c3b0e706abeab9f7438946090898d8007311349f2b877f88a978b416e656c"
+}

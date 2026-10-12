@@ -1,0 +1,16 @@
+{
+  "code": "1201",
+  "stationID": "s_4169b7d7e4ef",
+  "stationName": "左炮台东",
+  "lineID": "l12",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1201"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1201",
+  "retrievedAt": "2026-09-28T16:14:07+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "aa04f98c9517aa98eff9cc4de6db560f0f403e526be050af83cfc2f04149f759"
+}

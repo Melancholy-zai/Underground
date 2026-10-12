@@ -1,0 +1,16 @@
+{
+  "code": "0416",
+  "stationID": "s_cabf4cc55fb2",
+  "stationName": "清湖北",
+  "lineID": "l4",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0416"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0416",
+  "retrievedAt": "2026-09-28T16:10:05+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "17cb7fc9e3f7073260629e5c2e47ed91afdb0a625d09d2967c2e41bac9dcbd76"
+}

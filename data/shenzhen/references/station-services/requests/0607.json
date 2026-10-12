@@ -1,0 +1,16 @@
+{
+  "code": "0607",
+  "stationID": "s_94c11eb8d19c",
+  "stationName": "梅林关",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0607"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0607",
+  "retrievedAt": "2026-09-28T16:11:09+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "14bdfefb4b3b8e382f161b2cc8f783917db4e46663fc301b7117bd464124f03f"
+}

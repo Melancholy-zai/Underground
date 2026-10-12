@@ -1,0 +1,16 @@
+{
+  "code": "0202",
+  "stationID": "s_226baca6f9fb",
+  "stationName": "蛇口港",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0202"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0202",
+  "retrievedAt": "2026-09-28T16:08:20+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "961d3008d9f75f9053372da1df7f5fb1c046602dbb13666674cc0523b052131a"
+}

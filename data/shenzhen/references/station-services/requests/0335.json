@@ -1,0 +1,16 @@
+{
+  "code": "0335",
+  "stationID": "s_c981ddde9e63",
+  "stationName": "低碳城",
+  "lineID": "l3",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0335"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0335",
+  "retrievedAt": "2026-09-28T16:09:42+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "8dd005cca5e339a9ebaee0960db21c6972c17fc7af8945f658bc58ec74ca7a19"
+}

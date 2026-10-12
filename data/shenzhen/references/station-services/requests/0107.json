@@ -1,0 +1,16 @@
+{
+  "code": "0107",
+  "stationID": "s_27bae2d3c1b5",
+  "stationName": "岗厦",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0107"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0107",
+  "retrievedAt": "2026-09-28T16:07:49+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "434ac173651b36f8bd996ca80f2032d028cc1281d5915e43cdf4b29addbb0970"
+}

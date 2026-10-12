@@ -1,0 +1,549 @@
+Application, 0x115165cc0, pid: 50592, label: '深铁分区图' <App element pid: 50592>
+  Window (Main), 0x115165e00, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 50592, elementOrHash.elementID: 4368517120.4>
+    Other, 0x115165f40, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 50592, elementOrHash.elementID: 4425879040.5>
+      Other, 0x115166080, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 50592, elementOrHash.elementID: 4425530368.6>
+        Other, 0x1151661c0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 50592, elementOrHash.elementID: 4368516096.7>
+          Other, 0x115166300, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 50592, elementOrHash.elementID: 4425239616.8>
+            Other, 0x115166440, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 50592, elementOrHash.elementID: 4425865344.9>
+              Other, 0x115166580, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 50592, elementOrHash.elementID: 4425882112.10>
+                Other, 0x1151666c0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 50592, elementOrHash.elementID: 4370060992.12>
+                  Other, 0x115166800, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 50592, elementOrHash.elementID: 4368521216.15>
+                    Other, 0x115166940, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 50592, elementOrHash.elementID: 4425258688.18>
+                      Other, 0x115166a80, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 50592, elementOrHash.elementID: 4425258240.21>
+                        StaticText, 0x115166bc0, {{20.0, 75.3}, {180.0, 12.0}}, label: 'SHENZHEN / METRO ATLAS' <AX element pid: 50592, elementOrHash.elementID: 4425240512.27>
+                        StaticText, 0x115166d00, {{20.0, 90.3}, {167.7, 26.3}}, label: '深圳，分区看地铁' <AX element pid: 50592, elementOrHash.elementID: 4425241408.28>
+                        Button, 0x115166e40, {{338.0, 74.0}, {44.0, 44.0}}, identifier: 'lineList', label: '线路列表' <AX element pid: 50592, elementOrHash.elementID: 4425241856.29>
+                        Image, 0x115166f80, {{35.0, 145.7}, {16.3, 16.7}}, identifier: 'magnifyingglass', label: '搜索' <AX element pid: 50592, elementOrHash.elementID: 4425242304.30>
+                        TextField, 0x1151670c0, {{63.3, 143.0}, {305.7, 22.0}}, identifier: 'mapSearch', placeholderValue: '搜索地铁站 · 支持拼音' <AX element pid: 50592, elementOrHash.elementID: 4432763136.31>
+                        Image, 0x115167200, {{33.0, 200.0}, {12.0, 12.0}}, identifier: 'info.circle', label: '简介' <AX element pid: 50592, elementOrHash.elementID: 4425243648.32>
+                        StaticText, 0x115167340, {{33.0, 199.0}, {248.3, 14.3}}, label: '区界为示意 · 部分区属、出口与时刻待核实' <AX element pid: 50592, elementOrHash.elementID: 4425244096.33>
+                        Button, 0x115167480, {{20.0, 234.3}, {111.0, 32.0}}, identifier: 'showSurroundings', label: '周边方位' <AX element pid: 50592, elementOrHash.elementID: 4425245440.34>
+                          Image, 0x1151675c0, {{34.0, 243.0}, {15.3, 14.7}}, identifier: 'map', label: '显示地图' <AX element pid: 50592, elementOrHash.elementID: 4425244544.50>
+                          StaticText, 0x115167700, {{20.0, 234.3}, {111.0, 32.0}}, label: '周边方位' <AX element pid: 50592, elementOrHash.elementID: 4425244992.51>
+                        Button, 0x115167840, {{143.0, 234.3}, {109.3, 32.0}}, identifier: 'mapLegend', label: '地图图例' <AX element pid: 50592, elementOrHash.elementID: 4425247232.35>
+                          Button, 0x115167980, {{143.0, 234.3}, {109.3, 32.0}} <AX element pid: 50592, elementOrHash.elementID: 4370114176.52>
+                            Image, 0x115167ac0, {{156.3, 243.0}, {15.0, 15.0}}, identifier: 'info.circle', label: '简介' <AX element pid: 50592, elementOrHash.elementID: 4425245888.62>
+                            StaticText, 0x115167c00, {{143.0, 234.3}, {109.3, 32.0}}, label: '地图图例' <AX element pid: 50592, elementOrHash.elementID: 4425246336.63>
+                        WebView, 0x115167d40, {{0.0, 280.3}, {402.0, 407.3}}, identifier: 'metroMap' <AX element pid: 50592, elementOrHash.elementID: 4359168304.36>
+                          WebView, 0x115167e80, {{0.0, 280.3}, {402.0, 407.3}} <AX element pid: 50592, elementOrHash.elementID: 4429070336.53>
+                            WebView, 0x115106080, {{0.0, 280.3}, {402.0, 407.3}} <AX element pid: 50592, elementOrHash.elementID: 4369049600.64>
+                              Other, 0x115107d40, {{0.0, 0.0}, {402.0, 408.0}} <AX element pid: 50592, elementOrHash.elementID: 13433600227284495563.9999>
+                                Other, 0x115106800, {{0.0, 0.0}, {402.0, 408.0}} <AX element pid: 50597, elementOrHash.elementID: 4319995984.3>
+                                  Other, 0x1151066c0, {{0.0, 280.0}, {402.0, 408.0}} <AX element pid: 50597, elementOrHash.elementID: 4380106272.4>
+                                    Other, 0x115104b40, {{0.0, 280.0}, {402.0, 408.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380104672.5>
+                                      Other, 0x115106a80, {{0.0, 280.0}, {402.0, 408.0}}, label: '深圳地铁示意图', Focused <AX element pid: 50597, elementOrHash.elementID: 4380106656.6>
+                                        Image, 0x115104c80, {{0.0, -1930.0}, {5864.0, 3771.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380106880.7>
+                                        Other, 0x115106d00, {{0.0, -1549.0}, {1201.0, 1946.0}}, label: '按站点位置适配的示意区界，不代表测绘边界。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107328.8>
+                                        Other, 0x115106bc0, {{400.0, -1549.0}, {849.0, 858.0}}, label: '按站点位置适配的示意区界，不代表测绘边界。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107360.9>
+                                        Other, 0x115106e40, {{861.0, -1549.0}, {899.0, 1611.0}}, label: '按站点位置适配的示意区界，不代表测绘边界。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107392.10>
+                                        Other, 0x115105b80, {{0.0, -343.0}, {1326.0, 1720.0}}, label: '按站点位置适配的示意区界，不代表测绘边界。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107424.11>
+                                        Other, 0x115107c00, {{693.0, 8.0}, {1159.0, 1369.0}}, label: '按站点位置适配的示意区界，不代表测绘边界。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107488.12>
+                                        Other, 0x1151070c0, {{1615.0, -75.0}, {1058.0, 1142.0}}, label: '按站点位置适配的示意区界，不代表测绘边界。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107520.13>
+                                        Other, 0x115106f80, {{1388.0, -1549.0}, {2047.0, 1745.0}}, label: '按站点位置适配的示意区界，不代表测绘边界。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107552.14>
+                                        Other, 0x115107200, {{2703.0, -896.0}, {732.0, 1000.0}}, label: '按站点位置适配的示意区界，不代表测绘边界。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107584.15>
+                                        Other, 0x115107480, {{2586.0, 50.0}, {701.0, 975.0}}, label: '按站点位置适配的示意区界，不代表测绘边界。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107616.16>
+                                        Other, 0x115107340, {{2921.0, 50.0}, {514.0, 975.0}}, label: '按站点位置适配的示意区界，不代表测绘边界。大鹏新区为功能区，单独标示管理范围，不作法定行政区代码。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107648.17>
+                                        Image, 0x115107700, {{0.0, -1930.0}, {11.0, 12.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380107744.18>
+                                        Image, 0x1151075c0, {{0.0, -1930.0}, {13.0, 13.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380107776.19>
+                                        Other, 0x115107840, {{873.0, 571.0}, {72.0, 77.0}}, label: '侨城东：位于南山、福田交界附近；站体与各出入口的区属尚待逐项核实。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107808.20>
+                                        Other, 0x115107980, {{1623.0, 75.0}, {71.0, 76.0}}, label: '银湖：位于罗湖、福田交界附近；站体与出入口区属尚待逐项核实。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107840.21>
+                                        Other, 0x115107ac0, {{1490.0, 6.0}, {71.0, 76.0}}, label: '翰岭：运营方站点介绍写龙华区，规划部门按福田管理局发布许可；资料存在冲突，区属待核实。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107872.22>
+                                        Other, 0x115104dc0, {{1787.0, 144.0}, {72.0, 77.0}}, label: '红岭北：位于红岭北路区界附近；福田、罗湖两侧出入口归属尚待逐项核实。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107904.23>
+                                        Other, 0x115105900, {{916.0, 802.0}, {72.0, 77.0}}, label: '深圳湾公园：位于南山、福田交界附近；站体与各出入口的区属尚待逐项核实。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107936.24>
+                                        Other, 0x115105f40, {{1787.0, 231.0}, {72.0, 76.0}}, label: '园岭：位于红岭路区界附近；福田、罗湖两侧出入口归属尚待逐项核实。', Focused <AX element pid: 50597, elementOrHash.elementID: 4380107968.25>
+                                        Image, 0x115106580, {{89.0, -530.0}, {1979.0, 1408.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108384.26>
+                                        Image, 0x115106440, {{137.0, -482.0}, {1882.0, 1312.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108416.27>
+                                        Image, 0x115106300, {{1988.0, 851.0}, {51.0, 52.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108448.28>
+                                        Other, 0x115105680, {{0.0, -1930.0}, {14.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108480.29>
+                                          StaticText, 0x115107e80, {{2006.0, 859.0}, {14.0, 35.0}}, label: '1', value: 1, Focused <AX element pid: 50597, elementOrHash.elementID: 5923841728.445>
+                                        Image, 0x1151061c0, {{80.0, 303.0}, {2451.0, 929.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108544.30>
+                                        Image, 0x115106940, {{128.0, 351.0}, {2355.0, 832.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108576.31>
+                                        Image, 0x115105e00, {{0.0, 1151.0}, {51.0, 52.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108608.32>
+                                        Other, 0x115105cc0, {{0.0, -1930.0}, {17.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108672.33>
+                                          StaticText, 0x115105a40, {{0.0, 1160.0}, {17.0, 34.0}}, label: '2', value: 2, Focused <AX element pid: 50597, elementOrHash.elementID: 5923842464.446>
+                                        Image, 0x1151057c0, {{2423.0, 164.0}, {960.0, 387.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108736.34>
+                                        Image, 0x115105540, {{2471.0, 213.0}, {864.0, 290.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108768.35>
+                                        Image, 0x115105400, {{3303.0, 108.0}, {52.0, 52.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108800.36>
+                                        Other, 0x1151052c0, {{0.0, -1930.0}, {18.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108832.37>
+                                          StaticText, 0x115105180, {{3320.0, 116.0}, {18.0, 35.0}}, label: '8', value: 8, Focused <AX element pid: 50597, elementOrHash.elementID: 5923843200.447>
+                                        Image, 0x115105040, {{1128.0, -1074.0}, {1901.0, 2040.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108896.38>
+                                        Image, 0x115104f00, {{1177.0, -1026.0}, {1804.0, 1944.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108928.39>
+                                        Image, 0x115104a00, {{1154.0, 971.0}, {52.0, 52.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108960.40>
+                                        Other, 0x1151048c0, {{0.0, -1930.0}, {18.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380108992.41>
+                                          StaticText, 0x115048000, {{1171.0, 980.0}, {18.0, 34.0}}, label: '3', value: 3, Focused <AX element pid: 50597, elementOrHash.elementID: 5923843936.448>
+                                        Image, 0x1150483c0, {{970.0, -909.0}, {751.0, 1841.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109056.42>
+                                        Image, 0x115048140, {{1019.0, -861.0}, {654.0, 1744.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109088.43>
+                                        Image, 0x115048280, {{1701.0, -880.0}, {52.0, 52.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109120.44>
+                                        Other, 0x115048500, {{0.0, -1930.0}, {18.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109152.45>
+                                          StaticText, 0x115048640, {{1718.0, -872.0}, {18.0, 35.0}}, label: '4', value: 4, Focused <AX element pid: 50597, elementOrHash.elementID: 5923844672.449>
+                                        Image, 0x115048a00, {{0.0, -286.0}, {2220.0, 1486.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109216.46>
+                                        Image, 0x115048780, {{34.0, -237.0}, {2124.0, 1389.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109248.47>
+                                        Image, 0x1150488c0, {{1898.0, 551.0}, {51.0, 52.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109280.48>
+                                        Other, 0x115048b40, {{0.0, -1930.0}, {18.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109312.49>
+                                          StaticText, 0x115048c80, {{1914.0, 559.0}, {18.0, 35.0}}, label: '5', value: 5, Focused <AX element pid: 50597, elementOrHash.elementID: 5923845408.450>
+                                        Image, 0x115049040, {{118.0, -1359.0}, {1647.0, 2025.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109376.50>
+                                        Image, 0x115048dc0, {{166.0, -1311.0}, {1550.0, 1929.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109408.51>
+                                        Image, 0x115048f00, {{1727.0, 541.0}, {51.0, 53.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109440.52>
+                                        Other, 0x115049180, {{0.0, -1930.0}, {19.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109472.53>
+                                          StaticText, 0x1150492c0, {{1743.0, 550.0}, {19.0, 34.0}}, label: '6', value: 6, Focused <AX element pid: 50597, elementOrHash.elementID: 5923846144.451>
+                                        Image, 0x115049680, {{880.0, -1568.0}, {335.0, 760.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109536.54>
+                                        Image, 0x115049400, {{928.0, -1520.0}, {239.0, 663.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109568.55>
+                                        Image, 0x115049540, {{1251.0, -1538.0}, {52.0, 52.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109600.56>
+                                        Other, 0x1150497c0, {{0.0, -1930.0}, {45.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109632.57>
+                                          StaticText, 0x115049900, {{1255.0, -1530.0}, {44.0, 35.0}}, label: '6支', value: 6支, Focused <AX element pid: 50597, elementOrHash.elementID: 5923846880.452>
+                                        Image, 0x115049cc0, {{644.0, -182.0}, {1562.0, 1010.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109696.58>
+                                        Image, 0x115049a40, {{692.0, -134.0}, {1466.0, 914.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109728.59>
+                                        Image, 0x115049b80, {{2225.0, 158.0}, {52.0, 53.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109792.60>
+                                        Other, 0x115049e00, {{0.0, -1930.0}, {16.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109824.61>
+                                          StaticText, 0x115049f40, {{2243.0, 167.0}, {16.0, 34.0}}, label: '7', value: 7, Focused <AX element pid: 50597, elementOrHash.elementID: 5923847616.453>
+                                        Image, 0x11504a300, {{61.0, 61.0}, {2138.0, 947.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109888.62>
+                                        Image, 0x11504a080, {{109.0, 109.0}, {2042.0, 851.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109920.63>
+                                        Image, 0x11504a1c0, {{2182.0, 747.0}, {51.0, 52.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109952.64>
+                                        Other, 0x11504a440, {{0.0, -1930.0}, {19.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380109984.65>
+                                          StaticText, 0x11504a580, {{2198.0, 756.0}, {18.0, 34.0}}, label: '9', value: 9, Focused <AX element pid: 50597, elementOrHash.elementID: 5923848384.454>
+                                        Image, 0x11504a800, {{1357.0, -701.0}, {647.0, 1633.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110048.66>
+                                        Image, 0x11504a6c0, {{1405.0, -653.0}, {551.0, 1536.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110080.67>
+                                        Image, 0x11504a940, {{1909.0, -585.0}, {51.0, 52.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110112.68>
+                                        Other, 0x11504aa80, {{0.0, -1930.0}, {31.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110144.69>
+                                          StaticText, 0x11504abc0, {{1919.0, -576.0}, {31.0, 34.0}}, label: '10', value: 10, Focused <AX element pid: 50597, elementOrHash.elementID: 5923849120.455>
+                                        Image, 0x11504ae40, {{0.0, -1483.0}, {1845.0, 2403.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110208.70>
+                                        Image, 0x11504ad00, {{34.0, -1435.0}, {1748.0, 2307.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110240.71>
+                                        Image, 0x11504af80, {{1745.0, 726.0}, {52.0, 52.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110272.72>
+                                        Other, 0x11504b0c0, {{0.0, -1930.0}, {27.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110304.73>
+                                          StaticText, 0x11504b200, {{1758.0, 735.0}, {26.0, 34.0}}, label: '11', value: 11, Focused <AX element pid: 50597, elementOrHash.elementID: 5923849856.456>
+                                        Image, 0x11504b480, {{0.0, -1359.0}, {501.0, 2719.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110368.74>
+                                        Image, 0x11504b340, {{0.0, -1311.0}, {404.0, 2623.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110400.75>
+                                        Image, 0x11504b5c0, {{5.0, 1278.0}, {51.0, 52.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110432.76>
+                                        Other, 0x11504b700, {{0.0, -1930.0}, {30.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110464.77>
+                                          StaticText, 0x11504b840, {{15.0, 1287.0}, {30.0, 34.0}}, label: '12', value: 12, Focused <AX element pid: 50597, elementOrHash.elementID: 5923850592.457>
+                                        Image, 0x11504bac0, {{505.0, -1568.0}, {500.0, 2626.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110528.78>
+                                        Image, 0x11504b980, {{553.0, -1520.0}, {404.0, 2530.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110560.79>
+                                        Image, 0x11504bc00, {{746.0, -1538.0}, {51.0, 52.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110592.80>
+                                        Other, 0x11504bd40, {{0.0, -1930.0}, {31.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110624.81>
+                                          StaticText, 0x115169900, {{756.0, -1530.0}, {31.0, 35.0}}, label: '13', value: 13, Focused <AX element pid: 50597, elementOrHash.elementID: 5923851328.458>
+                                        Image, 0x1151697c0, {{1405.0, -840.0}, {1840.0, 1365.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110688.82>
+                                        Image, 0x115169680, {{1454.0, -791.0}, {1743.0, 1268.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110720.83>
+                                        Image, 0x11516be80, {{3262.0, -811.0}, {51.0, 52.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110752.84>
+                                        Other, 0x11516bc00, {{0.0, -1930.0}, {31.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110784.85>
+                                          StaticText, 0x11516bd40, {{3272.0, -803.0}, {31.0, 35.0}}, label: '14', value: 14, Focused <AX element pid: 50597, elementOrHash.elementID: 5923852064.459>
+                                        Image, 0x11516bac0, {{2202.0, -770.0}, {1181.0, 884.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110848.86>
+                                        Image, 0x11516b980, {{2250.0, -722.0}, {1085.0, 788.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110880.87>
+                                        Image, 0x11516b840, {{2632.0, 84.0}, {51.0, 53.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110912.88>
+                                        Other, 0x11516b5c0, {{0.0, -1930.0}, {31.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380110944.89>
+                                          StaticText, 0x11516b700, {{2642.0, 93.0}, {31.0, 34.0}}, label: '16', value: 16, Focused <AX element pid: 50597, elementOrHash.elementID: 5923852800.460>
+                                        Image, 0x11516b480, {{0.0, -1049.0}, {212.0, 631.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380111008.90>
+                                        Image, 0x11516b340, {{0.0, -1001.0}, {116.0, 535.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380111040.91>
+                                        Image, 0x11516b200, {{0.0, -1088.0}, {51.0, 52.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380111072.92>
+                                        Other, 0x11516b0c0, {{0.0, -1930.0}, {35.0, 35.0}}, Focused <AX element pid: 50597, elementOrHash.elementID: 4380111104.93>
+                                          StaticText, 0x115168000, {{0.0, -1080.0}, {35.0, 35.0}}, label: '20', value: 20, Focused <AX element pid: 50597, elementOrHash.elementID: 5923853536.461>
+                                        Button, 0x115168140, {{1995.0, 798.0}, {79.0, 43.0}}, label: '罗湖站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111136.94>
+                                        Button, 0x115168280, {{1995.0, 616.0}, {78.0, 44.0}}, label: '国贸站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111168.95>
+                                        Button, 0x1151683c0, {{1917.0, 305.0}, {52.0, 90.0}}, label: '老街站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111200.96>
+                                        Button, 0x115168500, {{1856.0, 440.0}, {102.0, 96.0}}, label: '大剧院站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111232.97>
+                                        Button, 0x115168640, {{1669.0, 592.0}, {74.0, 62.0}}, label: '科学馆站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111264.98>
+                                        Button, 0x115168780, {{1611.0, 559.0}, {73.0, 72.0}}, label: '华强路站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111296.99>
+                                        Button, 0x1151688c0, {{1397.0, 592.0}, {81.0, 59.0}}, label: '岗厦站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111328.100>
+                                        Button, 0x115168a00, {{1302.0, 546.0}, {123.0, 85.0}}, label: '会展中心站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111360.101>
+                                        Button, 0x115168b40, {{1164.0, 592.0}, {123.0, 62.0}}, label: '购物公园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111392.102>
+                                        Button, 0x115168c80, {{1099.0, 561.0}, {74.0, 70.0}}, label: '香蜜湖站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098752.103>
+                                        Button, 0x115168dc0, {{1007.0, 592.0}, {139.0, 59.0}}, label: '车公庙站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111456.104>
+                                        Button, 0x115168f00, {{935.0, 559.0}, {74.0, 72.0}}, label: '竹子林站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111488.105>
+                                        Button, 0x115169040, {{869.0, 592.0}, {129.0, 75.0}}, label: '侨城东站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111520.106>
+                                        Button, 0x115169180, {{801.0, 560.0}, {74.0, 71.0}}, label: '华侨城站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111552.107>
+                                        Button, 0x1151692c0, {{713.0, 592.0}, {122.0, 60.0}}, label: '世界之窗站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111584.108>
+                                        Button, 0x115169400, {{637.0, 592.0}, {74.0, 62.0}}, label: '白石洲站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111616.109>
+                                        Button, 0x115169540, {{577.0, 559.0}, {74.0, 72.0}}, label: '高新园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111648.110>
+                                        Button, 0x11517de00, {{498.0, 592.0}, {80.0, 58.0}}, label: '深大站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111680.111>
+                                        Button, 0x11517dcc0, {{333.0, 592.0}, {76.0, 58.0}}, label: '桃园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111712.112>
+                                        Button, 0x11517db80, {{266.0, 559.0}, {52.0, 72.0}}, label: '大新站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111744.113>
+                                        Button, 0x11517da40, {{206.0, 513.0}, {101.0, 45.0}}, label: '鲤鱼门站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111776.114>
+                                        Button, 0x11517d900, {{91.0, 462.0}, {150.0, 41.0}}, label: '前海湾站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111808.115>
+                                        Button, 0x11517d7c0, {{206.0, 279.0}, {79.0, 43.0}}, label: '新安站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111840.116>
+                                        Button, 0x11517d680, {{78.0, 186.0}, {146.0, 46.0}}, label: '宝安中心站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111872.117>
+                                        Button, 0x11517d540, {{126.0, 96.0}, {81.0, 45.0}}, label: '宝体站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111904.118>
+                                        Button, 0x11517d400, {{124.0, -15.0}, {74.0, 45.0}}, label: '坪洲站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111936.119>
+                                        Button, 0x11517d2c0, {{124.0, -125.0}, {82.0, 44.0}}, label: '西乡站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380111968.120>
+                                        Button, 0x11517d180, {{124.0, -234.0}, {70.0, 42.0}}, label: '固戍站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112000.121>
+                                        Button, 0x11517d040, {{124.0, -345.0}, {83.0, 42.0}}, label: '后瑞站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112032.122>
+                                        Button, 0x11517cf00, {{130.0, -495.0}, {128.0, 42.0}}, label: '机场东站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112064.123>
+                                        Button, 0x11517cdc0, {{93.0, 1113.0}, {57.0, 74.0}}, label: '赤湾站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112096.124>
+                                        Button, 0x11517cc80, {{183.0, 1123.0}, {77.0, 73.0}}, label: '蛇口港站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112128.125>
+                                        Button, 0x11517cb40, {{281.0, 1158.0}, {105.0, 61.0}}, label: '海上世界站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112160.126>
+                                        Button, 0x11517ca00, {{381.0, 1123.0}, {52.0, 73.0}}, label: '水湾站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112192.127>
+                                        Button, 0x11517c8c0, {{443.0, 1169.0}, {74.0, 74.0}}, label: '东角头站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112224.128>
+                                        Button, 0x11517c780, {{472.0, 1086.0}, {83.0, 43.0}}, label: '湾厦站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112256.129>
+                                        Button, 0x11517c640, {{474.0, 1014.0}, {81.0, 44.0}}, label: '海月站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112288.130>
+                                        Button, 0x11517c500, {{472.0, 946.0}, {83.0, 45.0}}, label: '登良站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112320.131>
+                                        Button, 0x11517c3c0, {{523.0, 816.0}, {94.0, 69.0}}, label: '后海站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112352.132>
+                                        Button, 0x11517c280, {{496.0, 742.0}, {82.0, 71.0}}, label: '科苑站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112384.133>
+                                        Button, 0x11517c140, {{713.0, 679.0}, {102.0, 44.0}}, label: '红树湾站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112416.134>
+                                        Button, 0x11517c000, {{713.0, 498.0}, {98.0, 44.0}}, label: '侨城北站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112448.135>
+                                        Button, 0x11517ef80, {{670.0, 416.0}, {81.0, 44.0}}, label: '深康站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112480.136>
+                                        Button, 0x115038000, {{682.0, 307.0}, {104.0, 70.0}}, label: '安托山站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112512.137>
+                                        Button, 0x115038140, {{805.0, 305.0}, {52.0, 72.0}}, label: '侨香站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112544.138>
+                                        Button, 0x115038280, {{877.0, 305.0}, {51.0, 72.0}}, label: '香蜜站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112576.139>
+                                        Button, 0x1150383c0, {{935.0, 305.0}, {74.0, 72.0}}, label: '香梅北站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112608.140>
+                                        Button, 0x115038500, {{1025.0, 306.0}, {77.0, 71.0}}, label: '景田站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112640.141>
+                                        Button, 0x115038640, {{1070.0, 404.0}, {98.0, 42.0}}, label: '莲花西站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112672.142>
+                                        Button, 0x115038780, {{1164.0, 482.0}, {78.0, 76.0}}, label: '福田站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112704.143>
+                                        Button, 0x1150388c0, {{1214.0, 445.0}, {126.0, 71.0}}, label: '市民中心站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112736.144>
+                                        Button, 0x115038a00, {{1373.0, 443.0}, {105.0, 92.0}}, label: '岗厦北站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112768.145>
+                                        Button, 0x115038b40, {{1525.0, 446.0}, {92.0, 70.0}}, label: '华强北站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112800.146>
+                                        Button, 0x115038c80, {{1627.0, 446.0}, {52.0, 70.0}}, label: '燕南站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112832.147>
+                                        Button, 0x115038dc0, {{2033.0, 403.0}, {74.0, 106.0}}, label: '湖贝站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112864.148>
+                                        Button, 0x115038f00, {{2081.0, 440.0}, {74.0, 98.0}}, label: '黄贝岭站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112896.149>
+                                        Button, 0x115039040, {{2181.0, 477.0}, {52.0, 61.0}}, label: '新秀站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112928.150>
+                                        Button, 0x115039180, {{2246.0, 444.0}, {96.0, 72.0}}, label: '莲塘口岸站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112960.151>
+                                        Button, 0x1150392c0, {{2347.0, 477.0}, {74.0, 61.0}}, label: '仙湖路站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380112992.152>
+                                        Button, 0x115039400, {{2449.0, 444.0}, {52.0, 72.0}}, label: '莲塘站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113024.153>
+                                        Button, 0x115039540, {{2517.0, 477.0}, {96.0, 61.0}}, label: '梧桐山南站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113056.154>
+                                        Button, 0x115039680, {{2640.0, 443.0}, {97.0, 44.0}}, label: '沙头角站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113088.155>
+                                        Button, 0x1150397c0, {{2693.0, 391.0}, {78.0, 43.0}}, label: '海山站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113120.156>
+                                        Button, 0x115039900, {{2745.0, 338.0}, {125.0, 45.0}}, label: '盐田港西站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113152.157>
+                                        Button, 0x115039a40, {{2798.0, 285.0}, {123.0, 44.0}}, label: '深外高中站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113184.158>
+                                        Button, 0x115039b80, {{2851.0, 233.0}, {101.0, 44.0}}, label: '盐田路站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113216.159>
+                                        Button, 0x115039cc0, {{2909.0, 166.0}, {74.0, 73.0}}, label: '鸿安围站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113248.160>
+                                        Button, 0x115039e00, {{3004.0, 166.0}, {74.0, 73.0}}, label: '盐田墟站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113280.161>
+                                        Button, 0x115039f40, {{3101.0, 167.0}, {74.0, 72.0}}, label: '大梅沙站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113312.162>
+                                        Button, 0x11503a080, {{3195.0, 166.0}, {74.0, 73.0}}, label: '小梅沙站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113344.163>
+                                        Button, 0x11503a1c0, {{3302.0, 168.0}, {52.0, 70.0}}, label: '溪涌站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113376.164>
+                                        Button, 0x11503a300, {{1154.0, 892.0}, {52.0, 62.0}}, label: '福保站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113408.165>
+                                        Button, 0x11503a440, {{1164.0, 829.0}, {78.0, 43.0}}, label: '益田站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113440.166>
+                                        Button, 0x11503a580, {{1164.0, 754.0}, {82.0, 65.0}}, label: '石厦站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113472.167>
+                                        Button, 0x11503a6c0, {{1234.0, 305.0}, {106.0, 72.0}}, label: '少年宫站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113504.168>
+                                        Button, 0x11503a800, {{1375.0, 304.0}, {103.0, 73.0}}, label: '莲花村站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113536.169>
+                                        Button, 0x11503a940, {{1537.0, 338.0}, {80.0, 58.0}}, label: '华新站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113568.170>
+                                        Button, 0x11503aa80, {{1692.0, 338.0}, {98.0, 59.0}}, label: '通新岭站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113600.171>
+                                        Button, 0x11503abc0, {{1804.0, 305.0}, {78.0, 72.0}}, label: '红岭站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113632.172>
+                                        Button, 0x11503ad00, {{1995.0, 284.0}, {78.0, 44.0}}, label: '晒布站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113664.173>
+                                        Button, 0x11503ae40, {{1995.0, 222.0}, {78.0, 44.0}}, label: '翠竹站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113696.174>
+                                        Button, 0x11503af80, {{1995.0, 131.0}, {76.0, 73.0}}, label: '田贝站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113728.175>
+                                        Button, 0x11503b0c0, {{1995.0, 71.0}, {78.0, 43.0}}, label: '水贝站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113760.176>
+                                        Button, 0x11503b200, {{1995.0, -6.0}, {76.0, 46.0}}, label: '草埔站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113792.177>
+                                        Button, 0x11503b340, {{1934.0, -115.0}, {110.0, 53.0}}, label: '布吉站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113824.178>
+                                        Button, 0x11503b480, {{2045.0, -128.0}, {98.0, 50.0}}, label: '木棉湾站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113856.179>
+                                        Button, 0x11503b5c0, {{2083.0, -166.0}, {82.0, 45.0}}, label: '大芬站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113888.180>
+                                        Button, 0x11503b700, {{2121.0, -203.0}, {106.0, 42.0}}, label: '丹竹头站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113920.181>
+                                        Button, 0x11503b840, {{2158.0, -241.0}, {84.0, 41.0}}, label: '六约站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113952.182>
+                                        Button, 0x11503b980, {{2197.0, -279.0}, {85.0, 42.0}}, label: '塘坑站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380113984.183>
+                                        Button, 0x11503bac0, {{2234.0, -317.0}, {86.0, 40.0}}, label: '横岗站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114016.184>
+                                        Button, 0x11503bc00, {{2273.0, -355.0}, {82.0, 42.0}}, label: '永湖站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114048.185>
+                                        Button, 0x11503bd40, {{2270.0, -418.0}, {78.0, 64.0}}, label: '荷坳站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114080.186>
+                                        Button, 0x11503be80, {{2361.0, -452.0}, {52.0, 77.0}}, label: '大运站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114112.187>
+                                        Button, 0x11518c000, {{2374.0, -523.0}, {83.0, 60.0}}, label: '爱联站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114144.188>
+                                        Button, 0x11518c140, {{2420.0, -568.0}, {87.0, 55.0}}, label: '吉祥站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114176.189>
+                                        Button, 0x11518c280, {{2427.0, -617.0}, {129.0, 55.0}}, label: '龙城广场站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114208.190>
+                                        Button, 0x11518c3c0, {{2517.0, -663.0}, {89.0, 51.0}}, label: '南联站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114240.191>
+                                        Button, 0x11518c500, {{2562.0, -707.0}, {94.0, 45.0}}, label: '双龙站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114272.192>
+                                        Button, 0x11518c640, {{2626.0, -776.0}, {78.0, 66.0}}, label: '梨园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114304.193>
+                                        Button, 0x11518c780, {{2714.0, -797.0}, {77.0, 46.0}}, label: '新生站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114336.194>
+                                        Button, 0x11518c8c0, {{2763.0, -845.0}, {81.0, 44.0}}, label: '坪西站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114368.195>
+                                        Button, 0x11518ca00, {{2811.0, -894.0}, {103.0, 44.0}}, label: '低碳城站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114400.196>
+                                        Button, 0x11518cb40, {{2859.0, -942.0}, {104.0, 44.0}}, label: '白石塘站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114432.197>
+                                        Button, 0x11518cc80, {{2907.0, -990.0}, {82.0, 45.0}}, label: '富坪站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114464.198>
+                                        Button, 0x11518cdc0, {{2956.0, -1043.0}, {128.0, 43.0}}, label: '坪地六联站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114496.199>
+                                        Button, 0x11518cf00, {{1338.0, 858.0}, {119.0, 64.0}}, label: '福田口岸站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114528.200>
+                                        Button, 0x11518d040, {{1309.0, 754.0}, {116.0, 58.0}}, label: '福民站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114560.201>
+                                        Button, 0x11518d180, {{1302.0, 213.0}, {105.0, 43.0}}, label: '莲花北站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114592.202>
+                                        Button, 0x11518d2c0, {{1302.0, 96.0}, {101.0, 59.0}}, label: '上梅林站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380101824.203>
+                                        Button, 0x11518d400, {{1258.0, -11.0}, {82.0, 44.0}}, label: '民乐站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114624.204>
+                                        Button, 0x11518d540, {{1264.0, -134.0}, {103.0, 58.0}}, label: '白石龙站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114656.205>
+                                        Button, 0x11518d680, {{1170.0, -208.0}, {159.0, 59.0}}, label: '深圳北站站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114688.206>
+                                        Button, 0x11518d7c0, {{1044.0, -285.0}, {88.0, 43.0}}, label: '红山站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114720.207>
+                                        Button, 0x11518d900, {{982.0, -353.0}, {82.0, 44.0}}, label: '上塘站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114752.208>
+                                        Button, 0x11518da40, {{964.0, -431.0}, {83.0, 44.0}}, label: '龙胜站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114784.209>
+                                        Button, 0x11518db80, {{1076.0, -502.0}, {77.0, 44.0}}, label: '龙华站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114816.210>
+                                        Button, 0x11518dcc0, {{1085.0, -574.0}, {83.0, 57.0}}, label: '清湖站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114848.211>
+                                        Button, 0x11518de00, {{1114.0, -630.0}, {108.0, 59.0}}, label: '清湖北站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114880.212>
+                                        Button, 0x11518df40, {{1192.0, -684.0}, {84.0, 59.0}}, label: '竹村站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380114912.213>
+                                        Button, 0x11518e080, {{1245.0, -738.0}, {85.0, 59.0}}, label: '茜坑站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380020576.214>
+                                        Button, 0x11518e1c0, {{1300.0, -790.0}, {84.0, 57.0}}, label: '长湖站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380026592.215>
+                                        Button, 0x11518e300, {{1353.0, -845.0}, {85.0, 58.0}}, label: '观澜站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380028448.216>
+                                        Button, 0x11518e440, {{1453.0, -905.0}, {74.0, 72.0}}, label: '松元厦站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380028832.217>
+                                        Button, 0x11518e580, {{1536.0, -907.0}, {74.0, 72.0}}, label: '观澜湖站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380032544.218>
+                                        Button, 0x11518e6c0, {{1640.0, -905.0}, {52.0, 70.0}}, label: '牛湖站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380032992.219>
+                                        Button, 0x11518e800, {{0.0, 1061.0}, {86.0, 48.0}}, label: '荔湾站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380029760.220>
+                                        Button, 0x11518e940, {{0.0, 968.0}, {129.0, 45.0}}, label: '铁路公园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380029472.221>
+                                        Button, 0x11518ea80, {{0.0, 889.0}, {83.0, 43.0}}, label: '妈湾站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380029856.222>
+                                        Button, 0x11518ebc0, {{0.0, 789.0}, {129.0, 62.0}}, label: '前湾公园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380027680.223>
+                                        Button, 0x11518ed00, {{56.0, 735.0}, {76.0, 70.0}}, label: '前湾站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380029216.224>
+                                        Button, 0x11518ee40, {{183.0, 584.0}, {78.0, 57.0}}, label: '桂湾站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380029696.225>
+                                        Button, 0x11518ef80, {{133.0, 315.0}, {75.0, 59.0}}, label: '临海站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380029568.226>
+                                        Button, 0x11518f0c0, {{121.0, 258.0}, {77.0, 44.0}}, label: '宝华站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094016.227>
+                                        Button, 0x11518f200, {{238.0, 141.0}, {78.0, 44.0}}, label: '翻身站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380092384.228>
+                                        Button, 0x11518f340, {{290.0, 85.0}, {96.0, 43.0}}, label: '灵芝站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380093952.229>
+                                        Button, 0x11518f480, {{360.0, 19.0}, {102.0, 44.0}}, label: '洪浪北站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094048.230>
+                                        Button, 0x11518f5c0, {{443.0, -72.0}, {52.0, 77.0}}, label: '兴东站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094080.231>
+                                        Button, 0x11518f700, {{540.0, -68.0}, {101.0, 69.0}}, label: '留仙洞站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094112.232>
+                                        Button, 0x11518f840, {{679.0, -70.0}, {75.0, 71.0}}, label: '西丽站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094144.233>
+                                        Button, 0x11518f980, {{798.0, -38.0}, {73.0, 61.0}}, label: '大学城站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094176.234>
+                                        Button, 0x11518fac0, {{962.0, -38.0}, {52.0, 61.0}}, label: '塘朗站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094208.235>
+                                        Button, 0x11518fc00, {{1088.0, -106.0}, {102.0, 47.0}}, label: '长岭陂站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094240.236>
+                                        Button, 0x11518fd40, {{1298.0, -283.0}, {52.0, 71.0}}, label: '民治站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094272.237>
+                                        Button, 0x11518fe80, {{1441.0, -250.0}, {77.0, 56.0}}, label: '五和站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094304.238>
+                                        Button, 0x115120000, {{1556.0, -287.0}, {52.0, 75.0}}, label: '坂田站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094336.239>
+                                        Button, 0x115120140, {{1653.0, -285.0}, {51.0, 73.0}}, label: '杨美站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094368.240>
+                                        Button, 0x115120280, {{1753.0, -287.0}, {74.0, 75.0}}, label: '上水径站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094400.241>
+                                        Button, 0x1151203c0, {{1813.0, -233.0}, {94.0, 59.0}}, label: '下水径站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094432.242>
+                                        Button, 0x115120500, {{1931.0, -196.0}, {80.0, 60.0}}, label: '长龙站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094464.243>
+                                        Button, 0x115120640, {{2071.0, -55.0}, {105.0, 58.0}}, label: '百鸽笼站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094496.244>
+                                        Button, 0x115120780, {{2133.0, 69.0}, {81.0, 44.0}}, label: '布心站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094528.245>
+                                        Button, 0x1151208c0, {{2133.0, 159.0}, {81.0, 45.0}}, label: '太安站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094560.246>
+                                        Button, 0x115120a00, {{2133.0, 305.0}, {81.0, 45.0}}, label: '怡景站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094592.247>
+                                        Button, 0x115120b40, {{1918.0, 403.0}, {52.0, 71.0}}, label: '东门站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094624.248>
+                                        Button, 0x115120c80, {{1692.0, 247.0}, {122.0, 44.0}}, label: '体育中心站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094656.249>
+                                        Button, 0x115120dc0, {{1692.0, 165.0}, {100.0, 61.0}}, label: '八卦岭站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094688.250>
+                                        Button, 0x115120f00, {{1601.0, 96.0}, {130.0, 72.0}}, label: '银湖站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094720.251>
+                                        Button, 0x115121040, {{1497.0, 27.0}, {125.0, 77.0}}, label: '翰岭站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094752.252>
+                                        Button, 0x115121180, {{1348.0, -33.0}, {83.0, 73.0}}, label: '梅林关站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094784.253>
+                                        Button, 0x1151212c0, {{1076.0, -426.0}, {81.0, 58.0}}, label: '上芬站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094816.254>
+                                        Button, 0x115121400, {{915.0, -525.0}, {81.0, 46.0}}, label: '元芬站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094848.255>
+                                        Button, 0x115121540, {{797.0, -596.0}, {128.0, 46.0}}, label: '阳台山东站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094880.256>
+                                        Button, 0x115121680, {{817.0, -683.0}, {80.0, 56.0}}, label: '官田站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094912.257>
+                                        Button, 0x1151217c0, {{755.0, -746.0}, {91.0, 42.0}}, label: '上屋站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094944.258>
+                                        Button, 0x115121900, {{748.0, -934.0}, {78.0, 46.0}}, label: '长圳站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380094976.259>
+                                        Button, 0x115121a40, {{836.0, -1071.0}, {114.0, 44.0}}, label: '凤凰城站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095008.260>
+                                        Button, 0x115121b80, {{840.0, -1184.0}, {134.0, 57.0}}, label: '光明大街站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095040.261>
+                                        Button, 0x115121cc0, {{1003.0, -1270.0}, {101.0, 44.0}}, label: '光明站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095072.262>
+                                        Button, 0x115121e00, {{900.0, -1356.0}, {96.0, 71.0}}, label: '科学公园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095104.263>
+                                        Button, 0x115121f40, {{825.0, -1356.0}, {52.0, 71.0}}, label: '楼村站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095136.264>
+                                        Button, 0x115122080, {{713.0, -1356.0}, {74.0, 71.0}}, label: '红花山站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095168.265>
+                                        Button, 0x1151221c0, {{547.0, -1324.0}, {124.0, 65.0}}, label: '公明广场站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095200.266>
+                                        Button, 0x115122300, {{507.0, -1357.0}, {74.0, 72.0}}, label: '合水口站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095232.267>
+                                        Button, 0x115122440, {{410.0, -1352.0}, {74.0, 67.0}}, label: '薯田埔站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095264.268>
+                                        Button, 0x115122580, {{301.0, -1357.0}, {96.0, 72.0}}, label: '松岗公园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095296.269>
+                                        Button, 0x1151226c0, {{226.0, -1357.0}, {52.0, 72.0}}, label: '溪头站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095328.270>
+                                        Button, 0x115122800, {{107.0, -1357.0}, {84.0, 72.0}}, label: '松岗站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095360.271>
+                                        Button, 0x115122940, {{911.0, -890.0}, {116.0, 41.0}}, label: '光明城站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095392.272>
+                                        Button, 0x115122a80, {{1024.0, -1056.0}, {122.0, 45.0}}, label: '虹桥公园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095424.273>
+                                        Button, 0x115122bc0, {{1023.0, -1161.0}, {79.0, 44.0}}, label: '碧眼站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095456.274>
+                                        Button, 0x115122d00, {{1021.0, -1383.0}, {81.0, 45.0}}, label: '圳美站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095488.275>
+                                        Button, 0x115122e40, {{1073.0, -1464.0}, {80.0, 44.0}}, label: '中大站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095520.276>
+                                        Button, 0x115122f80, {{1142.0, -1538.0}, {104.0, 44.0}}, label: '深理工站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095552.277>
+                                        Button, 0x1151230c0, {{940.0, -183.0}, {96.0, 75.0}}, label: '深大丽湖站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095584.278>
+                                        Button, 0x115123200, {{845.0, -184.0}, {52.0, 76.0}}, label: '北大站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095616.279>
+                                        Button, 0x115123340, {{717.0, -183.0}, {74.0, 75.0}}, label: '西丽湖站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095648.280>
+                                        Button, 0x115123480, {{679.0, 27.0}, {79.0, 45.0}}, label: '茶光站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095712.281>
+                                        Button, 0x1151235c0, {{687.0, 85.0}, {82.0, 58.0}}, label: '珠光站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095744.282>
+                                        Button, 0x115123700, {{727.0, 134.0}, {90.0, 51.0}}, label: '龙井站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095776.283>
+                                        Button, 0x115123840, {{748.0, 197.0}, {100.0, 45.0}}, label: '桃源村站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095808.284>
+                                        Button, 0x115123980, {{748.0, 264.0}, {79.0, 45.0}}, label: '深云站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095840.285>
+                                        Button, 0x115123ac0, {{867.0, 444.0}, {52.0, 72.0}}, label: '农林站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095872.286>
+                                        Button, 0x115123c00, {{1076.0, 720.0}, {51.0, 73.0}}, label: '上沙站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095904.287>
+                                        Button, 0x115123d40, {{1112.0, 754.0}, {52.0, 60.0}}, label: '沙尾站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095936.288>
+                                        Button, 0x115123e80, {{1247.0, 720.0}, {74.0, 73.0}}, label: '皇岗村站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380095968.289>
+                                        Button, 0x11504c000, {{1448.0, 753.0}, {96.0, 61.0}}, label: '皇岗口岸站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096000.290>
+                                        Button, 0x11504c140, {{1527.0, 707.0}, {87.0, 43.0}}, label: '赤尾站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096032.291>
+                                        Button, 0x11504c280, {{1579.0, 650.0}, {100.0, 60.0}}, label: '华强南站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096064.292>
+                                        Button, 0x11504c3c0, {{1591.0, 235.0}, {95.0, 72.0}}, label: '黄木岗站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096096.293>
+                                        Button, 0x11504c500, {{1804.0, 165.0}, {153.0, 74.0}}, label: '红岭北站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096128.294>
+                                        Button, 0x11504c640, {{1884.0, 131.0}, {52.0, 73.0}}, label: '笋岗站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096160.295>
+                                        Button, 0x11504c780, {{1941.0, 131.0}, {52.0, 73.0}}, label: '洪湖站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096192.296>
+                                        Button, 0x11504c8c0, {{131.0, 773.0}, {72.0, 69.0}}, label: '梦海站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096224.297>
+                                        Button, 0x11504ca00, {{129.0, 842.0}, {80.0, 47.0}}, label: '怡海站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096256.298>
+                                        Button, 0x11504cb40, {{166.0, 880.0}, {80.0, 51.0}}, label: '荔林站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096288.299>
+                                        Button, 0x11504cc80, {{195.0, 918.0}, {89.0, 60.0}}, label: '南油西站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096320.300>
+                                        Button, 0x11504cdc0, {{333.0, 934.0}, {78.0, 59.0}}, label: '南油站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096352.301>
+                                        Button, 0x11504cf00, {{400.0, 880.0}, {121.0, 43.0}}, label: '南山书城站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096384.302>
+                                        Button, 0x11504d040, {{400.0, 780.0}, {99.0, 50.0}}, label: '深大南站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096416.303>
+                                        Button, 0x11504d180, {{540.0, 650.0}, {100.0, 70.0}}, label: '粤海门站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096448.304>
+                                        Button, 0x11504d2c0, {{612.0, 723.0}, {99.0, 43.0}}, label: '高新南站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096480.305>
+                                        Button, 0x11504d400, {{710.0, 828.0}, {96.0, 79.0}}, label: '红树湾南站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096512.306>
+                                        Button, 0x11504d540, {{825.0, 792.0}, {52.0, 70.0}}, label: '深湾站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096544.307>
+                                        Button, 0x11504d680, {{891.0, 791.0}, {158.0, 71.0}}, label: '深圳湾公园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096576.308>
+                                        Button, 0x11504d7c0, {{964.0, 672.0}, {99.0, 43.0}}, label: '下沙站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096608.309>
+                                        Button, 0x11504d900, {{982.0, 429.0}, {81.0, 46.0}}, label: '香梅站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096640.310>
+                                        Button, 0x11504da40, {{982.0, 188.0}, {81.0, 46.0}}, label: '梅景站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096672.311>
+                                        Button, 0x11504db80, {{1079.0, 63.0}, {74.0, 72.0}}, label: '下梅林站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096704.312>
+                                        Button, 0x11504dcc0, {{1198.0, 65.0}, {52.0, 70.0}}, label: '梅村站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096736.313>
+                                        Button, 0x11504de00, {{1441.0, 96.0}, {79.0, 60.0}}, label: '孖岭站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096768.314>
+                                        Button, 0x11504df40, {{1731.0, 64.0}, {52.0, 71.0}}, label: '泥岗站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096832.315>
+                                        Button, 0x11504e080, {{1804.0, 244.0}, {157.0, 52.0}}, label: '园岭站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096864.316>
+                                        Button, 0x11504e1c0, {{1731.0, 650.0}, {104.0, 60.0}}, label: '红岭南站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096896.317>
+                                        Button, 0x11504e300, {{1824.0, 746.0}, {74.0, 64.0}}, label: '鹿丹村站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096928.318>
+                                        Button, 0x11504e440, {{1901.0, 750.0}, {74.0, 60.0}}, label: '人民南站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096960.319>
+                                        Button, 0x11504e580, {{2040.0, 717.0}, {74.0, 71.0}}, label: '向西村站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380096992.320>
+                                        Button, 0x11504e6c0, {{2117.0, 717.0}, {52.0, 71.0}}, label: '文锦站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097024.321>
+                                        Button, 0x11504e800, {{1441.0, 212.0}, {99.0, 44.0}}, label: '冬瓜岭站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097056.322>
+                                        Button, 0x11504e940, {{1441.0, -30.0}, {77.0, 44.0}}, label: '雅宝站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097088.323>
+                                        Button, 0x11504ea80, {{1441.0, -106.0}, {77.0, 45.0}}, label: '南坑站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097120.324>
+                                        Button, 0x11504ebc0, {{1441.0, -179.0}, {99.0, 43.0}}, label: '光雅园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097152.325>
+                                        Button, 0x11504ed00, {{1441.0, -313.0}, {101.0, 43.0}}, label: '坂田北站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097184.326>
+                                        Button, 0x11504ee40, {{1441.0, -373.0}, {101.0, 44.0}}, label: '贝尔路站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097216.327>
+                                        Button, 0x11504ef80, {{1441.0, -433.0}, {79.0, 45.0}}, label: '华为站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097248.328>
+                                        Button, 0x11504f0c0, {{1410.0, -497.0}, {81.0, 58.0}}, label: '岗头站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097280.329>
+                                        Button, 0x11504f200, {{1496.0, -528.0}, {51.0, 74.0}}, label: '雪象站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097312.330>
+                                        Button, 0x11504f340, {{1569.0, -493.0}, {51.0, 63.0}}, label: '甘坑站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097344.331>
+                                        Button, 0x11504f480, {{1631.0, -528.0}, {74.0, 74.0}}, label: '凉帽山站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097376.332>
+                                        Button, 0x11504f5c0, {{1705.0, -493.0}, {74.0, 63.0}}, label: '上李朗站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097408.333>
+                                        Button, 0x11504f700, {{1786.0, -509.0}, {77.0, 44.0}}, label: '木古站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097440.334>
+                                        Button, 0x11504f840, {{1735.0, -572.0}, {106.0, 43.0}}, label: '华南城站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097472.335>
+                                        Button, 0x11504f980, {{1758.0, -634.0}, {84.0, 44.0}}, label: '禾花站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097504.336>
+                                        Button, 0x11504fac0, {{1835.0, -700.0}, {55.0, 73.0}}, label: '平湖站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097536.337>
+                                        Button, 0x11504fc00, {{1894.0, -666.0}, {75.0, 64.0}}, label: '双拥街站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097568.338>
+                                        Button, 0x11504fd40, {{1511.0, 546.0}, {78.0, 43.0}}, label: '福星站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097600.339>
+                                        Button, 0x11504fe80, {{286.0, 786.0}, {84.0, 41.0}}, label: '南山站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097632.340>
+                                        Button, 0x11505c000, {{0.0, 60.0}, {80.0, 43.0}}, label: '宝安站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097664.341>
+                                        Button, 0x11505c140, {{0.0, -163.0}, {107.0, 43.0}}, label: '碧海湾站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097696.342>
+                                        Button, 0x11505c280, {{0.0, -347.0}, {131.0, 45.0}}, label: '机场站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097728.343>
+                                        Button, 0x11505c3c0, {{0.0, -498.0}, {109.0, 51.0}}, label: '机场北站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097760.344>
+                                        Button, 0x11505c500, {{78.0, -714.0}, {52.0, 90.0}}, label: '福永站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097792.345>
+                                        Button, 0x11505c640, {{151.0, -760.0}, {81.0, 44.0}}, label: '桥头站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097824.346>
+                                        Button, 0x11505c780, {{153.0, -874.0}, {79.0, 46.0}}, label: '塘尾站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097856.347>
+                                        Button, 0x11505c8c0, {{153.0, -985.0}, {101.0, 45.0}}, label: '马安山站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097888.348>
+                                        Button, 0x11505ca00, {{153.0, -1098.0}, {79.0, 46.0}}, label: '沙井站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097920.349>
+                                        Button, 0x11505cb40, {{153.0, -1210.0}, {81.0, 46.0}}, label: '后亭站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097952.350>
+                                        Button, 0x11505cc80, {{144.0, -1486.0}, {52.0, 72.0}}, label: '碧头站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380097984.351>
+                                        Button, 0x11505cdc0, {{62.0, 1280.0}, {128.0, 45.0}}, label: '左炮台东站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098016.352>
+                                        Button, 0x11505cf00, {{216.0, 1222.0}, {89.0, 56.0}}, label: '太子湾站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098048.353>
+                                        Button, 0x11505d040, {{264.0, 1057.0}, {106.0, 46.0}}, label: '花果山站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098080.354>
+                                        Button, 0x11505d180, {{288.0, 999.0}, {82.0, 44.0}}, label: '四海站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098112.355>
+                                        Button, 0x11505d2c0, {{288.0, 858.0}, {82.0, 44.0}}, label: '南光站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098144.356>
+                                        Button, 0x11505d400, {{333.0, 495.0}, {124.0, 46.0}}, label: '南头古城站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098176.357>
+                                        Button, 0x11505d540, {{333.0, 382.0}, {124.0, 46.0}}, label: '中山公园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098208.358>
+                                        Button, 0x11505d680, {{333.0, 268.0}, {102.0, 46.0}}, label: '同乐南站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098240.359>
+                                        Button, 0x11505d7c0, {{333.0, 162.0}, {124.0, 44.0}}, label: '新安公园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098272.360>
+                                        Button, 0x11505d900, {{224.0, 22.0}, {77.0, 45.0}}, label: '上川站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098304.361>
+                                        Button, 0x11505da40, {{263.0, -35.0}, {79.0, 45.0}}, label: '流塘站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098336.362>
+                                        Button, 0x11505db80, {{263.0, -101.0}, {145.0, 45.0}}, label: '宝安客运站站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098368.363>
+                                        Button, 0x11505dcc0, {{263.0, -163.0}, {123.0, 45.0}}, label: '宝田一路站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098400.364>
+                                        Button, 0x11505de00, {{263.0, -225.0}, {101.0, 45.0}}, label: '平峦山站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098432.365>
+                                        Button, 0x11505df40, {{263.0, -287.0}, {117.0, 45.0}}, label: '西乡桃源站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098464.366>
+                                        Button, 0x11505e080, {{238.0, -349.0}, {106.0, 50.0}}, label: '钟屋南站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098496.367>
+                                        Button, 0x11505e1c0, {{196.0, -397.0}, {82.0, 55.0}}, label: '黄田站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380098528.368>
+                                        Button, 0x11505e300, {{160.0, -438.0}, {80.0, 58.0}}, label: '兴围站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380093984.369>
+                                        Button, 0x11505e440, {{153.0, -562.0}, {81.0, 43.0}}, label: '福围站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380076992.370>
+                                        Button, 0x11505e580, {{127.0, -641.0}, {80.0, 57.0}}, label: '怀德站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380074688.371>
+                                        Button, 0x11505e6c0, {{0.0, -712.0}, {102.0, 52.0}}, label: '桥头西站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380080416.372>
+                                        Button, 0x11505e800, {{0.0, -779.0}, {103.0, 57.0}}, label: '福海西站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380078816.373>
+                                        Button, 0x11505e940, {{0.0, -833.0}, {102.0, 45.0}}, label: '国展站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380076224.374>
+                                        Button, 0x11505ea80, {{0.0, -927.0}, {122.0, 44.0}}, label: '国展北站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380082016.375>
+                                        Button, 0x11505ebc0, {{0.0, -1020.0}, {150.0, 44.0}}, label: '海上田园南站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380081760.376>
+                                        Button, 0x11505ed00, {{0.0, -1089.0}, {148.0, 43.0}}, label: '海上田园东站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380075744.377>
+                                        Button, 0x11505ee40, {{0.0, -1160.0}, {82.0, 45.0}}, label: '蚝乡站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380078336.378>
+                                        Button, 0x11505ef80, {{0.0, -1237.0}, {81.0, 59.0}}, label: '沙蚝站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380074528.379>
+                                        Button, 0x11505f0c0, {{0.0, -1256.0}, {118.0, 53.0}}, label: '沙井古墟站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380006400.380>
+                                        Button, 0x11505f200, {{0.0, -1314.0}, {80.0, 59.0}}, label: '步涌站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380006464.381>
+                                        Button, 0x11505f340, {{71.0, -1323.0}, {52.0, 62.0}}, label: '朗下站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380006240.382>
+                                        Button, 0x11505f480, {{604.0, 979.0}, {145.0, 44.0}}, label: '深圳湾口岸站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380005472.383>
+                                        Button, 0x11505f5c0, {{553.0, 909.0}, {121.0, 57.0}}, label: '人才公园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380005376.384>
+                                        Button, 0x11505f700, {{540.0, 480.0}, {100.0, 43.0}}, label: '高新中站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380005216.385>
+                                        Button, 0x11505f840, {{540.0, 348.0}, {100.0, 45.0}}, label: '高新北站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380005120.386>
+                                        Button, 0x11505f980, {{540.0, 85.0}, {79.0, 46.0}}, label: '石鼓站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380004960.387>
+                                        Button, 0x11505fac0, {{540.0, -251.0}, {81.0, 44.0}}, label: '百旺站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380004704.388>
+                                        Button, 0x11505fc00, {{540.0, -453.0}, {103.0, 44.0}}, label: '应人石站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380004608.389>
+                                        Button, 0x11505fd40, {{588.0, -576.0}, {81.0, 44.0}}, label: '罗租站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380003264.390>
+                                        Button, 0x11505fe80, {{671.0, -659.0}, {80.0, 44.0}}, label: '石岩站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380003904.391>
+                                        Button, 0x115174000, {{831.0, -819.0}, {108.0, 60.0}}, label: '红坳公园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380001120.392>
+                                        Button, 0x115174140, {{829.0, -1010.0}, {99.0, 48.0}}, label: '德雅路站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380003424.393>
+                                        Button, 0x115174280, {{712.0, -1122.0}, {105.0, 43.0}}, label: '月亮路站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380004320.394>
+                                        Button, 0x1151743c0, {{675.0, -1179.0}, {85.0, 44.0}}, label: '将围站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380004832.395>
+                                        Button, 0x115174500, {{620.0, -1236.0}, {83.0, 44.0}}, label: '新庄站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380004864.396>
+                                        Button, 0x115174640, {{633.0, -1403.0}, {79.0, 44.0}}, label: '上村站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380057888.397>
+                                        Button, 0x115174780, {{633.0, -1471.0}, {79.0, 45.0}}, label: '下村站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380053664.398>
+                                        Button, 0x1151748c0, {{633.0, -1538.0}, {100.0, 44.0}}, label: '李松蓢站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380059488.399>
+                                        Button, 0x115174a00, {{1828.0, -30.0}, {105.0, 59.0}}, label: '罗湖北站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380054880.400>
+                                        Button, 0x115174b40, {{1978.0, -253.0}, {107.0, 60.0}}, label: '石芽岭站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380053856.401>
+                                        Button, 0x115174c80, {{2036.0, -309.0}, {107.0, 59.0}}, label: '六约北站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380054752.402>
+                                        Button, 0x115174dc0, {{2115.0, -364.0}, {83.0, 58.0}}, label: '四联站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380049760.403>
+                                        Button, 0x115174f00, {{2170.0, -420.0}, {84.0, 58.0}}, label: '坳背站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380049920.404>
+                                        Button, 0x115175040, {{2478.0, -452.0}, {52.0, 62.0}}, label: '嶂背站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380050240.405>
+                                        Button, 0x115175180, {{2575.0, -452.0}, {52.0, 62.0}}, label: '南约站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380050400.406>
+                                        Button, 0x1151752c0, {{2670.0, -452.0}, {52.0, 62.0}}, label: '宝龙站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380050496.407>
+                                        Button, 0x115175400, {{2767.0, -452.0}, {52.0, 62.0}}, label: '锦龙站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380050656.408>
+                                        Button, 0x115175540, {{2781.0, -501.0}, {117.0, 47.0}}, label: '坪山围站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380050752.409>
+                                        Button, 0x115175680, {{2938.0, -571.0}, {122.0, 45.0}}, label: '坪山广场站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380050912.410>
+                                        Button, 0x1151757c0, {{3043.0, -675.0}, {134.0, 39.0}}, label: '坪山中心站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380051008.411>
+                                        Button, 0x115175900, {{3109.0, -742.0}, {85.0, 42.0}}, label: '坑梓站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380051168.412>
+                                        Button, 0x115175a40, {{3172.0, -821.0}, {83.0, 55.0}}, label: '沙田站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380051264.413>
+                                        Button, 0x115175b80, {{2597.0, 32.0}, {125.0, 47.0}}, label: '园山西坑站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380065248.414>
+                                        Button, 0x115175cc0, {{2552.0, -24.0}, {79.0, 58.0}}, label: '安良站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380050016.415>
+                                        Button, 0x115175e00, {{2507.0, -68.0}, {78.0, 57.0}}, label: '福坑站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131328.416>
+                                        Button, 0x115175f40, {{2479.0, -112.0}, {79.0, 45.0}}, label: '大康站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131360.417>
+                                        Button, 0x115176080, {{2479.0, -176.0}, {79.0, 44.0}}, label: '园山站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131392.418>
+                                        Button, 0x1151761c0, {{2479.0, -242.0}, {79.0, 45.0}}, label: '大安站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131424.419>
+                                        Button, 0x115176300, {{2479.0, -306.0}, {77.0, 44.0}}, label: '吉溪站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131456.420>
+                                        Button, 0x115176440, {{2458.0, -377.0}, {83.0, 52.0}}, label: '金源站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131488.421>
+                                        Button, 0x115176580, {{2221.0, -509.0}, {129.0, 41.0}}, label: '大运中心站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131520.422>
+                                        Button, 0x1151766c0, {{2164.0, -567.0}, {131.0, 39.0}}, label: '龙城公园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131552.423>
+                                        Button, 0x115176800, {{2170.0, -654.0}, {105.0, 43.0}}, label: '黄阁坑站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131584.424>
+                                        Button, 0x115176940, {{2208.0, -740.0}, {80.0, 57.0}}, label: '愉园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131616.425>
+                                        Button, 0x115176a80, {{2285.0, -768.0}, {74.0, 72.0}}, label: '回龙埔站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131648.426>
+                                        Button, 0x115176bc0, {{2371.0, -769.0}, {51.0, 73.0}}, label: '尚景站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131680.427>
+                                        Button, 0x115176d00, {{2447.0, -767.0}, {52.0, 71.0}}, label: '盛平站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131712.428>
+                                        Button, 0x115176e40, {{2524.0, -767.0}, {52.0, 71.0}}, label: '龙园站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131744.429>
+                                        Button, 0x115176f80, {{2617.0, -667.0}, {88.0, 58.0}}, label: '新塘围站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131776.430>
+                                        Button, 0x1151770c0, {{2708.0, -666.0}, {52.0, 57.0}}, label: '龙东站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131808.431>
+                                        Button, 0x115177200, {{2739.0, -700.0}, {96.0, 73.0}}, label: '宝龙同乐站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131840.432>
+                                        Button, 0x115177340, {{2789.0, -650.0}, {81.0, 50.0}}, label: '坪山站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131872.433>
+                                        Button, 0x115177480, {{2843.0, -596.0}, {78.0, 43.0}}, label: '新和站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131904.434>
+                                        Button, 0x1151775c0, {{2843.0, -552.0}, {76.0, 45.0}}, label: '六和站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131936.435>
+                                        Button, 0x115177700, {{2904.0, -490.0}, {61.0, 73.0}}, label: '坪环站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380131968.436>
+                                        Button, 0x115177840, {{2924.0, -452.0}, {118.0, 62.0}}, label: '东纵纪念馆站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380132000.437>
+                                        Button, 0x115177980, {{3050.0, -484.0}, {52.0, 71.0}}, label: '沙壆站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380132032.438>
+                                        Button, 0x115177ac0, {{3099.0, -452.0}, {74.0, 61.0}}, label: '燕子湖站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380132064.439>
+                                        Button, 0x115177c00, {{3176.0, -485.0}, {51.0, 72.0}}, label: '石井站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380132096.440>
+                                        Button, 0x115177d40, {{3215.0, -452.0}, {96.0, 62.0}}, label: '技术大学站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380132128.441>
+                                        Button, 0x115177e80, {{3300.0, -485.0}, {52.0, 72.0}}, label: '田心站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380132160.442>
+                                        Button, 0x1152d0000, {{0.0, -710.0}, {104.0, 48.0}}, label: '国展南站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380132192.443>
+                                        Button, 0x1152d0140, {{0.0, -1027.0}, {105.0, 52.0}}, label: '会展城站', Focused <AX element pid: 50597, elementOrHash.elementID: 4380132224.444>
+                            Other, 0x1152d0280, {{369.0, 280.3}, {30.0, 407.3}}, label: 'Vertical scroll bar, 1 pages', value: 0% <AX element pid: 50592, elementOrHash.elementID: 5543102976.65>
+                              Other, 0x1152d03c0, {{396.0, 677.7}, {3.0, 7.0}} <AX element pid: 50592, elementOrHash.elementID: 4369903424.82>
+                            Other, 0x1152d0500, {{0.0, 654.7}, {402.0, 30.0}}, label: 'Horizontal scroll bar, 1 pages', value: 0% <AX element pid: 50592, elementOrHash.elementID: 5543102464.66>
+                              Other, 0x1152d0640, {{392.0, 681.7}, {7.0, 3.0}} <AX element pid: 50592, elementOrHash.elementID: 4369897600.83>
+                            Other, 0x1152d0780, {{369.0, 280.3}, {30.0, 407.3}}, label: 'Vertical scroll bar, 1 pages', value: 0% <AX element pid: 50592, elementOrHash.elementID: 5543102976.65>
+                              Other, 0x1152d08c0, {{396.0, 677.7}, {3.0, 7.0}} <AX element pid: 50592, elementOrHash.elementID: 4369903424.82>
+                            Other, 0x1152d0a00, {{0.0, 654.7}, {402.0, 30.0}}, label: 'Horizontal scroll bar, 1 pages', value: 0% <AX element pid: 50592, elementOrHash.elementID: 5543102464.66>
+                              Other, 0x1152d0b40, {{392.0, 681.7}, {7.0, 3.0}} <AX element pid: 50592, elementOrHash.elementID: 4369897600.83>
+                        Button, 0x1152d0c80, {{243.3, 625.7}, {46.0, 46.0}}, identifier: 'plus', label: '放大地图' <AX element pid: 50592, elementOrHash.elementID: 4425248128.37>
+                        Button, 0x1152d0dc0, {{291.7, 625.7}, {46.0, 46.0}}, identifier: 'minus', label: '缩小地图' <AX element pid: 50592, elementOrHash.elementID: 4425248576.38>
+                        Button, 0x1152d0f00, {{340.0, 625.7}, {46.0, 46.0}}, identifier: 'arrow.up.left.and.arrow.down.right', label: '恢复全图' <AX element pid: 50592, elementOrHash.elementID: 4425249024.39>
+                        ScrollView, 0x1152d1040, {{20.0, 700.7}, {362.0, 14.3}} <AX element pid: 50592, elementOrHash.elementID: 5641014272.277>
+                          Other, 0x1152d1180, {{20.0, 700.7}, {828.7, 14.3}} <AX element pid: 50592, elementOrHash.elementID: 5572941312.280>
+                            StaticText, 0x1152d12c0, {{39.0, 700.7}, {36.0, 14.3}}, label: '宝安区' <AX element pid: 50592, elementOrHash.elementID: 4425708672.282>
+                            StaticText, 0x1152d1400, {{106.0, 700.7}, {36.0, 14.3}}, label: '光明区' <AX element pid: 50592, elementOrHash.elementID: 4425708224.283>
+                            StaticText, 0x1152d1540, {{173.0, 700.7}, {36.0, 14.3}}, label: '龙华区' <AX element pid: 50592, elementOrHash.elementID: 4425707776.284>
+                            StaticText, 0x1152d1680, {{240.0, 700.7}, {36.0, 14.3}}, label: '南山区' <AX element pid: 50592, elementOrHash.elementID: 4425707328.285>
+                            StaticText, 0x1152d17c0, {{307.0, 700.7}, {36.0, 14.3}}, label: '福田区' <AX element pid: 50592, elementOrHash.elementID: 4425706880.286>
+                            StaticText, 0x1152d1900, {{374.0, 700.7}, {36.0, 14.3}}, label: '罗湖区' <AX element pid: 50592, elementOrHash.elementID: 4425706432.287>
+                            StaticText, 0x1152d1a40, {{441.0, 700.7}, {36.0, 14.3}}, label: '龙岗区' <AX element pid: 50592, elementOrHash.elementID: 4425705984.288>
+                            StaticText, 0x1152d1b80, {{508.0, 700.7}, {36.0, 14.3}}, label: '坪山区' <AX element pid: 50592, elementOrHash.elementID: 4425705536.289>
+                            StaticText, 0x1152d1cc0, {{575.0, 700.7}, {36.0, 14.3}}, label: '盐田区' <AX element pid: 50592, elementOrHash.elementID: 4425705088.290>
+                            StaticText, 0x1152d1e00, {{642.0, 700.7}, {48.0, 14.3}}, label: '大鹏新区' <AX element pid: 50592, elementOrHash.elementID: 4425704640.291>
+                            StaticText, 0x1152d1f40, {{703.0, 700.7}, {57.0, 14.3}}, label: '换乘站' <AX element pid: 50592, elementOrHash.elementID: 4425703744.292>
+                            StaticText, 0x1152d2080, {{772.0, 700.7}, {76.7, 14.3}}, label: '2 / 8 号线贯通' <AX element pid: 50592, elementOrHash.elementID: 4425703296.293>
+                        StaticText, 0x1152d21c0, {{20.0, 724.0}, {230.3, 12.0}}, label: '双指缩放 · 点击线路或站点 · 线路位置与距离为示意' <AX element pid: 50592, elementOrHash.elementID: 4425256448.41>
+                        StaticText, 0x1152d2300, {{20.0, 745.0}, {223.0, 12.0}}, label: '线网截止：2026-06-28  ·  0.3.0-context' <AX element pid: 50592, elementOrHash.elementID: 4425256896.42>
+                        StaticText, 0x1152d2440, {{20.0, 766.0}, {131.7, 12.0}}, label: '周边资料复核：2026-09-28' <AX element pid: 50592, elementOrHash.elementID: 4425257344.43>
+              Other, 0x1152d2580, {{0.0, 791.0}, {402.0, 83.0}} <AX element pid: 50592, elementOrHash.elementID: 4425865792.11>
+                Other, 0x1152d26c0, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 50592, elementOrHash.elementID: 4425873856.13>
+                  TabBar, 0x1152d2800, {{0.0, 791.0}, {402.0, 83.0}}, label: 'Tab Bar' <AX element pid: 50592, elementOrHash.elementID: 4428891392.16>
+                    Other, 0x1152d2940, {{64.0, 791.0}, {274.0, 62.0}} <AX element pid: 50592, elementOrHash.elementID: 4425866688.19>
+                      Other, 0x1152d2a80, {{64.0, 791.0}, {94.0, 54.0}} <AX element pid: 50592, elementOrHash.elementID: 4370063680.22>
+                      Other, 0x1152d2bc0, {{64.0, 791.0}, {274.0, 62.0}} <AX element pid: 50592, elementOrHash.elementID: 4425867136.23>
+                        Button, 0x1152d2d00, {{68.0, 795.0}, {94.0, 54.0}}, identifier: 'map', label: '线网图', Selected <AX element pid: 50592, elementOrHash.elementID: 4368421888.44>
+                          Image, 0x1152d2e40, {{100.0, 801.7}, {29.7, 26.3}}, identifier: 'map.fill', label: 'show map' <AX element pid: 50592, elementOrHash.elementID: 4425882624.55>
+                        Button, 0x1152d2f80, {{154.0, 795.0}, {94.0, 54.0}}, identifier: 'arrow.triangle.turn.up.right.diamond', label: '路线' <AX element pid: 50592, elementOrHash.elementID: 4368424448.45>
+                          Image, 0x1152d30c0, {{186.0, 799.7}, {30.7, 30.7}}, identifier: 'arrow.trianglehead.turn.up.right.diamond.fill', label: 'arrow.trianglehead.turn.up.right.diamond.fill' <AX element pid: 50592, elementOrHash.elementID: 4425884160.56>
+                        Button, 0x1152d3200, {{240.0, 795.0}, {94.0, 54.0}}, identifier: 'info.circle', label: '资料' <AX element pid: 50592, elementOrHash.elementID: 4368427008.46>
+                          Image, 0x1152d3340, {{273.0, 801.3}, {27.3, 27.3}}, identifier: 'info.circle.fill', label: 'info' <AX element pid: 50592, elementOrHash.elementID: 4425885184.57>
+                      Other, 0x1152d3480, {{68.0, 795.0}, {94.0, 54.0}} <AX element pid: 50592, elementOrHash.elementID: 4428892032.24>
+                        Other, 0x1152d35c0, {{68.0, 795.0}, {94.0, 54.0}} <AX element pid: 50592, elementOrHash.elementID: 4425869824.47>
+                          Other, 0x1152d3700, {{68.0, 795.0}, {94.0, 54.0}} <AX element pid: 50592, elementOrHash.elementID: 4425868032.58>
+                          Other, 0x1152d3840, {{68.0, 795.0}, {94.0, 54.0}} <AX element pid: 50592, elementOrHash.elementID: 4425870272.59>
+                            Other, 0x1152d3980, {{68.0, 795.0}, {94.0, 54.0}} <AX element pid: 50592, elementOrHash.elementID: 4425871616.79>
+                              Other, 0x1152d3ac0, {{68.0, 795.0}, {94.0, 54.0}} <AX element pid: 50592, elementOrHash.elementID: 4425872064.84>
+                                Other, 0x1152d3c00, {{68.0, 795.0}, {94.0, 54.0}} <AX element pid: 50592, elementOrHash.elementID: 4425872512.86>
+                              Other, 0x1152d3d40, {{68.0, 795.0}, {94.0, 54.0}} <AX element pid: 50592, elementOrHash.elementID: 4425870720.85>
+                            Other, 0x1152d3e80, {{68.0, 795.0}, {94.0, 54.0}} <AX element pid: 50592, elementOrHash.elementID: 4425871168.80>
+                Other, 0x1152dc000, {{0.0, 791.0}, {402.0, 83.0}} <AX element pid: 50592, elementOrHash.elementID: 4425880064.14>
+                  Other, 0x1152dc140, {{0.0, 791.0}, {402.0, 83.0}} <AX element pid: 50592, elementOrHash.elementID: 4370109696.17>
+                    Other, 0x1152dc280, {{0.0, 791.0}, {402.0, 83.0}} <AX element pid: 50592, elementOrHash.elementID: 4370064576.20>
+                      Other, 0x1152dc3c0, {{0.0, 791.0}, {402.0, 83.0}} <AX element pid: 50592, elementOrHash.elementID: 4370065472.25>
+                        Other, 0x1152dc500, {{0.0, 791.0}, {402.0, 83.0}} <AX element pid: 50592, elementOrHash.elementID: 4425887232.48>
+                          Other, 0x1152dc640, {{0.0, 791.0}, {402.0, 83.0}} <AX element pid: 50592, elementOrHash.elementID: 4370067712.60>
+                      Other, 0x1152dc780, {{0.0, 791.0}, {402.0, 83.0}} <AX element pid: 50592, elementOrHash.elementID: 4425887744.26>
+                        Other, 0x1152dc8c0, {{0.0, 791.0}, {402.0, 83.0}} <AX element pid: 50592, elementOrHash.elementID: 4370069056.49>
+  Window, 0x1152dca00, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 50592, elementOrHash.elementID: 5637373952.176>
+    Other, 0x1152dcb40, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 50592, elementOrHash.elementID: 4425387968.178>
+      Other, 0x1152dcc80, {{0.0, 0.0}, {402.0, 874.0}} <AX element pid: 50592, elementOrHash.elementID: 4425386176.180>

@@ -1,0 +1,16 @@
+{
+  "code": "0811",
+  "stationID": "s_d32cea4e31dd",
+  "stationName": "小梅沙",
+  "lineID": "l8",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0811"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0811",
+  "retrievedAt": "2026-09-28T16:12:30+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "af1719975ed39d78ea62426189e431adfb0ea5b4a83a3fad69009a62ef75b4eb"
+}

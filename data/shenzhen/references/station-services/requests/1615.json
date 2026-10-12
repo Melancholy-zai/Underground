@@ -1,0 +1,16 @@
+{
+  "code": "1615",
+  "stationID": "s_08df05c78c6a",
+  "stationName": "尚景",
+  "lineID": "l16",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1615"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1615",
+  "retrievedAt": "2026-09-28T16:16:05+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "127cd50a58b21569a1a889bb1d251cb7647354feb13fcab51eff14215462dd5c"
+}

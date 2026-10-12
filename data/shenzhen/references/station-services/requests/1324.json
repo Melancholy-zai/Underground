@@ -1,0 +1,16 @@
+{
+  "code": "1324",
+  "stationID": "s_c9b05e9ed106",
+  "stationName": "上村",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1324"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1324",
+  "retrievedAt": "2026-09-28T16:15:24+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "bae898bf3dc780c03dd94064dc8a5b5d957cb881e860218182ef8b5d5d8c9229"
+}

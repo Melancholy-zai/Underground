@@ -1,0 +1,16 @@
+{
+  "code": "1312",
+  "stationID": "s_78dba9fa8f8e",
+  "stationName": "应人石",
+  "lineID": "l13",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "1312"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?1312",
+  "retrievedAt": "2026-09-28T16:15:09+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "1d2720edc5b0d7da4f54819adb44b83ce9be4bf2aa0c4f7f6f1d92caaccc915e"
+}

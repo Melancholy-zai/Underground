@@ -1,0 +1,16 @@
+{
+  "code": "0616",
+  "stationID": "s_25513d3fcc55",
+  "stationName": "凤凰城",
+  "lineID": "l6",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0616"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0616",
+  "retrievedAt": "2026-09-28T16:11:20+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "51b0c817b7bb6834894af2b04ed1c58204a67aa71bb88de182ec58f21640ed8f"
+}

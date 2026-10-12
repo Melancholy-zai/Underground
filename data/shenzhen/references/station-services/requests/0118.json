@@ -1,0 +1,16 @@
+{
+  "code": "0118",
+  "stationID": "shenda",
+  "stationName": "深大",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0118"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0118",
+  "retrievedAt": "2026-09-28T16:08:03+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "c80cdb4e9127919234f8e8aa6690fcddfd25b1d691a3d8e663faa4043843f149"
+}

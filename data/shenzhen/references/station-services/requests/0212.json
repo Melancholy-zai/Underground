@@ -1,0 +1,16 @@
+{
+  "code": "0212",
+  "stationID": "s_0c2ba844e8c2",
+  "stationName": "世界之窗",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0212"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0212",
+  "retrievedAt": "2026-09-28T16:08:32+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "e1d65db056b4cff76107c8b91e8367ab36e2e4a2388c65a50d445d87021d3ef0"
+}

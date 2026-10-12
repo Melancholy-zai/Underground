@@ -1,0 +1,16 @@
+{
+  "code": "0224",
+  "stationID": "s_99ca86bc1d7c",
+  "stationName": "华强北",
+  "lineID": "l2",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0224"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0224",
+  "retrievedAt": "2026-09-28T16:08:47+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "0e52e92f0bd3f665f1e7f8d3d88cb79a08b665b64f8cd80a0fb56599099c03fd"
+}

@@ -1,0 +1,16 @@
+{
+  "code": "0112",
+  "stationID": "s_4c3d38420dfb",
+  "stationName": "竹子林",
+  "lineID": "l1",
+  "url": "https://www.szmc.net/zdxx",
+  "method": "POST",
+  "form": {
+    "StieCode": "0112"
+  },
+  "pageURL": "https://www.szmc.net/shentieyunying/yunyingfuwu/zhandianchaxun/?0112",
+  "retrievedAt": "2026-09-28T16:07:55+08:00",
+  "status": "fetched",
+  "httpStatus": "200",
+  "sha256": "49b9f87b7ef8e9371e00f687efd0331ff24d27aad46b89adad8c0576e803abfa"
+}
